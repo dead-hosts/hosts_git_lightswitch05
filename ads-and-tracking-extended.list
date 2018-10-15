@@ -57,6 +57,9 @@ kellyholmes.leadpages.co
 leivonta.leadpages.co
 soap17.leadpages.co
 a.mailmunch.co
+pcrl.co
+assets.pcrl.co
+www.assets.pcrl.co
 sele.co
 api.sele.co
 api-ntv.sele.co
@@ -2821,6 +2824,8 @@ artifactory-xt-p05.exacttarget.com
 sfmc-docker-prod-local.artifactory-xt-p05.exacttarget.com
 artifactory-xt-p06.exacttarget.com
 sfmc-docker-prod-local.artifactory-xt-p06.exacttarget.com
+artifactory-xt-s50.exacttarget.com
+sfmc-docker-prod-local.artifactory-xt-s50.exacttarget.com
 auth.exacttarget.com
 auth-san.exacttarget.com
 autodiscover.exacttarget.com
@@ -2828,7 +2833,6 @@ boa.exacttarget.com
 api.boa.exacttarget.com
 app.boa.exacttarget.com
 auth.boa.exacttarget.com
-click.boa.exacttarget.com
 image.boa.exacttarget.com
 imh.boa.exacttarget.com
 mc.boa.exacttarget.com
@@ -2846,7 +2850,6 @@ careers.exacttarget.com
 centro.exacttarget.com
 centro-indy.exacttarget.com
 centro-vegas.exacttarget.com
-click.exacttarget.com
 code.exacttarget.com
 content.exacttarget.com
 cust.exacttarget.com
@@ -2908,6 +2911,7 @@ login-qa1.exacttarget.com
 mc.login-qa1.exacttarget.com
 login-qa2.exacttarget.com
 mc.login-qa2.exacttarget.com
+s2.login-qa2.exacttarget.com
 login-qa3.exacttarget.com
 mc.login-qa3.exacttarget.com
 login-test.exacttarget.com
@@ -2935,7 +2939,6 @@ pages.exacttarget.com
 poc.exacttarget.com
 api.poc.exacttarget.com
 auth.poc.exacttarget.com
-click.poc.exacttarget.com
 imh.poc.exacttarget.com
 login.poc.exacttarget.com
 mc.poc.exacttarget.com
@@ -2960,7 +2963,6 @@ auth.qa1.exacttarget.com
 prem.qa1.exacttarget.com
 s1.qa1.exacttarget.com
 auth.s1.qa1.exacttarget.com
-click.s1.qa1.exacttarget.com
 image.s1.qa1.exacttarget.com
 imh.s1.qa1.exacttarget.com
 mc.s1.qa1.exacttarget.com
@@ -2970,7 +2972,6 @@ image.pd1.s1.qa1.exacttarget.com
 scpweb.s1.qa1.exacttarget.com
 s2.qa1.exacttarget.com
 auth.s2.qa1.exacttarget.com
-click.s2.qa1.exacttarget.com
 image.s2.qa1.exacttarget.com
 imh.s2.qa1.exacttarget.com
 mc.s2.qa1.exacttarget.com
@@ -2983,7 +2984,6 @@ api.s1.qa2.exacttarget.com
 app.s1.qa2.exacttarget.com
 auth.s1.qa2.exacttarget.com
 cl.s1.qa2.exacttarget.com
-click.s1.qa2.exacttarget.com
 etappx.s1.qa2.exacttarget.com
 image.s1.qa2.exacttarget.com
 imh.s1.qa2.exacttarget.com
@@ -2996,7 +2996,6 @@ s2.qa2.exacttarget.com
 api.s2.qa2.exacttarget.com
 app.s2.qa2.exacttarget.com
 auth.s2.qa2.exacttarget.com
-click.s2.qa2.exacttarget.com
 image.s2.qa2.exacttarget.com
 imh.s2.qa2.exacttarget.com
 login.s2.qa2.exacttarget.com
@@ -3011,7 +3010,6 @@ auth.qa3.exacttarget.com
 prem.qa3.exacttarget.com
 s1.qa3.exacttarget.com
 auth.s1.qa3.exacttarget.com
-click.s1.qa3.exacttarget.com
 image.s1.qa3.exacttarget.com
 imh.s1.qa3.exacttarget.com
 mc.s1.qa3.exacttarget.com
@@ -3019,7 +3017,6 @@ members.s1.qa3.exacttarget.com
 pages.s1.qa3.exacttarget.com
 s2.qa3.exacttarget.com
 auth.s2.qa3.exacttarget.com
-click.s2.qa3.exacttarget.com
 image.s2.qa3.exacttarget.com
 imh.s2.qa3.exacttarget.com
 mc.s2.qa3.exacttarget.com
@@ -3046,7 +3043,6 @@ members.s10.exacttarget.com
 scpweb.s10.exacttarget.com
 s100.exacttarget.com
 auth.s100.exacttarget.com
-click.s100.exacttarget.com
 imh.s100.exacttarget.com
 mc.s100.exacttarget.com
 members.s100.exacttarget.com
@@ -3058,7 +3054,6 @@ s4.exacttarget.com
 api.s4.exacttarget.com
 app.s4.exacttarget.com
 auth.s4.exacttarget.com
-click.s4.exacttarget.com
 etappx.s4.exacttarget.com
 gadget.s4.exacttarget.com
 image.s4.exacttarget.com
@@ -3069,7 +3064,6 @@ members.s4.exacttarget.com
 pages.s4.exacttarget.com
 scpweb.s4.exacttarget.com
 virt.s4.exacttarget.com
-click.virt.s4.exacttarget.com
 webservice.s4.exacttarget.com
 ws.s4.exacttarget.com
 s5.exacttarget.com
@@ -3079,14 +3073,15 @@ login.s5.exacttarget.com
 mc.s5.exacttarget.com
 members.s5.exacttarget.com
 scpweb.s5.exacttarget.com
-click.virt.s5.exacttarget.com
 s50.exacttarget.com
+anonymous.s50.exacttarget.com
 app.s50.exacttarget.com
+approvals.s50.exacttarget.com
 auth.s50.exacttarget.com
-click.s50.exacttarget.com
-click-sms.s50.exacttarget.com
+bounce.s50.exacttarget.com
 editorsupport.s50.exacttarget.com
 manage.ext.s50.exacttarget.com
+fbl.s50.exacttarget.com
 image.s50.exacttarget.com
 images.s50.exacttarget.com
 internal.s50.exacttarget.com
@@ -3097,8 +3092,10 @@ mc.s50.exacttarget.com
 members.s50.exacttarget.com
 origin-akamai-members.s50.exacttarget.com
 orionhttp.s50.exacttarget.com
+orionims.s50.exacttarget.com
 pages.s50.exacttarget.com
 pub.s50.exacttarget.com
+reply.s50.exacttarget.com
 rest.s50.exacttarget.com
 restapi.s50.exacttarget.com
 scpweb.s50.exacttarget.com
@@ -3112,19 +3109,15 @@ imh.s6.exacttarget.com
 mc.s6.exacttarget.com
 members.s6.exacttarget.com
 scpweb.s6.exacttarget.com
-click.virt.s6.exacttarget.com
 s7.exacttarget.com
 auth.s7.exacttarget.com
-click.s7.exacttarget.com
 image.s7.exacttarget.com
 mc.s7.exacttarget.com
 members.s7.exacttarget.com
 origin-auth.s7.exacttarget.com
 scpweb.s7.exacttarget.com
-click.virt.s7.exacttarget.com
 s8.exacttarget.com
 auth.s8.exacttarget.com
-click.s8.exacttarget.com
 image.s8.exacttarget.com
 mc.s8.exacttarget.com
 members.s8.exacttarget.com
@@ -3146,7 +3139,6 @@ api.test.exacttarget.com
 app.test.exacttarget.com
 webservice.keepalive.aprimo.test.exacttarget.com
 webservice.aprimo.test.exacttarget.com
-click.test.exacttarget.com
 etappx.test.exacttarget.com
 image.test.exacttarget.com
 login.test.exacttarget.com
@@ -3802,6 +3794,7 @@ secure.impresionesweb.com
 www.secure.impresionesweb.com
 imprev.com
 www.imprev.com
+pr5600.infusionsoft.com
 inlocomedia.com
 accounts.inlocomedia.com
 docs.inlocomedia.com
@@ -5597,6 +5590,11 @@ pgcollect.com
 pixel.pgcollect.com
 metrics.phonegap.com
 tracking.photoyee.com
+picreel.com
+app.picreel.com
+staging.picreel.com
+system.picreel.com
+www.picreel.com
 s.pixsrvcs.com
 placed.com
 affiliate.placed.com
@@ -6344,6 +6342,7 @@ targeting-shadow.snapads.com
 app-analytics.snapchat.com
 staging.app-analytics.snapchat.com
 pixel.socialtyze.com
+pixel.solvemedia.com
 telemetry.sonarsource.com
 sonobi.com
 api.sonobi.com
@@ -6752,6 +6751,8 @@ ursa.theappgrader.com
 www.theappgrader.com
 geoip.thedailymeal.com
 metrics.thepointsguy.com
+thewhizmarketing.com
+seen-on-screen.thewhizmarketing.com
 thirdpresence.com
 a.thirdpresence.com
 www.a.thirdpresence.com
@@ -6845,6 +6846,7 @@ xtest.thunderhead.com
 yeag.thunderhead.com
 ytest.thunderhead.com
 ztest.thunderhead.com
+tracking.tidalhifi.com
 metrics.timewarnercable.com
 experience.tinypass.com
 tags.tiqcdn.com
@@ -7983,6 +7985,16 @@ beacons.extremereach.io
 trust.extremereach.io
 ghostboard.io
 www.ghostboard.io
+graphly.io
+app.graphly.io
+www.app.graphly.io
+devsync.graphly.io
+docs.graphly.io
+newapp1.graphly.io
+sync.graphly.io
+tracking.graphly.io
+www.tracking.graphly.io
+www.graphly.io
 instana.io
 eum.instana.io
 intercom.io
@@ -8421,6 +8433,7 @@ g.doubleclick.net
 bid.g.doubleclick.net
 cm.g.doubleclick.net
 pubads.g.doubleclick.net
+securepubads.g.doubleclick.net
 jp.doubleclick.net
 ads-bid.l.doubleclick.net
 ad.mo.doubleclick.net
