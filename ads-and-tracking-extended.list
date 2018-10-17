@@ -25,6 +25,7 @@ api.districtm.ca
 boost-qa2.districtm.ca
 dmx.districtm.ca
 dmx-dev.districtm.ca
+npm.districtm.ca
 prebid.districtm.ca
 b3.staging.districtm.ca
 flyertown.ca
@@ -639,6 +640,7 @@ www.dev.adconion-us.facebook-ads.adtz.com
 dev.facebook-ads.adtz.com
 www.facturacion.facebook-ads.adtz.com
 dev.mexico.facebook-ads.adtz.com
+www.dev.trail.facebook-ads.adtz.com
 dev.trial.facebook-ads.adtz.com
 www.dev.trial.facebook-ads.adtz.com
 www.trial.facebook-ads.adtz.com
@@ -715,6 +717,7 @@ adtech.advertising.com
 agora.advertising.com
 adserver.aol.advertising.com
 aop-prog.advertising.com
+banner.advertising.com
 secure.bannerfarm.advertising.com
 beta-lombardi.advertising.com
 clientstats.advertising.com
@@ -1006,6 +1009,7 @@ fk.adx1.com
 fs7.adx1.com
 ftp.adx1.com
 www.ftp.adx1.com
+fz.adx1.com
 g27ve.adx1.com
 globalsight.adx1.com
 www.globalsight.adx1.com
@@ -1057,6 +1061,7 @@ owa.adx1.com
 pe.adx1.com
 pi.adx1.com
 www.pi.adx1.com
+pl.adx1.com
 pxl.adx1.com
 rdb.adx1.com
 bidswitch.rdb.adx1.com
@@ -1083,6 +1088,8 @@ rw13q.adx1.com
 sag7.adx1.com
 secure.adx1.com
 services.adx1.com
+pushbank.services.adx1.com
+test.pushbank.services.adx1.com
 ses.adx1.com
 www.ses.adx1.com
 shop.adx1.com
@@ -1142,6 +1149,9 @@ stag-admin.adyoulike.com
 www.stag-admin.adyoulike.com
 adzoka.com
 ads.adzoka.com
+smetrics.aetn.com
+www.smetrics.aetn.com
+insights.vip.aetnd.com
 tracker.affirm.com
 agentanalytics.com
 o.agentanalytics.com
@@ -1165,9 +1175,11 @@ px.airpr.com
 roi.airpr.com
 www.roi.airpr.com
 analytics-dash.tools.airpr.com
+analytics-dash-stg.tools.airpr.com
 vpn.airpr.com
 webinar.airpr.com
 www.webinar.airpr.com
+wiki.airpr.com
 www.airpr.com
 zero.airpr.com
 zeros.airpr.com
@@ -1407,6 +1419,8 @@ vpc-prod-adsdk-lb-0-564898962.us-east-1.elb.amazonaws.com
 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com
+tracking-graphly-907699188.us-west-2.elb.amazonaws.com
+ztag-trackedevents-enterprise-1441845540.us-west-2.elb.amazonaws.com
 anvato-api-config.s3.amazonaws.com
 btf-analytics.s3.amazonaws.com
 device-fingerprintdb-v1.s3.amazonaws.com
@@ -1782,6 +1796,7 @@ blog-test.autopilothq.com
 certbot-test.autopilothq.com
 dev0.autopilothq.com
 dev1.autopilothq.com
+test.dev1.autopilothq.com
 dev2.autopilothq.com
 dev3.autopilothq.com
 developers.autopilothq.com
@@ -1941,6 +1956,7 @@ appstatic.bronto.com
 cdhmanager-prod.bronto.com
 cdn.bronto.com
 www.cdn.bronto.com
+ftp.bronto.com
 go.bronto.com
 hosting.bronto.com
 js.bronto.com
@@ -2026,6 +2042,7 @@ ssum.casalemedia.com
 ssum-sec.casalemedia.com
 system.casalemedia.com
 woobi-eu.casalemedia.com
+www.casalemedia.com
 cashext.com
 celebrus.com
 cengage.celebrus.com
@@ -2070,6 +2087,7 @@ blog.clearbit.com
 guides.clearbit.com
 help.clearbit.com
 forms.help.clearbit.com
+partnerships.clearbit.com
 reveal.clearbit.com
 sfdc.clearbit.com
 www.sfdc.clearbit.com
@@ -2311,6 +2329,12 @@ widget.sv.us.criteo.com
 va.us.criteo.com
 widget.criteo.com
 www.criteo.com
+cryptocoinview.com
+cpanel.cryptocoinview.com
+mail.cryptocoinview.com
+webdisk.cryptocoinview.com
+webmail.cryptocoinview.com
+www.cryptocoinview.com
 ctrix.com
 curalate.com
 ace.curalate.com
@@ -2327,9 +2351,12 @@ client-api.curalate.com
 vpn.dev.curalate.com
 developers.curalate.com
 engineering.curalate.com
+gl-7001dc16.curalate.com
+go.curalate.com
 gob.curalate.com
 help.curalate.com
 prod.internal.curalate.com
+eu-west-1.prod.internal.curalate.com
 us-east-1.prod.internal.curalate.com
 qa.internal.curalate.com
 us-east-1.qa.internal.curalate.com
@@ -2341,6 +2368,7 @@ chs.ops.curalate.com
 qa.ops.curalate.com
 phish.curalate.com
 prod.curalate.com
+eu-west-1.prod.curalate.com
 us-east-1.prod.curalate.com
 qa.curalate.com
 us-east-1.qa.curalate.com
@@ -3198,6 +3226,7 @@ creative.mock.exponential.com
 owa.exponential.com
 pcl.exponential.com
 bidder.pcl.exponential.com
+expotask-dev.pcl.exponential.com
 publishersummit.exponential.com
 vpn.scl.exponential.com
 www.vpn.scl.exponential.com
@@ -3269,11 +3298,13 @@ auth.k8s-prod.fiksu.com
 www.auth.k8s-prod.fiksu.com
 dex.k8s-prod.fiksu.com
 www.dex.k8s-prod.fiksu.com
+event-tracker.k8s-prod.fiksu.com
 request-tracker.k8s-prod.fiksu.com
 auth.k8s-test.fiksu.com
 www.auth.k8s-test.fiksu.com
 dex.k8s-test.fiksu.com
 www.dex.k8s-test.fiksu.com
+event-tracker.k8s-test.fiksu.com
 grafana.k8s-test.fiksu.com
 login.k8s-test.fiksu.com
 www.login.k8s-test.fiksu.com
@@ -3326,6 +3357,7 @@ azp.footprintdns.com
 azr.footprintdns.com
 clo.footprintdns.com
 moiawsorigin.clo.footprintdns.com
+netmoncanaryrdfe.footprintdns.com
 nrb.footprintdns.com
 report.footprintdns.com
 citrix-pk2.force.com
@@ -3438,8 +3470,10 @@ webmail.franklyinc.com
 www.franklyinc.com
 metrics.freecreditscore.com
 freshmarketer.com
+app.freshmarketer.com
 cdn.freshmarketer.com
 changelog.freshmarketer.com
+extension.freshmarketer.com
 support.freshmarketer.com
 toolbar.freshmarketer.com
 www.freshmarketer.com
@@ -3593,6 +3627,7 @@ b2cdemo.getambassador.com
 b2csuccessdemo.getambassador.com
 brandoshmando.getambassador.com
 cdn.getambassador.com
+custom-redirect.getambassador.com
 developers.dev.getambassador.com
 testgoat.dev.getambassador.com
 dev-cdn.getambassador.com.dev-sandbox.getambassador.com
@@ -3870,6 +3905,10 @@ graylog.ops.dfw2.inmobi.com
 www.graylog.ops.dfw2.inmobi.com
 dl.inmobi.com
 www.dl.inmobi.com
+dsp.inmobi.com
+www.dsp.inmobi.com
+dsp-preprod.inmobi.com
+www.dsp-preprod.inmobi.com
 edgy.inmobi.com
 edgy-china-cdn-sproutbuilder.inmobi.com
 en-studiotraining.inmobi.com
@@ -3996,6 +4035,8 @@ ua.inmobi.com
 www.ua.inmobi.com
 mediaplanner.uat.inmobi.com
 www.mediaplanner.uat.inmobi.com
+ui-idx.inmobi.com
+www.ui-idx.inmobi.com
 venus.inmobi.com
 www.venus.inmobi.com
 w.inmobi.com
@@ -4558,6 +4599,8 @@ workflows.dashboard.sandbox53.localytics.com
 api.chillyc.env.sandbox53.localytics.com
 api.dans-parsley-change-test.env.sandbox53.localytics.com
 api.final.env.sandbox53.localytics.com
+api.joanna.env.sandbox53.localytics.com
+api.joanna-test.env.sandbox53.localytics.com
 api.josh.env.sandbox53.localytics.com
 api.nonewlines.env.sandbox53.localytics.com
 api.raphael.env.sandbox53.localytics.com
@@ -4599,6 +4642,8 @@ tracker.marinsm.com
 w2.marinsm.com
 marketo.com
 abrtp1-cdn.marketo.com
+alteryx.marketo.com
+www.alteryx.marketo.com
 app-ab12.marketo.com
 app-ab13.marketo.com
 app-ab14.marketo.com
@@ -4616,6 +4661,7 @@ app-abc.marketo.com
 app-abd.marketo.com
 app-lon08.marketo.com
 app-nation.marketo.com
+app-qe.marketo.com
 app-sj04.marketo.com
 app-sj08.marketo.com
 app-sjf.marketo.com
@@ -4623,6 +4669,7 @@ app-sjo5.marketo.com
 app-sjqe.marketo.com
 autocukejvmab26a.marketo.com
 blog.marketo.com
+case-attachments.marketo.com
 cftrkstage.marketo.com
 community.marketo.com
 cukesj20trk.marketo.com
@@ -4646,6 +4693,7 @@ jp.marketo.com
 learn.marketo.com
 www.learn.marketo.com
 learnadmin.marketo.com
+login.marketo.com
 mail.marketo.com
 mavericks.marketo.com
 www.mavericks.marketo.com
@@ -4657,6 +4705,7 @@ mm.marketo.com
 na-ab13.marketo.com
 na-ab23.marketo.com
 na-qa.marketo.com
+na-qe.marketo.com
 na-sjqe.marketo.com
 nation.marketo.com
 app-www.nation.marketo.com
@@ -4870,6 +4919,7 @@ greenpanel.corp.mixpanel.com
 integration.corp.mixpanel.com
 pagerduty-bot.corp.mixpanel.com
 slash-bot.corp.mixpanel.com
+developer.mixpanel.com
 discover.mixpanel.com
 engblog.mixpanel.com
 engineering.mixpanel.com
@@ -4958,6 +5008,8 @@ mm.mkto-test.com
 mktoresp.com
 112-tzm-766.mktoresp.com
 308-xbb-662.mktoresp.com
+mktossl.com
+ab10.mktossl.com
 mktoweb.com
 docker.mktoweb.com
 ml-attr.com
@@ -5277,6 +5329,30 @@ status.newrelic.com
 support.newrelic.com
 support-legacy.newrelic.com
 try.newrelic.com
+newscgp.com
+audience.newscgp.com
+au.audience.newscgp.com
+ir.audience.newscgp.com
+originau.audience.newscgp.com
+originus.audience.newscgp.com
+uat.audience.newscgp.com
+us.audience.newscgp.com
+iglu.newscgp.com
+pixel.newscgp.com
+au.pixel.newscgp.com
+ir.pixel.newscgp.com
+originau.pixel.newscgp.com
+originus.pixel.newscgp.com
+uat.pixel.newscgp.com
+us.pixel.newscgp.com
+sit.newscgp.com
+au.tags.newscgp.com
+fox.tags.newscgp.com
+hc.tags.newscgp.com
+ir.tags.newscgp.com
+us.tags.newscgp.com
+uat.newscgp.com
+www.newscgp.com
 ads.nexage.com
 bos.ads.nexage.com
 sjc.ads.nexage.com
@@ -5434,12 +5510,16 @@ analytics.paddle.com
 metrics.pagerduty.com
 adserver.panaceapublishing.com
 panadvert.com
+ads.panadvert.com
+www.ads.panadvert.com
 adwords.panadvert.com
 www.adwords.panadvert.com
 apps.panadvert.com
 www.apps.panadvert.com
 autodiscover.panadvert.com
 cpanel.panadvert.com
+exchange.panadvert.com
+www.exchange.panadvert.com
 mail.panadvert.com
 metrics.panadvert.com
 www.metrics.panadvert.com
@@ -5780,6 +5860,7 @@ metrics.ranklocal.com
 cdn.ravenjs.com
 realclever.com
 pixel.realclever.com
+smetrics.realtor.com
 e.redbox.com
 ebm.e.redbox.com
 www.ebm.e.redbox.com
@@ -5966,6 +6047,7 @@ c.la1-c2-phx.salesforceliveagent.com
 d.la1-c2-phx.salesforceliveagent.com
 scout-cdn.salesloft.com
 beacon.samsclub.com
+beacon-streamer.saymedia.com
 ads.scanapps.com
 beacon.ads.scanapps.com
 exscan.ads.scanapps.com
@@ -5984,6 +6066,8 @@ www.italy.scorecardresearch.com
 sb.scorecardresearch.com
 seb.scorecardresearch.com
 www.seb.scorecardresearch.com
+connect.scroll.com
+static.scroll.com
 metrics.sdkbox.com
 sekindo.com
 console.sekindo.com
@@ -6288,7 +6372,6 @@ www.zendesk.sizmek.com
 promotions.skype.com
 api.promotions.skype.com
 bo.promotions.skype.com
-dms.p.sling.com
 smrtb.com
 sync.smrtb.com
 www.smrtb.com
@@ -6524,6 +6607,7 @@ ev.surveywall-api.survata.com
 video.survata.com
 www.survata.com
 survicate.com
+changelog.survicate.com
 learn.survicate.com
 survey.survicate.com
 insights.sustainablebrands.com
@@ -6767,6 +6851,7 @@ e2.thirdpresence.com
 e3.thirdpresence.com
 ec1-a.thirdpresence.com
 jobs.thirdpresence.com
+www.jobs.thirdpresence.com
 learn.thirdpresence.com
 napi.thirdpresence.com
 secure.thirdpresence.com
@@ -6863,6 +6948,12 @@ secure.tmathtag.com
 ssl.tmathtag.com
 webmail.tmathtag.com
 www.tmathtag.com
+topprotestsigns.com
+cpanel.topprotestsigns.com
+mail.topprotestsigns.com
+webdisk.topprotestsigns.com
+webmail.topprotestsigns.com
+www.topprotestsigns.com
 trackalyzer.com
 chat.trackalyzer.com
 www.chat.trackalyzer.com
@@ -7570,6 +7661,7 @@ optout.yieldmo.com
 poweredbylooker.yieldmo.com
 preview.yieldmo.com
 privacy.yieldmo.com
+qa.yieldmo.com
 rw.yieldmo.com
 us-east-1.world.rw.yieldmo.com
 10.proxy.us-east-1.world.rw.yieldmo.com
@@ -7754,6 +7846,7 @@ adserver.webstatsserver.de
 braze.eu
 fra-01.braze.eu
 praxis.fra-01.braze.eu
+k8s.stc-001.s-euc-1.braze.eu
 wpad.example
 mediadelivery.fi
 is.mediadelivery.fi
@@ -7772,12 +7865,22 @@ partners.drawbrid.ge
 platform.drawbrid.ge
 relay.drawbrid.ge
 www.drawbrid.ge
+clean.gg
+i.clean.gg
 wpad.home
 pixel.affcamp.co.in
 www.pixel.affcamp.co.in
 applifier.info
 lb-delivery.us-east-1.applifier.info
 match33.info
+1rx.io
+east-s2s.1rx.io
+eu-s2s.1rx.io
+hb.1rx.io
+hbevents.1rx.io
+optout.1rx.io
+tag.1rx.io
+west-s2s.1rx.io
 5rocks.io
 api.5rocks.io
 ltv-bot.5rocks.io
@@ -7878,10 +7981,12 @@ us-east-1.stinger-ad.bidr.io
 us-west-2.stinger-ad.bidr.io
 branch.io
 ai.branch.io
+aialik.branch.io
 api.alpha.branch.io
 dashboard.alpha.branch.io
 link.alpha.branch.io
 api.branch.io
+api2.branch.io
 crypt.aws.branch.io
 munki.aws.branch.io
 munkireport.aws.branch.io
@@ -7933,6 +8038,7 @@ dev-cdn.districtm.io
 dev-dmx.districtm.io
 dmx.districtm.io
 dev.dmx.districtm.io
+lineate-grafana.dev.dmx.districtm.io
 drone.dmx.districtm.io
 grafana.dmx.districtm.io
 stats.dmx.districtm.io
@@ -8081,6 +8187,7 @@ docs.metrics.readme.io
 segment.io
 api.segment.io
 sentry.io
+datadog.a.sentry.io
 ingest.sentry.io
 ur93pklmrzha.ingest.sentry.io
 ur93pklmrzha.sentry.io
@@ -8125,6 +8232,7 @@ custom.bnc.lt
 dev.bnc.lt
 qa.bnc.lt
 www.bnc.lt
+assets.context.ly
 count.ly
 blog.count.ly
 www.blog.count.ly
@@ -8216,6 +8324,7 @@ survey.122.2o7.net
 sbx1.2o7.net
 adserver.383media.net
 bat-bing-com.a-0001.a-msedge.net
+ad-delivery.net
 adglare.net
 cdn.adglare.net
 kidswithfoodallergies.cdn.adglare.net
@@ -8299,6 +8408,8 @@ www.x.bidswitch.net
 carbonads.net
 order.carbonads.net
 srv.carbonads.net
+www.carbonads.net
+analytics.ccgateway.net
 cookieconsent.cloudapp.net
 recommenderprodwestus.cloudapp.net
 sconsentit903.cloudapp.net
@@ -8308,10 +8419,12 @@ taboola.com.cdn.cloudflare.net
 vidstat.taboola.com.cdn.cloudflare.net
 assets-auto.rbl.ms.cdn.cloudflare.net
 d1spgg7psata7d.cloudfront.net
+d21j0tl4id6lf2.cloudfront.net
 d2leoy3k16s14d.cloudfront.net
 d3rxu0fywkpi6t.cloudfront.net
 d4pz26d5itt3n.cloudfront.net
 dmc1acwvwny3.cloudfront.net
+dojx47ab4dyxi.cloudfront.net
 connexity.net
 mxl.connexity.net
 www.mxl.connexity.net
@@ -8444,7 +8557,6 @@ thngw2.doubleclick.net
 uk.doubleclick.net
 dt-cdn.net
 rubiconproject.dyns.net
-cs254.wac.edgecastcdn.net
 analytics.edgekey.net
 wildcard.adroll.com.edgekey.net
 iadsdk.apple.com.edgekey.net
@@ -8490,6 +8602,7 @@ cdn.best-tv.com.c.footprint.net
 ssl-cdn.multibrand3.pgsitecore.com.c.footprint.net
 fwmrm.net
 vip-ads-tpx.stg.ads.aws.fwmrm.net
+dev.cyclone.aws.fwmrm.net
 prod.cyclone.aws.fwmrm.net
 dev.aws.fwmrm.net
 fw1.aws.fwmrm.net
@@ -8513,6 +8626,7 @@ git.dev.fwmrm.net
 registry.dev.fwmrm.net
 svn.dev.fwmrm.net
 manifest.fwmrm.net
+mssl.fwmrm.net
 ny5expe.fwmrm.net
 s.fwmrm.net
 stg.fwmrm.net
@@ -8697,6 +8811,9 @@ link.krxd.net
 www.link.krxd.net
 maxis.krxd.net
 userdata-maxis.krxd.net
+analytics.levelaccess.net
+api.levelaccess.net
+cdn.levelaccess.net
 lsimg.net
 i.lsimg.net
 www.i.lsimg.net
@@ -8707,6 +8824,8 @@ atl-dc02.marketo.net
 www.atl-dc02.marketo.net
 cpm.marketo.net
 www.cpm.marketo.net
+den-ax01.marketo.net
+www.den-ax01.marketo.net
 den-dc01.marketo.net
 www.den-dc01.marketo.net
 den-dc02.marketo.net
@@ -8890,6 +9009,7 @@ canwestgolbal.sc.omtrdc.net
 d1.sc.omtrdc.net
 foxnews.com.d1.sc.omtrdc.net
 adpsj.ssl.d1.sc.omtrdc.net
+aetn.com.ssl.d1.sc.omtrdc.net
 wunderground.com.ssl.d1.sc.omtrdc.net
 d2.sc.omtrdc.net
 amazonwebservices.d2.sc.omtrdc.net
@@ -8897,6 +9017,7 @@ ssl.d2.sc.omtrdc.net
 adpdl.ssl.d2.sc.omtrdc.net
 cbsi.com.ssl.d2.sc.omtrdc.net
 fedex.com.ssl.d2.sc.omtrdc.net
+realtor.com.ssl.d2.sc.omtrdc.net
 o.webmd.com.ssl.d2.sc.omtrdc.net
 consumerreports.org.ssl.d2.sc.omtrdc.net
 vanguard.d2.sc.omtrdc.net
@@ -8973,6 +9094,7 @@ mediavine-d.openx.net
 meta.openx.net
 oao-d.openx.net
 rock-you-d.openx.net
+saymedia-d.openx.net
 soju.openx.net
 black.soju.openx.net
 blue.soju.openx.net
@@ -8990,15 +9112,6 @@ admin.pixel.optimalq.net
 aero.pixel.optimalq.net
 node.pixel.optimalq.net
 www.sc.pages06.net
-perfops.net
-admin.perfops.net
-api.perfops.net
-benchmark-origin.perfops.net
-devnull.perfops.net
-docs.perfops.net
-list.perfops.net
-panel.perfops.net
-pdf.perfops.net
 rum.perfops.net
 perimeterx.net
 client.perimeterx.net
@@ -9103,6 +9216,8 @@ seg-server-lb.global.prod1.sharethis.net
 smaato.net
 ad.smaato.net
 creatives.smaato.net
+dsp.smaato.net
+www.dsp.smaato.net
 soma.smaato.net
 www.soma.smaato.net
 soma-assets.smaato.net
@@ -9144,6 +9259,7 @@ csp-dev4.timecommerce.net
 csp-dev5.timecommerce.net
 csp-testsite.timecommerce.net
 session.timecommerce.net
+cc-analytics.trafficmanager.net
 cookieconsent.trafficmanager.net
 sconsentit9.trafficmanager.net
 userreplay.net
@@ -9286,6 +9402,8 @@ cookies-dev.onetrust.mgr.consensu.org
 cookies-prod.onetrust.mgr.consensu.org
 cookies-staging.onetrust.mgr.consensu.org
 oriel.mgr.consensu.org
+stage.oriel.mgr.consensu.org
+test.oriel.mgr.consensu.org
 planetmedia.mgr.consensu.org
 pluto.mgr.consensu.org
 staging.pluto.mgr.consensu.org
@@ -9305,6 +9423,7 @@ ui.preprod.sddan.mgr.consensu.org
 ui.sddan.mgr.consensu.org
 sharethis.mgr.consensu.org
 c.sharethis.mgr.consensu.org
+shinystat.mgr.consensu.org
 sibboventures.mgr.consensu.org
 api.sibboventures.mgr.consensu.org
 cmp.sibboventures.mgr.consensu.org
@@ -9432,6 +9551,7 @@ alisa.beta.aviasales.ru
 arkb1.beta.aviasales.ru
 arkb2.beta.aviasales.ru
 arkb3.beta.aviasales.ru
+arkb4.beta.aviasales.ru
 asdefender.beta.aviasales.ru
 asdqwe.beta.aviasales.ru
 autocomplete-control.beta.aviasales.ru
@@ -9606,6 +9726,7 @@ ispot-mx.ispot.tv
 pt.ispot.tv
 qlik-dev.ispot.tv
 staging-ps.ispot.tv
+vpw-web-jenkins-001.ispot.tv
 ravm.tv
 rxr.ravm.tv
 shoofle.tv
