@@ -320,6 +320,7 @@ product.atom.adjust.com
 salescandidate.atom.adjust.com
 tech.atom.adjust.com
 events.adjust.com
+go.adjust.com
 help.adjust.com
 learn.adjust.com
 ulink.adjust.com
@@ -337,6 +338,8 @@ tagan.adlightning.com
 www.adlightning.com
 admedia.com
 advertisers.admedia.com
+adv.api.admedia.com
+www.adv.api.admedia.com
 members.admedia.com
 pixel.admedia.com
 admedo.com
@@ -539,6 +542,7 @@ alpha.adswizz.com
 preprod.api.adswizz.com
 audiomax.adswizz.com
 clearchannel.adswizz.com
+data-processing.adswizz.com
 deliveryengine.adswizz.com
 devel.adswizz.com
 adserver.devel.adswizz.com
@@ -988,6 +992,7 @@ www.adwyze.com
 adx1.com
 1c.adx1.com
 www.1c.adx1.com
+2.adx1.com
 29xyt.adx1.com
 33z6hhbo5tjmx6hdb1cn.adx1.com
 www.33z6hhbo5tjmx6hdb1cn.adx1.com
@@ -1018,6 +1023,7 @@ www.docs.api.adx1.com
 rc.api.adx1.com
 www.api.adx1.com
 app.adx1.com
+b.adx1.com
 beta.adx1.com
 www.beta.adx1.com
 blog.adx1.com
@@ -1078,6 +1084,7 @@ hb.adx1.com
 am-display.hb.adx1.com
 www.am-display.hb.adx1.com
 am-native.hb.adx1.com
+www.am-native.hb.adx1.com
 kumma-hb.hb.adx1.com
 www.kumma-hb.hb.adx1.com
 piohbdisp.hb.adx1.com
@@ -1101,6 +1108,7 @@ log.adx1.com
 www.log.adx1.com
 login.adx1.com
 www.login.adx1.com
+ly66.adx1.com
 lync.adx1.com
 www.lync.adx1.com
 lync10.adx1.com
@@ -1140,30 +1148,60 @@ www.root.adx1.com
 rtab.adx1.com
 www.rtab.adx1.com
 rtb.adx1.com
+adapj.rtb.adx1.com
+kdsmedianative.rtb.adp3.rtb.adx1.com
+adsid.rtb.adx1.com
+adsiduous.rtb.adx1.com
 adsnative.rtb.adx1.com
 advandmedia-banner-desktop.rtb.adx1.com
 advandmedia-banner-mobile.rtb.adx1.com
 advandmedia-native.rtb.adx1.com
+adventurefeeds-reklam.rtb.adx1.com
 am-display.rtb.adx1.com
 am-native.rtb.adx1.com
+as.rtb.adx1.com
+between.rtb.adx1.com
 bidswitch.rtb.adx1.com
+bidswitch-rtbcat.rtb.adx1.com
+bizzclick.rtb.adx1.com
 bizzclicknative.rtb.adx1.com
 bliss.rtb.adx1.com
+coralmedia.rtb.adx1.com
 disqus.rtb.adx1.com
 doubleclick.rtb.adx1.com
 ibv.doubleclick.rtb.adx1.com
 www.ibv.doubleclick.rtb.adx1.com
+dtscout.rtb.adx1.com
 exelate.rtb.adx1.com
 fidelity-media-ssp.rtb.adx1.com
 kds-reklam.rtb.adx1.com
+kdsmedia.rtb.adx1.com
+kdsmedia-ibv.rtb.adx1.com
 m-display.rtb.adx1.com
+mediakds.rtb.adx1.com
+mediashakers.rtb.adx1.com
+mgid.rtb.adx1.com
 nativeads-display.rtb.adx1.com
 ppcbuzznative.rtb.adx1.com
 pulsepoint-platform.rtb.adx1.com
+www.pulsepoint-platform.rtb.adx1.com
+readywind.rtb.adx1.com
 reklam-adfries.rtb.adx1.com
+reklam-adsiduous.rtb.adx1.com
+rtbc-waardex.rtb.adx1.com
+rtbcaptain-republer-banner.rtb.adx1.com
+scaler.rtb.adx1.com
 smartyads.rtb.adx1.com
 smartyadsdisplay.rtb.adx1.com
+spotx-jinni.rtb.adx1.com
+ssphwy.rtb.adx1.com
 static.rtb.adx1.com
+triplelift.rtb.adx1.com
+ug.rtb.adx1.com
+vashoot.rtb.adx1.com
+waardex.rtb.adx1.com
+web3.rtb.adx1.com
+web3-reklam.rtb.adx1.com
 www.rtb.adx1.com
 rw13q.adx1.com
 sag7.adx1.com
@@ -1772,6 +1810,9 @@ msrv.saas.appdynamics.com
 smtp.saas.appdynamics.com
 saastest.appdynamics.com
 dev.saastest.appdynamics.com
+msrv.saastest.appdynamics.com
+dev.msrv.saastest.appdynamics.com
+staging.msrv.saastest.appdynamics.com
 staging.saastest.appdynamics.com
 sampleapp.appdynamics.com
 sng-vpn.appdynamics.com
@@ -2122,6 +2163,7 @@ epsilon.iad-03.braze.com
 yildun.iad-03.braze.com
 iad-04.braze.com
 iad-06.braze.com
+k8s.jenkins.infra-east-1.braze.com
 lab.braze.com
 www.lab.braze.com
 learning.braze.com
@@ -2606,6 +2648,8 @@ abm-certification.demandbase.com
 www.abm-certification.demandbase.com
 authentication.demandbase.com
 www.authentication.demandbase.com
+authentication-dev.demandbase.com
+www.authentication-dev.demandbase.com
 autodiscover.demandbase.com
 bi.demandbase.com
 www.bi.demandbase.com
@@ -3055,6 +3099,7 @@ akamai-san25.exacttarget.com
 akamai-san26.exacttarget.com
 akamai-san27.exacttarget.com
 akamai-san28.exacttarget.com
+akamai-san29.exacttarget.com
 akamai-san30.exacttarget.com
 akamai-san4.exacttarget.com
 akamai-san5.exacttarget.com
@@ -3669,6 +3714,7 @@ www.wiki.fiksu.com
 www.fiksu.com
 flurry.com
 admanagerplus.flurry.com
+ads.flurry.com
 auth-canary.flurry.com
 blog.flurry.com
 canary.flurry.com
@@ -3676,6 +3722,7 @@ canary-x.flurry.com
 cdn.flurry.com
 corp.flurry.com
 dev-x.flurry.com
+druid-broker.flurry.com
 ecto-stg.flurry.com
 explorer-staging.flurry.com
 gw.flurry.com
@@ -3957,6 +4004,7 @@ video-aws-staging.fyber.com
 video-aws-stg.fyber.com
 video-dsa.fyber.com
 video-interstitial-assets-cdn.fyber.com
+aws-production-video-broker-eu-west-1.video-v2.fyber.com
 broker.video-v2.fyber.com
 exchange.video-v2.fyber.com
 wiki.fyber.com
@@ -3968,6 +4016,10 @@ kylin.gaeadata.com
 ldap.gaeadata.com
 ldap-admin.gaeadata.com
 hb.gammaplatform.com
+log.getadblock.com
+www.log.getadblock.com
+ping.getadblock.com
+www.ping.getadblock.com
 getambassador.com
 admin.getambassador.com
 app.getambassador.com
@@ -4574,15 +4626,18 @@ app.api.jivox.com
 kube.app.api.jivox.com
 qa1.app.api.jivox.com
 qa3.app.api.jivox.com
+qa5.app.api.jivox.com
 kube.brb.api.jivox.com
 qa1.brb.api.jivox.com
 qa3.brb.api.jivox.com
+qa5.brb.api.jivox.com
 dev.api.jivox.com
 stub.api.jivox.com
 app.jivox.com
 kube.app.jivox.com
 qa1.app.jivox.com
 qa3.app.jivox.com
+qa5.app.jivox.com
 stage.app.jivox.com
 as.jivox.com
 cdn.jivox.com
@@ -4987,6 +5042,7 @@ sandbox53.localytics.com
 api.sandbox53.localytics.com
 workflows.dashboard.sandbox53.localytics.com
 api.chillyc.env.sandbox53.localytics.com
+api.chris.env.sandbox53.localytics.com
 api.dans-parsley-change-test.env.sandbox53.localytics.com
 api.final.env.sandbox53.localytics.com
 api.joanna.env.sandbox53.localytics.com
@@ -5219,6 +5275,7 @@ staging-site.mediavine.com
 vault.mediavine.com
 video.mediavine.com
 vpn.mediavine.com
+discourse.vpn.mediavine.com
 web-staging.mediavine.com
 www.mediavine.com
 tracker.meetleads.com
@@ -5544,7 +5601,6 @@ s.update.mopub.com
 t.update.mopub.com
 www.mopub.com
 www3.mopub.com
-p-stats.movetv.com
 metrics.mozilla.com
 hardware.metrics.mozilla.com
 mparticle.com
@@ -5819,6 +5875,7 @@ p13nlog.dz.optimizely.com
 sse-demo.dz.optimizely.com
 email.optimizely.com
 example.optimizely.com
+flip.optimizely.com
 hello.optimizely.com
 help.optimizely.com
 iownit.optimizely.com
@@ -6026,6 +6083,7 @@ perf.pardot.com
 www.perf.pardot.com
 trust.pardot.com
 www.pardot.com
+www2.pardot.com
 parsely.com
 api.parsely.com
 config.parsely.com
@@ -6220,6 +6278,7 @@ zn6dmaopednyvtshf-ups.siteintercept.qualtrics.com
 zn_77ycxjaq1e0122v-cbs.siteintercept.qualtrics.com
 znagburbioucamt8f-babycenter.siteintercept.qualtrics.com
 sjc1.qualtrics.com
+smart.qualtrics.com
 st3.qualtrics.com
 s1.st3.qualtrics.com
 success.qualtrics.com
@@ -6270,8 +6329,10 @@ roiq-vice.ranker.com
 cdn.roiq-vice.ranker.com
 metrics.ranklocal.com
 cdn.ravenjs.com
+analytics.rayjump.com
 realclever.com
 pixel.realclever.com
+pixel2.realclever.com
 smetrics.realtor.com
 e.redbox.com
 ebm.e.redbox.com
@@ -6689,6 +6750,7 @@ engage5.silverpop.com
 engage6.silverpop.com
 engage7.silverpop.com
 engage8.silverpop.com
+engage9.silverpop.com
 exchange.silverpop.com
 irv-sslvpn.silverpop.com
 kb.silverpop.com
@@ -6701,6 +6763,7 @@ login5.silverpop.com
 login6.silverpop.com
 login7.silverpop.com
 login8.silverpop.com
+login9.silverpop.com
 marketer1.silverpop.com
 marketer2.silverpop.com
 marketer3.silverpop.com
@@ -7011,6 +7074,10 @@ referral.supersonic.com
 www.referral.supersonic.com
 tag-mediation.supersonic.com
 www.supersonic.com
+supersonicads.com
+init.supersonicads.com
+sonic-dev.supersonicads.com
+sonic-us.supersonicads.com
 pixel.surpasshosting.com
 www.pixel.surpasshosting.com
 survata.com
@@ -7313,6 +7380,7 @@ eu.ia.thunderhead.com
 ml.ia.thunderhead.com
 nam.ia.thunderhead.com
 sandbox.ia.thunderhead.com
+jenkins-devops.thunderhead.com
 learn.thunderhead.com
 lync.thunderhead.com
 lyncdiscover.thunderhead.com
@@ -7344,6 +7412,7 @@ ukvpn.thunderhead.com
 ukvpn2.thunderhead.com
 update.thunderhead.com
 us.thunderhead.com
+usvpn.thunderhead.com
 webconf.thunderhead.com
 webdev.thunderhead.com
 www.thunderhead.com
@@ -7733,6 +7802,7 @@ logs.viewbix.com
 moodle.viewbix.com
 nofeiaviv.viewbix.com
 responsive.viewbix.com
+tv.viewbix.com
 webdev.viewbix.com
 viewsignage.com
 ads.viewsignage.com
@@ -7887,6 +7957,7 @@ playdemic.wbinsights.com
 jupyter.playdemic.wbinsights.com
 zeppelin.playdemic.wbinsights.com
 presto-gdpr-dev-encrypted.wbinsights.com
+prod.wbinsights.com
 playdemic.r.wbinsights.com
 turbine.wbinsights.com
 wba.wbinsights.com
@@ -9099,8 +9170,6 @@ brightcove.map.fastly.net
 media.brightcove.map.fastly.net
 sonobi-go.map.fastly.net
 prod.sonobi-go.map.fastly.net
-turner-tls.map.fastly.net
-prod.turner-tls.map.fastly.net
 clarium.global.ssl.fastly.net
 contextweb.map.fastlylb.net
 prod.contextweb.map.fastlylb.net
@@ -9131,6 +9200,7 @@ stg.linear.aws.fwmrm.net
 linear-stg-v1.stg.linear.aws.fwmrm.net
 sb1.aws.fwmrm.net
 ss.aws.fwmrm.net
+dev.tools.aws.fwmrm.net
 dev.vw.aws.fwmrm.net
 git.dev.fwmrm.net
 registry.dev.fwmrm.net
@@ -9314,6 +9384,8 @@ a004.webmd.inscname.net
 a001.zamnetwork.inscname.net
 insnw.net
 a-sg01sl07.insnw.net
+a-sg02sl07.insnw.net
+a-sg03sl07.insnw.net
 admiral-pci.insnw.net
 blah.insnw.net
 cdn-mirror.insnw.net
@@ -9541,6 +9613,8 @@ dub-dc02.marketo.net
 www.dub-dc02.marketo.net
 epm.marketo.net
 www.epm.marketo.net
+guestwifi.marketo.net
+www.guestwifi.marketo.net
 munchkin.marketo.net
 www.munchkin.marketo.net
 sea-dc01.marketo.net
@@ -9603,6 +9677,7 @@ publisher.media.net
 publishers.media.net
 vogon.srv.media.net
 ssltest.media.net
+ssltest2.media.net
 testle.media.net
 mediabong.net
 ad.mediabong.net
@@ -10083,6 +10158,7 @@ consentag.mgr.consensu.org
 consentmanager.mgr.consensu.org
 conversant.mgr.consensu.org
 cdn.conversant.mgr.consensu.org
+www.cj.conversant.mgr.consensu.org
 cookieinformation.mgr.consensu.org
 widget.databoxer.mgr.consensu.org
 dev.widget.databoxer.mgr.consensu.org
@@ -10193,6 +10269,8 @@ metrics.robinhood.org
 metrics.stjude.org
 piwik.pro
 fonbet.auth.piwik.pro
+admin.campaign.piwik.pro
+www.admin.campaign.piwik.pro
 cdn.piwik.pro
 changelog.piwik.pro
 cloud.piwik.pro
@@ -10340,6 +10418,8 @@ bis.shoofle.tv
 bis-ssl.shoofle.tv
 bis-ssp.shoofle.tv
 bis-ssp-ssl.shoofle.tv
+c1.shoofle.tv
+c2.shoofle.tv
 cor.shoofle.tv
 dnt.shoofle.tv
 inventory.shoofle.tv
@@ -10357,6 +10437,7 @@ serverc.shoofle.tv
 servercin.shoofle.tv
 static.shoofle.tv
 stream.shoofle.tv
+tt1.shoofle.tv
 vb2.shoofle.tv
 vic.shoofle.tv
 www.shoofle.tv
