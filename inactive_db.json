@@ -13,12 +13,7 @@
             "09.proxy.us-east-1.world.rw.yieldmo.com",
             "10.170.0.11.corp.returnpath.net",
             "10.creativecdn.com",
-            "10.proxy.us-east-1.world.rw.yieldmo.com"
-        ],
-        "to_test": [
-            "-x3.vindicosuite.com",
-            "1.content.force.com",
-            "1.visual.force.com",
+            "10.proxy.us-east-1.world.rw.yieldmo.com",
             "11.proxy.us-east-1.world.rw.yieldmo.com",
             "11.proxy.us-west-2.world.rw.yieldmo.com",
             "12.proxy.us-east-1.world.rw.yieldmo.com",
@@ -28,7 +23,12 @@
             "154925d00247013391a502f957b45763.yottaa.net",
             "16473.mc.tritondigital.com",
             "16483.mc.tritondigital.com",
-            "18.creativecdn.com",
+            "18.creativecdn.com"
+        ],
+        "to_test": [
+            "-x3.vindicosuite.com",
+            "1.content.force.com",
+            "1.visual.force.com",
             "19.creativecdn.com",
             "19653.mc.tritondigital.com",
             "1as-bannertest.adtechus.com",
