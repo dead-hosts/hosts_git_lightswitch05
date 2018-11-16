@@ -1176,11 +1176,9 @@
             "www.zulip.dynamicyield.com",
             "wyvern.prod.us-east-1.kops.kargo.com",
             "-x3.vindicosuite.com",
-            "xch.media.net"
-        ],
-        "to_test": [
-            "01.proxy.us-east-1.world.rw.yieldmo.com",
+            "xch.media.net",
             "012.2o7.net",
+            "01.proxy.us-east-1.world.rw.yieldmo.com",
             "02.proxy.us-east-1.world.rw.yieldmo.com",
             "03.proxy.us-east-1.world.rw.yieldmo.com",
             "04.proxy.us-east-1.world.rw.yieldmo.com",
@@ -1189,9 +1187,11 @@
             "07.proxy.us-east-1.world.rw.yieldmo.com",
             "08.proxy.us-east-1.world.rw.yieldmo.com",
             "09.proxy.us-east-1.world.rw.yieldmo.com",
+            "10.170.0.11.corp.returnpath.net"
+        ],
+        "to_test": [
             "1.content.force.com",
             "1.visual.force.com",
-            "10.170.0.11.corp.returnpath.net",
             "10.creativecdn.com",
             "10.proxy.us-east-1.world.rw.yieldmo.com",
             "11.proxy.us-east-1.world.rw.yieldmo.com",
