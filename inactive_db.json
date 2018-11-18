@@ -11,12 +11,7 @@
             "07.proxy.us-east-1.world.rw.yieldmo.com",
             "08.proxy.us-east-1.world.rw.yieldmo.com",
             "09.proxy.us-east-1.world.rw.yieldmo.com",
-            "10.170.0.11.corp.returnpath.net"
-        ],
-        "to_test": [
-            "-x3.vindicosuite.com",
-            "1.content.force.com",
-            "1.visual.force.com",
+            "10.170.0.11.corp.returnpath.net",
             "10.creativecdn.com",
             "10.proxy.us-east-1.world.rw.yieldmo.com",
             "11.proxy.us-east-1.world.rw.yieldmo.com",
@@ -29,11 +24,16 @@
             "16473.mc.tritondigital.com",
             "16483.mc.tritondigital.com",
             "18.creativecdn.com",
-            "19.creativecdn.com",
             "19653.mc.tritondigital.com",
+            "19.creativecdn.com",
             "1as-bannertest.adtechus.com",
+            "1.content.force.com",
             "1faax-us-east.amazon-adsystem.com",
-            "20.creativecdn.com",
+            "1.visual.force.com",
+            "20.creativecdn.com"
+        ],
+        "to_test": [
+            "-x3.vindicosuite.com",
             "21.creativecdn.com",
             "22.creativecdn.com",
             "22.theappgrader.com",
