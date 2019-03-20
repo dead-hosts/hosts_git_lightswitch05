@@ -1906,9 +1906,7 @@
             "a.pxi.pub",
             "a.rkdms.com",
             "a.sprymetrics.com",
-            "a1.cdn.intentmedia.net"
-        ],
-        "to_test": [
+            "a1.cdn.intentmedia.net",
             "a2.cdn.intentmedia.net",
             "a23.boston.inscname.net",
             "a4.innovid.com",
@@ -1931,7 +1929,6 @@
             "abc.gbc.criteo.net",
             "aboutus.revcontent.com",
             "abr.rt.cquotient.com",
-            "abscbn.gscontxt.net",
             "abtest.activision.swrve.com",
             "ac-engine.thunderhead.com",
             "acb.gbc.criteo.net",
@@ -2024,7 +2021,9 @@
             "ads.test.adthrive.com",
             "adscanner.innity.net",
             "adsense-fr.monetize-me.com",
-            "adsense.apps.wix.com",
+            "adsense.apps.wix.com"
+        ],
+        "to_test": [
             "adserve.advertising.com",
             "adserver-a-amt.adtech.de",
             "adserver-a-frr.adtech.de",
