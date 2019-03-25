@@ -8156,9 +8156,7 @@
             "adsrv1.tapad.com",
             "adsrv2.midasplayer.com",
             "adstract.thirdpresence.com",
-            "adsx.unityads.unity3d.com"
-        ],
-        "to_test": [
+            "adsx.unityads.unity3d.com",
             "api.lootsie.com",
             "api.n131adserv.com",
             "api.nonewlines.env.sandbox53.localytics.com",
@@ -8201,7 +8199,9 @@
             "apiservices-a002.krxd.net",
             "apiservices-a007.krxd.net",
             "apiservices-a010.krxd.net",
-            "apix.web.analytics.yahoo.com",
+            "apix.web.analytics.yahoo.com"
+        ],
+        "to_test": [
             "app2.returnpath.net",
             "app2.videostat.com",
             "banners.analyticson.com",
