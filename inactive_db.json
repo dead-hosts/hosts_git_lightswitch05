@@ -8407,11 +8407,7 @@
             "gtm.intercom.io",
             "gtm00.returnpath.net",
             "gtn.rt.cquotient.com",
-            "gtncaptions.rt.cquotient.com"
-        ],
-        "to_test": [
-            "app2.returnpath.net",
-            "app2.videostat.com",
+            "gtncaptions.rt.cquotient.com",
             "local.adotmob.com",
             "local.api.speedcurve.com",
             "local.scarabresearch.com",
@@ -8437,7 +8433,11 @@
             "logging.at.atwola.com",
             "logging.glogging.ar.atwola.com",
             "logging.sandbox53.localytics.com",
-            "logging.vungle.com",
+            "logging.vungle.com"
+        ],
+        "to_test": [
+            "app2.returnpath.net",
+            "app2.videostat.com",
             "mindflash-api.cs.keen.io",
             "minha.inlocomedia.com",
             "nexus-websocket-test.intercom.io",
