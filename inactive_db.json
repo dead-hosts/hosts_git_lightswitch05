@@ -8435,11 +8435,7 @@
             "logging.sandbox53.localytics.com",
             "logging.vungle.com",
             "mindflash-api.cs.keen.io",
-            "minha.inlocomedia.com"
-        ],
-        "to_test": [
-            "app2.returnpath.net",
-            "app2.videostat.com",
+            "minha.inlocomedia.com",
             "nexus-websocket-test.intercom.io",
             "nexus.intercom.io",
             "ngapi.app.returnpath.net",
@@ -8457,7 +8453,11 @@
             "nonprod-classic-rest-api.dev.adtech.de",
             "nonprod-classic-rest-api.dev.adtechus.com",
             "nonprod.flurry.com",
-            "nordicleads.engine.adglare.net",
+            "nordicleads.engine.adglare.net"
+        ],
+        "to_test": [
+            "app2.returnpath.net",
+            "app2.videostat.com",
             "partner1.adpiano.com",
             "partner10.adpiano.com",
             "partner11.adpiano.com",
