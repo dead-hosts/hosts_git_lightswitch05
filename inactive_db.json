@@ -8211,11 +8211,7 @@
             "centro-indy.exacttarget.com",
             "cerberus.prod.us-east-1.kops.kargo.com",
             "certs.corp.mparticle.com",
-            "cerulean.amplitude.com"
-        ],
-        "to_test": [
-            "app2.returnpath.net",
-            "app2.videostat.com",
+            "cerulean.amplitude.com",
             "cs7.visual.force.com",
             "cs70.content.force.com",
             "cs70.visual.force.com",
@@ -8283,7 +8279,11 @@
             "cs91.visual.force.com",
             "cs92.content.force.com",
             "cs92.visual.force.com",
-            "cs93.content.force.com",
+            "cs93.content.force.com"
+        ],
+        "to_test": [
+            "app2.returnpath.net",
+            "app2.videostat.com",
             "cs93.visual.force.com",
             "cs94.content.force.com",
             "cs94.visual.force.com",
