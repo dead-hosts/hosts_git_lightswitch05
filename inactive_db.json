@@ -8453,11 +8453,7 @@
             "nonprod-classic-rest-api.dev.adtech.de",
             "nonprod-classic-rest-api.dev.adtechus.com",
             "nonprod.flurry.com",
-            "nordicleads.engine.adglare.net"
-        ],
-        "to_test": [
-            "app2.returnpath.net",
-            "app2.videostat.com",
+            "nordicleads.engine.adglare.net",
             "partner1.adpiano.com",
             "partner10.adpiano.com",
             "partner11.adpiano.com",
@@ -8476,7 +8472,11 @@
             "partners.analyticson.com",
             "partners.appsflyer.com",
             "partners.web.analytics.yahoo.com",
-            "partnerserv.aniview.com",
+            "partnerserv.aniview.com"
+        ],
+        "to_test": [
+            "app2.returnpath.net",
+            "app2.videostat.com",
             "pastorchrislive.thirdpresence.com",
             "qa1.exacttarget.com",
             "qa1.pfa.gcp.datamind.ru",
