@@ -8527,11 +8527,7 @@
             "vpod.lightning.t.force.com",
             "vpod.secure.t.force.com",
             "vpod.t.force.com",
-            "vpod.visual.t.force.com"
-        ],
-        "to_test": [
-            "app2.returnpath.net",
-            "app2.videostat.com",
+            "vpod.visual.t.force.com",
             "www.dp.bidswitch.net",
             "www.dreamville.lisnr.com",
             "www.dsp-preprod.inmobi.com",
@@ -8552,6 +8548,7 @@
             "www.end.scorecardresearch.com",
             "www.engineering.chartboost.com",
             "www.engineering.innovid.com",
+            "www.www.aweber.com",
             "www1.mkto-f0054.com",
             "www2.doconcretegreatliteflash.icu",
             "www2.installfarm.com",
@@ -8560,7 +8557,11 @@
             "www2.mixmaintenancegreatliteflash.icu",
             "www2.vilynx.com",
             "www2.windowinstalldealaflash.icu",
-            "www3.outbrain.com",
+            "www3.outbrain.com"
+        ],
+        "to_test": [
+            "app2.returnpath.net",
+            "app2.videostat.com",
             "ztest.thunderhead.com",
             "zulip.dynamicyield.com"
         ]
