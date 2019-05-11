@@ -3297,9 +3297,7 @@
             "assets.5rocks.io",
             "assets.acceptance.sharethrough.com",
             "assets.prebid.org",
-            "assets.sharethrough.com"
-        ],
-        "to_test": [
+            "assets.sharethrough.com",
             "bpr.rt.cquotient.com",
             "bprcaptions.rt.cquotient.com",
             "br.np.adproxy.ndmdhs.com",
@@ -3464,7 +3462,9 @@
             "cdn7.forter.com",
             "cdnarena.monarchads.com",
             "cdnm.shoofle.tv",
-            "cdnt.innovid.com",
+            "cdnt.innovid.com"
+        ],
+        "to_test": [
             "celebhub.kargo.com",
             "cengage.celebrus.com",
             "centro-indy.exacttarget.com",
