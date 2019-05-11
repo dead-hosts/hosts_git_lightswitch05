@@ -3462,9 +3462,7 @@
             "cdn7.forter.com",
             "cdnarena.monarchads.com",
             "cdnm.shoofle.tv",
-            "cdnt.innovid.com"
-        ],
-        "to_test": [
+            "cdnt.innovid.com",
             "celebhub.kargo.com",
             "cengage.celebrus.com",
             "centro-indy.exacttarget.com",
@@ -3474,6 +3472,7 @@
             "cf-aws-adserver-origin-ap-northeast-1.adtechjp.com",
             "cf-aws-adserver-origin-ap-southeast-1.adtechjp.com",
             "cf-aws-adserver-origin.adtechjp.com",
+            "cf-npr.streaming.adswizz.com",
             "cf.adsttc.com",
             "chandrila.mediabong.net",
             "charlieqa.midasplayer.com",
@@ -3485,6 +3484,7 @@
             "chidc2vr.outbrain.com",
             "china-cdn.unityads.unity3d.com",
             "choueiri.adswizz.com",
+            "ci.adwyze.com",
             "ci.returnpath.net",
             "ci.thirdpresence.com",
             "cid.pardot.com",
@@ -3649,7 +3649,9 @@
             "cpp.imp.mpx.mopub.com",
             "cps01-ssl.svc.insnw.net",
             "crash.amplitude.com",
-            "creative.agkn.com",
+            "creative.agkn.com"
+        ],
+        "to_test": [
             "creativecentral.advertising.com",
             "creatives.acceptance.sharethrough.com",
             "creatives.staging.sharethrough.com",
