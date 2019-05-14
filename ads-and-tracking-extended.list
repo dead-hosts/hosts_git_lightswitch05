@@ -1083,6 +1083,7 @@ addragon-addragon-review-geo-filter-ia0cxv.addragon.com
 addragon-addragon-review-geo-le1785.addragon.com
 addragon-addragon-review-mailchimp-9zlqqi.addragon.com
 addragon-addragon-review-minimum-sp-u6c5mv.addragon.com
+addragon-addragon-review-scoring-wanvyb.addragon.com
 addragon-addragon-review-turbolinks-tvj2l4.addragon.com
 addragon-addragon-review-ui-rad-3z8d0l.addragon.com
 addragon-addragon-review-user-log-s-ny12y9.addragon.com
@@ -2899,6 +2900,7 @@ sscdn.banners.advidi.com
 staging.banners.advidi.com
 bi.advidi.com
 ctrack.advidi.com
+custom-pixel.advidi.com
 design.advidi.com
 www.design.advidi.com
 events.advidi.com
@@ -4274,6 +4276,7 @@ msrv.dev.saastest.appdynamics.com
 msrv.saastest.appdynamics.com
 dev.msrv.saastest.appdynamics.com
 staging.msrv.saastest.appdynamics.com
+portal-jenkins.saastest.appdynamics.com
 staging.saastest.appdynamics.com
 sampleapp.appdynamics.com
 sng-vpn.appdynamics.com
@@ -7338,6 +7341,7 @@ www.fwcs01.casalemedia.com
 ht.casalemedia.com
 ht-lb.casalemedia.com
 ht-lb-sec.casalemedia.com
+htlb.casalemedia.com
 instream.casalemedia.com
 ip.casalemedia.com
 ip-sec.casalemedia.com
@@ -9416,6 +9420,7 @@ ss.drift.com
 success.drift.com
 team.drift.com
 updates.drift.com
+video.drift.com
 www.drift.com
 driftt.com
 annotate.driftt.com
@@ -9885,6 +9890,7 @@ e-ads.eqads.com
 ma.eqads.com
 nm.eqads.com
 scratch.eqads.com
+test-collector.eqads.com
 um.eqads.com
 um2.eqads.com
 w-ads.eqads.com
@@ -12319,6 +12325,8 @@ glance.inmobi.com
 analytics.glance.inmobi.com
 in.analytics.glance.inmobi.com
 www.in.analytics.glance.inmobi.com
+oppo.analytics.glance.inmobi.com
+www.oppo.analytics.glance.inmobi.com
 www.analytics.glance.inmobi.com
 api.glance.inmobi.com
 in.api.glance.inmobi.com
@@ -12434,6 +12442,7 @@ reaper.pulse.inmobi.com
 www.reaper.pulse.inmobi.com
 static.pulse.inmobi.com
 uat.pulse.inmobi.com
+bt.uat.pulse.inmobi.com
 www.uat.pulse.inmobi.com
 www.pulse.inmobi.com
 pulse-uat.inmobi.com
@@ -12655,6 +12664,8 @@ customer.instartlogic.com
 www.customer.instartlogic.com
 demo2.instartlogic.com
 demo5.instartlogic.com
+demo7.instartlogic.com
+demo8.instartlogic.com
 go.instartlogic.com
 goto.instartlogic.com
 info.instartlogic.com
@@ -12891,6 +12902,7 @@ i.n.jwpltx.com
 s.n.jwpltx.com
 nc-s.jwpltx.com
 ping-origin-dev.jwpltx.com
+ping-origin-stg.jwpltx.com
 s.jwpltx.com
 www.s.jwpltx.com
 stg.jwpltx.com
@@ -14668,6 +14680,7 @@ universityonline.marketo.com
 web-int.marketo.com
 web-lon.marketo.com
 web-qe.marketo.com
+web-sn.marketo.com
 web-st.marketo.com
 www.marketo.com
 marketolive.com
@@ -21533,6 +21546,8 @@ psyduck-limiter-staging.snapads.com
 sam.snapads.com
 staging.sam.snapads.com
 adserver.shadow.snapads.com
+rtb-ads.shadow.snapads.com
+usc-rtb.shadow.snapads.com
 adserver.staging.snapads.com
 stats-reporting-server-prod.snapads.com
 stats-reporting-server-shadow.snapads.com
@@ -22728,6 +22743,8 @@ tag-manager.teladoc.com
 tenjin.com
 col-edge-prod.tenjin.com
 email.tenjin.com
+production-us.internal.tenjin.com
+staging-us.internal.tenjin.com
 ios.tenjin.com
 api.ios.tenjin.com
 jp.tenjin.com
@@ -23815,6 +23832,7 @@ tribalfusion.com
 3-eu.tribalfusion.com
 a.tribalfusion.com
 a-lb.tribalfusion.com
+a-stage1-dsa.tribalfusion.com
 ads.tribalfusion.com
 adxrtb-as.tribalfusion.com
 adxrtb-eu.tribalfusion.com
@@ -25551,6 +25569,8 @@ cms.analytics.yahoo.com
 d.analytics.yahoo.com
 e.analytics.yahoo.com
 idsync.analytics.yahoo.com
+service.idsync.analytics.yahoo.com
+service-dev.idsync.analytics.yahoo.com
 js.analytics.yahoo.com
 mobile.analytics.yahoo.com
 o.analytics.yahoo.com
@@ -25563,6 +25583,7 @@ sp-api.analytics.yahoo.com
 sp-ycpi.analytics.yahoo.com
 stg-y.analytics.yahoo.com
 test-d.analytics.yahoo.com
+ups.analytics.yahoo.com
 dev.ups.analytics.yahoo.com
 ut.analytics.yahoo.com
 ut-api.analytics.yahoo.com
@@ -25716,9 +25737,17 @@ grafana.yieldmo.com
 home.yieldmo.com
 kinesis.yieldmo.com
 lam.yieldmo.com
+lam2.yieldmo.com
+lam3.yieldmo.com
 lam30.yieldmo.com
 lam31.yieldmo.com
 lam34.yieldmo.com
+lam35.yieldmo.com
+lam36.yieldmo.com
+lam37.yieldmo.com
+lam38.yieldmo.com
+lam4.yieldmo.com
+lam5.yieldmo.com
 looker.yieldmo.com
 newlam.yieldmo.com
 newlam23.yieldmo.com
@@ -26778,6 +26807,8 @@ cdn.districtm.io
 dev.cdn.districtm.io
 data.districtm.io
 druid-router.data.districtm.io
+metabase.data.districtm.io
+superset.data.districtm.io
 dev-cdn.districtm.io
 dev-dmx.districtm.io
 dmx.districtm.io
@@ -34330,6 +34361,7 @@ f.monetate.net
 looker.monetate.net
 marketer.monetate.net
 marketer-next-release.monetate.net
+mpx.monetate.net
 reco.monetate.net
 retailer.monetate.net
 sb.monetate.net
@@ -39411,6 +39443,7 @@ ww.ispot.tv
 www.ispot.tv
 www.www.ispot.tv
 ravm.tv
+raps.ravm.tv
 rxr.ravm.tv
 shoofle.tv
 adserver.shoofle.tv
