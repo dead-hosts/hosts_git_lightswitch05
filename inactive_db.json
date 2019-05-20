@@ -3062,7 +3062,20 @@
             "cloud.adthrive.com",
             "cl.perimeterx.net",
             "cloud.rubiconproject.com",
-            "cl-w.netseer.com"
+            "cl-w.netseer.com",
+            "cma-dev.stage.us-east-1.kops.kargo.com",
+            "cmap.ace.advertising.com",
+            "cma-mgmt-staging.stage.us-east-1.kops.kargo.com",
+            "cma-mgmt-new.stage.us-east-1.kops.kargo.com",
+            "cma-mgmt.stage.us-east-1.kops.kargo.com",
+            "cma-mgmt-dev.stage.us-east-1.kops.kargo.com",
+            "cmap.ox.ace.advertising.com",
+            "cmap.uac.ace.advertising.com",
+            "cmap.adt.ace.advertising.com",
+            "cma-staging.stage.us-east-1.kops.kargo.com",
+            "cm.mobile.ace.advertising.com",
+            "cm.nationalcar.ca.cns.coremetrics.com",
+            "cm.nationalcar.com.cns.coremetrics.com"
         ],
         "to_test": [
             "-x3.vindicosuite.com",
