@@ -2694,8 +2694,8 @@ assets.acceptance.sharethrough.com                                              
 assets-acceptance.sharethrough.com                                                                   INACTIVE    DNSLOOKUP 
 assets.prebid.org                                                                                    INACTIVE    DNSLOOKUP 
 assets.sharethrough.com                                                                              INACTIVE    DNSLOOKUP 
-assets.staging.sharethrough.com                                                                      INACTIVE    DNSLOOKUP 
 assets-staging.sharethrough.com                                                                      INACTIVE    DNSLOOKUP 
+assets.staging.sharethrough.com                                                                      INACTIVE    DNSLOOKUP 
 assets-ue1.perf.pardot.com                                                                           INACTIVE    DNSLOOKUP 
 assist.itnow.netat1.listrakbi.com                                                                    INACTIVE    DNSLOOKUP assist.skimresources.com                                                                             INACTIVE    DNSLOOKUP 
 assoc-msdk-metrics-us.amazon-adsystem.com                                                            INACTIVE    DNSLOOKUP 
@@ -3136,8 +3136,11 @@ east.webftp.dev.extremereach.com                                                
 ec1-v.thirdpresence.com                                                                              INACTIVE    DNSLOOKUP 
 ec2amaz-v34sjct.marketo.com                                                                          INACTIVE    DNSLOOKUP 
 edge2.uat.247realmedia.com                                                                           INACTIVE    DNSLOOKUP 
+education.returnpath.com                                                                             INACTIVE    DNSLOOKUP 
+email.circlebackemail.appboy.com                                                                     INACTIVE    DNSLOOKUP 
 email-s1.pardot.com                                                                                  INACTIVE    DNSLOOKUP 
 email-system.pardot.com                                                                              INACTIVE    DNSLOOKUP 
+eng.appdynamics.com                                                                                  INACTIVE    DNSLOOKUP 
 engine.adglare.net                                                                                   INACTIVE    DNSLOOKUP 
 ep-apsoutheast.ifc.inmobi.com                                                                        INACTIVE    DNSLOOKUP 
 ept-useast.gscontxt.net                                                                              INACTIVE    DNSLOOKUP 
@@ -3153,7 +3156,9 @@ event.prod.bidr.io                                                              
 events.unityads.unity3d.com                                                                          INACTIVE    DNSLOOKUP 
 ewr01-nagios01.svc.insnw.net                                                                         INACTIVE    DNSLOOKUP 
 express-p.shopcurbside.com                                                                           INACTIVE    DNSLOOKUP 
+ext-inv.presage.io                                                                                   INACTIVE    DNSLOOKUP 
 f322.smaato.net                                                                                      INACTIVE    DNSLOOKUP 
+fh2.midasplayer.com                                                                                  INACTIVE    DNSLOOKUP 
 fileshare.247realmedia.com                                                                           INACTIVE    DNSLOOKUP 
 filter.placelocal.com                                                                                INACTIVE    DNSLOOKUP 
 fi.np.adproxy.ndmdhs.com                                                                             INACTIVE    DNSLOOKUP 
@@ -3177,6 +3182,7 @@ glb-ads.aftonbladet.adtech.de                                                   
 glb-ads.gamerdna.adtechus.com                                                                        INACTIVE    DNSLOOKUP 
 global.qc.rtb.quantserve.com                                                                         INACTIVE    DNSLOOKUP 
 go3.aniview.com                                                                                      INACTIVE    DNSLOOKUP 
+go5.aniview.com                                                                                      INACTIVE    DNSLOOKUP 
 gtncaptions.rt.cquotient.com                                                                         INACTIVE    DNSLOOKUP 
 happenlabs.count.ly                                                                                  INACTIVE    DNSLOOKUP 
 hearst.grapeshot.co.uk                                                                               INACTIVE    DNSLOOKUP 
@@ -3185,6 +3191,7 @@ hk.as.criteo.com                                                                
 hm.console.xtify.com                                                                                 INACTIVE    DNSLOOKUP 
 huawei-huawei.instana.io                                                                             INACTIVE    DNSLOOKUP 
 iad-apple.com.akadns.net                                                                             INACTIVE    DNSLOOKUP 
+iam-sb-ams.adtech.de                                                                                 INACTIVE    DNSLOOKUP 
 iam-sb-fra.adtech.de                                                                                 INACTIVE    DNSLOOKUP 
 ic.shoofle.tv                                                                                        INACTIVE    DNSLOOKUP 
 identity-prd.svc.tapad.com                                                                           INACTIVE    DNSLOOKUP 
@@ -3192,6 +3199,7 @@ idp.adsrvr.org                                                                  
 igroupco.cdn.adglare.net                                                                             INACTIVE    DNSLOOKUP 
 im.adtechus.com                                                                                      INACTIVE    DNSLOOKUP 
 images.info.returnpath.com                                                                           INACTIVE    DNSLOOKUP 
+images.s50.exacttarget.com                                                                           INACTIVE    DNSLOOKUP 
 imces.vip.lhr1.inmobi.com                                                                            INACTIVE    DNSLOOKUP 
 img-ex.metaps.com                                                                                    INACTIVE    DNSLOOKUP 
 img-origin-us-east-1.prod.adtechus.com                                                               INACTIVE    DNSLOOKUP 
@@ -3205,6 +3213,7 @@ inskin-ams.gscontxt.net                                                         
 intag.thirdpresence.com                                                                              INACTIVE    DNSLOOKUP 
 integrations-hub-dev.svc.kargo.com                                                                   INACTIVE    DNSLOOKUP 
 intergi-sb-ec.adtechus.com                                                                           INACTIVE    DNSLOOKUP 
+internal.dev.kargo.com                                                                               INACTIVE    DNSLOOKUP 
 internal-pi.perf.pardot.com                                                                          INACTIVE    DNSLOOKUP 
 internal-ue1-lb1.pardot.com                                                                          INACTIVE    DNSLOOKUP 
 intuit.sp1.convertro.com                                                                             INACTIVE    DNSLOOKUP 
@@ -3214,6 +3223,7 @@ ipcompany.clearbit.com                                                          
 ironsource.ap-northeast-1.stinger-ad.bidr.io                                                         INACTIVE    DNSLOOKUP 
 irprd.engine.adglare.net                                                                             INACTIVE    DNSLOOKUP 
 it-vcenter-01.corp.appdynamics.com                                                                   INACTIVE    DNSLOOKUP 
+jenkins-devops.thunderhead.com                                                                       INACTIVE    DNSLOOKUP 
 k8s.cluster-001.p-euc-1.braze.eu                                                                     INACTIVE    DNSLOOKUP 
 k8s.infra-001.i-use-1.braze.com                                                                      INACTIVE    DNSLOOKUP 
 kafka1.datamind.ru                                                                                   INACTIVE    DNSLOOKUP 
@@ -3240,6 +3250,7 @@ link.beta.branch.io                                                             
 linkerd.pfa.gcp.datamind.ru                                                                          INACTIVE    DNSLOOKUP 
 livecareer.sp1.convertro.com                                                                         INACTIVE    DNSLOOKUP 
 liverail.demand.go.sonobi.com                                                                        INACTIVE    DNSLOOKUP 
+llbean.sp1.convertro.com                                                                             INACTIVE    DNSLOOKUP 
 lod.admin.spotxchange.com                                                                            INACTIVE    DNSLOOKUP 
 logos.outbrain.com                                                                                   INACTIVE    DNSLOOKUP 
 logs2.appsflyer.com                                                                                  INACTIVE    DNSLOOKUP 
@@ -3250,6 +3261,7 @@ mads.aol.com.adcom.akadns.net                                                   
 mads-fe.amazon-adsystem.com                                                                          INACTIVE    DNSLOOKUP 
 mail4.bms.imprev.net                                                                                 INACTIVE    DNSLOOKUP 
 mail.criteo.com                                                                                      INACTIVE    DNSLOOKUP 
+mail.search.advertisingbox.com                                                                       INACTIVE    DNSLOOKUP 
 mail.terratracker.com                                                                                INACTIVE    DNSLOOKUP 
 mail.tmathtag.com                                                                                    INACTIVE    DNSLOOKUP 
 mason.svc.kargo.com                                                                                  INACTIVE    DNSLOOKUP 
@@ -3265,6 +3277,7 @@ mgr.consensu.org                                                                
 mi3.midasplayer.com                                                                                  INACTIVE    DNSLOOKUP 
 millenniumhealth-millenniumhealth.instana.io                                                         INACTIVE    DNSLOOKUP 
 mindflash-api.cs.keen.io                                                                             INACTIVE    DNSLOOKUP 
+minha.inlocomedia.com                                                                                INACTIVE    DNSLOOKUP 
 mk.marketing365.mk                                                                                   INACTIVE    DNSLOOKUP 
 mobile.analytics.yahoo.com                                                                           INACTIVE    DNSLOOKUP 
 mobileup.count.ly                                                                                    INACTIVE    DNSLOOKUP 
@@ -3277,6 +3290,7 @@ mymotiv.sp1.convertro.com                                                       
 n140.epom.com                                                                                        INACTIVE    DNSLOOKUP 
 native-staging.sharethrough.com                                                                      INACTIVE    DNSLOOKUP 
 native.vindicosuite.com                                                                              INACTIVE    DNSLOOKUP 
+nc-s.jwpltx.com                                                                                      INACTIVE    DNSLOOKUP 
 nessus1.dfw2.lijit.com                                                                               INACTIVE    DNSLOOKUP 
 nexac.sharethis.com                                                                                  INACTIVE    DNSLOOKUP 
 nexus-router-b-3.intercom.io                                                                         INACTIVE    DNSLOOKUP 
@@ -3285,6 +3299,7 @@ nexus-websocket-test.intercom.io                                                
 nj1.yext.com                                                                                         INACTIVE    DNSLOOKUP 
 notify.xtify.com                                                                                     INACTIVE    DNSLOOKUP 
 ntas6.ads.scanapps.com                                                                               INACTIVE    DNSLOOKUP 
+nt.jp.as.criteo.com                                                                                  INACTIVE    DNSLOOKUP 
 nuid.tmp.imrworldwide.com                                                                            INACTIVE    DNSLOOKUP 
 nw-ads.gslb.ace.advertising.com                                                                      INACTIVE    DNSLOOKUP 
 obiwan.mediabong.net                                                                                 INACTIVE    DNSLOOKUP 
@@ -3298,10 +3313,12 @@ one-demo2.one-demo.convertro.com                                                
 onetechnologies.sp1.convertro.com                                                                    INACTIVE    DNSLOOKUP 
 on.test.exacttarget.com                                                                              INACTIVE    DNSLOOKUP 
 openadstream10.247realmedia.com                                                                      INACTIVE    DNSLOOKUP 
+openadstream14.247realmedia.com                                                                      INACTIVE    DNSLOOKUP 
 ops-stage-a.us-west-2.k8s.tune.com                                                                   INACTIVE    DNSLOOKUP 
 ord01-nagios03.svc.insnw.net                                                                         INACTIVE    DNSLOOKUP 
 origin.home.tapjoy.com                                                                               INACTIVE    DNSLOOKUP 
 origin-stage-app.scorecardresearch.com                                                               INACTIVE    DNSLOOKUP 
+origin.uac.advertising.com                                                                           INACTIVE    DNSLOOKUP 
 os.dev.midasplayer.com                                                                               INACTIVE    DNSLOOKUP 
 p04.eloqua.com                                                                                       INACTIVE    DNSLOOKUP 
 p07.eloqua.com                                                                                       INACTIVE    DNSLOOKUP 
@@ -3334,6 +3351,7 @@ p-lb1.eu.adsymptotic.com                                                        
 pld.rt.cquotient.com                                                                                 INACTIVE    DNSLOOKUP 
 poc11.celebrus.com                                                                                   INACTIVE    DNSLOOKUP 
 pool.gscontxt.net                                                                                    INACTIVE    DNSLOOKUP 
+post-scans.bandwidthx.net                                                                            INACTIVE    DNSLOOKUP 
 prclick.inmobi.com                                                                                   INACTIVE    DNSLOOKUP 
 prem.qa1.exacttarget.com                                                                             INACTIVE    DNSLOOKUP 
 pri-adserver-a-origin-ap-southeast-1.prod.adtechjp.com                                               INACTIVE    DNSLOOKUP 
@@ -3355,6 +3373,7 @@ quigon.mediabong.net                                                            
 r11---sn-p5qlsnez.c.googlesyndication.com                                                            INACTIVE    DNSLOOKUP 
 r14---sn-p5qlsnez.c.googlesyndication.com                                                            INACTIVE    DNSLOOKUP 
 r19.sn-25ge7n7s.c.googlesyndication.com                                                              INACTIVE    DNSLOOKUP 
+r19---sn-p5qlsnlk.c.googlesyndication.com                                                            INACTIVE    DNSLOOKUP 
 r20.sn-a5m7lned.c.googlesyndication.com                                                              INACTIVE    DNSLOOKUP 
 r2.sn-u2oxu-f5f6.c.googlesyndication.com                                                             INACTIVE    DNSLOOKUP 
 r3.gslb.ace.advertising.com                                                                          INACTIVE    DNSLOOKUP 
@@ -3369,6 +3388,7 @@ registry.gitlab.gcp.datamind.ru                                                 
 rekket.thirdpresence.com                                                                             INACTIVE    DNSLOOKUP 
 repapi-eu.web.analytics.yahoo.com                                                                    INACTIVE    DNSLOOKUP 
 repapi-us.web.analytics.yahoo.com                                                                    INACTIVE    DNSLOOKUP 
+revolveclothing.sp1.convertro.com                                                                    INACTIVE    DNSLOOKUP 
 rfihub.com.akadns.net                                                                                INACTIVE    DNSLOOKUP 
 riju.ittest.33across.com                                                                             INACTIVE    DNSLOOKUP 
 romtek.theappgrader.com                                                                              INACTIVE    DNSLOOKUP 
@@ -3414,6 +3434,7 @@ selfserve.buysellads.com                                                        
 server11.installfarm.com                                                                             INACTIVE    DNSLOOKUP 
 server11.shoofle.tv                                                                                  INACTIVE    DNSLOOKUP 
 server9.installfarm.com                                                                              INACTIVE    DNSLOOKUP 
+server9.shoofle.tv                                                                                   INACTIVE    DNSLOOKUP 
 server.pixel.marketing                                                                               INACTIVE    DNSLOOKUP 
 server-sc-12.tag.clrstm.com                                                                          INACTIVE    DNSLOOKUP 
 services.extremereach.com.extremereach.com                                                           INACTIVE    DNSLOOKUP 
@@ -3423,6 +3444,7 @@ sfmc-docker-prod-local.artifactory-xt-p06.exacttarget.com                       
 sfmc-docker-prod-local.artifactory-xt-s50.exacttarget.com                                            INACTIVE    DNSLOOKUP 
 sg-adserver.vizury.com                                                                               INACTIVE    DNSLOOKUP 
 share.driftt.com                                                                                     INACTIVE    DNSLOOKUP 
+share.paradym.com                                                                                    INACTIVE    DNSLOOKUP 
 sipexternal.foresee.com                                                                              INACTIVE    DNSLOOKUP 
 sipexternal.maxpoint.com                                                                             INACTIVE    DNSLOOKUP 
 sjc01-nagios02.svc.insnw.net                                                                         INACTIVE    DNSLOOKUP 
@@ -3430,6 +3452,7 @@ sjc-bid-weighted.contextweb.com                                                 
 sjc-rtb1.rfihub.net                                                                                  INACTIVE    DNSLOOKUP 
 sj-dc02.marketo.net                                                                                  INACTIVE    DNSLOOKUP 
 smart.scexp.exelator.com                                                                             INACTIVE    DNSLOOKUP 
+smtp00-aus.returnpath.net                                                                            INACTIVE    DNSLOOKUP 
 smtp-aus.returnpath.net                                                                              INACTIVE    DNSLOOKUP 
 socialab.sharethis.com                                                                               INACTIVE    DNSLOOKUP 
 socket.adpushup.com                                                                                  INACTIVE    DNSLOOKUP 
@@ -3452,11 +3475,13 @@ staging-eu-gce-sync.bidswitch.net                                               
 staging.manage.thirdpresence.com                                                                     INACTIVE    DNSLOOKUP 
 staging-pb.vizury.com                                                                                INACTIVE    DNSLOOKUP 
 staging-x.flurry.com                                                                                 INACTIVE    DNSLOOKUP 
+staging.yodelmobile.com                                                                              INACTIVE    DNSLOOKUP 
 sta.midasplayer.com                                                                                  INACTIVE    DNSLOOKUP 
 stamp2-azure-ext.newrelic.com                                                                        INACTIVE    DNSLOOKUP 
 static-acceptance.sharethrough.com                                                                   INACTIVE    DNSLOOKUP 
 static.adpushup.com                                                                                  INACTIVE    DNSLOOKUP 
 static-staging.sharethrough.com                                                                      INACTIVE    DNSLOOKUP 
+static.stg.yieldmo.com                                                                               INACTIVE    DNSLOOKUP 
 static.xtify.com                                                                                     INACTIVE    DNSLOOKUP 
 stats-d1345.epom.com                                                                                 INACTIVE    DNSLOOKUP 
 stats.dmx.districtm.io                                                                               INACTIVE    DNSLOOKUP 
@@ -3480,6 +3505,7 @@ tdp.mxptint.net                                                                 
 teamcity.corp.mparticle.com                                                                          INACTIVE    DNSLOOKUP 
 teleflora.sp1.convertro.com                                                                          INACTIVE    DNSLOOKUP 
 telenor-malaysia.svc.tapad.com                                                                       INACTIVE    DNSLOOKUP 
+telstra.inscname.net                                                                                 INACTIVE    DNSLOOKUP 
 temp-p2.eu.adsymptotic.com                                                                           INACTIVE    DNSLOOKUP 
 test2-adserver.adtech.de                                                                             INACTIVE    DNSLOOKUP 
 test2-adserver.adtechus.com                                                                          INACTIVE    DNSLOOKUP 
@@ -3493,6 +3519,7 @@ t.lga.contextweb.com                                                            
 tlv-dc01.marketo.net                                                                                 INACTIVE    DNSLOOKUP 
 tmathtag.com                                                                                         INACTIVE    DNSLOOKUP 
 tm.inmobi.com                                                                                        INACTIVE    DNSLOOKUP 
+tmscdn.cn.coremetrics.com                                                                            INACTIVE    DNSLOOKUP 
 tmwcaptions.rt.cquotient.com                                                                         INACTIVE    DNSLOOKUP 
 tmw.rt.cquotient.com                                                                                 INACTIVE    DNSLOOKUP 
 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com                                          INACTIVE    DNSLOOKUP 
@@ -3509,6 +3536,7 @@ unicast-stb.metric.gstatic.com                                                  
 unir.facebook-ads.adtz.com                                                                           INACTIVE    DNSLOOKUP 
 unlockme.corp.inmobi.com                                                                             INACTIVE    DNSLOOKUP 
 unrulyx-eu-003.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
+unrulyx-eu-006.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-eu-009.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-eu-018.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-eu-022.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
@@ -3524,6 +3552,7 @@ unrulyx-sg-009.unrulymedia.com                                                  
 unrulyx-sg-018.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-sg-022.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-sg-024.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
+unrulyx-sg-026.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-sg-028.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-sg-030.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-sg-038.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
@@ -3534,7 +3563,9 @@ unrulyx-us-027.unrulymedia.com                                                  
 unrulyx-us-030.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-us-045.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-us-157.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
+unrulyx-us-159.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 unrulyx-us-167.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
+unrulyx-us-172.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP 
 update.thunderhead.com                                                                               INACTIVE    DNSLOOKUP 
 us1-00000024.userreplay.net                                                                          INACTIVE    DNSLOOKUP 
 us1-habf.userreplay.net                                                                              INACTIVE    DNSLOOKUP 
@@ -3547,7 +3578,9 @@ us.lb.mediabong.net                                                             
 u.staging.fastly-insights.com                                                                        INACTIVE    DNSLOOKUP 
 us.vsassets.com                                                                                      INACTIVE    DNSLOOKUP 
 utraffic.engine.adglare.net                                                                          INACTIVE    DNSLOOKUP 
+v-37.algovid.com                                                                                     INACTIVE    DNSLOOKUP 
 vaes.dub.amazon-adsystem.com                                                                         INACTIVE    DNSLOOKUP 
+vaes.iad.amazon-adsystem.com                                                                         INACTIVE    DNSLOOKUP 
 vaes.pdx.amazon-adsystem.com                                                                         INACTIVE    DNSLOOKUP 
 vaes.pdx.preprod.amazon-adsystem.com                                                                 INACTIVE    DNSLOOKUP 
 vaes-preprod.iad.amazon-adsystem.com                                                                 INACTIVE    DNSLOOKUP 
@@ -3558,6 +3591,7 @@ video-cdn.clinch.co                                                             
 videos.sonobi.com                                                                                    INACTIVE    DNSLOOKUP 
 vidyo.rubiconproject.com                                                                             INACTIVE    DNSLOOKUP 
 vm.boldchat.com                                                                                      INACTIVE    DNSLOOKUP 
+vmp.grapeshot.co.uk                                                                                  INACTIVE    DNSLOOKUP 
 voicefive-sb-wc.adtechus.com                                                                         INACTIVE    DNSLOOKUP 
 voxel.mpx.mopub.com                                                                                  INACTIVE    DNSLOOKUP 
 vox.urbanairship.com                                                                                 INACTIVE    DNSLOOKUP 
@@ -3607,7 +3641,9 @@ www.api.dynamicyield.com                                                        
 www.api.forter.com                                                                                   INACTIVE    DNSLOOKUP 
 www.api.thirdpresence.com                                                                            INACTIVE    DNSLOOKUP 
 www.app.adapt.io                                                                                     INACTIVE    DNSLOOKUP 
+www.app.graphly.io                                                                                   INACTIVE    DNSLOOKUP 
 www.app.mparticle.com                                                                                INACTIVE    DNSLOOKUP 
+www.appsha1.cointraffic.io                                                                           INACTIVE    DNSLOOKUP 
 www.atl-dc01.marketo.net                                                                             INACTIVE    DNSLOOKUP 
 www.audiencesuite.sizmek.com                                                                         INACTIVE    DNSLOOKUP 
 www.auth.k8s-test.fiksu.com                                                                          INACTIVE    DNSLOOKUP 
@@ -3620,6 +3656,7 @@ www.calq.io                                                                     
 www.cdn.bizible.com                                                                                  INACTIVE    DNSLOOKUP 
 www.cdn.bronto.com                                                                                   INACTIVE    DNSLOOKUP 
 www.cdp-staging.dataexchange.inmobi.com                                                              INACTIVE    DNSLOOKUP 
+www.clarity.corp.iap.inmobi.com                                                                      INACTIVE    DNSLOOKUP 
 www.clients.datamark.net                                                                             INACTIVE    DNSLOOKUP 
 www.cm.netseer.com                                                                                   INACTIVE    DNSLOOKUP 
 www.cmp.redpineapplemedia.mgr.consensu.org                                                           INACTIVE    DNSLOOKUP 
@@ -3641,6 +3678,7 @@ www.engineering.chartboost.com                                                  
 www.epm.marketo.net                                                                                  INACTIVE    DNSLOOKUP 
 www.faq.cointraffic.io                                                                               INACTIVE    DNSLOOKUP 
 www.get.funnelenvy.com                                                                               INACTIVE    DNSLOOKUP 
+www.go.paradym.com                                                                                   INACTIVE    DNSLOOKUP 
 www.gotime.backtrace.io                                                                              INACTIVE    DNSLOOKUP 
 www.gpu4001.ds.ams1.inmobi.com                                                                       INACTIVE    DNSLOOKUP 
 www.graylog.ops.ams1.inmobi.com                                                                      INACTIVE    DNSLOOKUP 
@@ -3668,6 +3706,8 @@ www.my.taboola.com                                                              
 www.obelix.mc.inmobi.com                                                                             INACTIVE    DNSLOOKUP 
 www.officewebapps.foresee.com                                                                        INACTIVE    DNSLOOKUP 
 www.origin-gizmo.sizmek.com                                                                          INACTIVE    DNSLOOKUP 
+www.partners.analyticson.com                                                                         INACTIVE    DNSLOOKUP 
+www.pdx-dc02.marketo.net                                                                             INACTIVE    DNSLOOKUP 
 www.pixel.criteo.net                                                                                 INACTIVE    DNSLOOKUP 
 www.plds4010.grid.dfw1.inmobi.com                                                                    INACTIVE    DNSLOOKUP 
 www.ppc.clickconvertsell.com                                                                         INACTIVE    DNSLOOKUP 
@@ -3676,6 +3716,7 @@ www.prod.vilynx.com                                                             
 www.promo.amplitude.com                                                                              INACTIVE    DNSLOOKUP 
 www.pushmejs.com                                                                                     INACTIVE    DNSLOOKUP 
 www.pushrev.content-ad.net                                                                           INACTIVE    DNSLOOKUP 
+www.pxi.pub                                                                                          INACTIVE    DNSLOOKUP 
 www.qaperf2-h-api.online-metrix.net                                                                  INACTIVE    DNSLOOKUP 
 www.r.bidswitch.net                                                                                  INACTIVE    DNSLOOKUP 
 www.red.dmpxs.com                                                                                    INACTIVE    DNSLOOKUP 
@@ -3702,6 +3743,7 @@ www.static.audienceinsights.net                                                 
 www.static.dynamicyield.com                                                                          INACTIVE    DNSLOOKUP 
 www.stg-ua.inmobi.com                                                                                INACTIVE    DNSLOOKUP 
 www.sugar.paradym.com                                                                                INACTIVE    DNSLOOKUP 
+www.tableau.marketo.com                                                                              INACTIVE    DNSLOOKUP 
 www.test2.analyticson.com                                                                            INACTIVE    DNSLOOKUP 
 www-test.outbrain.com                                                                                INACTIVE    DNSLOOKUP 
 www.tko-dc02.marketo.net                                                                             INACTIVE    DNSLOOKUP 
@@ -3722,4 +3764,5 @@ www.yodelmobilecouk.yodelmobile.com                                             
 www.zendesk.sizmek.com                                                                               INACTIVE    DNSLOOKUP 
 x.y.z.ihe-dev.jwpltx.com                                                                             INACTIVE    DNSLOOKUP 
 yg.srs.doubleverify.com                                                                              INACTIVE    DNSLOOKUP www.info.engagio.com                                                                                 INACTIVE    DNSLOOKUP www.mmm.ctrix.com                                                                                    INACTIVE    DNSLOOKUP demo-uk.adlearnop.advertising.com                                                                    INACTIVE    DNSLOOKUP growth.api.driftt.com                                                                                INACTIVE    DNSLOOKUP d05.smaato.net                                                                                       INACTIVE    DNSLOOKUP 
-z2.mookie1.com                                                                                       INACTIVE    DNSLOOKUP unrulyx-eu-031.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP prod.snackly.co                                                                                      INACTIVE    DNSLOOKUP r20---sn-p5qlsn7e.c.googlesyndication.com                                                            INACTIVE    DNSLOOKUP 
+yorkvillemarketing.engine.adglare.net                                                                INACTIVE    DNSLOOKUP 
+z2.mookie1.com                                                                                       INACTIVE    DNSLOOKUP unrulyx-eu-031.unrulymedia.com                                                                       INACTIVE    DNSLOOKUP prod.snackly.co                                                                                      INACTIVE    DNSLOOKUP r20---sn-p5qlsn7e.c.googlesyndication.com                                                            INACTIVE    DNSLOOKUP ssp.int.api.tappx.com                                                                                INACTIVE    DNSLOOKUP 
