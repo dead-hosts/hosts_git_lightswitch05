@@ -2697,8 +2697,8 @@ assets.acceptance.sharethrough.com
 assets-acceptance.sharethrough.com
 assets.prebid.org
 assets.sharethrough.com
-assets.staging.sharethrough.com
 assets-staging.sharethrough.com
+assets.staging.sharethrough.com
 assets-ue1.perf.pardot.com
 assist.itnow.netat1.listrakbi.comassist.skimresources.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -3124,6 +3124,7 @@ creativecentral.advertising.com
 creatives.acceptance.sharethrough.com
 crypt.aws.branch.io
 csp.criteo.com
+cs.rubiconproject.com
 c.staging.ina.media.net
 ctr0181.pixel.printsites.net
 curation.permutive.com
@@ -3212,6 +3213,7 @@ dmp.doubleclick.net
 dna1.mookie1.com
 dn.krxd.net
 dns-aus.returnpath.net
+dn.socialannex.com
 doc.adtech.de
 dollarshaveclub-002.insnw.net
 doorman.msas.media.net
@@ -3224,6 +3226,7 @@ dsp4.datamind.ru
 dspbuilder.rubiconproject.com
 dsp-link2.adpiano.com
 dsp-link3.adpiano.com
+dsp-link7.adpiano.com
 dsp-link8.adpiano.com
 dsp-token.aws.rubiconproject.com
 dtac.tapad.com
@@ -3340,6 +3343,7 @@ fra-lb9.eu.adsymptotic.com
 freeitunestvshow.siliconorchard.com
 fr.eu.criteo.net
 fr.fc.yahoo.com
+fr.np.adproxy.ndmdhs.com
 fr.support.appsflyer.com
 fsuser.advertising.com
 ftb.gumgum.com
@@ -3404,6 +3408,7 @@ iam-sb-fra.adtech.de
 ic.shoofle.tv
 identity-prd.svc.tapad.com
 idp.adsrvr.org
+idstat.taboola.com
 idsync.mparticle.com
 ifc2.vip.hkg1.inmobi.com
 ifc2-vip-uh1.inmobi.com
@@ -3430,6 +3435,7 @@ img-origin-us-west-1.prod.adtech.de
 impressions.fiksu.com
 imspro.adtechus.com
 inapp.districtm.io
+info.hiconversion.com
 infosec.thunderhead.com
 info.vsassets.com
 infrastructure.k8s.tst.returnpath.net
@@ -3439,10 +3445,12 @@ ingest-qa.kube-prod.vungle.com
 inline.sharethis.com
 insight.exelator.com
 insights-eu.swrve.com
+insights.sharethrough.com
 inskin-ams.gscontxt.net
 in.tags.vizury.com
 intag.thirdpresence.com
 integration.corp.mixpanel.com
+integration.one-demo.convertro.com
 integrations-hub-dev.svc.kargo.com
 integrations-hub.staging.us-east-1.kops.kargo.com
 intel-mock-api.dynamicyield.com
@@ -3506,6 +3514,7 @@ kibana.tracker.fyber.com
 kiosked.thirdpresence.com
 klp.rt.cquotient.com
 kolmob.thirdpresence.com
+kr.np.adproxy.ndmdhs.com
 ksfmedia-karkimedia.thirdpresence.com
 ks.mynativeplatform.com
 kvmlehti-karkimedia.thirdpresence.com
@@ -3538,6 +3547,7 @@ lehtiyhtyma-karkimedia.thirdpresence.com
 lexid.staging.us-east-1.kops.kargo.com
 lga-ads-weighted.contextweb.com
 lga-bid-weighted.contextweb.com
+lga.contextweb.com
 lga-tag-stage00.contextweb.com
 l-idsync.rlcdn.com
 linear-stg-v1.stg.linear.aws.fwmrm.net
@@ -3578,6 +3588,7 @@ lyncwsext.foresee.com
 lyncwsint.foresee.com
 mads.aol.com.adcom.akadns.net
 mads-fe.amazon-adsystem.com
+madsuk.at.atwola.com
 mail4.bms.imprev.net
 mail7.bms.imprev.net
 mail.airvertiseme.com
@@ -3595,6 +3606,7 @@ matcher-apx.bidder7.mookie1.com
 matcher-pbm.bidder7.mookie1.com
 matcher-pbm.bidder9.mookie1.com
 matcher-rbc.bidder9.mookie1.com
+materiais.inlocomedia.com
 mattermost.gitlab.gcp.datamind.ru
 maven.optimizely.com
 mbe-cdn-rtb.fyber.com
@@ -3622,6 +3634,7 @@ mindflash-api.cs.keen.io
 minha.inlocomedia.com
 mk.marketing365.mk
 mktopodab011.marketo.com
+mobile.ace.advertising.com
 mobile.ace.advertising.com.adcom.akadns.net
 mobile.analytics.yahoo.com
 mobileup.count.ly
@@ -3655,6 +3668,7 @@ n1198.epom.com
 n140.epom.com
 n289.epom.com
 n44.epom.com
+na2.thunderhead.com
 nanovisor-ssl.svc.insnw.net
 na-qa.marketo.com
 n.as1.dyntrk.com
@@ -3763,6 +3777,7 @@ partners.appsflyer.com
 pastorchrislive.thirdpresence.com
 pathmatics.eu-west-1.stinger-ad.bidr.io
 pba.lijit.com
+pcissl001.insnw.net
 pc.sharethrough.com
 pdx.amazon-adsystem.com
 peaks201901311747328.saas.appdynamics.com
@@ -3807,6 +3822,7 @@ post-scans.bandwidthx.net
 post.update.criteo.com
 pr.atwola.com
 prclick.inmobi.com
+prd-collector-anon-video.playbuzz.com
 preferences.returnpath.net
 prem.qa1.exacttarget.com
 preprod.criteo.com
@@ -3818,11 +3834,13 @@ pri-adserver-origin-ap-southeast-1.prod.adtechjp.com
 prod.bidr.io
 prod.branch.io
 prod.curalate.com
+prod.internal.curalate.com
 prod.kargo.com
 prod.pixel.printsites.net
 prod.snackly.co
 productanalyticsplaybook.amplitude.com
 production.eu-west-2.kops.kargo.com
+production-us.internal.tenjin.com
 products.hlserve.com
 product.staging.adwyze.com
 prod.us-west-1.kops.kargo.com
@@ -3845,6 +3863,7 @@ push.sumo.com
 pxl.ace.advertising.com
 pxl.ace.advertising.com.adcom.akadns.net
 qa20api.xtify.com
+qa3.pfa.gcp.datamind.ru
 qa4.pfa.gcp.datamind.ru
 qa-ads-ban.advertising.com
 qaconsole.ibm.xtify.com
@@ -3917,10 +3936,12 @@ riju.ittest.33across.com
 rmevent.advertising.com
 rm.pxl.ace.advertising.com
 rnd-gke-test.rnd.gcp.datamind.ru
+roadmap.prod.paperg.com
 rollhands.adroll.com
 romtek.theappgrader.com
 rpnyanc01.corp.returnpath.net
 rpt.rad.atdmt.com
+rrd.rlcdn.com
 rsapi.zemanta.com
 rtb-china-1.vizury.com
 rtb-events.streamrail.net
@@ -3946,6 +3967,7 @@ s14.socialannex.com
 s14.urbaninsight.com
 s16.optvdo.com
 s18.optvdo.com
+s19.optvdo.com
 s1ns1.adtechjp.com
 s1ns1.adtechus.com
 s1.shoofle.tv
@@ -4104,6 +4126,7 @@ sso-dev.staging.us-east-1.kops.kargo.com
 ssp.content-ad.net
 ssp.dev.tappx.com
 ssp-events.streamrail.net
+ssp-fe-us-e2.content-ad.net
 ssp-px.content-ad.net
 ssp-test-sc.bidswitch.net
 sspx.streamrail.net
@@ -4263,6 +4286,7 @@ ums.adtechjp.com
 ums.glb.adtech.de
 ums-sb-ec.adtechus.com
 undefined.fls.doubleclick.net
+unicast2-stb.metric.gstatic.com
 unicast.metric.gstatic.com
 unicast-stb.metric.gstatic.com
 unir.facebook-ads.adtz.com
@@ -4323,15 +4347,18 @@ unrulyx-sg-187.unrulymedia.com
 unrulyx-sg-191.unrulymedia.com
 unrulyx-sg-199.unrulymedia.com
 unrulyx-sg-200.unrulymedia.com
+unrulyx-sg-201.unrulymedia.com
 unrulyx-sg-202.unrulymedia.com
 unrulyx-sg-203.unrulymedia.com
 unrulyx-us-003.unrulymedia.com
 unrulyx-us-004.unrulymedia.com
 unrulyx-us-012.unrulymedia.com
 unrulyx-us-015.unrulymedia.com
+unrulyx-us-020.unrulymedia.com
 unrulyx-us-024.unrulymedia.com
 unrulyx-us-025.unrulymedia.com
 unrulyx-us-027.unrulymedia.com
+unrulyx-us-029.unrulymedia.com
 unrulyx-us-030.unrulymedia.com
 unrulyx-us-033.unrulymedia.com
 unrulyx-us-037.unrulymedia.com
@@ -4370,6 +4397,7 @@ use-foreman4.use.adsrvr.org
 use-foremanproxy1.use.adsrvr.org
 userfile.gaeadata.com
 users.bidsimulator.com
+user-sync.videoamp.com
 us.gmads.mookie1.com
 us.lb.mediabong.net
 us.rmevent.advertising.com
@@ -4432,11 +4460,13 @@ vtrack.aniview.com
 vtyo-rtb1.rfihub.net
 vungle.akadns.net
 vx.jsrdn.com
+w.ams1.appgw2.inmobi.com
 w.ams1.appgw.inmobi.com
 w.e0mn.com
 web2.monarchads.com
 web5.monarchads.com
 web6.monarchads.com
+web.analytics.yahoo.com
 webapp.lootsie.com
 webcast.rubiconproject.com
 webconf.thunderhead.com
@@ -4449,6 +4479,7 @@ webdisk.yodelmobilelondon.yodelmobile.com
 webinars.intercom.io
 webserve-2e5ca51.use.dynamicyield.com
 webserve-552a232.euw1.dynamicyield.com
+webserve-75a1d5f9.euw1.dynamicyield.com
 webserve-75bc668d.use.dynamicyield.com
 webserve-a97ecca.use.dynamicyield.com
 webserve-da888e9.euw1.dynamicyield.com
@@ -4462,6 +4493,7 @@ whirlpool.sp1.convertro.com
 widget.be.eu.criteo.com
 widget.dynamic.advertising.com
 widgets.curalate.com
+wisedatamedia.thirdpresence.com
 wmt.hlserve.com
 workflows.sandbox53.localytics.com
 wprp.zemanta.com
@@ -4529,6 +4561,7 @@ www.appsha1.cointraffic.io
 www.array.datamark.net
 www.assets.pcrl.co
 www.atl-dc01.marketo.net
+www.atp.mxptint.net
 www.audiencesuite.sizmek.com
 www.authentication-staging.demandbase.com
 www.auth.k8s-test.fiksu.com
@@ -4671,6 +4704,7 @@ www.lootsie.com
 www.m32cmp.mgr.consensu.org
 www.mail.maxpoint.com
 www.manual.dsp.analyticson.com
+www.marketplace.analyticson.com
 www.mavericks.marketo.com
 www.mixmaintainbestaflash.icu
 www.mlc.mxptint.net
@@ -4854,4 +4888,4 @@ z2.mookie1.cominfo.convertro.commgr.consensu.orgr20---sn-p5qlsn7e.c.googlesyndic
 zeiterasearch.extremereach.com
 z.rkdms.com
 ztest.thunderhead.com
-zulip.dynamicyield.comwww.aep.emea.mxptint.netwww.crm-preview.dynamicyield.comwww.m.preapps.comrebuildxxsdrfght.yodelmobile.comsm-dc03.marketo.netus-east.tlx.3lift.comwsc3_2.webspectator.comdev.ppe.applicationinsights.microsoft.compartner9.adpiano.comwww.marketing.dynamicyield.comwww.xpass.xtify.comimg-7.3lift.comwww.js-cdn.dynatrace.comwww.sj-dc02.marketo.netunrulyx-sg-025.unrulymedia.commkto-f0054.comsecure.ace.advertising.com.adcom.akadns.netpartners.analyticson.comgogoogle.aniview.comvideo.revcontent.comexcas04.tf-net.tribalfusion.comet.w.ams1.appgw.inmobi.comtls.adpiano.com
+zulip.dynamicyield.comwww.aep.emea.mxptint.netwww.crm-preview.dynamicyield.comwww.m.preapps.comrebuildxxsdrfght.yodelmobile.comsm-dc03.marketo.netus-east.tlx.3lift.comwsc3_2.webspectator.comdev.ppe.applicationinsights.microsoft.compartner9.adpiano.comwww.marketing.dynamicyield.comwww.xpass.xtify.comimg-7.3lift.comwww.js-cdn.dynatrace.comwww.sj-dc02.marketo.netunrulyx-sg-025.unrulymedia.commkto-f0054.comsecure.ace.advertising.com.adcom.akadns.netpartners.analyticson.comgogoogle.aniview.comvideo.revcontent.comexcas04.tf-net.tribalfusion.comet.w.ams1.appgw.inmobi.comtls.adpiano.comwww.sutdio.glance.inmobi.com
