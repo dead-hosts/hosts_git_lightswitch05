@@ -2697,8 +2697,8 @@ assets-acceptance.sharethrough.com
 assets.acceptance.sharethrough.com
 assets.prebid.org
 assets.sharethrough.com
-assets.staging.sharethrough.com
 assets-staging.sharethrough.com
+assets.staging.sharethrough.com
 assets-ue1.perf.pardot.com
 assist.itnow.netat1.listrakbi.comassist.skimresources.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -3178,6 +3178,7 @@ ddscaptions.rt.cquotient.com
 dds.rt.cquotient.com
 debug.api.activision.swrve.com
 dege.quantserve.com
+delivery1.altitude-arena.com
 delivery6.altitude-arena.com
 delivery.analyticson.com
 delivery.sv.d2.omtrdc.net
@@ -3196,6 +3197,7 @@ dev.applicationinsights.microsoft.com
 dev.bnc.lt
 dev.buzzdeck.com
 dev-cdn.districtm.io
+dev.corp.mparticle.com
 dev-dmx.districtm.io
 dev.extremereach.com
 dev.lab.tune.com
@@ -3250,6 +3252,7 @@ dyn-pixel.mathtag.com
 e3.geo.adpushup.com
 east.webftp.dev.extremereach.com
 eatpixel.app.returnpath.net
+ebsdrdisc.cs.rubiconproject.com
 ebsproddisc.cs.rubiconproject.com
 ec1-a.thirdpresence.com
 ec1-v.thirdpresence.com
@@ -3459,6 +3462,7 @@ insights.sharethrough.com
 inskin-ams.gscontxt.net
 in.tags.vizury.com
 intag.thirdpresence.com
+integ.cdn.emp.exelator.com
 integration.corp.mixpanel.com
 integration.one-demo.convertro.com
 integrations-hub-dev.svc.kargo.com
@@ -3652,6 +3656,7 @@ mindflash-api.cs.keen.io
 minha.inlocomedia.com
 mk.marketing365.mk
 mktopodab011.marketo.com
+mkto-sj070017.com
 mobile.ace.advertising.com
 mobile.ace.advertising.com.adcom.akadns.net
 mobile.analytics.yahoo.com
@@ -3663,6 +3668,7 @@ mp.advertising.com
 mp.rlcdn.com
 mps-ws.adtechus.com
 mra-aus.returnpath.net
+mra-d1.returnpath.net
 mrb-ci.returnpath.net
 mrb-d2.returnpath.net
 m.reddit.co
@@ -3711,6 +3717,7 @@ ngapi.app.returnpath.net
 nj1.yext.com
 node.pixel.optimalq.net
 node.playbuzz.com
+nonprod-classic-rest-api.dev.adtechus.com
 nordicleads.engine.adglare.net
 notify.xtify.com
 np.adproxy.ndmdhs.com
@@ -3826,6 +3833,8 @@ pixel.redditmedia.com
 pixel.tmathtag.com
 platform-api.placeyourview.com
 play-qa.syndicaster.tv
+p-lb11.eu.adsymptotic.com
+p-lb14.eu.adsymptotic.com
 p-lb15.eu.adsymptotic.com
 p-lb16.eu.adsymptotic.com
 p-lb18.eu.adsymptotic.com
@@ -3838,6 +3847,7 @@ pnc-rtb1.rfihub.net
 poc10.celebrus.com
 poc11.celebrus.com
 poc7.celebrus.com
+pocketgems.us-west-2.stinger-ad.bidr.io
 pool.gscontxt.net
 pops.staging.fastly-insights.com
 post-scans.bandwidthx.net
@@ -3870,8 +3880,8 @@ prometheus.msas.media.net
 prom.fullstory.com
 promotions.skype.com
 prontera.inlocomedia.com
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 proximity.juicemobile.com
 proxy-ssl.placeyourview.com
 proxy.us-west-2.world.rw.yieldmo.com
@@ -3889,6 +3899,7 @@ qa3.pfa.gcp.datamind.ru
 qa4.pfa.gcp.datamind.ru
 qa-ads-ban.advertising.com
 qaconsole.ibm.xtify.com
+qadfw2.lijit.com
 qadynamics.marketo.com
 qa-moments.advertising.com
 qasdk.api.xtify.com
@@ -4048,6 +4059,7 @@ scheduler.foresee.com
 scmetrics.exacttarget.com
 sc.omtrdc.net
 scorecardresearch.com.edgekey.net
+sdkm.w.ams1.appgw.inmobi.com
 search.advertisingbox.com
 seb.scorecardresearch.com
 secure.ace1.advertising.com
@@ -4122,11 +4134,13 @@ socialab-nginx-lb.global.prod1.sharethis.net
 socialab.sharethis.com
 social-data-collection.playbuzz.com
 socket.adpushup.com
+so.extremereach.com
 soma-live-load.smaato.net
 soma-transition.smaato.net
 somespider-ash.gscontxt.net
 something-event.spotxchange.com
 something-search.spotxchange.com
+sonic-dev.supersonicads.com
 s-open.ad.yieldmanager.net
 spaceshuttle.engine.adglare.net
 spartacs.thirdpresence.com
@@ -4148,6 +4162,7 @@ srv3.adpiano.com
 srv9.adpiano.com
 srv.dco.advertising.com
 srv-eu-ldn-5.buysellads.com
+srv-eu-nl-6.buysellads.com
 srv-sg-sgp-2.buysellads.com
 srv-us-ny-7.buysellads.com
 ssl001-reval.insnw.net
@@ -4161,6 +4176,7 @@ ssp-fe-us-e2.content-ad.net
 ssp-px.content-ad.net
 ssp-test-sc.bidswitch.net
 sspx.streamrail.net
+s.static.ads-twitter.com
 stage.convertro.com
 stage.guce.convertro.com
 stage-www.demandbase.com
@@ -4192,6 +4208,7 @@ status.driftt.com
 stbcast3-stb.metric.gstatic.com
 stbcast4.metric.gstatic.com
 stbcast5-stb.metric.gstatic.com
+stbcast.metric.gstatic.com
 st.extremereach.com
 stg.ads.internal.unity3d.com
 stgads.undertone.com
@@ -4201,6 +4218,7 @@ stg-reports.web.analytics.yahoo.com
 stinger-ad.bidr.io
 stinger.us-east-1.stinger-ad.bidr.io
 sto.midasplayer.com
+stream-widget-lb.global.prod1.sharethis.net
 stroerinteractive.engine.adglare.net
 struq-emea.quantserve.com
 struq-uswest.quantserve.com
@@ -4212,6 +4230,7 @@ surveymonkey.sp1.convertro.com
 survey.tapad.com
 sutdio.glance.inmobi.com
 svc.kargo.com
+sv.d2.omtrdc.net
 svr1.east.cloud.ftp.extremereach.com
 svr2.east.cloud.ftp.extremereach.com
 svr2.west.cloud.ftp.extremereach.com
@@ -4247,6 +4266,7 @@ telstra.inscname.net
 temp-p2.eu.adsymptotic.com
 temp-p3.eu.adsymptotic.com
 temp-p4.eu.adsymptotic.com
+ter-adserver-c-origin-ap-northeast-1.prod.adtechjp.com
 terminix.sp1.convertro.com
 terraform-modules-test.intercom.io
 test2-adserver.adtech.de
@@ -4384,8 +4404,10 @@ unrulyx-sg-200.unrulymedia.com
 unrulyx-sg-201.unrulymedia.com
 unrulyx-sg-202.unrulymedia.com
 unrulyx-sg-203.unrulymedia.com
+unrulyx-sg-206.unrulymedia.com
 unrulyx-us-003.unrulymedia.com
 unrulyx-us-004.unrulymedia.com
+unrulyx-us-007.unrulymedia.com
 unrulyx-us-012.unrulymedia.com
 unrulyx-us-015.unrulymedia.com
 unrulyx-us-020.unrulymedia.com
@@ -4413,6 +4435,7 @@ unrulyx-us-170.unrulymedia.com
 unrulyx-us-172.unrulymedia.com
 update.thunderhead.com
 us1-00000012.userreplay.net
+us1-00000021.userreplay.net
 us1-00000022.userreplay.net
 us1-00000024.userreplay.net
 us1-00000027.userreplay.net
@@ -4600,6 +4623,7 @@ www.apps.cointraffic.io
 www.appsha1.cointraffic.io
 www.array.datamark.net
 www.assets.pcrl.co
+www.a.thirdpresence.com
 www.atl-dc01.marketo.net
 www.atp.mxptint.net
 www.audiencesuite.sizmek.com
@@ -4702,6 +4726,7 @@ www.go.paradym.com
 www.gotime.backtrace.io
 www.gpu4001.ds.ams1.inmobi.com
 www.graylog.ops.ams1.inmobi.com
+www.graylog.ops.dfw1.inmobi.com
 www.graylog.ops.pek1.inmobi.com
 www.hackathon.dynamicyield.com
 www.hackers.adpushup.com
@@ -4901,6 +4926,7 @@ www.vortex.hulu.com
 www.vt.myvisualiq.net
 www.vtrk.doubleverify.com
 www.wavesecure.com
+www.web01.socialannex.com
 www.web02.socialannex.com
 www.web03.socialannex.com
 www.web12.socialannex.comwww.fdc.tapjoy.com
@@ -4916,11 +4942,13 @@ www.webshotcdn.dynamicyield.com
 www.webshot.dynamicyield.com
 www.workdaylab.exponential.com
 www.x.bidswitch.net
+www.xray.corp.inmobi.com
 www.yodelmobilecouk.yodelmobile.com
 www.zendesk.sizmek.com
 xch.media.net
 xray.corp.inmobi.com
 xsdk.adkmob.com
+xtest.thunderhead.com
 x.y.z.ihe-dev.jwpltx.com
 yampapi-prod.flurry.com
 yampapi-staging.flurry.com
@@ -4935,4 +4963,4 @@ z2.mookie1.cominfo.convertro.commgr.consensu.orgr20---sn-p5qlsn7e.c.googlesyndic
 zeiterasearch.extremereach.com
 z.rkdms.com
 ztest.thunderhead.com
-zulip.dynamicyield.comwww.aep.emea.mxptint.netwww.crm-preview.dynamicyield.comwww.m.preapps.comrebuildxxsdrfght.yodelmobile.comsm-dc03.marketo.netus-east.tlx.3lift.comwsc3_2.webspectator.comdev.ppe.applicationinsights.microsoft.compartner9.adpiano.comwww.marketing.dynamicyield.comwww.xpass.xtify.comimg-7.3lift.comwww.js-cdn.dynatrace.comwww.sj-dc02.marketo.netunrulyx-sg-025.unrulymedia.commkto-f0054.comsecure.ace.advertising.com.adcom.akadns.netpartners.analyticson.comgogoogle.aniview.comvideo.revcontent.comexcas04.tf-net.tribalfusion.comet.w.ams1.appgw.inmobi.comtls.adpiano.comwww.sutdio.glance.inmobi.comnewlam28.yieldmo.comwww.referral.supersonic.com
+zulip.dynamicyield.comwww.aep.emea.mxptint.netwww.crm-preview.dynamicyield.comwww.m.preapps.comrebuildxxsdrfght.yodelmobile.comsm-dc03.marketo.netus-east.tlx.3lift.comwsc3_2.webspectator.comdev.ppe.applicationinsights.microsoft.compartner9.adpiano.comwww.marketing.dynamicyield.comwww.xpass.xtify.comimg-7.3lift.comwww.js-cdn.dynatrace.comwww.sj-dc02.marketo.netunrulyx-sg-025.unrulymedia.commkto-f0054.comsecure.ace.advertising.com.adcom.akadns.netpartners.analyticson.comgogoogle.aniview.comvideo.revcontent.comexcas04.tf-net.tribalfusion.comet.w.ams1.appgw.inmobi.comtls.adpiano.comwww.sutdio.glance.inmobi.comnewlam28.yieldmo.comwww.referral.supersonic.commodcloth.sp1.convertro.com
