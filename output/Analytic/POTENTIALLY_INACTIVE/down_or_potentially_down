@@ -868,11 +868,11 @@
 4x6r.adj.st                                                                                          ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
 4x6sa.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
 4x-6s.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
+4-x6s.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
+4x.6s.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
+4.x6s.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
 4x6-s.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
 4x6.s.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
-4x.6s.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
-4-x6s.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
-4.x6s.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
 4x6.s.adj.st                                                                                         ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019
 4x6sd.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
 4x6se.adj.st                                                                                         ACTIVE      ***        Sun 19 May 13:05:08 UTC 2019
@@ -2600,6 +2600,7 @@ aax-opf-us-east.amazon-adsystem.com                                             
 aax-us.amazon-adsystem.amazon.com                                                                    ACTIVE      ***        Sun 19 May 16:05:22 UTC 2019
 aax-us.amazon-adsystem.com                                                                           ACTIVE      ***        Sun 19 May 16:05:22 UTC 2019
 aax-us-cpm.amazon-adsystem.amazon.com                                                                ACTIVE      ***        Sun 19 May 16:05:22 UTC 2019
+aax-us-cpm.amazon-adsystem.amazon.com                                                                ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 aax-us-east.amazon-adsystem.com                                                                      ACTIVE      ***        Sun 19 May 16:05:22 UTC 2019
 aax-us-east-rtb.amazon-adsystem.com                                                                  ACTIVE      ***        Sun 19 May 16:05:22 UTC 2019
 aax-us-east-test3.amazon-adsystem.com                                                                ACTIVE      ***        Sun 19 May 16:05:22 UTC 2019
@@ -2793,8 +2794,8 @@ adyoulike-api.omnitagjs.com                                                     
 adyoulike.api.omnitagjs.com                                                                          ACTIVE      ***        Sun 19 May 17:05:35 UTC 2019
 adyoulike.apt.omnitagjs.com                                                                          ACTIVE      ***        Sun 19 May 17:05:35 UTC 2019
 adyoulike-dyn.omnitagjs.com                                                                          ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
-adyoulike.dyn.omnitagjs.com                                                                          ACTIVE      ***        Sun 19 May 17:05:35 UTC 2019
 adyoulike-dyn.omnitagjs.com                                                                          ACTIVE      ***        Sun 19 May 17:05:35 UTC 2019
+adyoulike.dyn.omnitagjs.com                                                                          ACTIVE      ***        Sun 19 May 17:05:35 UTC 2019
 adyoulike.omnitagjs.com                                                                              ACTIVE      ***        Sun 19 May 17:05:35 UTC 2019
 adyoulike-preview-09.api.omnitagjs.com                                                               ACTIVE      ***        Sun 19 May 17:05:35 UTC 2019
 adyoulike.ssp.omnitagjs.com                                                                          ACTIVE      ***        Sun 19 May 17:05:35 UTC 2019
@@ -4041,8 +4042,8 @@ cloudera.demdex.net                                                             
 cloudera.tt.omtrdc.net                                                                               ACTIVE      ***        Mon 20 May 01:05:13 UTC 2019
 cloudflare.cdneval.adnxs.com                                                                         ACTIVE      ***        Mon 20 May 01:05:13 UTC 2019
 cloudservices.roku.com                                                                               ACTIVE      ***        Mon 20 May 01:05:13 UTC 2019
-cloud.video.unrulymedia.com                                                                          ACTIVE      ***        Mon 20 May 01:05:13 UTC 2019
 cloud-video.unrulymedia.com                                                                          ACTIVE      ***        Mon 20 May 01:05:13 UTC 2019
+cloud.video.unrulymedia.com                                                                          ACTIVE      ***        Mon 20 May 01:05:13 UTC 2019
 cl.s5.exct.net                                                                                       ACTIVE      ***        Mon 20 May 01:05:13 UTC 2019
 cl-stg.perimeterx.net                                                                                ACTIVE      ***        Mon 20 May 01:05:13 UTC 2019
 cl.test.exct.net                                                                                     ACTIVE      ***        Mon 20 May 01:05:13 UTC 2019
@@ -4089,6 +4090,7 @@ collector-px54pltfoq.perimeterx.net                                             
 collector-px5j5h9cc2.perimeterx.net                                                                  ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
 collector-px69t0ouvr.perimeterx.net                                                                  ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019
 collector-px6ejs0kwo.perimeterx.net                                                                  ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019
+collector-px7vv0zost.perimeterx.net                                                                  ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 collector-px81wk13v6.perimeterx.net                                                                  ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
 collector-px89p1cyql.perimeterx.net                                                                  ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
 collector-px9gxgqy6v.perimeterx.net                                                                  ACTIVE      ***        Tue 21 May 00:05:04 UTC 2019
@@ -4107,6 +4109,7 @@ collector-pxj8il5nks.perimeterx.net                                             
 collector-pxk266ff2d.perimeterx.net                                                                  ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019
 collector-pxk8l5v12h.perimeterx.net                                                                  ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019
 collector-pxkgkikzzj.perimeterx.net                                                                  ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
+collector-pxkj3yf9nf.perimeterx.net                                                                  ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 collector-pxob5twirq.perimeterx.net                                                                  ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 collector-pxofrh1wnk.perimeterx.net                                                                  ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
 collector-pxp2tbvnjz.perimeterx.net                                                                  ACTIVE      ***        Tue 21 May 00:05:59 UTC 2019
@@ -4131,6 +4134,7 @@ connect.rubiconproject.com                                                      
 connectx.inmobi.com                                                                                  ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019
 consult.taboola.com                                                                                  ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
 content.appboy.com                                                                                   ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
+content.pilot.silverpop.com                                                                          ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 content.sharethrough.com                                                                             ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
 control.kochava.com                                                                                  ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
 conttest.mookie1.com                                                                                 ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019
@@ -4144,6 +4148,7 @@ copesa.demdex.net                                                               
 coppel-standby.insnw.net                                                                             ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019
 cor.allinviews.com                                                                                   ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
 cor.beeviewd.com                                                                                     ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
+cor.bestcontentonline.com                                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 coreronetworksecurity.mktoweb.com                                                                    ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019
 core.vntsm.com                                                                                       ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019
 cornerbanca.demdex.net                                                                               ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
@@ -4162,6 +4167,7 @@ creative.sonobi.com                                                             
 creatives.smaato.net                                                                                 ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
 creditexpert.tt.omtrdc.net                                                                           ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019
 creditsafebusinessso.tt.omtrdc.net                                                                   ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
+creditsafebusinessso.tt.omtrdc.net                                                                   ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 crid.bfmio.com                                                                                       ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
 cr.silverpush.co                                                                                     ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019
 cru.demdex.net                                                                                       ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019
@@ -4179,6 +4185,7 @@ cybertron-cdn.kampyle.com                                                       
 cylance.tt.omtrdc.net                                                                                ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
 d50media.containers.piwik.pro                                                                        ACTIVE      ***        Mon 20 May 19:05:48 UTC 2019
 da1.listrakbi.com                                                                                    ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
+d.admp.io                                                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 dardenrestaurants.demdex.net                                                                         ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
 dashboard-assets.fiksu.com                                                                           ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
 data-ingress-ae1.tapad.com                                                                           ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
@@ -4196,6 +4203,7 @@ deere.tt.omtrdc.net                                                             
 delivery-insights.snapads.com                                                                        ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
 dell.demdex.net                                                                                      ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019
 deloittetouchetohmat.tt.omtrdc.net                                                                   ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
+deltacomfort-mkt-prod1.campaign.adobe.com                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 delta.demdex.net                                                                                     ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
 demandwarecrocs.demdex.net                                                                           ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
 de.mobile.lc.wix.com                                                                                 ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
@@ -4256,6 +4264,7 @@ eboks.containers.piwik.pro                                                      
 eccdn.yext.com                                                                                       ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
 ecobee.demdex.net                                                                                    ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019
 ecosystem.demdex.net                                                                                 ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019
+ecto.flurry.com                                                                                      ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 ed83.adj.st                                                                                          ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
 edaa.sharethis.com                                                                                   ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
 edgy.inmobi.com                                                                                      ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
@@ -4288,11 +4297,13 @@ eqv-248.eqv-rtb1.rfihub.net                                                     
 eqv-297.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
 eqv-303.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
 eqv-315.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
+eqv-318.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 eqv-343.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
 eqv-351.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
 eqv-364.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 23:05:08 UTC 2019
 eqv-366.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
 eqv-382.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
+eqv-398.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 eqv-423.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Tue 21 May 00:05:04 UTC 2019
 eqv-439.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
 eqv-446.eqv-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
@@ -4339,6 +4350,7 @@ events.undertone.com                                                            
 events.whisk.com                                                                                     ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019
 event-tracker.production.fiksu.com                                                                   ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
 evqaaahrhnwen.everesttech.net                                                                        ACTIVE      ***        Tue 21 May 00:05:04 UTC 2019
+ewr-126.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 ewr-127.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
 ewr-129.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 ewr-135.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
@@ -4375,6 +4387,7 @@ ewr-392.ewr-rtb1.rfihub.net                                                     
 ewr-393.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
 ewr-395.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
 ewr-415.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019
+ewr-421.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 ewr-426.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019
 ewr-432.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 ewr-454.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019
@@ -4428,6 +4441,7 @@ fast.polycominc.demdex.net                                                      
 fast.sears.demdex.net                                                                                ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019
 fast.swisscom.demdex.net                                                                             ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
 fast.thesalvationarmy.demdex.net                                                                     ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
+fast.tv2.demdex.net                                                                                  ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 fast.westernunion.demdex.net                                                                         ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 faui.listrakbi.com                                                                                   ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
 fcaemea.demdex.net                                                                                   ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019
@@ -4487,6 +4501,7 @@ gce-jp.bidswitch.net                                                            
 gdpr-api.k.sharethis.net                                                                             ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019
 gdpr-service.herokuapp.com                                                                           ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
 gdtconfig.gaeadata.com                                                                               ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
+geico.demdex.net                                                                                     ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 gekko.spiceworks.com                                                                                 ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
 geo.moatads.com                                                                                      ACTIVE      ***        Mon 20 May 23:05:08 UTC 2019
 geo.smartadserver.mgr.consensu.org                                                                   ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
@@ -4684,11 +4699,13 @@ it.adserver.yahoo.com                                                           
 itau.demdex.net                                                                                      ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
 ithakaharbors.tt.omtrdc.net                                                                          ACTIVE      ***        Mon 20 May 23:05:08 UTC 2019
 iubenda.mgr.consensu.org                                                                             ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
+i.w.dfw1.vip.inmobi.com                                                                              ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 jact.atdmt.com                                                                                       ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
 jcrew.demdex.net                                                                                     ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
 jetstar.demdex.net                                                                                   ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
 jfe.qualtrics.com                                                                                    ACTIVE      ***        Tue 21 May 00:05:59 UTC 2019
 jimpattison.demdex.net                                                                               ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019
+jita.rtk.io                                                                                          ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 jjew.adj.st                                                                                          ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
 jmn3.adj.st                                                                                          ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
 jn8g.adj.st                                                                                          ACTIVE      ***        Tue 21 May 00:05:04 UTC 2019
@@ -4719,6 +4736,7 @@ keymaker-alpha.go.sonobi.com                                                    
 kits.crashlytics.com                                                                                 ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019
 kongregate2.insnw.net                                                                                ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
 kpmg.demdex.net                                                                                      ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
+kr.adserver.yahoo.com                                                                                ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 kraken.production.us-east-1.kops.kargo.com                                                           ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019
 krk.kargo.com                                                                                        ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
 kroger.demdex.net                                                                                    ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
@@ -4929,6 +4947,7 @@ nigella.grapeshot.co.uk                                                         
 nike.demdex.net                                                                                      ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
 nissan-helios-na.demdex.net                                                                          ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019
 nj8g.adj.st                                                                                          ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
+njmaxadsrtb.lfstmedia.com                                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 njn8g.adj.st                                                                                         ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019
 njunityrtb.lfstmedia.com                                                                             ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
 nmn8g.adj.st                                                                                         ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019
@@ -4939,6 +4958,7 @@ nn8bg.adj.st                                                                    
 nn8e.adj.st                                                                                          ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
 nn-8g.adj.st                                                                                         ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019
 nn8.g.adj.st                                                                                         ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019
+nn8-g.adj.st                                                                                         ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 nn8gf.adj.st                                                                                         ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
 nn8gg.adj.st                                                                                         ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019
 nn8gt.adj.st                                                                                         ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
@@ -4972,6 +4992,7 @@ oaklawnmarketing.tt.omtrdc.net                                                  
 odbcacher.outbrain.com                                                                               ACTIVE      ***        Tue 21 May 00:05:59 UTC 2019
 officeworks.demdex.net                                                                               ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019
 offlineattrib.adsrvr.org                                                                             ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
+okaidi.demdex.net                                                                                    ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 okl1-scene7.insnw.net                                                                                ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
 olivegarden.extole.io                                                                                ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 ollector-pxikkul2rm.perimeterx.net                                                                   ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
@@ -4990,6 +5011,7 @@ optimum.tt.omtrdc.net                                                           
 options.bucksense.com                                                                                ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019
 optus.tt.omtrdc.net                                                                                  ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
 opx-winners-ap-northeast-1-rtb.adroll.com                                                            ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
+opx-winners-ap-northeast-1-rtb.adroll.com                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 opx-winners-us-east-1-rtb.adroll.com                                                                 ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019
 orangebank.demdex.net                                                                                ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
 origin-0.extole.io                                                                                   ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019
@@ -5034,6 +5056,7 @@ pb-story.playbuzz.com                                                           
 pca.admarketplace.net                                                                                ACTIVE      ***        Mon 20 May 19:05:48 UTC 2019
 pcf.demdex.net                                                                                       ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 pch.tt.omtrdc.net                                                                                    ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019
+pciins-025.inscname.net                                                                              ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 pciins-037cc.inscname.net                                                                            ACTIVE      ***        Tue 21 May 00:05:04 UTC 2019
 pdc.bidswitch.net                                                                                    ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019
 pennymacloanservices.demdex.net                                                                      ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
@@ -5054,6 +5077,7 @@ pillager.inverse.com                                                            
 pimsleur.extole.io                                                                                   ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
 pinger.lfstmedia.com                                                                                 ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019
 pix.as.criteo.net                                                                                    ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
+pixel1041.everesttech.net                                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 pixel1370.everesttech.net                                                                            ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019
 pixel1427.everesttech.net                                                                            ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019
 pixel1631.everesttech.net                                                                            ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
@@ -5066,6 +5090,7 @@ pixel3573.everesttech.net                                                       
 pixel3575.everesttech.net                                                                            ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
 pixel4411.everesttech.net                                                                            ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
 pixel.absum.ru                                                                                       ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
+pixel-apc.adsymptotic.com                                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 pixel.inbox.exacttarget.com                                                                          ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 pixel-lb10.apc.adsymptotic.com                                                                       ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019
 pixel-lb12.apc.adsymptotic.com                                                                       ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
@@ -5127,10 +5152,12 @@ public-webservice.geo.adpushup.com                                              
 pub.ntv.io                                                                                           ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
 pub.s7.exacttarget.com                                                                               ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
 pu.gcp.msas.media.net                                                                                ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
+pump.msas.media.net                                                                                  ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 push.pardot.com                                                                                      ACTIVE      ***        Mon 20 May 19:05:48 UTC 2019
 push.revcontent.com                                                                                  ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
 push-ue1.pardot.com                                                                                  ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019
 pvmiq.exct.net                                                                                       ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
+pv-tm.everesttech.net                                                                                ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 pwc.demdex.net                                                                                       ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019
 pwc.tt.omtrdc.net                                                                                    ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019
 pxc.cdn.best-tv.com.c.footprint.net                                                                  ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019
@@ -5213,6 +5240,7 @@ rezte.adj.st                                                                    
 rezte.adj.st                                                                                         ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
 rh4x.adj.st                                                                                          ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019
 ria.demdex.net                                                                                       ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
+ringcentral.tt.omtrdc.net                                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 rj3w.adj.st                                                                                          ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
 rl.streamrail.net                                                                                    ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
 rm4.adtilt.com                                                                                       ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
@@ -5239,6 +5267,7 @@ rtb.adsymptotic.com                                                             
 rtb-creatives-akamai-test.fiksu.com                                                                  ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
 rtbdsp.inmobi.com                                                                                    ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019
 rtb-lb-event-iad-1a-tm.everesttech.net                                                               ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
+rtb.nl.eu.criteo.com                                                                                 ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 rtb-pixel-ams1.everesttech.net                                                                       ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
 rtb-tm.everesttech.net                                                                               ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019
 rtb-us12.impresionesweb.com                                                                          ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
@@ -5293,6 +5322,7 @@ samsungafrica.tt.omtrdc.net                                                     
 samsungindiaelectronics.demdex.net                                                                   ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019
 samsungseao.demdex.net                                                                               ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
 samsungspain.demdex.net                                                                              ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
+samsungturkey.demdex.net                                                                             ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 samsunguk.tt.omtrdc.net                                                                              ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
 sapglobalmarketingin.tt.omtrdc.net                                                                   ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 sa-stg.perimeterx.net                                                                                ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
@@ -5354,6 +5384,7 @@ search.doubleclick.com                                                          
 secure-cdn.mplxtms.com                                                                               ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
 secure.p01.eloqua.com                                                                                ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019
 seek.demdex.net                                                                                      ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
+seek.tt.omtrdc.net                                                                                   ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 selectcomfort.demdex.net                                                                             ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 semrushexchange.demdex.net                                                                           ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
 send.hiconversion.com                                                                                ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
@@ -5380,9 +5411,11 @@ server.shoofle.tv                                                               
 serverside3204.tagcommander.com                                                                      ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019
 serverside3269.tagcommander.com                                                                      ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
 serverside3299.tagcommander.com                                                                      ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
+serverside3466.tagcommander.com                                                                      ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 serverside3550.tagcommander.com                                                                      ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
 serverside3597.tagcommander.com                                                                      ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
 serverside3614.tagcommander.com                                                                      ACTIVE      ***        Tue 21 May 00:05:59 UTC 2019
+serverside4285.tagcommander.com                                                                      ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 server-ssl.allinviews.com                                                                            ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
 server-ssl.placeyourview.com                                                                         ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
 server.vidazoo.com                                                                                   ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
@@ -5418,6 +5451,7 @@ signet.demdex.net                                                               
 sin01.event.spotxchange.com                                                                          ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
 sindirect.adsrvr.org                                                                                 ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019
 sin.fb.adsrvr.org                                                                                    ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
+siriuscomputerpartnersandbox.demdex.net                                                              ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 siteqa.midasplayer.com                                                                               ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
 sjc-11.sjc-rtb1.rfihub.net                                                                           ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
 sjc-129.sjc-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
@@ -5452,6 +5486,7 @@ soh-mkt-prod1-m.campaign.adobe.com                                              
 solarwinds.demdex.net                                                                                ACTIVE      ***        Mon 20 May 19:05:48 UTC 2019
 soma-ap-southeast-1.ad.smaato.net                                                                    ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
 soma-ap-southeast-1.smaato.net                                                                       ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019
+sommelier.zdbb.net                                                                                   ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 sonybank.tt.omtrdc.net                                                                               ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019
 sonymobcomm.tt.omtrdc.net                                                                            ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
 sonysonet.tt.omtrdc.net                                                                              ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019
@@ -5500,6 +5535,7 @@ staging-or-2.tag.clrstm.com                                                     
 staging-sc-1.tag.clrstm.com                                                                          ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019
 staging.services-fr.adx1.com                                                                         ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 staging-us-east.bidswitch.net                                                                        ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
+staging-us-west.bidswitch.net                                                                        ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 staging-us-west-sync.bidswitch.net                                                                   ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
 starhubltd.tt.omtrdc.net                                                                             ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 statham.adsttc.com                                                                                   ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
@@ -5594,6 +5630,7 @@ tecdoc.containers.piwik.pro                                                     
 telecolumbus.demdex.net                                                                              ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019
 telecomsqure.tt.omtrdc.net                                                                           ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019
 telefonicavivo.demdex.net                                                                            ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019
+telegraaf.grapeshot.co.uk                                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 telegraphmediagroupl.tt.omtrdc.net                                                                   ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
 telegraphmediagroupl.tt.omtrdc.net                                                                   ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019
 telenor.demdex.net                                                                                   ACTIVE      ***        Mon 20 May 19:05:48 UTC 2019
@@ -5607,6 +5644,7 @@ tesla.tt.omtrdc.net                                                             
 test1.irganalytics.com                                                                               ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
 test1-ukp.adsrvr.org                                                                                 ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
 test4-tor.adsrvr.org                                                                                 ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019
+test-adserver.adtech.de                                                                              ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 test-delivery.hiconversion.com                                                                       ACTIVE      ***        Mon 20 May 23:05:08 UTC 2019
 testing.playbuzz.com                                                                                 ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
 testsc73578190us1.cobrowse.oraclecloud.com                                                           ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019
@@ -5628,6 +5666,7 @@ tmobile.tt.omtrdc.net                                                           
 tokfb.adsrvr.org                                                                                     ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
 tools.contextweb.com                                                                                 ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
 topics.spot.im                                                                                       ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
+toridoll.demdex.net                                                                                  ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 torontostarnewspaperslimited.demdex.net                                                              ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019
 totalwine.tt.omtrdc.net                                                                              ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
 tous-jewelry.extole.io                                                                               ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
@@ -5658,6 +5697,7 @@ tps11026.doubleverify.com                                                       
 tps11027.doubleverify.com                                                                            ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019
 tps11031.doubleverify.com                                                                            ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
 tps11035.doubleverify.com                                                                            ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
+tps11037.doubleverify.com                                                                            ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 tps11039.doubleverify.com                                                                            ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019
 tps20221.doubleverify.com                                                                            ACTIVE      ***        Mon 20 May 19:05:53 UTC 2019
 tps20230.doubleverify.com                                                                            ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019
@@ -5714,6 +5754,7 @@ u3s.mathtag.com                                                                 
 u6ek.adj.st                                                                                          ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
 ua.inmobi.com                                                                                        ACTIVE      ***        Mon 20 May 19:05:48 UTC 2019
 uber.demdex.net                                                                                      ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019
+ubm.tt.omtrdc.net                                                                                    ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 ubs.demdex.net                                                                                       ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
 ucid.vindicosuite.com                                                                                ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019
 udc-neb.kampyle.com                                                                                  ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
@@ -5764,6 +5805,7 @@ us.h-bid.com                                                                    
 us-tracking.dyntrk.com                                                                               ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019
 uswdirect.adsrvr.org                                                                                 ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019
 us-west.bidswitch.net                                                                                ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
+usw-lax2.adsrvr.org                                                                                  ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 uu4c.adj.st                                                                                          ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
 ux.rubiconproject.com                                                                                ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019
 v1-tr.ams.contextweb.com                                                                             ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
@@ -5886,6 +5928,7 @@ www-akamai.outbrain.com                                                         
 www.api.convertkit.com                                                                               ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
 www.api.omnitagjs.com                                                                                ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019
 www.appcenter.bronto.com                                                                             ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019
+www.apps.adtz.com                                                                                    ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 www.bigfastblog.com.pathful.com                                                                      ACTIVE      ***        Mon 20 May 19:05:48 UTC 2019
 www.broadcast-interactive.com.pathful.com                                                            ACTIVE      ***        Tue 21 May 00:05:04 UTC 2019
 www.control.kochava.com                                                                              ACTIVE      ***        Tue 21 May 00:05:04 UTC 2019
@@ -5904,6 +5947,7 @@ www.irganalytics.com                                                            
 www.ketchapp.org                                                                                     ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
 www.kiwicollection.com.pathful.com                                                                   ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
 www.loggerhead.omnitagjs.com                                                                         ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019
+www-manchestereveningnews-co-uk.api.omnitagjs.com                                                    ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 www.marketing.vicedata.com                                                                           ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 www.m-freeway.com                                                                                    ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
 www.mmstat.com                                                                                       ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
@@ -5929,6 +5973,7 @@ xfinitydigital.demdex.net                                                       
 xhprof.pardot.com                                                                                    ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
 xhprof-ue1.pardot.com                                                                                ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
 xml.adx1.com                                                                                         ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019
+xn--46s-5rd.adj.st                                                                                   ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 xn--46s-lfd.adj.st                                                                                   ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019
 xn--hce-0ed.adj.st                                                                                   ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
 xn--hce-izc.adj.st                                                                                   ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019
@@ -5955,6 +6000,7 @@ xx3ws.adj.st                                                                    
 xxaws.adj.st                                                                                         ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 xxcws.adj.st                                                                                         ACTIVE      ***        Tue 21 May 00:05:59 UTC 2019
 xxqs.adj.st                                                                                          ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019
+xxs.adj.st                                                                                           ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 xxss.adj.st                                                                                          ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 xxsw.adj.st                                                                                          ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019
 xxsws.adj.st                                                                                         ACTIVE      ***        Tue 21 May 00:05:59 UTC 2019
@@ -5969,6 +6015,7 @@ xxwse.adj.st                                                                    
 xxwss.adj.st                                                                                         ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019
 xxwsw.adj.st                                                                                         ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019
 xxwws.adj.st                                                                                         ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019
+xxwxs.adj.st                                                                                         ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
 xxwys.adj.st                                                                                         ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019
 xxxws.adj.st                                                                                         ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019
 y3f6.adj.st                                                                                          ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019
@@ -5986,4 +6033,4 @@ zipcar.extole.io                                                                
 zkwk.adj.st                                                                                          ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019
 z.moatads.com                                                                                        ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019
 zooplus.demdex.net                                                                                   ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019
-zths.adj.st                                                                                          ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019debijenkorf.tt.omtrdc.net                                                                            ACTIVE      ***        Mon 20 May 19:05:48 UTC 2019thecollegeboard.demdex.net                                                                           ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019glb-ads.finno.adtech.de                                                                              ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019sc15636701llms1.cobrowse.oraclecloud.com                                                             ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019j.zemanta.com                                                                                        ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019media-router-flurry3.prod.media.wg1.b.yahoo.com                                                      ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019www.mzbcdn.net                                                                                       ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019crt.silverpush.co                                                                                    ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019toolbar.freshmarketer.com                                                                            ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019junipernetworks.demdex.net                                                                           ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019pdx-1-xcp.go.sonobi.com                                                                              ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019mug.criteo.com                                                                                       ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019pubmatic-winners-ap-northeast-1-rtb.adroll.com                                                       ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019crunchbase.mktoweb.com                                                                               ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019ewr-296.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019walgreens.demdex.net                                                                                 ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019pages.s4.exacttarget.com                                                                             ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019ewr-309.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019glb-ads.webtraffic.adtech.de                                                                         ACTIVE      ***        Mon 20 May 23:05:08 UTC 2019nycp-hlb12.doubleverify.com                                                                          ACTIVE      ***        Tue 21 May 00:05:59 UTC 2019node2.colossusssp.com                                                                                ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019user-att-108-241-32-0.e8999.b.akamaiedge.net                                                         ACTIVE      ***        Tue 21 May 00:05:04 UTC 2019link.m.convertkit.com                                                                                ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019fra-163.fra-rtb1.rfihub.net                                                                          ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019teslarati-com-edge.ntv.io                                                                            ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019
+zths.adj.st                                                                                          ACTIVE      ***        Mon 20 May 19:05:19 UTC 2019debijenkorf.tt.omtrdc.net                                                                            ACTIVE      ***        Mon 20 May 19:05:48 UTC 2019thecollegeboard.demdex.net                                                                           ACTIVE      ***        Mon 20 May 19:05:31 UTC 2019glb-ads.finno.adtech.de                                                                              ACTIVE      ***        Mon 20 May 20:05:11 UTC 2019sc15636701llms1.cobrowse.oraclecloud.com                                                             ACTIVE      ***        Mon 20 May 20:05:32 UTC 2019j.zemanta.com                                                                                        ACTIVE      ***        Mon 20 May 20:05:38 UTC 2019media-router-flurry3.prod.media.wg1.b.yahoo.com                                                      ACTIVE      ***        Mon 20 May 20:05:45 UTC 2019www.mzbcdn.net                                                                                       ACTIVE      ***        Mon 20 May 21:05:38 UTC 2019crt.silverpush.co                                                                                    ACTIVE      ***        Mon 20 May 21:05:56 UTC 2019toolbar.freshmarketer.com                                                                            ACTIVE      ***        Mon 20 May 21:05:14 UTC 2019junipernetworks.demdex.net                                                                           ACTIVE      ***        Mon 20 May 21:05:13 UTC 2019pdx-1-xcp.go.sonobi.com                                                                              ACTIVE      ***        Mon 20 May 22:05:12 UTC 2019mug.criteo.com                                                                                       ACTIVE      ***        Mon 20 May 22:05:19 UTC 2019pubmatic-winners-ap-northeast-1-rtb.adroll.com                                                       ACTIVE      ***        Mon 20 May 22:05:02 UTC 2019crunchbase.mktoweb.com                                                                               ACTIVE      ***        Mon 20 May 22:05:23 UTC 2019ewr-296.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 23:05:35 UTC 2019walgreens.demdex.net                                                                                 ACTIVE      ***        Mon 20 May 23:05:55 UTC 2019pages.s4.exacttarget.com                                                                             ACTIVE      ***        Mon 20 May 23:05:23 UTC 2019ewr-309.ewr-rtb1.rfihub.net                                                                          ACTIVE      ***        Mon 20 May 23:05:24 UTC 2019glb-ads.webtraffic.adtech.de                                                                         ACTIVE      ***        Mon 20 May 23:05:08 UTC 2019nycp-hlb12.doubleverify.com                                                                          ACTIVE      ***        Tue 21 May 00:05:59 UTC 2019node2.colossusssp.com                                                                                ACTIVE      ***        Tue 21 May 00:05:28 UTC 2019user-att-108-241-32-0.e8999.b.akamaiedge.net                                                         ACTIVE      ***        Tue 21 May 00:05:04 UTC 2019link.m.convertkit.com                                                                                ACTIVE      ***        Tue 21 May 00:05:02 UTC 2019fra-163.fra-rtb1.rfihub.net                                                                          ACTIVE      ***        Tue 21 May 00:05:39 UTC 2019teslarati-com-edge.ntv.io                                                                            ACTIVE      ***        Tue 21 May 01:05:41 UTC 2019pimco.mktoweb.com                                                                                    ACTIVE      ***        Tue 21 May 01:05:36 UTC 2019
