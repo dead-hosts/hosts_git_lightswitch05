@@ -780,10 +780,10 @@
 4b4y6.adj.st
 4b4y7.adj.st
 4b4ya.adj.st
-4b4.y.adj.st
-4b.4y.adj.st
-4b4y.adj.st
 4.b4y.adj.st
+4b.4y.adj.st
+4b4.y.adj.st
+4b4y.adj.st
 4b4yg.adj.st
 4b4yh.adj.st
 4b4ys.adj.st
@@ -839,12 +839,12 @@
 4x6qs.adj.st
 4x6r.adj.st
 4x6sa.adj.st
-4x6.s.adj.st
 4x6-s.adj.st
-4x-6s.adj.st
-4.x6s.adj.st
-4-x6s.adj.st
 4x.6s.adj.st
+4.x6s.adj.st
+4x-6s.adj.st
+4-x6s.adj.st
+4x6.s.adj.st
 4x6sd.adj.st
 4x6se.adj.st
 4x6sq.adj.st
@@ -3924,8 +3924,8 @@ cloudera.demdex.net
 cloudera.tt.omtrdc.net
 cloudflare.cdneval.adnxs.com
 cloudservices.roku.com
-cloud.video.unrulymedia.com
 cloud-video.unrulymedia.com
+cloud.video.unrulymedia.com
 cl.s5.exct.net
 cl-stg.perimeterx.net
 cl.test.exct.net
@@ -3988,6 +3988,7 @@ collector-pxbecn7fqx.perimeterx.net
 collector-pxbg6vwucj.perimeterx.net
 collector-pxeyndrtd4.perimeterx.net
 collector-pxfqtaw5et.perimeterx.net
+collector-pxft56yv2e.perimeterx.net
 collector-pxfxx25tyn.perimeterx.net
 collector-pxg8atfja1.perimeterx.net
 collector-pxh52dw03a.perimeterx.net
@@ -4053,6 +4054,7 @@ cpa.adcolony.com
 c.parsely.com
 crackle.demdex.net
 craft.advertising.com
+crash-metadata.flurry.com
 crashreport-api.presage.io
 crateio.mktoweb.com
 creative.demandbase.com
@@ -4086,6 +4088,7 @@ dardenrestaurants.demdex.net
 dashboard-assets.fiksu.com
 dash.kochava.com
 data-ingress-ae1.tapad.com
+datarequest.flurry.com
 dayintegrationinternal.demdex.net
 dbsgsmc.tt.omtrdc.net
 dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com
@@ -4126,6 +4129,7 @@ digitalocean.mktoweb.com
 digital.thomson.co.uk.inscname.net
 d.ina.media.net
 directadministrationinc.demdex.net
+direct.adsrvr.org
 directv.demdex.net
 discoverfinancialservices.demdex.net
 dishpurchasingcorporation.hb-api.omtrdc.net
@@ -4144,6 +4148,7 @@ domea.containers.piwik.pro
 dominos.tt.omtrdc.net
 douglasgmbh.demdex.net
 douglasgmbh-mkt-prod1.campaign.adobe.com
+dowjones.demdex.net
 download.extremereach.com
 download.scorecardresearch.com
 dpcomdhl.demdex.net
@@ -4160,6 +4165,7 @@ dub-1.go.sonobi.com
 dunandbradstreetinc.tt.omtrdc.net
 dupont.tt.omtrdc.net
 dxws.adj.st
+dyn.mktoweb.com
 dyn-objects.mathtag.com
 dyoulike.ssp.omnitagjs.com
 dyson.demdex.net
@@ -4188,11 +4194,13 @@ email.getambassador.com
 email.kochava.com
 email.rubiconproject.com
 email.vungle.com
+email.yext.com
 emc.demdex.net
 emea-bidder.mathtag.com
 em.fanbread.com
 e.monetate.net
 engageplus.innity.net
+enterpriseholdingsin.tt.omtrdc.net
 eondigitaluk.tt.omtrdc.net
 ep-euwest.ifc.inmobi.com
 epsonuk.demdex.net
@@ -4229,6 +4237,7 @@ eqv-493.eqv-rtb1.rfihub.net
 eqv-496.eqv-rtb1.rfihub.net
 eqv-499.eqv-rtb1.rfihub.net
 eqv-508.eqv-rtb1.rfihub.net
+eqv-521.eqv-rtb1.rfihub.net
 eqv-522.eqv-rtb1.rfihub.net
 eqv-523.eqv-rtb1.rfihub.net
 eqv-529.eqv-rtb1.rfihub.net
@@ -4323,6 +4332,7 @@ ewr-456.ewr-rtb1.rfihub.net
 ewr-463.ewr-rtb1.rfihub.net
 ewr-465.ewr-rtb1.rfihub.net
 ewr-504.ewr-rtb1.rfihub.net
+ewr-509.ewr-rtb1.rfihub.net
 ewr-511.ewr-rtb1.rfihub.net
 ewr-517.ewr-rtb1.rfihub.net
 ewr-525.ewr-rtb1.rfihub.net
@@ -4333,6 +4343,7 @@ exelate-sync.nuggad.net
 expressllc-mkt-prod1-lb.campaign.adobe.com
 expressscriptsholdin.tt.omtrdc.net
 expressscripts.tt.omtrdc.net
+extole-creatives.qa.extole.io
 extole-invite.qa.extole.io
 extqa.midasplayer.com
 eyeota2waycm.netmng.com
@@ -4342,6 +4353,7 @@ failsafe3-api.adyoulike.com
 failsafe4-api.adyoulike.com
 fairfaxau.demdex.net
 fairfax.demdex.net
+faisto.tt.omtrdc.net
 falabella.vizury.com
 fandangollc.demdex.net
 fandango.tt.omtrdc.net
@@ -4363,6 +4375,7 @@ fast.marriottinternationa.demdex.net
 fast.maruig.demdex.net
 fast.metlifeglobal.demdex.net
 fast.millercoors.demdex.net
+fast.mindspark.demdex.net
 fast.mmm.demdex.net
 fast.mtvn.demdex.net
 fast.nationalinsturments.demdex.net
@@ -4454,6 +4467,7 @@ glb-ads.atwola.adtechus.com
 glb-ads.betathome.adtech.de
 glb-ads.eyeonx.adtech.de
 glb-ads.iam.adtech.de
+glb-ads.legacy.adtechus.com
 glb-ads.vgsgaming.adtech.de
 glb-mads.iam.adtech.de
 gl-c30929ed.adroll.com
@@ -4467,6 +4481,7 @@ gm.gds.mmstat.com
 goodlifefitnesscentr.tt.omtrdc.net
 googlebidder-dc1.yieldoptimizer.com
 googlebidder-dc2.yieldoptimizer.com
+google.east-s2s.1rx.io
 googlesync.permutive.com
 go.sonobi.com
 go.survicate.com
@@ -4478,8 +4493,8 @@ graysonline.tt.omtrdc.net
 grid.bidswitch.net
 groupedelhaize.tt.omtrdc.net
 growthfusion.mktoweb.com
-grtb-central1b.tribalfusion.com
 grtb.central1b.tribalfusion.com
+grtb-central1b.tribalfusion.com
 gsadcampaign.grapeshot.co.uk
 gslb.demdex.net
 gs.wixapps.net
@@ -4492,6 +4507,7 @@ guitarcenter.tt.omtrdc.net
 gumtree.demdex.net
 gw.flurry.com
 hagerty.tt.omtrdc.net
+hallmarkcom.demdex.net
 hargreaveslansdownpl.tt.omtrdc.net
 harleydavidson.demdex.net
 harleydavidson.tt.omtrdc.net
@@ -4533,10 +4549,12 @@ hn8g.adj.st
 homeadvisor.demdex.net
 homedepotca.demdex.net
 homedepot.demdex.net
+honda.tt.omtrdc.net
 honeywellhps.mktoweb.com
 h.online-metrix.net
 hopce.adj.st
 hosting.bronto.com
+hpce3.adj.st
 hpc.e.adj.st
 hp.ce.adj.st
 h-pce.adj.st
@@ -4561,6 +4579,7 @@ hsbcbankhase.tt.omtrdc.net
 hsbcbankin.tt.omtrdc.net
 h-signifyd.online-metrix.net
 h-tripadvisorcdn.online-metrix.net
+hukcoburg.demdex.net
 h-visa12.online-metrix.net
 hvmllc.demdex.net
 hyattcorporation.tt.omtrdc.net
@@ -4602,6 +4621,7 @@ imagen04.247realmedia.com
 imagenen1.247realmedia.com
 image.s11.exacttarget.com
 image.s2.qa1.exacttarget.com
+images-cf.taboola.com.cdn.cloudflare.net
 images.exacttarget.com
 images.parsely.com
 images.skimresources.com
@@ -4627,9 +4647,11 @@ inboard-shop-05-ams.kochava.com
 in.cdn.automatad.com
 incommholdings.demdex.net
 indigoaviation.tt.omtrdc.net
+indigo.demdex.net
 infinitiheliosemea.demdex.net
 influx.authoritynutrition.h-bid.com
 influx.h-bid.com
+influx.landwirt.h-bid.com
 influx.marktcom.h-bid.com
 info.instartlogic.com
 informatica.tt.omtrdc.net
@@ -4680,6 +4702,7 @@ jmn3.adj.st
 jn8g.adj.st
 jnpg.adj.st
 johnston.grapeshot.co.uk
+joneslanglasalle.demdex.net
 jpbodenandco.tt.omtrdc.net
 jpmcbankna.demdex.net
 jpmorganchase.demdex.net
@@ -4874,6 +4897,7 @@ melbourneit.tt.omtrdc.net
 meteored.mgr.consensu.org
 metlifeglobal.demdex.net
 metrics.cloudflarebolt.com
+metropcs.tt.omtrdc.net
 metrosystemsgmbh.demdex.net
 mew-prod.snapads.com
 mgm.tt.omtrdc.net
@@ -4893,6 +4917,7 @@ mobile.lc.wix.com
 mobile.test-bidder.msas.media.net
 mock.tribalfusion.com
 moderation.playbuzz.com
+moen.demdex.net
 moneywise-edge.ntv.io
 monster.demdex.net
 more.vizury.com
@@ -4957,6 +4982,7 @@ nn8e.adj.st
 nn8.g.adj.st
 nn8-g.adj.st
 nn-8g.adj.st
+n-n8g.adj.st
 nn8gb.adj.st
 nn8gf.adj.st
 nn8gg.adj.st
@@ -5096,6 +5122,7 @@ pixel1041.everesttech.net
 pixel1370.everesttech.net
 pixel1427.everesttech.net
 pixel1631.everesttech.net
+pixel169.everesttech.net
 pixel1739.everesttech.net
 pixel2016.everesttech.net
 pixel2114.everesttech.net
@@ -5143,6 +5170,7 @@ pool.admedo.com
 pool.grid-data.bidswitch.net
 postback.supersonicads.com
 postmedia.demdex.net
+pottery-barn-kids.extole.io
 pp.adjust.com
 pphg.demdex.net
 prd-collector-anon.playbuzz.com
@@ -5155,6 +5183,7 @@ preview.yieldmo.com
 prg-dev.kargo.com
 private-video.stripcdn.com
 prod.data.native.ai
+profile.adkmob.com
 profile-api.sandbox53.localytics.com
 proserve.urbanairship.com
 provisioning.pardot.com
@@ -5330,11 +5359,12 @@ rzate.adj.st
 rzfe.adj.st
 rzgte.adj.st
 rzt3.adj.st
+rzt6e.adj.st
 rzt.adj.st
 rztde.adj.st
-rzt-e.adj.st
 rzt.e.adj.st
 rzte.adj.st
+rzt-e.adj.st
 rztee.adj.st
 rzti.adj.st
 rzto.adj.st
@@ -5437,6 +5467,7 @@ sd.scorecardresearch.com
 sea1.cdn.survey.medallia.com
 search.doubleclick.com
 search.petwellbeing.com.pathful.com
+searsholdings.tt.omtrdc.net
 secure-cdn.mplxtms.com
 secure.p01.eloqua.com
 secure.p04.eloqua.com
@@ -5571,6 +5602,7 @@ sonysonpo.tt.omtrdc.net
 soportodevqa.sta.midasplayer.com
 so.rlcdn.com
 southwest-airlines-rt-prod2-lb.campaign.adobe.com
+southwestairlines.tt.omtrdc.net
 sovrn.mgr.consensu.org
 sparebank1.demdex.net
 sphere.outbrain.com
@@ -5585,6 +5617,7 @@ sp-ycpi.analytics.yahoo.com
 s.rfihub.com.akadns.net
 srl2.adj.st
 srv2018111901.pixel.parsely.com
+ssl001.insnw.net
 ssl-eu.smrtb.com
 ssl-xsp1-east.smrtb.com
 ssl-xsp2-east.smrtb.com
@@ -5720,6 +5753,7 @@ tca-81.tca-rtb1.rfihub.net
 tc-bic.appspot.com
 tdc.demdex.net
 td.demdex.net
+tearsheet-service.prod.paperg.com
 tecdoc.containers.piwik.pro
 telecolumbus.demdex.net
 telecomsqure.tt.omtrdc.net
@@ -5753,6 +5787,7 @@ thrivent.demdex.net
 tiaacreftrustcompanyfsb.demdex.net
 timeline.vicedata.com
 timeoutcommunications.demdex.net
+timeuk.demdex.net
 tinkoff.demdex.net
 tirerack.tt.omtrdc.net
 tk.kargo.com
@@ -5779,6 +5814,7 @@ tps10203.doubleverify.com
 tps10209.doubleverify.com
 tps10214.doubleverify.com
 tps10216.doubleverify.com
+tps10217.doubleverify.com
 tps10222.doubleverify.com
 tps10226.doubleverify.com
 tps10237.doubleverify.com
@@ -5814,6 +5850,7 @@ tps606.doubleverify.com
 tps607.doubleverify.com
 tps611.doubleverify.com
 tps614.doubleverify.com
+tps616.doubleverify.com
 tps617.doubleverify.com
 tps618.doubleverify.com
 tps619.doubleverify.com
@@ -5881,6 +5918,7 @@ ulta-1.demdex.net
 unconf.adkmob.com
 under-armour-1.extole.io
 underarmourinc.demdex.net
+unicharm.tt.omtrdc.net
 unilad-uk.gscontxt.net
 unilever.demdex.net
 unionlosangeles.com.pathful.com
@@ -5909,6 +5947,7 @@ user-att-108-246-8-0.e8999.b.akamaiedge.net
 user-att-12-199-80-0.e8999.b.akamaiedge.net
 user-att-12-53-216-0.e8999.b.akamaiedge.net
 user-att-162-224-184-0.e8999.b.akamaiedge.net
+user-att-184-32-88-0.e8999.b.akamaiedge.net
 user-att-184-35-8-0.e8999.b.akamaiedge.net
 user-att-184-41-64-0.e8999.b.akamaiedge.net
 user-att-202-112-48-0.e8999.b.akamaiedge.net
@@ -5947,6 +5986,7 @@ veeam.demdex.net
 verizoncorp.demdex.net
 verizontelecom.tt.omtrdc.net
 verizonwireless.demdex.net
+vfc.demdex.net
 v.hw.ssacdn.com
 viavarejo.tt.omtrdc.net
 vice.demdex.net
@@ -6019,6 +6059,7 @@ websenseinc.demdex.net
 websense.tt.omtrdc.net
 webserver.extend.tv
 webservice-csg.exacttarget.com
+web.ssp.advertising.com
 webview.unityads.unity3d.com
 wegmans-mkt-prod1.campaign.adobe.com
 wellsfargobankna.demdex.net
@@ -6032,6 +6073,7 @@ wgu.demdex.net
 whc.demdex.net
 whitbreadgroup.tt.omtrdc.net
 widget.k.sharethis.net
+widget.sharethis.com
 wildcard.measuread.com.edgekey.net
 wildcards.moatads.com.edgekey.net
 wileypublishing.demdex.net
@@ -6129,6 +6171,7 @@ xn--pce-ned.adj.st
 xn--ws-fwca.adj.st
 xn--xws-kfd.adj.st
 xn--xxs-b4d.adj.st
+xn--xxw-eza.adj.st
 xn--xxw-mk1b.adj.st
 xsp2-east.smrtb.com
 xsp4-east.smrtb.com
@@ -6148,10 +6191,10 @@ xxsws.adj.st
 xxwd.adj.st
 xxwes.adj.st
 xxwr.adj.st
-xxw-s.adj.st
-xxw.s.adj.st
-xx.ws.adj.st
 xx-ws.adj.st
+xxw-s.adj.st
+xx.ws.adj.st
+xxw.s.adj.st
 xxwse.adj.st
 xxwss.adj.st
 xxwsw.adj.st
@@ -6176,4 +6219,4 @@ z.moatads.com
 zooplus.demdex.net
 z.optmnstr.com
 zte.adj.st
-zths.adj.stdebijenkorf.tt.omtrdc.netthecollegeboard.demdex.netglb-ads.finno.adtech.desc15636701llms1.cobrowse.oraclecloud.comj.zemanta.commedia-router-flurry3.prod.media.wg1.b.yahoo.comwww.mzbcdn.netcrt.silverpush.cotoolbar.freshmarketer.comjunipernetworks.demdex.netpdx-1-xcp.go.sonobi.commug.criteo.compubmatic-winners-ap-northeast-1-rtb.adroll.comcrunchbase.mktoweb.comewr-296.ewr-rtb1.rfihub.netwalgreens.demdex.netpages.s4.exacttarget.comewr-309.ewr-rtb1.rfihub.netglb-ads.webtraffic.adtech.denycp-hlb12.doubleverify.comnode2.colossusssp.comuser-att-108-241-32-0.e8999.b.akamaiedge.netlink.m.convertkit.comfra-163.fra-rtb1.rfihub.netteslarati-com-edge.ntv.iopimco.mktoweb.comdpx.airpr.comcortalconsors.tt.omtrdc.netv2asr-52-23-72-248.prod.vungle.comxxwq.adj.stssl-xsp3-east.smrtb.com
+zths.adj.stdebijenkorf.tt.omtrdc.netthecollegeboard.demdex.netglb-ads.finno.adtech.desc15636701llms1.cobrowse.oraclecloud.comj.zemanta.commedia-router-flurry3.prod.media.wg1.b.yahoo.comwww.mzbcdn.netcrt.silverpush.cotoolbar.freshmarketer.comjunipernetworks.demdex.netpdx-1-xcp.go.sonobi.commug.criteo.compubmatic-winners-ap-northeast-1-rtb.adroll.comcrunchbase.mktoweb.comewr-296.ewr-rtb1.rfihub.netwalgreens.demdex.netpages.s4.exacttarget.comewr-309.ewr-rtb1.rfihub.netglb-ads.webtraffic.adtech.denycp-hlb12.doubleverify.comnode2.colossusssp.comuser-att-108-241-32-0.e8999.b.akamaiedge.netlink.m.convertkit.comfra-163.fra-rtb1.rfihub.netteslarati-com-edge.ntv.iopimco.mktoweb.comdpx.airpr.comcortalconsors.tt.omtrdc.netv2asr-52-23-72-248.prod.vungle.comxxwq.adj.stssl-xsp3-east.smrtb.comtraderca.demdex.net
