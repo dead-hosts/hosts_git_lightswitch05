@@ -934,7 +934,19 @@
             "ssl.tmathtag.com",
             "selfserve.rubiconproject.com",
             "es.zemanta.com",
-            "webdisk.beacon.terratracker.com"
+            "webdisk.beacon.terratracker.com",
+            "pyramid.maint.midasplayer.com",
+            "nsandru.test.backtrace.io",
+            "platform-api-lb.global.prod1.sharethis.net",
+            "pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com",
+            "workload1.k8s.tst.returnpath.net",
+            "www.customer.instartlogic.com",
+            "www.staging-rocnation.lisnr.com",
+            "unrulyx-eu-228.unrulymedia.com",
+            "maintenance.criteo.com",
+            "dub-dc02.marketo.net",
+            "team.doubleclick.com",
+            "loghost.in.backtrace.io"
         ],
         "to_test": [
             "-x3.vindicosuite.com",
