@@ -946,7 +946,22 @@
             "maintenance.criteo.com",
             "dub-dc02.marketo.net",
             "team.doubleclick.com",
-            "loghost.in.backtrace.io"
+            "loghost.in.backtrace.io",
+            "rest.qa.exacttarget.com",
+            "vhosts.tapad.com",
+            "production-adserver-666328397.us-east-1.elb.amazonaws.com",
+            "stats-us-tx-2.buysellads.com",
+            "cx.ish.atdmt.com",
+            "rtools.returnpath.net",
+            "convertmedia.thirdpresence.com",
+            "www.web15.socialannex.com",
+            "eu4.thunderhead.com",
+            "wufoo.sp1.convertro.com",
+            "www.api.xtify.com",
+            "contextweb.map.fastlylb.net",
+            "eero.sp1.convertro.com",
+            "ue1-v.thirdpresence.com",
+            "pa.survicate.com"
         ],
         "to_test": [
             "-x3.vindicosuite.com",
