@@ -3510,9 +3510,9 @@
         "state": "future"
     },
     "veeplay.com": {
-        "epoch": "1561507200",
+        "epoch": 1561507200,
         "expiration_date": "26-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "veeso.co": {
         "epoch": 1589155200,
@@ -3622,6 +3622,11 @@
     "vungle.com": {
         "epoch": "1666742400",
         "expiration_date": "26-oct-2022",
+        "state": "future"
+    },
+    "w55c.net": {
+        "epoch": 1778630400,
+        "expiration_date": "13-may-2026",
         "state": "future"
     },
     "wavesecure.com": {
