@@ -10296,7 +10296,18 @@
             "api.mcauto-images-e2e.sendgrid.net": "INACTIVE",
             "api.mcauto-images-production.sendgrid.net": "INACTIVE",
             "argo-ops.dev.k8s.sendgrid.net": "INACTIVE",
-            "async-job-mgmt-e2e.sendgrid.net": "INACTIVE"
+            "async-job-mgmt-e2e.sendgrid.net": "INACTIVE",
+            "autobots-dashboard-testing.k8s.sendgrid.net": "INACTIVE",
+            "automations-v2-development.sendgrid.net": "INACTIVE",
+            "automations-v2-production.sendgrid.net": "INACTIVE",
+            "automations-v2-staging.sendgrid.net": "INACTIVE",
+            "autos-e2e.mcautomation.sendgrid.net": "INACTIVE",
+            "autos-production.mcautomation.sendgrid.net": "INACTIVE",
+            "ballsack.argo-stage-a.us-east-2.k8s.sendgrid.net": "INACTIVE",
+            "bas-mr.sendgrid.net": "INACTIVE",
+            "bb-test-shim.k8s.sendgrid.net": "INACTIVE",
+            "bb-test.k8s.sendgrid.net": "INACTIVE",
+            "brad-is-still-handsome.k8s.sendgrid.net": "INACTIVE"
         }
     }
 }
