@@ -10294,7 +10294,9 @@
             "api.mcauto-contact-upload-t9.sendgrid.net": "INACTIVE",
             "api.mcauto-images-development.sendgrid.net": "INACTIVE",
             "api.mcauto-images-e2e.sendgrid.net": "INACTIVE",
-            "api.mcauto-images-production.sendgrid.net": "INACTIVE"
+            "api.mcauto-images-production.sendgrid.net": "INACTIVE",
+            "argo-ops.dev.k8s.sendgrid.net": "INACTIVE",
+            "async-job-mgmt-e2e.sendgrid.net": "INACTIVE"
         }
     }
 }
