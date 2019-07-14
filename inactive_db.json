@@ -10320,7 +10320,12 @@
             "contact-upload-nat-dev.sendgrid.net": "INACTIVE",
             "contactdb-e2e.mcdata.sendgrid.net": "INACTIVE",
             "contactdb-stage.mcdata.sendgrid.net": "INACTIVE",
-            "contactdb2-stage.sendgrid.net": "INACTIVE"
+            "contactdb2-stage.sendgrid.net": "INACTIVE",
+            "custom-fields-prod.sendgrid.net": "INACTIVE",
+            "customfields-e2e.sendgrid.net": "INACTIVE",
+            "customfields-preprod.sendgrid.net": "INACTIVE",
+            "customfields-production.sendgrid.net": "INACTIVE",
+            "czlht2-test.sendgrid.net": "INACTIVE"
         }
     }
 }
