@@ -10326,7 +10326,11 @@
             "customfields-preprod.sendgrid.net": "INACTIVE",
             "customfields-production.sendgrid.net": "INACTIVE",
             "czlht2-test.sendgrid.net": "INACTIVE",
-            "dev-test2.k8s.sendgrid.net": "INACTIVE"
+            "dev-test2.k8s.sendgrid.net": "INACTIVE",
+            "e2e-mcautomation-images.sendgrid.net": "INACTIVE",
+            "enjcgw-test.sendgrid.net": "INACTIVE",
+            "eoa-proxy-development.sendgrid.net": "INACTIVE",
+            "eoa-proxy-v3-development.sendgrid.net": "INACTIVE"
         }
     }
 }
