@@ -10396,7 +10396,15 @@
             "prometheus.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
             "qagl5q-test.sendgrid.net": "INACTIVE",
             "qmiokc-test.sendgrid.net": "INACTIVE",
-            "ruogwx-test.sendgrid.net": "INACTIVE"
+            "ruogwx-test.sendgrid.net": "INACTIVE",
+            "selfservice.sendgrid.net": "INACTIVE",
+            "sender-proxy-production.sendgrid.net": "INACTIVE",
+            "sender-proxy-staging.sendgrid.net": "INACTIVE",
+            "sf-forms-sf.sendgrid.net": "INACTIVE",
+            "sf-forms-signup-sf.sendgrid.net": "INACTIVE",
+            "signup-api-development.sendgrid.net": "INACTIVE",
+            "signup-development.sendgrid.net": "INACTIVE",
+            "signup-staging.sendgrid.net": "INACTIVE"
         }
     }
 }
