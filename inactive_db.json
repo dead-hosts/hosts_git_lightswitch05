@@ -10315,7 +10315,12 @@
             "cdn.forms-content-production.sendgrid.net": "INACTIVE",
             "cdn.forms-content-staging.sendgrid.net": "INACTIVE",
             "cdn.mike-forms-content-mike.sendgrid.net": "INACTIVE",
-            "cdn.sf-forms-content-sf.sendgrid.net": "INACTIVE"
+            "cdn.sf-forms-content-sf.sendgrid.net": "INACTIVE",
+            "contact-proxy-dev.sendgrid.net": "INACTIVE",
+            "contact-upload-nat-dev.sendgrid.net": "INACTIVE",
+            "contactdb-e2e.mcdata.sendgrid.net": "INACTIVE",
+            "contactdb-stage.mcdata.sendgrid.net": "INACTIVE",
+            "contactdb2-stage.sendgrid.net": "INACTIVE"
         }
     }
 }
