@@ -10360,7 +10360,11 @@
             "jenkins-lb.global.prod1.sharethis.net": "INACTIVE",
             "k8s-development.sendgrid.net": "INACTIVE",
             "k8s-production.sendgrid.net": "INACTIVE",
-            "k8s-staging.sendgrid.net": "INACTIVE"
+            "k8s-staging.sendgrid.net": "INACTIVE",
+            "lightstep.ei-stage-a.k8s-us-east-2.sendgrid.net": "INACTIVE",
+            "linkd.mp.ei-stage-a.k8s-us-east-2.sendgrid.net": "INACTIVE",
+            "llhixg-test.sendgrid.net": "INACTIVE",
+            "ls2.ei-stage-a.k8s-us-east-2.sendgrid.net": "INACTIVE"
         }
     }
 }
