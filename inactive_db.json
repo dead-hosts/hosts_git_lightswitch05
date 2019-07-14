@@ -10356,7 +10356,11 @@
             "ib-test.mookie1.com": "INACTIVE",
             "igsnld-test.sendgrid.net": "INACTIVE",
             "images-e2e.mcautomation.sendgrid.net": "INACTIVE",
-            "iqpbcs-test.sendgrid.net": "INACTIVE"
+            "iqpbcs-test.sendgrid.net": "INACTIVE",
+            "jenkins-lb.global.prod1.sharethis.net": "INACTIVE",
+            "k8s-development.sendgrid.net": "INACTIVE",
+            "k8s-production.sendgrid.net": "INACTIVE",
+            "k8s-staging.sendgrid.net": "INACTIVE"
         }
     }
 }
