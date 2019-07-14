@@ -10330,7 +10330,12 @@
             "e2e-mcautomation-images.sendgrid.net": "INACTIVE",
             "enjcgw-test.sendgrid.net": "INACTIVE",
             "eoa-proxy-development.sendgrid.net": "INACTIVE",
-            "eoa-proxy-v3-development.sendgrid.net": "INACTIVE"
+            "eoa-proxy-v3-development.sendgrid.net": "INACTIVE",
+            "export-e2e.sendgrid.net": "INACTIVE",
+            "export-preprod.sendgrid.net": "INACTIVE",
+            "export-production.sendgrid.net": "INACTIVE",
+            "exportdb-e2e.sendgrid.net": "INACTIVE",
+            "exportdb-preprod.sendgrid.net": "INACTIVE"
         }
     }
 }
