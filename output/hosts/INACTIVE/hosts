@@ -168,3 +168,6 @@
 0.0.0.0 ui-argocd.argo-stage-a.us-east-2.k8s.sendgrid.net
 0.0.0.0 upgrade-test.k8s.sendgrid.net
 0.0.0.0 v0eefy-test.sendgrid.net
+0.0.0.0 vapi-dev.staging.sendgrid.net
+0.0.0.0 vapi-prod.sendgrid.net
+0.0.0.0 webhook-e2e.mcautomation.sendgrid.net

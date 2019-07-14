@@ -10426,7 +10426,10 @@
             "tgaxgl-test.sendgrid.net": "INACTIVE",
             "ui-argocd.argo-stage-a.us-east-2.k8s.sendgrid.net": "INACTIVE",
             "upgrade-test.k8s.sendgrid.net": "INACTIVE",
-            "v0eefy-test.sendgrid.net": "INACTIVE"
+            "v0eefy-test.sendgrid.net": "INACTIVE",
+            "vapi-dev.staging.sendgrid.net": "INACTIVE",
+            "vapi-prod.sendgrid.net": "INACTIVE",
+            "webhook-e2e.mcautomation.sendgrid.net": "INACTIVE"
         }
     }
 }
