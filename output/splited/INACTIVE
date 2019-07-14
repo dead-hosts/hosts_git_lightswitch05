@@ -78,3 +78,10 @@ exportdb-preprod.sendgrid.net                                                   
 export-e2e.sendgrid.net                                                                              INACTIVE    DNSLOOKUP 
 export-preprod.sendgrid.net                                                                          INACTIVE    DNSLOOKUP 
 export-production.sendgrid.net                                                                       INACTIVE    DNSLOOKUP 
+forms-signup-development.sendgrid.net                                                                INACTIVE    DNSLOOKUP 
+forms-signup-production.sendgrid.net                                                                 INACTIVE    DNSLOOKUP 
+forms-signup-staging.sendgrid.net                                                                    INACTIVE    DNSLOOKUP 
+frontdoor-develrc.us-east.appbe.optimizely.com                                                       INACTIVE    DNSLOOKUP 
+frontdoor-develrc.us-west.appbe.optimizely.com                                                       INACTIVE    DNSLOOKUP 
+frontdoor-rc.us-east.appbe.optimizely.com                                                            INACTIVE    DNSLOOKUP 
+frontdoor-rc.us-west.appbe.optimizely.com                                                            INACTIVE    DNSLOOKUP 

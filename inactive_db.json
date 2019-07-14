@@ -10335,7 +10335,14 @@
             "export-preprod.sendgrid.net": "INACTIVE",
             "export-production.sendgrid.net": "INACTIVE",
             "exportdb-e2e.sendgrid.net": "INACTIVE",
-            "exportdb-preprod.sendgrid.net": "INACTIVE"
+            "exportdb-preprod.sendgrid.net": "INACTIVE",
+            "forms-signup-development.sendgrid.net": "INACTIVE",
+            "forms-signup-production.sendgrid.net": "INACTIVE",
+            "forms-signup-staging.sendgrid.net": "INACTIVE",
+            "frontdoor-develrc.us-east.appbe.optimizely.com": "INACTIVE",
+            "frontdoor-develrc.us-west.appbe.optimizely.com": "INACTIVE",
+            "frontdoor-rc.us-east.appbe.optimizely.com": "INACTIVE",
+            "frontdoor-rc.us-west.appbe.optimizely.com": "INACTIVE"
         }
     }
 }

@@ -77,3 +77,10 @@
 0.0.0.0 export-e2e.sendgrid.net
 0.0.0.0 export-preprod.sendgrid.net
 0.0.0.0 export-production.sendgrid.net
+0.0.0.0 forms-signup-development.sendgrid.net
+0.0.0.0 forms-signup-production.sendgrid.net
+0.0.0.0 forms-signup-staging.sendgrid.net
+0.0.0.0 frontdoor-develrc.us-east.appbe.optimizely.com
+0.0.0.0 frontdoor-develrc.us-west.appbe.optimizely.com
+0.0.0.0 frontdoor-rc.us-east.appbe.optimizely.com
+0.0.0.0 frontdoor-rc.us-west.appbe.optimizely.com
