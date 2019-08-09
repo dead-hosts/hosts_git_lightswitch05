@@ -774,9 +774,19 @@
         "expiration_date": "10-nov-2021",
         "state": "future"
     },
+    "brandmetrics.com": {
+        "epoch": 1566000000,
+        "expiration_date": "17-aug-2019",
+        "state": "future"
+    },
     "braze.com": {
         "epoch": "1705622400",
         "expiration_date": "19-jan-2024",
+        "state": "future"
+    },
+    "brealtime.com": {
+        "epoch": 1587081600,
+        "expiration_date": "17-apr-2020",
         "state": "future"
     },
     "brightedge.com": {
@@ -812,6 +822,11 @@
     "btstatic.com": {
         "epoch": "1589068800",
         "expiration_date": "10-may-2020",
+        "state": "future"
+    },
+    "bttrack.com": {
+        "epoch": 1577836800,
+        "expiration_date": "01-jan-2020",
         "state": "future"
     },
     "bucksense.com": {
