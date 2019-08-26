@@ -21227,7 +21227,9 @@
             "alertmanager.ex-prom-app.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
             "alertmanager.prom-example.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
             "alertmanager.rwe.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
-            "analytics-test.lisnr.com": "INACTIVE"
+            "analytics-test.lisnr.com": "INACTIVE",
+            "ap1.preprod.cdn.thunderhead.com": "INACTIVE",
+            "ap1preprod.thunderhead.com": "INACTIVE"
         }
     }
 }
