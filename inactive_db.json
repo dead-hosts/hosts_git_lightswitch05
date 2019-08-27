@@ -21251,7 +21251,9 @@
             "grafana.ex-prom-app.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
             "grafana.example-prom-app.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
             "grafana.prom-example.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
-            "grafana.rwe.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE"
+            "grafana.rwe.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
+            "internal.beeketing.com": "INACTIVE",
+            "internals.adotmob.com": "INACTIVE"
         }
     }
 }
