@@ -21275,7 +21275,14 @@
             "order.salesloft.com": "INACTIVE",
             "prod-eu-west-1.swrve.com": "INACTIVE",
             "prometheus.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
-            "prometheus.avalanche.ei-dev-a.us-east-2.k8s.sendgrid.net": "INACTIVE"
+            "prometheus.avalanche.ei-dev-a.us-east-2.k8s.sendgrid.net": "INACTIVE",
+            "prometheus.ex-prom-app.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
+            "prometheus.example-prom-app.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
+            "prometheus.prom-example.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
+            "prometheus.rwe.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
+            "prospector-cdn.salesloft.com": "INACTIVE",
+            "pypi.salesloft.com": "INACTIVE",
+            "rakuten.adroll.com": "INACTIVE"
         }
     }
 }
