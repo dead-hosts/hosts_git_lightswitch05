@@ -11410,11 +11410,7 @@
             "telemetry.ros.rockstargames.com": "INACTIVE"
         },
         "1568499242": {},
-        "1568671449": {
-            "ztest.thunderhead.com": "INACTIVE",
-            "zulip.dynamicyield.com": "INACTIVE",
-            "zuul-ws.flurry.com": "INACTIVE"
-        },
+        "1568671449": {},
         "1568844415": {
             "01.proxy.us-east-1.world.rw.yieldmo.com": "INACTIVE",
             "012.2o7.net": "INACTIVE",
@@ -22320,7 +22316,10 @@
             "znbsk4yipsnfkyadd-mlb.siteintercept.qualtrics.com": "INACTIVE",
             "znefynndqka4qf0fh-euroflorist.siteintercept.qualtrics.com": "INACTIVE",
             "zocdoc.sp1.convertro.com": "INACTIVE",
-            "zodiaco.backup.sh": "INACTIVE"
+            "zodiaco.backup.sh": "INACTIVE",
+            "ztest.thunderhead.com": "INACTIVE",
+            "zulip.dynamicyield.com": "INACTIVE",
+            "zuul-ws.flurry.com": "INACTIVE"
         }
     }
 }
