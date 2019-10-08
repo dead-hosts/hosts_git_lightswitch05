@@ -8196,7 +8196,11 @@
             "airflow.adsrvr.org",
             "airflow-bb.etl.us-east-1.kops.kargo.com",
             "airflow.biztech.segment.com",
-            "airflow.data.drift.com"
+            "airflow.data.drift.com",
+            "airflow-dev.etl.us-east-1.kops.kargo.com",
+            "airflow-dev-temp.etl.us-east-1.kops.kargo.com",
+            "airflow.gen.adsrvr.org",
+            "airflow.ophan.co.uk"
         ],
         "INACTIVE": [
             "012.2o7.net",
