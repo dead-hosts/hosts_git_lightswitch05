@@ -8328,7 +8328,9 @@
             "alertlogic.sc.omtrdc.net",
             "alertmanager.antiabuse.ei-prod-a.us-east-1.k8s.sendgrid.net",
             "alertmanager.antiabuse.ei-prod-a.us-east-2.k8s.sendgrid.net",
-            "alertmanager.antiabuse.ei-prod-a.us-west-2.k8s.sendgrid.net"
+            "alertmanager.antiabuse.ei-prod-a.us-west-2.k8s.sendgrid.net",
+            "alertmanager.antiabuse.ei-stage-a.us-east-1.k8s.sendgrid.net",
+            "alertmanager.antiabuse.ei-stage-a.us-east-2.k8s.sendgrid.net"
         ],
         "INACTIVE": [
             "012.2o7.net",
