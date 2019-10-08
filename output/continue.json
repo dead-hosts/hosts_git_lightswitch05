@@ -8334,7 +8334,9 @@
             "alertmanager.antiabuse.ei-stage-a.us-west-2.k8s.sendgrid.net",
             "alertmanager.argo-prod-a.us-east-2.k8s.sendgrid.net",
             "alertmanager.argo-stage-a.us-east-2.k8s.sendgrid.net",
-            "alertmanager.avalanche2.ei-dev-a.us-east-2.k8s.sendgrid.net"
+            "alertmanager.avalanche2.ei-dev-a.us-east-2.k8s.sendgrid.net",
+            "alertmanager.avalanche2.ei-dev-a.us-west-2.k8s.sendgrid.net",
+            "alertmanager.ei-dev-a.k8s-us-east-2.sendgrid.net"
         ],
         "INACTIVE": [
             "012.2o7.net",
@@ -11309,7 +11311,9 @@
             "alderaan.mediabong.net",
             "alehdet-relevant.thirdpresence.com",
             "alertmanager2.ei-stage-a.k8s-us-east-2.sendgrid.net",
-            "alertmanager.autobots.ei-dev-a.us-east-1.k8s.sendgrid.net"
+            "alertmanager.autobots.ei-dev-a.us-east-1.k8s.sendgrid.net",
+            "alertmanager.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net",
+            "alertmanager.avalanche.ei-dev-a.us-east-2.k8s.sendgrid.net"
         ]
     }
 }
