@@ -8340,7 +8340,9 @@
             "alertmanager.ei-dev-a.us-east-1.k8s.sendgrid.net",
             "alertmanager.ei-dev-a.us-east-2.k8s.sendgrid.net",
             "alertmanager.ei-dev-a.us-west-2.k8s.sendgrid.net",
-            "alertmanager.ei-prod-a.us-east-1.k8s.sendgrid.net"
+            "alertmanager.ei-prod-a.us-east-1.k8s.sendgrid.net",
+            "alertmanager.ei-prod-a.us-east-2.k8s.sendgrid.net",
+            "alertmanager.ei-prod-a.us-west-2.k8s.sendgrid.net"
         ],
         "INACTIVE": [
             "012.2o7.net",
