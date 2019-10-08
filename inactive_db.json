@@ -11532,9 +11532,6 @@
             "_sipfederationtls._tcp.admedia.com": "INACTIVE",
             "_sipfederationtls._tcp.gamail.com": "INACTIVE",
             "_sipfederationtls._tcp.gmial.com": "INACTIVE",
-            "a-la1.tribalfusion.com.akadns.net": "INACTIVE",
-            "a-lb-jp.vidora.com": "INACTIVE",
-            "a-lb.tribalfusion.com": "INACTIVE",
             "a-poc-ipv4.teads.tv": "INACTIVE",
             "a-poc.teads.tv": "INACTIVE",
             "a-sb-ec.adtechus.com": "INACTIVE",
@@ -11547,14 +11544,6 @@
             "a.sharethis.com": "INACTIVE",
             "a.sprymetrics.com": "INACTIVE",
             "a.thirdpresence.com": "INACTIVE",
-            "ak-vid.applovin.com": "INACTIVE",
-            "aksecure.imrworldwide.com": "INACTIVE",
-            "al1.sharethis.com": "INACTIVE",
-            "alav.propellerads.com": "INACTIVE",
-            "alb.intentmedia.net": "INACTIVE",
-            "alc.count.ly": "INACTIVE",
-            "alderaan.mediabong.net": "INACTIVE",
-            "alehdet-relevant.thirdpresence.com": "INACTIVE",
             "alertmanager-long.ei-stage-a.k8s-us-east-2.sendgrid.net": "INACTIVE",
             "alertmanager.autobots.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
             "alertmanager.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
@@ -11564,7 +11553,6 @@
             "alertmanager.prom-example.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
             "alertmanager.rwe.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
             "alertmanager.testing-mdw1.k8s.sendgrid.net": "INACTIVE",
-            "alertmanager2.ei-stage-a.k8s-us-east-2.sendgrid.net": "INACTIVE",
             "alexa.propellerads.com": "INACTIVE",
             "aligtr001.mmstat.com": "INACTIVE",
             "aligtr002.mmstat.com": "INACTIVE",
@@ -23044,6 +23032,9 @@
             "ahs.sp1.convertro.com": "INACTIVE"
         },
         "1570500303": {
+            "a-la1.tribalfusion.com.akadns.net": "INACTIVE",
+            "a-lb-jp.vidora.com": "INACTIVE",
+            "a-lb.tribalfusion.com": "INACTIVE",
             "ai-personalization-prod-api.demandbase.com": "INACTIVE",
             "ai.silverpush.co": "INACTIVE",
             "aialik.branch.io": "INACTIVE",
@@ -23069,6 +23060,7 @@
             "ak-assets.applovin.com": "INACTIVE",
             "ak-img.applovin.com": "INACTIVE",
             "ak-pdn.applovin.com": "INACTIVE",
+            "ak-vid.applovin.com": "INACTIVE",
             "aka-cdn.geo.adtechus.com": "INACTIVE",
             "aka-isepsn01.ise.corp.midasplayer.com": "INACTIVE",
             "aka.flashtalking.com": "INACTIVE",
@@ -23128,7 +23120,15 @@
             "akamai-san8.exacttarget.com": "INACTIVE",
             "akamai-san9.exacttarget.com": "INACTIVE",
             "akamai-sannestle.exacttarget.com": "INACTIVE",
-            "akamai.attribution.singular.net": "INACTIVE"
+            "akamai.attribution.singular.net": "INACTIVE",
+            "aksecure.imrworldwide.com": "INACTIVE",
+            "al1.sharethis.com": "INACTIVE",
+            "alav.propellerads.com": "INACTIVE",
+            "alb.intentmedia.net": "INACTIVE",
+            "alc.count.ly": "INACTIVE",
+            "alderaan.mediabong.net": "INACTIVE",
+            "alehdet-relevant.thirdpresence.com": "INACTIVE",
+            "alertmanager2.ei-stage-a.k8s-us-east-2.sendgrid.net": "INACTIVE"
         }
     }
 }
