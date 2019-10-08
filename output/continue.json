@@ -8200,7 +8200,10 @@
             "airflow-dev.etl.us-east-1.kops.kargo.com",
             "airflow-dev-temp.etl.us-east-1.kops.kargo.com",
             "airflow.gen.adsrvr.org",
-            "airflow.ophan.co.uk"
+            "airflow.ophan.co.uk",
+            "airflow-prod.etl.us-east-1.kops.kargo.com",
+            "airflow-sandbox.services-dev.r53.advance.net",
+            "airflow.services-dev.r53.advance.net"
         ],
         "INACTIVE": [
             "012.2o7.net",
@@ -11094,7 +11097,8 @@
             "aimon.applicationinsights.io",
             "ainoa.thirdpresence.com",
             "ai-personalization-prod-api.demandbase.com",
-            "aip-stg.insightexpressai.com"
+            "aip-stg.insightexpressai.com",
+            "airflow-sandbox-flower.services-dev.r53.advance.net"
         ]
     }
 }
