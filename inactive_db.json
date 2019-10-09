@@ -11132,22 +11132,6 @@
         }
     },
     "/home/travis/build/dead-hosts/hosts_git_lightswitch05/domains.list": {
-        "1565613446": {},
-        "1565819249": {},
-        "1565994234": {},
-        "1566166125": {},
-        "1566343126": {},
-        "1566510636": {},
-        "1566686477": {},
-        "1566856495": {},
-        "1567031337": {},
-        "1567202302": {},
-        "1567377213": {},
-        "1567548643": {},
-        "1567720810": {},
-        "1567893685": {},
-        "1568072079": {},
-        "1568242223": {},
         "1568412350": {
             "1874068156324778273.949080.acm-test.ops.tune.com": "INACTIVE",
             "1905388747193831650.1083046.acm-test.ops.tune.com": "INACTIVE",
@@ -11409,9 +11393,6 @@
             "p-us1.stripcdn.com": "INACTIVE",
             "telemetry.ros.rockstargames.com": "INACTIVE"
         },
-        "1568499242": {},
-        "1568671449": {},
-        "1568844415": {},
         "1569064195": {
             "artifactory-maven.corp.inmobi.com": "INACTIVE",
             "artifactory.corp.inmobi.com": "INACTIVE",
@@ -23129,6 +23110,21 @@
             "alertmanager.avalanche.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE",
             "alertmanager.avalanche.ei-dev-a.us-east-2.k8s.sendgrid.net": "INACTIVE",
             "alertmanager2.ei-stage-a.k8s-us-east-2.sendgrid.net": "INACTIVE"
+        },
+        "1570664490": {
+            "alertmanager.ei-squared.ei-dev-a.us-west-2.k8s.sendgrid.net": "INACTIVE"
+        },
+        "1570664621": {
+            "alertmanager.ei-squared.ei-prod-a.us-east-1.k8s.sendgrid.net": "INACTIVE"
+        },
+        "1570664752": {
+            "alertmanager.ei-squared.ei-prod-a.us-east-2.k8s.sendgrid.net": "INACTIVE"
+        },
+        "1570664884": {
+            "alertmanager.ei-squared.ei-prod-a.us-west-2.k8s.sendgrid.net": "INACTIVE"
+        },
+        "1570665015": {
+            "alertmanager.ei-squared.ei-stage-a.us-east-1.k8s.sendgrid.net": "INACTIVE"
         }
     }
 }
