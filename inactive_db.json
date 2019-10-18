@@ -11513,8 +11513,6 @@
             "_sipfederationtls._tcp.admedia.com": "INACTIVE",
             "_sipfederationtls._tcp.gamail.com": "INACTIVE",
             "_sipfederationtls._tcp.gmial.com": "INACTIVE",
-            "a-poc-ipv4.teads.tv": "INACTIVE",
-            "a-poc.teads.tv": "INACTIVE",
             "a-sb-ec.adtechus.com": "INACTIVE",
             "a-scl1.tribalfusion.com.akadns.net": "INACTIVE",
             "a-static.klaviyo.com": "INACTIVE",
@@ -11524,7 +11522,6 @@
             "a.sharethis.com": "INACTIVE",
             "a.sprymetrics.com": "INACTIVE",
             "a.thirdpresence.com": "INACTIVE",
-            "ap-northeast-1.stinger-ad.bidr.io": "INACTIVE",
             "ap-southeast-1.dc-dev.ads.linkedin.com": "INACTIVE",
             "ap-southeast-1.dmp-api-dev.ads.linkedin.com": "INACTIVE",
             "ap-southeast-1.dmp-api.ads.linkedin.com": "INACTIVE",
@@ -11534,119 +11531,6 @@
             "ap-southeast-1.profile-api-dev.ads.linkedin.com": "INACTIVE",
             "ap-southeast-1.profile-api.ads.linkedin.com": "INACTIVE",
             "ap.zineone.com": "INACTIVE",
-            "api-ex.metaps.com": "INACTIVE",
-            "api-exr-dev.metaps.com": "INACTIVE",
-            "api-exr-stg.metaps.com": "INACTIVE",
-            "api-exr.metaps.com": "INACTIVE",
-            "api-external-test.demandbase.com": "INACTIVE",
-            "api-glb-ash.smoot.apple.comat1.listrakbi.com": "INACTIVE",
-            "api-iad.bandwidthx.net": "INACTIVE",
-            "api-latest-grpc.lightstep.com": "INACTIVE",
-            "api-latest.lightstep.com": "INACTIVE",
-            "api-lb.global.prod1.sharethis.net": "INACTIVE",
-            "api-metrics-e2e.nonprod.flurry.com": "INACTIVE",
-            "api-metrics-smoke.nonprod.flurry.com": "INACTIVE",
-            "api-ono.web.analytics.yahoo.com": "INACTIVE",
-            "api-prod.luckyorange.net": "INACTIVE",
-            "api-public-fast.addthis.com": "INACTIVE",
-            "api-public-test.addthis.com": "INACTIVE",
-            "api-q1.shopcurbside.com": "INACTIVE",
-            "api-ssl.demandbase.com": "INACTIVE",
-            "api-staging-us-west-2.lisnr.com": "INACTIVE",
-            "api-staging.playbuzz.com": "INACTIVE",
-            "api-t.shopcurbside.com": "INACTIVE",
-            "api-trending.curalate.com": "INACTIVE",
-            "api-us1.lift.acquia.com": "INACTIVE",
-            "api-v2.instartlogic.com": "INACTIVE",
-            "api-v2.lootsie.com": "INACTIVE",
-            "api.extremereach.com.extremereach.com": "INACTIVE",
-            "api.feathr.co": "INACTIVE",
-            "api.final.env.sandbox53.localytics.com": "INACTIVE",
-            "api.funnelenvy.com": "INACTIVE",
-            "api.getadmiral.com": "INACTIVE",
-            "api.getrockerbox.com": "INACTIVE",
-            "api.int.drift.com": "INACTIVE",
-            "api.intel.dynamicyield.com": "INACTIVE",
-            "api.ios.tenjin.com": "INACTIVE",
-            "api.joanna-test.env.sandbox53.localytics.com": "INACTIVE",
-            "api.joanna.env.sandbox53.localytics.com": "INACTIVE",
-            "api.joe.env.sandbox53.localytics.com": "INACTIVE",
-            "api.josh.env.sandbox53.localytics.com": "INACTIVE",
-            "api.lootsie.com": "INACTIVE",
-            "api.mc-contact-upload-e2e.sendgrid.net": "INACTIVE",
-            "api.mc-contact-upload-nat-dev.sendgrid.net": "INACTIVE",
-            "api.mc-contact-upload-t9.sendgrid.net": "INACTIVE",
-            "api.mcauto-contact-upload-t9.sendgrid.net": "INACTIVE",
-            "api.mcauto-images-development.sendgrid.net": "INACTIVE",
-            "api.mcauto-images-e2e.sendgrid.net": "INACTIVE",
-            "api.mcauto-images-production.sendgrid.net": "INACTIVE",
-            "api.n131adserv.com": "INACTIVE",
-            "api.nonewlines.env.sandbox53.localytics.com": "INACTIVE",
-            "api.opinion.inmobi.com": "INACTIVE",
-            "api.pardot.com": "INACTIVE",
-            "api.perf.applicationinsights.io": "INACTIVE",
-            "api.playbuzz.com": "INACTIVE",
-            "api.playhaven.com": "INACTIVE",
-            "api.prod.env.53.localytics.com": "INACTIVE",
-            "api.propellerads.com": "INACTIVE",
-            "api.ptest.st-av.net": "INACTIVE",
-            "api.qa.branch.io": "INACTIVE",
-            "api.qa.corp.mparticle.com": "INACTIVE",
-            "api.qa.drift.com": "INACTIVE",
-            "api.qa.exacttarget.com": "INACTIVE",
-            "api.qa.test.appsee.com": "INACTIVE",
-            "api.qa1.corp.mparticle.com": "INACTIVE",
-            "api.qa2.corp.mparticle.com": "INACTIVE",
-            "api.qa2.test.appsee.com": "INACTIVE",
-            "api.raphael.env.sandbox53.localytics.com": "INACTIVE",
-            "api.release.template-build-service.prod.paperg.com": "INACTIVE",
-            "api.reports.advertising.com": "INACTIVE",
-            "api.revcontent.com": "INACTIVE",
-            "api.rishi.env.sandbox53.localytics.com": "INACTIVE",
-            "api.selfserve.rubiconproject.com": "INACTIVE",
-            "api.shannon.test.appsee.com": "INACTIVE",
-            "api.sharethis.com": "INACTIVE",
-            "api.silverpush.co": "INACTIVE",
-            "api.simpli.fi": "INACTIVE",
-            "api.static.xtify.com": "INACTIVE",
-            "api.stest.st-av.net": "INACTIVE",
-            "api.stg.dev.sizmek.com": "INACTIVE",
-            "api.stg.samplicio.us": "INACTIVE",
-            "api.t.163.com": "INACTIVE",
-            "api.tags-rc.iad.bluekai.com": "INACTIVE",
-            "api.tags.iad.bluekai.com": "INACTIVE",
-            "api.tags.phx.bluekai.com.bk.phx.addthis.com": "INACTIVE",
-            "api.terraform-outputs.env.sandbox53.localytics.com": "INACTIVE",
-            "api.test-routing.logrocket.io": "INACTIVE",
-            "api.test.signifyd.com": "INACTIVE",
-            "api.thirdpresence.com": "INACTIVE",
-            "api.tushar-test.env.sandbox53.localytics.com": "INACTIVE",
-            "api.tutorial-sharing-again.env.sandbox53.localytics.com": "INACTIVE",
-            "api.tutorial-sharing.env.sandbox53.localytics.com": "INACTIVE",
-            "api.tutorial.env.sandbox53.localytics.com": "INACTIVE",
-            "api.uat.opinions.inmobi.com": "INACTIVE",
-            "api.urbanairship.com": "INACTIVE",
-            "api.web.analytics.yahoo.com": "INACTIVE",
-            "api.webchunker.streaming.adswizz.com": "INACTIVE",
-            "api.wzrkt.com": "INACTIVE",
-            "api.xtify.com": "INACTIVE",
-            "api.ysamlan-initial-test.env.sandbox53.localytics.com": "INACTIVE",
-            "api.zemanta.com": "INACTIVE",
-            "apis-acceptance.sharethrough.com": "INACTIVE",
-            "apis-ci.web.analytics.yahoo.com": "INACTIVE",
-            "apis-staging.sharethrough.com": "INACTIVE",
-            "apis.adsymptotic.com": "INACTIVE",
-            "apis.sharethrough.com": "INACTIVE",
-            "apis.staging.sharethrough.com": "INACTIVE",
-            "apis.web.analytics.yahoo.com": "INACTIVE",
-            "apiservices-a.lb.krxd.net": "INACTIVE",
-            "apiservices-a001.krxd.net": "INACTIVE",
-            "apiservices-a002.krxd.net": "INACTIVE",
-            "apiservices-a007.krxd.net": "INACTIVE",
-            "apiservices-a010.krxd.net": "INACTIVE",
-            "apix.web.analytics.yahoo.com": "INACTIVE",
-            "apm.us-west1.gcp.cloud.es.io": "INACTIVE",
-            "apngetuid.dev.ad.gt": "INACTIVE",
             "app-latest.lightstep.com": "INACTIVE",
             "app-sjo5.marketo.com": "INACTIVE",
             "app-tst.scorecardresearch.com": "INACTIVE",
@@ -11680,9 +11564,6 @@
             "app.up.163.com": "INACTIVE",
             "app.whisk.com": "INACTIVE",
             "app.yjp.kissmetrics.com": "INACTIVE",
-            "app2.returnpath.net": "INACTIVE",
-            "app2.videostat.com": "INACTIVE",
-            "app3.autopilothq.com": "INACTIVE",
             "appchoices.rubiconproject.com": "INACTIVE",
             "appcloud-node-stage.corp.flurry.com": "INACTIVE",
             "appengage-fyber.fyber.com": "INACTIVE",
@@ -19860,9 +19741,6 @@
             "ztest.thunderhead.com": "INACTIVE",
             "zulip.dynamicyield.com": "INACTIVE",
             "zuul-ws.flurry.com": "INACTIVE"
-        },
-        "1571288451": {
-            "8csbeu.v.admaster.com.cn": "INACTIVE"
         },
         "1571292339": {
             "102.statdynamic.com": "INACTIVE"
@@ -33595,6 +33473,858 @@
         },
         "1571371522": {
             "api-eu-west.adlithium.com": "INACTIVE"
+        },
+        "1571375285": {
+            "api-ex.metaps.com": "INACTIVE",
+            "api-experimental.curalate.com": "INACTIVE"
+        },
+        "1571375292": {
+            "api-exr-dev.metaps.com": "INACTIVE",
+            "api-exr.metaps.com": "INACTIVE",
+            "api.exponential.com": "INACTIVE"
+        },
+        "1571375293": {
+            "api-exr-stg.metaps.com": "INACTIVE",
+            "api-external-test.demandbase.com": "INACTIVE"
+        },
+        "1571375294": {
+            "api-ext.mediav.com": "INACTIVE",
+            "api.extole.io": "INACTIVE"
+        },
+        "1571375295": {
+            "api.extremereach.com.extremereach.com": "INACTIVE"
+        },
+        "1571375296": {
+            "api.eyetracking.innovation.abtasty.com": "INACTIVE",
+            "api.fbot.me": "INACTIVE",
+            "api.feathr.co": "INACTIVE"
+        },
+        "1571375297": {
+            "api.final.env.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375298": {
+            "api.foobar.qa.bounceexchange.com": "INACTIVE",
+            "api.fooo.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375304": {
+            "api.forter.com": "INACTIVE"
+        },
+        "1571375311": {
+            "api.fuel451.com": "INACTIVE",
+            "api.funnelenvy.com": "INACTIVE"
+        },
+        "1571375312": {
+            "api.gameanalytics.com": "INACTIVE"
+        },
+        "1571375314": {
+            "api-gce.petametrics.com": "INACTIVE"
+        },
+        "1571375315": {
+            "api.gemini.yahoo.com": "INACTIVE"
+        },
+        "1571375316": {
+            "api.getadmiral.com": "INACTIVE",
+            "api.getrockerbox.com": "INACTIVE"
+        },
+        "1571375322": {
+            "api.gk.mparticle.com": "INACTIVE"
+        },
+        "1571375329": {
+            "api.gk.qa.corp.mparticle.com": "INACTIVE",
+            "api.glance.inmobi.com": "INACTIVE"
+        },
+        "1571375330": {
+            "api-glb-ash.smoot.apple.comat1.listrakbi.com": "INACTIVE",
+            "api.globalwebindex.net": "INACTIVE"
+        },
+        "1571375337": {
+            "api.gosquared.com": "INACTIVE"
+        },
+        "1571375344": {
+            "api-grpc.lightstep.com": "INACTIVE"
+        },
+        "1571375350": {
+            "api-grpc.meta.lightstep.com": "INACTIVE"
+        },
+        "1571375356": {
+            "api.g-us-v3.conductrics.com": "INACTIVE"
+        },
+        "1571375358": {
+            "api.h-bid.com": "INACTIVE"
+        },
+        "1571375359": {
+            "api.home.igaworks.com": "INACTIVE",
+            "api.hurra.com": "INACTIVE"
+        },
+        "1571375360": {
+            "api-iad.bandwidthx.net": "INACTIVE",
+            "api.ibm.xtify.com": "INACTIVE"
+        },
+        "1571375362": {
+            "api.inmobi.cn": "INACTIVE",
+            "api.inmobi.com": "INACTIVE"
+        },
+        "1571375363": {
+            "api.int.applicationinsights.io": "INACTIVE"
+        },
+        "1571375369": {
+            "api.int.datapipe.adsrvr.org": "INACTIVE"
+        },
+        "1571375370": {
+            "api.int.drift.com": "INACTIVE",
+            "api.intel.dynamicyield.com": "INACTIVE"
+        },
+        "1571375371": {
+            "api.intentiq.com": "INACTIVE",
+            "api.intercom.io": "INACTIVE"
+        },
+        "1571375377": {
+            "api-internal.gk.mparticle.com": "INACTIVE"
+        },
+        "1571375384": {
+            "api-internal.gk.qa.corp.mparticle.com": "INACTIVE"
+        },
+        "1571375390": {
+            "api-internal-us-east-1.mathtag.com": "INACTIVE"
+        },
+        "1571375391": {
+            "api.ios.tenjin.com": "INACTIVE"
+        },
+        "1571375392": {
+            "api.ipdata.co": "INACTIVE"
+        },
+        "1571375394": {
+            "api.iterable.com": "INACTIVE"
+        },
+        "1571375395": {
+            "api.jetlore.com": "INACTIVE",
+            "api.joanna-test.env.sandbox53.localytics.com": "INACTIVE",
+            "api.joanna.env.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375396": {
+            "api.joe.env.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375397": {
+            "api-js.datadome.co": "INACTIVE",
+            "api.josh.env.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375398": {
+            "api.keen.io": "INACTIVE",
+            "api.kissmetrics.com": "INACTIVE"
+        },
+        "1571375400": {
+            "api-latest-grpc.lightstep.com": "INACTIVE",
+            "api-latest.lightstep.com": "INACTIVE"
+        },
+        "1571375401": {
+            "api-lb.global.prod1.sharethis.net": "INACTIVE"
+        },
+        "1571375402": {
+            "api.leadfeeder.com": "INACTIVE"
+        },
+        "1571375403": {
+            "api.levelaccess.net": "INACTIVE"
+        },
+        "1571375409": {
+            "api.lijit.com": "INACTIVE"
+        },
+        "1571375415": {
+            "api-loadtest-grpc.lightstep.com": "INACTIVE"
+        },
+        "1571375416": {
+            "api.locsensads.com": "INACTIVE"
+        },
+        "1571375417": {
+            "api.lo.extole.io": "INACTIVE",
+            "api.lodeo.io": "INACTIVE"
+        },
+        "1571375418": {
+            "api-logger.curejoy.com": "INACTIVE",
+            "api.logrocket.com": "INACTIVE",
+            "api.loopme.me": "INACTIVE"
+        },
+        "1571375419": {
+            "api.lootsie.com": "INACTIVE",
+            "api.luckyorange.net": "INACTIVE"
+        },
+        "1571375420": {
+            "api-mangalife.media-lab.ai": "INACTIVE",
+            "api.mainad.com": "INACTIVE"
+        },
+        "1571375428": {
+            "api-market.vntsm.com": "INACTIVE",
+            "api-mashery.mediamath.com": "INACTIVE"
+        },
+        "1571375429": {
+            "api-mashery-qa.mediamath.com": "INACTIVE",
+            "api.master.firehound.staging.paperg.com": "INACTIVE",
+            "api.master.frozenyak.staging.paperg.com": "INACTIVE"
+        },
+        "1571375431": {
+            "api.mcauto-contact-upload-t9.sendgrid.net": "INACTIVE",
+            "api.mcauto-images-development.sendgrid.net": "INACTIVE",
+            "api.mcauto-images-e2e.sendgrid.net": "INACTIVE"
+        },
+        "1571375432": {
+            "api.mc-contact-upload-e2e.sendgrid.net": "INACTIVE",
+            "api.mc-contact-upload-nat-dev.sendgrid.net": "INACTIVE",
+            "api.mcauto-images-production.sendgrid.net": "INACTIVE"
+        },
+        "1571375433": {
+            "api.mc-contact-upload-t9.sendgrid.net": "INACTIVE",
+            "api.mdotlabs.com": "INACTIVE"
+        },
+        "1571375435": {
+            "api.mediavoice.com": "INACTIVE"
+        },
+        "1571375441": {
+            "api-meta-grpc.lightstep.com": "INACTIVE"
+        },
+        "1571375442": {
+            "api-metrics-canary.flurry.com": "INACTIVE"
+        },
+        "1571375443": {
+            "api-metrics-e2e.nonprod.flurry.com": "INACTIVE",
+            "api-metrics.flurry.com": "INACTIVE"
+        },
+        "1571375444": {
+            "api-metrics-smoke.nonprod.flurry.com": "INACTIVE",
+            "api.mg2connext.com": "INACTIVE"
+        },
+        "1571375445": {
+            "api.mixpanel.com": "INACTIVE"
+        },
+        "1571375451": {
+            "api.mobfox.com": "INACTIVE"
+        },
+        "1571375459": {
+            "api.mobile.cnzz.com": "INACTIVE",
+            "api.monetate.net": "INACTIVE",
+            "api.mparticle.com": "INACTIVE"
+        },
+        "1571375460": {
+            "ap.impdesk.com": "INACTIVE",
+            "api.n131adserv.com": "INACTIVE"
+        },
+        "1571375463": {
+            "api.navdmp.com": "INACTIVE"
+        },
+        "1571375469": {
+            "api.netseer.com": "INACTIVE"
+        },
+        "1571375470": {
+            "api.nirror.abtasty.com": "INACTIVE",
+            "api.nonewlines.env.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375471": {
+            "api-ob2.quartic.pl": "INACTIVE"
+        },
+        "1571375472": {
+            "api-olb.quarticon.com": "INACTIVE",
+            "api.ola.gemius.com": "INACTIVE"
+        },
+        "1571375473": {
+            "api-oma-00.bandwidthx.net": "INACTIVE",
+            "api-oma-02.bandwidthx.net": "INACTIVE",
+            "api-oma-a.bandwidthx.net": "INACTIVE",
+            "api-oma-b.bandwidthx.net": "INACTIVE"
+        },
+        "1571375474": {
+            "api-oma-q.bandwidthx.net": "INACTIVE",
+            "api.omnitagjs.com": "INACTIVE"
+        },
+        "1571375475": {
+            "api-ono.web.analytics.yahoo.com": "INACTIVE",
+            "api.opinion.inmobi.com": "INACTIVE"
+        },
+        "1571375482": {
+            "api.optimahub.com": "INACTIVE"
+        },
+        "1571375483": {
+            "api.outbrain.com": "INACTIVE",
+            "api.pardot.com": "INACTIVE"
+        },
+        "1571375484": {
+            "api.pc.openx.com": "INACTIVE",
+            "api.perf.applicationinsights.io": "INACTIVE"
+        },
+        "1571375485": {
+            "api.permutive.com": "INACTIVE",
+            "api.petametrics.com": "INACTIVE"
+        },
+        "1571375486": {
+            "api-ping.intercom.io": "INACTIVE"
+        },
+        "1571375487": {
+            "api.playbuzz.com": "INACTIVE",
+            "api.playhaven.com": "INACTIVE"
+        },
+        "1571375489": {
+            "api.poc.exacttarget.com": "INACTIVE",
+            "api.privacy-center.org": "INACTIVE",
+            "api.prod.env.53.localytics.com": "INACTIVE"
+        },
+        "1571375490": {
+            "api-prod.luckyorange.net": "INACTIVE",
+            "api.productdata.awin.com": "INACTIVE"
+        },
+        "1571375491": {
+            "api-products.globalwebindex.net": "INACTIVE",
+            "api.production.jetlore.com": "INACTIVE"
+        },
+        "1571375498": {
+            "api-p.shopcurbside.com": "INACTIVE",
+            "api.promotions.skype.com": "INACTIVE",
+            "api.propellerads.com": "INACTIVE"
+        },
+        "1571375499": {
+            "api-public.addthis.com": "INACTIVE",
+            "api.pt.163.com": "INACTIVE",
+            "api.ptest.st-av.net": "INACTIVE"
+        },
+        "1571375500": {
+            "api-public-fast.addthis.com": "INACTIVE"
+        },
+        "1571375501": {
+            "api-public-test.addthis.com": "INACTIVE"
+        },
+        "1571375502": {
+            "api.pubmatic.com": "INACTIVE"
+        },
+        "1571375509": {
+            "api.pursuanthealth.com": "INACTIVE",
+            "api.pushengage.com": "INACTIVE"
+        },
+        "1571375510": {
+            "api-q1.shopcurbside.com": "INACTIVE",
+            "api.qa1.corp.mparticle.com": "INACTIVE"
+        },
+        "1571375511": {
+            "api.qa1.jivox.com": "INACTIVE",
+            "api.qa2.corp.mparticle.com": "INACTIVE",
+            "api.qa2.test.appsee.com": "INACTIVE",
+            "api.qa3.jivox.com": "INACTIVE"
+        },
+        "1571375512": {
+            "api.qa.branch.io": "INACTIVE",
+            "api.qa.corp.mparticle.com": "INACTIVE"
+        },
+        "1571375513": {
+            "api.qa.drift.com": "INACTIVE",
+            "api.qa.exacttarget.com": "INACTIVE"
+        },
+        "1571375514": {
+            "api-q.bandwidthx.net": "INACTIVE",
+            "api.qa.test.appsee.com": "INACTIVE"
+        },
+        "1571375516": {
+            "api.rakuten.co.jp": "INACTIVE"
+        },
+        "1571375517": {
+            "api.raphael.env.sandbox53.localytics.com": "INACTIVE",
+            "api.raygun.io": "INACTIVE"
+        },
+        "1571375523": {
+            "api.rc-app.optimizely.com": "INACTIVE"
+        },
+        "1571375530": {
+            "api.release.firehound.prod.paperg.com": "INACTIVE",
+            "api.release.frozenyak.prod.paperg.com": "INACTIVE",
+            "apiregistry.int.applicationinsights.io": "INACTIVE"
+        },
+        "1571375531": {
+            "api.release.template-build-service.prod.paperg.com": "INACTIVE",
+            "api.reports.advertising.com": "INACTIVE"
+        },
+        "1571375532": {
+            "api.revcontent.com": "INACTIVE",
+            "api.rishi.env.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375534": {
+            "api.rp.rakuten.co.jp": "INACTIVE",
+            "api.s1.qa2.exacttarget.com": "INACTIVE",
+            "api.s2.qa2.exacttarget.com": "INACTIVE"
+        },
+        "1571375535": {
+            "api-s2s-america.taboola.com": "INACTIVE",
+            "api-s2s-apac.taboola.com": "INACTIVE",
+            "api-s2s-emea.taboola.com": "INACTIVE",
+            "api-s2s.taboola.com": "INACTIVE"
+        },
+        "1571375536": {
+            "api.s4.exacttarget.com": "INACTIVE",
+            "apis-acceptance.sharethrough.com": "INACTIVE",
+            "apis.adsymptotic.com": "INACTIVE"
+        },
+        "1571375537": {
+            "api.salesloft.com": "INACTIVE",
+            "api.samplicio.us": "INACTIVE"
+        },
+        "1571375539": {
+            "apis-ci.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1571375545": {
+            "api.scorecardresearch.com": "INACTIVE",
+            "api.scraper.innovation.abtasty.com": "INACTIVE"
+        },
+        "1571375552": {
+            "api-sdk.datadome.co": "INACTIVE",
+            "api-secure.mixpanel.com": "INACTIVE",
+            "api.screenshot.triplelift.com": "INACTIVE"
+        },
+        "1571375553": {
+            "api.segment.io": "INACTIVE"
+        },
+        "1571375554": {
+            "api-selene.prod.adtech.de": "INACTIVE",
+            "api-selene.prod.adtechus.com": "INACTIVE"
+        },
+        "1571375555": {
+            "api.selfserve.rubiconproject.com": "INACTIVE",
+            "apiservices-a001.krxd.net": "INACTIVE",
+            "apiservices-a002.krxd.net": "INACTIVE",
+            "apiservices-a007.krxd.net": "INACTIVE"
+        },
+        "1571375556": {
+            "apiservices-a.lb.krxd.net": "INACTIVE",
+            "apiservices-a010.krxd.net": "INACTIVE",
+            "apiservices.krxd.net": "INACTIVE"
+        },
+        "1571375557": {
+            "api.shannon.test.appsee.com": "INACTIVE",
+            "apiservices-sie.krxd.net": "INACTIVE"
+        },
+        "1571375558": {
+            "api.sharethis.com": "INACTIVE"
+        },
+        "1571375559": {
+            "api.signifyd.com": "INACTIVE",
+            "api.silverpush.co": "INACTIVE",
+            "api.simpli.fi": "INACTIVE"
+        },
+        "1571375560": {
+            "api.skimlinks.mgr.consensu.org": "INACTIVE",
+            "api.slo-review-tool.mediamath.com": "INACTIVE"
+        },
+        "1571375561": {
+            "api.sociomantic.net": "INACTIVE",
+            "api.sojern.com": "INACTIVE"
+        },
+        "1571375562": {
+            "api.so.lianmeng.360.cn": "INACTIVE"
+        },
+        "1571375568": {
+            "api.solocpm.com": "INACTIVE"
+        },
+        "1571375571": {
+            "apis.sharethrough.com": "INACTIVE"
+        },
+        "1571375572": {
+            "api-s.shopcurbside.com": "INACTIVE",
+            "api-ssl.demandbase.com": "INACTIVE"
+        },
+        "1571375574": {
+            "api.ssl.so.com": "INACTIVE",
+            "api.ssp.omnitagjs.com": "INACTIVE",
+            "apis.staging.sharethrough.com": "INACTIVE"
+        },
+        "1571375575": {
+            "apis-staging.sharethrough.com": "INACTIVE"
+        },
+        "1571375581": {
+            "api-stage.advance.net": "INACTIVE",
+            "api.stack-sonar.com": "INACTIVE"
+        },
+        "1571375588": {
+            "api.stage.justpremium.com": "INACTIVE"
+        },
+        "1571375589": {
+            "api.staging.airfind.com": "INACTIVE"
+        },
+        "1571375590": {
+            "api.staging.bounceexchange.com": "INACTIVE",
+            "api.staging.connatix.com": "INACTIVE"
+        },
+        "1571375596": {
+            "api-staging.gosquared.com": "INACTIVE"
+        },
+        "1571375603": {
+            "api-staging-grpc.lightstep.com": "INACTIVE"
+        },
+        "1571375606": {
+            "api-staging.playbuzz.com": "INACTIVE",
+            "api.staging.signifyd.com": "INACTIVE"
+        },
+        "1571375607": {
+            "api-staging-us-west-2.lisnr.com": "INACTIVE"
+        },
+        "1571375611": {
+            "api-static.syndicaster.tv": "INACTIVE",
+            "api.static.xtify.com": "INACTIVE"
+        },
+        "1571375613": {
+            "api.stest.st-av.net": "INACTIVE",
+            "api.stg.dev.sizmek.com": "INACTIVE"
+        },
+        "1571375614": {
+            "api.stg.fwmrm.net": "INACTIVE",
+            "api.stg.samplicio.us": "INACTIVE"
+        },
+        "1571375621": {
+            "api.support.scs.mediamath.com": "INACTIVE"
+        },
+        "1571375622": {
+            "api.swrve.com": "INACTIVE",
+            "api.syndicaster.tv": "INACTIVE",
+            "apis.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1571375623": {
+            "api.synovite.nl": "INACTIVE"
+        },
+        "1571375629": {
+            "api.sysdig-stage.sendgrid.net": "INACTIVE"
+        },
+        "1571375630": {
+            "api.t.163.com": "INACTIVE",
+            "api.taboola.com": "INACTIVE",
+            "api.tagcommander.com": "INACTIVE"
+        },
+        "1571375631": {
+            "api.tags.bluekai.com": "INACTIVE",
+            "api.tags.iad.bluekai.com": "INACTIVE",
+            "api.tags.phx.bluekai.com": "INACTIVE"
+        },
+        "1571375632": {
+            "api.tags-rc.bluekai.com": "INACTIVE",
+            "api.tags-rc.iad.bluekai.com": "INACTIVE",
+            "api.tags.phx.bluekai.com.bk.phx.addthis.com": "INACTIVE"
+        },
+        "1571375633": {
+            "api.tags-rc.phx.bluekai.com": "INACTIVE",
+            "api.tagtoo.com.tw": "INACTIVE"
+        },
+        "1571375634": {
+            "api.taplytics.com": "INACTIVE",
+            "api.tappx.com": "INACTIVE"
+        },
+        "1571375635": {
+            "api-telemetry.servers.getgo.com": "INACTIVE",
+            "api-temp.mediamath.com": "INACTIVE",
+            "api.teads.tv": "INACTIVE",
+            "api.techsol.mediamath.com": "INACTIVE"
+        },
+        "1571375636": {
+            "api.terraform-outputs.env.sandbox53.localytics.com": "INACTIVE",
+            "api.test11.qa.bounceexchange.com": "INACTIVE",
+            "api.test123.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375637": {
+            "api.test1.qa.bounceexchange.com": "INACTIVE",
+            "api.test2.qa.bounceexchange.com": "INACTIVE",
+            "api.test2rudy.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375638": {
+            "api.test3.qa.bounceexchange.com": "INACTIVE",
+            "api.test333.qa.bounceexchange.com": "INACTIVE",
+            "api.test3rudy.qa.bounceexchange.com": "INACTIVE",
+            "api.test43.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375639": {
+            "api.test444.qa.bounceexchange.com": "INACTIVE",
+            "api.test4rudy.qa.bounceexchange.com": "INACTIVE",
+            "api.test5rudy.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375640": {
+            "api-test.bluekai.com": "INACTIVE",
+            "api.test6rudy.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375641": {
+            "api.testenv.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375648": {
+            "api.test.exacttarget.com": "INACTIVE",
+            "api.testing.qa.bounceexchange.com": "INACTIVE",
+            "api.testing12.qa.bounceexchange.com": "INACTIVE",
+            "api.testing2.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375649": {
+            "api.test-routing.logrocket.io": "INACTIVE",
+            "api.test.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375650": {
+            "api.test.signifyd.com": "INACTIVE",
+            "api.testrudy.qa.bounceexchange.com": "INACTIVE"
+        },
+        "1571375657": {
+            "api.test.vilynx.com": "INACTIVE"
+        },
+        "1571375658": {
+            "api.tf.airfind.com": "INACTIVE",
+            "api.tfvpn.airfind.com": "INACTIVE"
+        },
+        "1571375659": {
+            "api.theadex.com": "INACTIVE",
+            "api.thirdpresence.com": "INACTIVE"
+        },
+        "1571375660": {
+            "api-tracker.mobfox.com": "INACTIVE"
+        },
+        "1571375661": {
+            "api.tradedoubler.com": "INACTIVE"
+        },
+        "1571375662": {
+            "api.traefik.df-srv.de": "INACTIVE"
+        },
+        "1571375665": {
+            "api.traffiliate.com": "INACTIVE"
+        },
+        "1571375666": {
+            "api-trending.curalate.com": "INACTIVE",
+            "api.tr.blismedia.com": "INACTIVE",
+            "api.traq.li": "INACTIVE"
+        },
+        "1571375667": {
+            "api-t.shopcurbside.com": "INACTIVE",
+            "api.triplelift.com": "INACTIVE"
+        },
+        "1571375670": {
+            "api.turn.com": "INACTIVE"
+        },
+        "1571375671": {
+            "api.turnto.com": "INACTIVE",
+            "api.tushar-test.env.sandbox53.localytics.com": "INACTIVE",
+            "api.tutorial.env.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375672": {
+            "api.tutorial-sharing-again.env.sandbox53.localytics.com": "INACTIVE",
+            "api.tutorial-sharing.env.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375673": {
+            "api.uat.opinions.inmobi.com": "INACTIVE",
+            "api.urbanairship.com": "INACTIVE"
+        },
+        "1571375674": {
+            "api-us1.lift.acquia.com": "INACTIVE"
+        },
+        "1571375680": {
+            "api-us-central.adlithium.com": "INACTIVE"
+        },
+        "1571375681": {
+            "api-us-east-1.datadome.co": "INACTIVE",
+            "api-us-east-2.datadome.co": "INACTIVE"
+        },
+        "1571375687": {
+            "api-us-east.adlithium.com": "INACTIVE"
+        },
+        "1571375688": {
+            "api-us.gameanalytics.com": "INACTIVE",
+            "api-users.globalwebindex.net": "INACTIVE",
+            "api.us.e-planning.net": "INACTIVE"
+        },
+        "1571375689": {
+            "api-us-west-1.datadome.co": "INACTIVE"
+        },
+        "1571375690": {
+            "api-us-west-1.petametrics.com": "INACTIVE",
+            "api-us-west-2.datadome.co": "INACTIVE"
+        },
+        "1571375696": {
+            "api-us-west.adlithium.com": "INACTIVE"
+        },
+        "1571375698": {
+            "api-v2.instartlogic.com": "INACTIVE",
+            "apiv2.effiliation.com": "INACTIVE"
+        },
+        "1571375699": {
+            "api-v2.lootsie.com": "INACTIVE",
+            "api-v3_0.us-west-2.prod.aws.keen.io": "INACTIVE"
+        },
+        "1571375706": {
+            "api.v3.yoose.com": "INACTIVE",
+            "api.v4.yoose.com": "INACTIVE"
+        },
+        "1571375707": {
+            "api-vast-dc3.videoamp.com": "INACTIVE",
+            "api.veeseo.com": "INACTIVE"
+        },
+        "1571375708": {
+            "api.viglink.com": "INACTIVE"
+        },
+        "1571375714": {
+            "api.vilynx.com": "INACTIVE",
+            "api.visualdna.com": "INACTIVE"
+        },
+        "1571375715": {
+            "api.vungle.akadns.net": "INACTIVE"
+        },
+        "1571375723": {
+            "api.wazuh.53.localytics.com": "INACTIVE"
+        },
+        "1571375729": {
+            "api.wazuh.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375730": {
+            "api.web.analytics.yahoo.com": "INACTIVE",
+            "api.webchunker.streaming.adswizz.com": "INACTIVE"
+        },
+        "1571375737": {
+            "apiw.ensighten.com": "INACTIVE"
+        },
+        "1571375738": {
+            "api.whisk.com": "INACTIVE"
+        },
+        "1571375739": {
+            "api.w.inmobi.cn": "INACTIVE"
+        },
+        "1571375740": {
+            "api.w.inmobi.com": "INACTIVE",
+            "api.wootric.com.herokudns.com": "INACTIVE"
+        },
+        "1571375747": {
+            "apiw-test.ensighten.com": "INACTIVE"
+        },
+        "1571375748": {
+            "api.wzrkt.com": "INACTIVE"
+        },
+        "1571375749": {
+            "api.xtify.com": "INACTIVE",
+            "apix.web.analytics.yahoo.com": "INACTIVE"
+        },
+        "1571375756": {
+            "api.yoose.com": "INACTIVE",
+            "api.ysamlan-initial-test.env.sandbox53.localytics.com": "INACTIVE"
+        },
+        "1571375757": {
+            "ap-jet-01.sociomantic.com": "INACTIVE",
+            "api.zemanta.com": "INACTIVE"
+        },
+        "1571375758": {
+            "ap-jet-02.sociomantic.com": "INACTIVE",
+            "ap-jet.sociomantic.net": "INACTIVE"
+        },
+        "1571375764": {
+            "apk.vserv.mobi": "INACTIVE"
+        },
+        "1571375765": {
+            "ap.ligatus.com": "INACTIVE",
+            "apl.adjust.com": "INACTIVE"
+        },
+        "1571375766": {
+            "apllcamerptrsd.demdex.net": "INACTIVE"
+        },
+        "1571375767": {
+            "ap-map.adsniper.ru": "INACTIVE",
+            "apm.us-west1.gcp.cloud.es.io": "INACTIVE"
+        },
+        "1571375768": {
+            "apngetuid.dev.ad.gt": "INACTIVE"
+        },
+        "1571375769": {
+            "ap-northeast-1.bid.bidr.io": "INACTIVE"
+        },
+        "1571375770": {
+            "ap-northeast-1.stinger-ad.bidr.io": "INACTIVE"
+        },
+        "1571375783": {
+            "ap-notify.bidagent.xad.com": "INACTIVE"
+        },
+        "1571375784": {
+            "apn-winners-ap-southeast-1-rtb.adroll.com": "INACTIVE"
+        },
+        "1571375785": {
+            "apn-winners-eu-west-1-rtb.adroll.com": "INACTIVE",
+            "apn-winners-us-east-1-rtb.adroll.com": "INACTIVE",
+            "apn-winners-us-west-2-rtb.adroll.com": "INACTIVE"
+        },
+        "1571375786": {
+            "apnxrtb-as.tribalfusion.com": "INACTIVE",
+            "apnxrtb-eu.tribalfusion.com": "INACTIVE"
+        },
+        "1571375787": {
+            "a-poc-ipv4.teads.tv": "INACTIVE",
+            "a-poc.teads.tv": "INACTIVE",
+            "apo.adjust.com": "INACTIVE"
+        },
+        "1571375789": {
+            "apollo.demdex.net": "INACTIVE",
+            "apollo.internal.glbs.keen.io": "INACTIVE"
+        },
+        "1571375790": {
+            "apollomunich.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571375793": {
+            "app18.rutarget.ru": "INACTIVE"
+        },
+        "1571375799": {
+            "app18.staging.brightedge.com": "INACTIVE"
+        },
+        "1571375800": {
+            "app-1.quartic.pl": "INACTIVE"
+        },
+        "1571375801": {
+            "app1.rutarget.ru": "INACTIVE",
+            "app25.rutarget.ru": "INACTIVE"
+        },
+        "1571375802": {
+            "app-2.quartic.pl": "INACTIVE",
+            "app2.returnpath.net": "INACTIVE"
+        },
+        "1571375803": {
+            "app2.rutarget.ru": "INACTIVE"
+        },
+        "1571375809": {
+            "app2.scanscout.com": "INACTIVE"
+        },
+        "1571375810": {
+            "app2.videostat.com": "INACTIVE"
+        },
+        "1571375816": {
+            "app35.staging.brightedge.com": "INACTIVE"
+        },
+        "1571375817": {
+            "app37.rutarget.ru": "INACTIVE"
+        },
+        "1571375824": {
+            "app3.autopilothq.com": "INACTIVE",
+            "app38.staging.brightedge.com": "INACTIVE"
+        },
+        "1571375831": {
+            "app3.mashero.com": "INACTIVE"
+        },
+        "1571375837": {
+            "app-3.quartic.pl": "INACTIVE",
+            "app3.omniconvert.com": "INACTIVE"
+        },
+        "1571375838": {
+            "app3.rutarget.ru": "INACTIVE"
+        },
+        "1571375844": {
+            "app3.staging.brightedge.com": "INACTIVE"
+        },
+        "1571375851": {
+            "app-4.quartic.pl": "INACTIVE",
+            "app4.omniconvert.com": "INACTIVE"
+        },
+        "1571375852": {
+            "app-5.quartic.pl": "INACTIVE",
+            "app52.rutarget.ru": "INACTIVE"
+        },
+        "1571375853": {
+            "app5.rutarget.ru": "INACTIVE"
+        },
+        "1571375854": {
+            "app60.rutarget.ru": "INACTIVE"
+        },
+        "1571375855": {
+            "app-6.quartic.pl": "INACTIVE",
+            "app61.rutarget.ru": "INACTIVE"
+        },
+        "1571375862": {
+            "app7.staging.brightedge.com": "INACTIVE",
+            "app83.rutarget.ru": "INACTIVE"
+        },
+        "1571375883": {
+            "app.adapt.io": "INACTIVE"
         }
     }
 }
