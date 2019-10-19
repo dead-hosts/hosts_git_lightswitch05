@@ -11512,66 +11512,6 @@
             "_sipfederationtls._tcp.admedia.com": "INACTIVE",
             "_sipfederationtls._tcp.gamail.com": "INACTIVE",
             "_sipfederationtls._tcp.gmial.com": "INACTIVE",
-            "o.staging.criteo.com": "INACTIVE",
-            "ops-prod-a.us-east-1.k8s.tune.com": "INACTIVE",
-            "ops-prod-a.us-west-1.k8s.tune.com": "INACTIVE",
-            "ops-prod-a.us-west-2.k8s.tune.com": "INACTIVE",
-            "ops-prod.us-west-2.k8s.ops.tune.com": "INACTIVE",
-            "ops-query-0.gameanalytics.com": "INACTIVE",
-            "ops-query-1.gameanalytics.com": "INACTIVE",
-            "ops-query-2.gameanalytics.com": "INACTIVE",
-            "ops-query-3.gameanalytics.com": "INACTIVE",
-            "ops-stage-a.us-east-1.k8s.tune.com": "INACTIVE",
-            "ops-stage-a.us-west-2.k8s.tune.com": "INACTIVE",
-            "ops-stage.us-west-2.k8s.ops.tune.com": "INACTIVE",
-            "ops-tool.yieldmo.com": "INACTIVE",
-            "opstool.bcp.report.gemini.yahoo.com": "INACTIVE",
-            "opstool.report.gemini.yahoo.com": "INACTIVE",
-            "opstool.stage.report.gemini.yahoo.com": "INACTIVE",
-            "optimization-preprod.staging.sendgrid.net": "INACTIVE",
-            "optimize.adpushup.com": "INACTIVE",
-            "optimized-by-adv.rubiconproject.com": "INACTIVE",
-            "optimized-rtp-us-west.rubiconproject.com": "INACTIVE",
-            "opx-winners-ap-southeast-1-rtb.adroll.com": "INACTIVE",
-            "order.carbonads.net": "INACTIVE",
-            "order.salesloft.com": "INACTIVE",
-            "orders.localiq.com": "INACTIVE",
-            "orders.qa.localiq.com": "INACTIVE",
-            "org.uk.vsassets.com": "INACTIVE",
-            "org.vsassets.com": "INACTIVE",
-            "orgdemo.meridian.sandbox.nile.works": "INACTIVE",
-            "origin-0.qa.extole.io": "INACTIVE",
-            "origin-1.qa.extole.io": "INACTIVE",
-            "origin-2.qa.extole.io": "INACTIVE",
-            "origin-3.qa.extole.io": "INACTIVE",
-            "origin-4.qa.extole.io": "INACTIVE",
-            "origin-5.qa.extole.io": "INACTIVE",
-            "origin-6.qa.extole.io": "INACTIVE",
-            "origin-7.qa.extole.io": "INACTIVE",
-            "origin-akamai-members.s50.exacttarget.com": "INACTIVE",
-            "origin-auth.s2.qa3.exacttarget.com": "INACTIVE",
-            "origin-ib.els.huluim.com": "INACTIVE",
-            "origin-stage-app.scorecardresearch.com": "INACTIVE",
-            "origin-vlibs.advertising.com": "INACTIVE",
-            "origin.craft.advertising.com": "INACTIVE",
-            "origin.home.tapjoy.com": "INACTIVE",
-            "origin.midasplayer.com": "INACTIVE",
-            "origin.uac.advertising.com": "INACTIVE",
-            "orion-aimon-uswc-encryption.aimon.applicationinsights.io": "INACTIVE",
-            "orionhttp.s50.exacttarget.com": "INACTIVE",
-            "orionimg.adkmob.com": "INACTIVE",
-            "os.apester.com": "INACTIVE",
-            "os.dev.midasplayer.com": "INACTIVE",
-            "osxserver1.oit.lijit.com": "INACTIVE",
-            "otify.bugsnag.com": "INACTIVE",
-            "outbound.crashlytics.com": "INACTIVE",
-            "overrider.apester.com": "INACTIVE",
-            "owap1.acxiom.com": "INACTIVE",
-            "owap2.acxiom.com": "INACTIVE",
-            "owitms.ga": "INACTIVE",
-            "ox-d.w55c.net": "INACTIVE",
-            "ox-d.zergnet.com": "INACTIVE",
-            "ox.pxl.ace.advertising.com": "INACTIVE",
             "p-ads24.eu.adsymptotic.com": "INACTIVE",
             "p-ads34.eu.adsymptotic.com": "INACTIVE",
             "p-ads44.eu.adsymptotic.com": "INACTIVE",
@@ -11607,20 +11547,7 @@
             "p.silverpush.co": "INACTIVE",
             "p.staging.ina.media.net": "INACTIVE",
             "p.static.ads-twitter.com": "INACTIVE",
-            "p01.eloqua.com": "INACTIVE",
-            "p02.eloqua.com": "INACTIVE",
-            "p03.eloqua.com": "INACTIVE",
-            "p04.eloqua.com": "INACTIVE",
-            "p06.eloqua.com": "INACTIVE",
-            "p07.eloqua.com": "INACTIVE",
-            "p1.midasplayer.com": "INACTIVE",
-            "p13nlog.dz.optimizely.com": "INACTIVE",
-            "p1agead2.googlesyndication.com": "INACTIVE",
             "p2.ad.gt": "INACTIVE",
-            "p20euapi.xtify.com": "INACTIVE",
-            "p20uslbapi.xtify.com": "INACTIVE",
-            "p20uslbsdk.xtify.com": "INACTIVE",
-            "p20uslbsdkapi.xtify.com": "INACTIVE",
             "pa.survicate.com": "INACTIVE",
             "pagead.l.doubleclick.net": "INACTIVE",
             "pagead1.googlesyndication.com": "INACTIVE",
@@ -65946,6 +65873,725 @@
         },
         "1571527322": {
             "ops-jenkins.route53.stickyadstv.com": "INACTIVE"
+        },
+        "1571527437": {
+            "ops-prod-a.us-east-1.k8s.tune.com": "INACTIVE",
+            "opsplatform.adsrvr.org": "INACTIVE"
+        },
+        "1571527438": {
+            "ops-prod-a.us-west-1.k8s.tune.com": "INACTIVE",
+            "ops-prod-a.us-west-2.k8s.tune.com": "INACTIVE"
+        },
+        "1571527439": {
+            "ops-prod.us-west-2.k8s.ops.tune.com": "INACTIVE",
+            "ops-query-0.gameanalytics.com": "INACTIVE",
+            "ops-query-1.gameanalytics.com": "INACTIVE"
+        },
+        "1571527440": {
+            "ops-query-2.gameanalytics.com": "INACTIVE",
+            "ops-query-3.gameanalytics.com": "INACTIVE"
+        },
+        "1571527447": {
+            "ops-self-service.adsrvr.org": "INACTIVE"
+        },
+        "1571527454": {
+            "ops-stage-a.us-east-1.k8s.tune.com": "INACTIVE",
+            "ops-stage-a.us-west-2.k8s.tune.com": "INACTIVE",
+            "ops-stage.us-west-2.k8s.ops.tune.com": "INACTIVE"
+        },
+        "1571527456": {
+            "opstool.bcp.report.gemini.yahoo.com": "INACTIVE"
+        },
+        "1571527458": {
+            "opstool.report.gemini.yahoo.com": "INACTIVE"
+        },
+        "1571527459": {
+            "ops-tool.yieldmo.com": "INACTIVE",
+            "opstool.stage.report.gemini.yahoo.com": "INACTIVE"
+        },
+        "1571527460": {
+            "opt7.go.sonobi.com": "INACTIVE"
+        },
+        "1571527461": {
+            "optanon.blob.core.windows.net": "INACTIVE"
+        },
+        "1571527467": {
+            "opt.d3sv.net": "INACTIVE"
+        },
+        "1571527470": {
+            "optimal-variant-server.prod-1.prod.leanplum.com": "INACTIVE",
+            "optimal-variant-server.staging-1.staging.leanplum.com": "INACTIVE"
+        },
+        "1571527471": {
+            "optimatic.sync.go.sonobi.com": "INACTIVE"
+        },
+        "1571527478": {
+            "optimization.channelintelligence.com": "INACTIVE"
+        },
+        "1571527479": {
+            "optimization-preprod.staging.sendgrid.net": "INACTIVE",
+            "optimize.adpushup.com": "INACTIVE"
+        },
+        "1571527480": {
+            "optimized-by-adv.rubiconproject.com": "INACTIVE"
+        },
+        "1571527481": {
+            "optimized-by.rubiconproject.com": "INACTIVE",
+            "optimizedby.openx.com": "INACTIVE"
+        },
+        "1571527482": {
+            "optimize.ensighten.com": "INACTIVE",
+            "optimized-rtp-us-west.rubiconproject.com": "INACTIVE"
+        },
+        "1571527485": {
+            "optimum.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571527489": {
+            "opt-out.dsp.linksynergy.com": "INACTIVE"
+        },
+        "1571527490": {
+            "opt-out.zdbb.net": "INACTIVE",
+            "optout-service.unrulymedia.com": "INACTIVE",
+            "optout-stage.addthis.com": "INACTIVE"
+        },
+        "1571527499": {
+            "optus.tt.omtrdc.net": "INACTIVE",
+            "optusprod.amobee.com": "INACTIVE"
+        },
+        "1571527506": {
+            "opt.w55c.net": "INACTIVE"
+        },
+        "1571527508": {
+            "opx-winners-ap-northeast-1-rtb.adroll.com": "INACTIVE",
+            "opx-winners-ap-southeast-1-rtb.adroll.com": "INACTIVE"
+        },
+        "1571527509": {
+            "opx-winners-eu-west-1-rtb.adroll.com": "INACTIVE",
+            "opx-winners-us-east-1-rtb.adroll.com": "INACTIVE"
+        },
+        "1571527510": {
+            "opx-winners-us-west-2-rtb.adroll.com": "INACTIVE"
+        },
+        "1571527511": {
+            "oracle.bronto.com": "INACTIVE"
+        },
+        "1571527512": {
+            "orami-sin.gravityrd-services.com": "INACTIVE",
+            "orami.worldgravity.com": "INACTIVE"
+        },
+        "1571527513": {
+            "orangebank.demdex.net": "INACTIVE"
+        },
+        "1571527514": {
+            "orange.demdex.net": "INACTIVE"
+        },
+        "1571527521": {
+            "orangegames.adhese.com": "INACTIVE"
+        },
+        "1571527523": {
+            "orbitz.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571527524": {
+            "order.carbonads.net": "INACTIVE"
+        },
+        "1571527527": {
+            "order.salesloft.com": "INACTIVE"
+        },
+        "1571527528": {
+            "orders.localiq.com": "INACTIVE",
+            "orders.qa.localiq.com": "INACTIVE"
+        },
+        "1571527537": {
+            "ord-u3s-x1.mediamath.com": "INACTIVE",
+            "oregon-01.clickfunnels.com": "INACTIVE"
+        },
+        "1571527539": {
+            "org.uk.vsassets.com": "INACTIVE",
+            "orgdemo.meridian.sandbox.nile.works": "INACTIVE"
+        },
+        "1571527540": {
+            "org.vsassets.com": "INACTIVE"
+        },
+        "1571527542": {
+            "oriconmusic.silveregg.net": "INACTIVE"
+        },
+        "1571527543": {
+            "origin-0.extole.io": "INACTIVE"
+        },
+        "1571527544": {
+            "origin-0.qa.extole.io": "INACTIVE",
+            "origin-1.extole.io": "INACTIVE"
+        },
+        "1571527545": {
+            "origin-1.qa.extole.io": "INACTIVE",
+            "origin-2.extole.io": "INACTIVE"
+        },
+        "1571527546": {
+            "origin-2.qa.extole.io": "INACTIVE"
+        },
+        "1571527547": {
+            "origin-3.extole.io": "INACTIVE",
+            "origin-3.qa.extole.io": "INACTIVE"
+        },
+        "1571527548": {
+            "origin-4.extole.io": "INACTIVE",
+            "origin-4.qa.extole.io": "INACTIVE"
+        },
+        "1571527549": {
+            "origin-5.extole.io": "INACTIVE",
+            "origin-5.qa.extole.io": "INACTIVE"
+        },
+        "1571527550": {
+            "origin-6.extole.io": "INACTIVE",
+            "origin-6.qa.extole.io": "INACTIVE"
+        },
+        "1571527551": {
+            "origin-7.extole.io": "INACTIVE",
+            "origin-7.qa.extole.io": "INACTIVE"
+        },
+        "1571527552": {
+            "origin.adcash.com": "INACTIVE"
+        },
+        "1571527559": {
+            "origin.addthis.com": "INACTIVE",
+            "origin.adlegend.com": "INACTIVE"
+        },
+        "1571527566": {
+            "origin-akamai-auth.s11.exacttarget.com": "INACTIVE"
+        },
+        "1571527572": {
+            "origin-akamai-auth.s1.exacttarget.com": "INACTIVE"
+        },
+        "1571527579": {
+            "origin-akamai-auth.s1.qa1.exacttarget.com": "INACTIVE"
+        },
+        "1571527585": {
+            "origin-akamai-auth.s2.qa1.exacttarget.com": "INACTIVE"
+        },
+        "1571527591": {
+            "origin-akamai-auth.s4.exacttarget.com": "INACTIVE"
+        },
+        "1571527598": {
+            "origin-akamai-auth.s6.exacttarget.com": "INACTIVE"
+        },
+        "1571527604": {
+            "origin-akamai-auth.s7.exacttarget.com": "INACTIVE"
+        },
+        "1571527611": {
+            "origin-akamai-auth.s8.exacttarget.com": "INACTIVE",
+            "origin-akamai-members.s50.exacttarget.com": "INACTIVE"
+        },
+        "1571527612": {
+            "origin-ats.sizmdx.com": "INACTIVE"
+        },
+        "1571527613": {
+            "originau.audience.newscgp.com": "INACTIVE"
+        },
+        "1571527614": {
+            "originau.pixel.newscgp.com": "INACTIVE"
+        },
+        "1571527615": {
+            "origin-auth.s2.qa3.exacttarget.com": "INACTIVE"
+        },
+        "1571527622": {
+            "origin-auth.s8.exacttarget.com": "INACTIVE"
+        },
+        "1571527630": {
+            "origin-cp.sojern.com": "INACTIVE"
+        },
+        "1571527631": {
+            "origin.craft.advertising.com": "INACTIVE"
+        },
+        "1571527633": {
+            "origin.extole.io": "INACTIVE",
+            "originenergyservices.demdex.net": "INACTIVE"
+        },
+        "1571527634": {
+            "origin.home.tapjoy.com": "INACTIVE"
+        },
+        "1571527636": {
+            "origin-ib.els.huluim.com": "INACTIVE"
+        },
+        "1571527637": {
+            "origin.lo.extole.io": "INACTIVE"
+        },
+        "1571527639": {
+            "origin.midasplayer.com": "INACTIVE"
+        },
+        "1571527640": {
+            "origin.pr.extole.io": "INACTIVE"
+        },
+        "1571527642": {
+            "origin-stage-app.scorecardresearch.com": "INACTIVE",
+            "origin.spoods.rce.veeseo.com": "INACTIVE"
+        },
+        "1571527649": {
+            "origin.tapjoy.com": "INACTIVE"
+        },
+        "1571527650": {
+            "origin-ui.revcontent.com": "INACTIVE",
+            "origin.uac.advertising.com": "INACTIVE"
+        },
+        "1571527651": {
+            "originus.audience.newscgp.com": "INACTIVE",
+            "originus.pixel.newscgp.com": "INACTIVE"
+        },
+        "1571527652": {
+            "origin.vid-io.springserve.com": "INACTIVE"
+        },
+        "1571527653": {
+            "origin-vlibs.advertising.com": "INACTIVE"
+        },
+        "1571527659": {
+            "origin-ws.sojern.com": "INACTIVE"
+        },
+        "1571527666": {
+            "origin-www.silverpop.com": "INACTIVE"
+        },
+        "1571527673": {
+            "orion.aimon.applicationinsights.io": "INACTIVE"
+        },
+        "1571527674": {
+            "orion-aimon-uswc-encryption.aimon.applicationinsights.io": "INACTIVE",
+            "orionhttp.s50.exacttarget.com": "INACTIVE"
+        },
+        "1571527675": {
+            "orion.iad.appboy.com": "INACTIVE",
+            "orionimg.adkmob.com": "INACTIVE"
+        },
+        "1571527682": {
+            "orionims.s50.exacttarget.com": "INACTIVE"
+        },
+        "1571527683": {
+            "orkodohu.worldgravity.com": "INACTIVE",
+            "orkodohu.yusp.com": "INACTIVE"
+        },
+        "1571527684": {
+            "orlandoairportsnetes.mpeasylink.com": "INACTIVE",
+            "orlandofuntickets.com.ssl.d2.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571527685": {
+            "orlando.reachlocal.com": "INACTIVE"
+        },
+        "1571527687": {
+            "orsay-tracking.adtelligence.de": "INACTIVE"
+        },
+        "1571527688": {
+            "ortb.yieldlab.net": "INACTIVE"
+        },
+        "1571527689": {
+            "ortshk.tapas.net": "INACTIVE"
+        },
+        "1571527690": {
+            "os-beta.boldchat.com": "INACTIVE",
+            "os.apester.com": "INACTIVE"
+        },
+        "1571527694": {
+            "oscar-server.sharethrough.com": "INACTIVE"
+        },
+        "1571527695": {
+            "os.dev.midasplayer.com": "INACTIVE"
+        },
+        "1571527696": {
+            "osimg.nbcuni.com": "INACTIVE"
+        },
+        "1571527699": {
+            "ospreypackscom.mpeasylink.com": "INACTIVE"
+        },
+        "1571527701": {
+            "o-ssp-usa01.omnitagjs.com": "INACTIVE",
+            "o-stage.bluekai.com": "INACTIVE"
+        },
+        "1571527702": {
+            "o.staging.criteo.com": "INACTIVE"
+        },
+        "1571527709": {
+            "osticket.mobusi.com": "INACTIVE",
+            "osxserver1.oit.lijit.com": "INACTIVE"
+        },
+        "1571527711": {
+            "otakumode.silveregg.net": "INACTIVE"
+        },
+        "1571527712": {
+            "otb.demdex.net": "INACTIVE"
+        },
+        "1571527715": {
+            "otify.bugsnag.com": "INACTIVE"
+        },
+        "1571527717": {
+            "otsukacorporation.demdex.net": "INACTIVE",
+            "otsukacorporation.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571527719": {
+            "otthonterkep-bud.gravityrd-services.com": "INACTIVE"
+        },
+        "1571527721": {
+            "oui.sncf.ssl.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571527723": {
+            "ourtime.adlegend.com": "INACTIVE",
+            "outbound.crashlytics.com": "INACTIVE"
+        },
+        "1571527730": {
+            "outbound-email.mixpo.com": "INACTIVE",
+            "outbound.shareasale.com": "INACTIVE"
+        },
+        "1571527737": {
+            "outcome-cdn.supersonicads.com": "INACTIVE"
+        },
+        "1571527738": {
+            "outcome-ssp.supersonicads.com": "INACTIVE",
+            "outcome.snapads.com": "INACTIVE",
+            "outcome.supersonicads.com": "INACTIVE"
+        },
+        "1571527740": {
+            "outfit7.s2s.lfstmedia.com": "INACTIVE"
+        },
+        "1571527741": {
+            "outlook-connect.salesloft.com": "INACTIVE"
+        },
+        "1571527742": {
+            "outloud.outbrain.com": "INACTIVE"
+        },
+        "1571527746": {
+            "o-va.wtp101.com": "INACTIVE"
+        },
+        "1571527754": {
+            "overlord.qpipe-s.globalwebindex.net": "INACTIVE"
+        },
+        "1571527755": {
+            "overrider.apester.com": "INACTIVE"
+        },
+        "1571527756": {
+            "overseachinesebankin.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571527757": {
+            "overstock.com.ssl.sc.omtrdc.net": "INACTIVE",
+            "overstock.rdr.channelintelligence.com": "INACTIVE"
+        },
+        "1571527758": {
+            "overstock.tt.omtrdc.net": "INACTIVE"
+        },
+        "1571527761": {
+            "o.vserv.mobi": "INACTIVE",
+            "ovstk.demdex.net": "INACTIVE"
+        },
+        "1571527762": {
+            "ow55000.pubmatic.com": "INACTIVE",
+            "ow55000c.pubmatic.com": "INACTIVE"
+        },
+        "1571527763": {
+            "ow88000.pubmatic.com": "INACTIVE",
+            "ow88000c.pubmatic.com": "INACTIVE"
+        },
+        "1571527764": {
+            "owa13.exacttarget.com": "INACTIVE"
+        },
+        "1571527770": {
+            "owa1.amobee.com": "INACTIVE"
+        },
+        "1571527777": {
+            "owa2.coremetrics.com": "INACTIVE"
+        },
+        "1571527778": {
+            "owap1.acxiom.com": "INACTIVE"
+        },
+        "1571527779": {
+            "owap2.acxiom.com": "INACTIVE"
+        },
+        "1571527780": {
+            "o.webmd.com.ssl.d2.sc.omtrdc.net": "INACTIVE"
+        },
+        "1571527781": {
+            "ow-gateway.supersonicads.com": "INACTIVE",
+            "owenscorning.demdex.net": "INACTIVE"
+        },
+        "1571527783": {
+            "owitms.ga": "INACTIVE"
+        },
+        "1571527789": {
+            "owl.cbsi.com": "INACTIVE"
+        },
+        "1571527790": {
+            "owncloud.kdata.fr": "INACTIVE"
+        },
+        "1571527791": {
+            "owncloud.mktoweb.com": "INACTIVE"
+        },
+        "1571527797": {
+            "owncloud.smartstream.tv": "INACTIVE"
+        },
+        "1571527803": {
+            "owncloud.sonobi.com": "INACTIVE"
+        },
+        "1571527806": {
+            "ow.pubmatic.com": "INACTIVE"
+        },
+        "1571527813": {
+            "ox-d.adizio.com": "INACTIVE",
+            "oxcs-d.openxenterprise.com": "INACTIVE"
+        },
+        "1571527820": {
+            "ox-d.adm.servedbyopenx.com": "INACTIVE",
+            "ox-d.advanseads.com": "INACTIVE"
+        },
+        "1571527821": {
+            "ox-d.alf.servedbyopenx.com": "INACTIVE",
+            "ox-d.answers.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527822": {
+            "ox-d.ask.servedbyopenx.com": "INACTIVE",
+            "ox-d.babla.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527823": {
+            "ox-d.bizjournals.servedbyopenx.com": "INACTIVE",
+            "ox-d.blogads.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527824": {
+            "ox-d.boston.servedbyopenx.com": "INACTIVE",
+            "ox-d.cbsi.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527825": {
+            "ox-d.chosun.servedbyopenx.com": "INACTIVE",
+            "ox-d.consumed.servedbyopenx.com": "INACTIVE",
+            "ox-d.coolmath.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527826": {
+            "ox-d.curse.servedbyopenx.com": "INACTIVE",
+            "ox-d.cyberagent.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527827": {
+            "ox-d.ebayde.servedbyopenx.com": "INACTIVE",
+            "ox-d.ebaydeb.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527828": {
+            "ox-d.ebayukb.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527835": {
+            "oxdemo-d.openxenterprise.com": "INACTIVE"
+        },
+        "1571527836": {
+            "ox-d.evolvemedia.servedbyopenx.com": "INACTIVE",
+            "ox-d.ezoic.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527837": {
+            "ox-d.forbesbidder.servedbyopenx.com": "INACTIVE",
+            "ox-d.futurenet.servedbyopenx.com": "INACTIVE",
+            "ox-d.gatewaymedia.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527838": {
+            "ox-d.hatena.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527839": {
+            "ox-d.hurra.com": "INACTIVE",
+            "ox-d.ibt.servedbyopenx.com": "INACTIVE",
+            "ox-d.imgur.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527840": {
+            "ox-d.internetbrands.servedbyopenx.com": "INACTIVE",
+            "ox-d.kleinanzeigen.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527847": {
+            "ox-d.krxd.net": "INACTIVE",
+            "ox-d.ksl.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527848": {
+            "ox-d.kwick.servedbyopenx.com": "INACTIVE",
+            "ox-d.leessp.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527849": {
+            "ox-d.lifestreet.servedbyopenx.com": "INACTIVE",
+            "ox-d.mailonline.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527855": {
+            "ox-d.matcheu.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527856": {
+            "ox-d.match.servedbyopenx.com": "INACTIVE",
+            "ox-d.mediaforge.com": "INACTIVE"
+        },
+        "1571527857": {
+            "ox-d.medianet.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527863": {
+            "ox-d.mediaservices-eur.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527869": {
+            "ox-d.mediaservices-gbp.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527870": {
+            "ox-d.m-market.servedbyopenx.com": "INACTIVE",
+            "ox-d.merriamwebster.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527877": {
+            "ox-d.mobile.servedbyopenx.com": "INACTIVE",
+            "ox-d.monetizationservices.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527878": {
+            "ox-d.mst.servedbyopenx.com": "INACTIVE",
+            "ox-d.nydailynews.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527885": {
+            "ox-d.one-and-one.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527891": {
+            "ox-d.openxadexchange.com": "INACTIVE"
+        },
+        "1571527898": {
+            "ox-d.oxjapan.servedbyopenx.com": "INACTIVE",
+            "ox-d.pbhmedia.servedbyopenx.com": "INACTIVE",
+            "ox-d.philly.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527899": {
+            "ox-d.pittpostgazette.servedbyopenx.com": "INACTIVE",
+            "ox-d.publisherdesk.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527900": {
+            "ox-d.ranker.servedbyopenx.com": "INACTIVE",
+            "ox-d.realtor.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527907": {
+            "ox-d.reddit.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527913": {
+            "ox-d.ruptly.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527914": {
+            "ox-d.salemwebnetworks.servedbyopenx.com": "INACTIVE",
+            "ox-d.saygoodbuy.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527915": {
+            "ox-d.seccosquared.servedbyopenx.com": "INACTIVE",
+            "ox-d.sinclair.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527916": {
+            "ox-d.sltrib.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527922": {
+            "ox-d.sm.servedbyopenx.com": "INACTIVE",
+            "ox-d.socialknowledge.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527923": {
+            "ox-d.spanishdict.servedbyopenx.com": "INACTIVE",
+            "ox-d.sparkpeople.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527930": {
+            "ox-d.technoratimedia.servedbyopenx.com": "INACTIVE",
+            "ox-d.tmn.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527931": {
+            "ox-d.trulia.servedbyopenx.com": "INACTIVE",
+            "ox-d.tunein.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527932": {
+            "ox-d.tv.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527938": {
+            "ox-d.uk90min.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527945": {
+            "ox-d.venturebeat.servedbyopenx.com": "INACTIVE",
+            "ox-d.w55c.net": "INACTIVE"
+        },
+        "1571527946": {
+            "ox-d.warnerbros.servedbyopenx.com": "INACTIVE",
+            "ox-d.washingtonpost.servedbyopenx.com": "INACTIVE",
+            "ox-d.weatherus.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527953": {
+            "ox-d.whitepages.servedbyopenx.com": "INACTIVE",
+            "ox-d.wikihow.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527960": {
+            "ox-d.yahoo.servedbyopenx.com": "INACTIVE",
+            "ox-d.zergnet.com": "INACTIVE",
+            "ox-d.zergnet.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527967": {
+            "ox-d.zulily.servedbyopenx.com": "INACTIVE"
+        },
+        "1571527968": {
+            "ox-i.advanseads.com": "INACTIVE"
+        },
+        "1571527976": {
+            "oxjapan-d3.openxenterprise.com": "INACTIVE"
+        },
+        "1571527983": {
+            "oxp.emea.mxptint.net": "INACTIVE"
+        },
+        "1571527984": {
+            "ox.pxl.ace.advertising.com": "INACTIVE"
+        },
+        "1571527985": {
+            "ox-rtb-fkb.connexity.net": "INACTIVE"
+        },
+        "1571527993": {
+            "oxv4support-d3.openxenterprise.com": "INACTIVE"
+        },
+        "1571527996": {
+            "p01.eloqua.com": "INACTIVE",
+            "p01.t.eloqua.com": "INACTIVE"
+        },
+        "1571527997": {
+            "p01.t.en25.com": "INACTIVE",
+            "p02.eloqua.com": "INACTIVE"
+        },
+        "1571527998": {
+            "p03.eloqua.com": "INACTIVE",
+            "p03.hs.eloqua.com": "INACTIVE",
+            "p03.t.eloqua.com": "INACTIVE"
+        },
+        "1571527999": {
+            "p03.t.en25.com": "INACTIVE",
+            "p04.eloqua.com": "INACTIVE"
+        },
+        "1571528000": {
+            "p04.t.eloqua.com": "INACTIVE",
+            "p06.eloqua.com": "INACTIVE"
+        },
+        "1571528001": {
+            "p06.hs.eloqua.com": "INACTIVE",
+            "p06.t.eloqua.com": "INACTIVE"
+        },
+        "1571528002": {
+            "p07.eloqua.com": "INACTIVE",
+            "p07.hs.eloqua.com": "INACTIVE"
+        },
+        "1571528003": {
+            "p07.t.eloqua.com": "INACTIVE"
+        },
+        "1571528004": {
+            "p0.tribl.io": "INACTIVE",
+            "p12339.acuityplatform.com": "INACTIVE"
+        },
+        "1571528011": {
+            "p13n-api-canary.dz.optimizely.com": "INACTIVE",
+            "p13nlog.dz.optimizely.com": "INACTIVE"
+        },
+        "1571528017": {
+            "p13n-results-api.optimizely.com": "INACTIVE"
+        },
+        "1571528018": {
+            "p161.digitru.st": "INACTIVE"
+        },
+        "1571528024": {
+            "p.163.com": "INACTIVE"
+        },
+        "1571528025": {
+            "p1.midasplayer.com": "INACTIVE",
+            "p1agead2.googlesyndication.com": "INACTIVE"
+        },
+        "1571528026": {
+            "p1.zemanta.com": "INACTIVE",
+            "p1optout.agkn.com": "INACTIVE"
+        },
+        "1571528027": {
+            "p20euapi.xtify.com": "INACTIVE",
+            "p20uslbapi.xtify.com": "INACTIVE"
+        },
+        "1571528028": {
+            "p20uslbsdk.xtify.com": "INACTIVE",
+            "p20uslbsdkapi.xtify.com": "INACTIVE"
         }
     }
 }
