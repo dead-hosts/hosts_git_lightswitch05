@@ -59815,1276 +59815,6 @@
         "1572312622": {
             "zz.connextra.com": "INACTIVE"
         },
-        "1572502773": {
-            "collector-grpc-latest.lightstep.com": "INACTIVE"
-        },
-        "1572502780": {
-            "collector-grpc.lightstep.com": "INACTIVE"
-        },
-        "1572502786": {
-            "collector-grpc-loadtest.lightstep.com": "INACTIVE"
-        },
-        "1572502793": {
-            "collector-grpc-meta.lightstep.com": "INACTIVE"
-        },
-        "1572502800": {
-            "collector-grpc-staging.lightstep.com": "INACTIVE"
-        },
-        "1572502801": {
-            "collector.hiconversion.com": "INACTIVE"
-        },
-        "1572502807": {
-            "collector-http.lightstep.com": "INACTIVE"
-        },
-        "1572502808": {
-            "collector-istio.staging.lightstep.com": "INACTIVE"
-        },
-        "1572502809": {
-            "collector-latest.lightstep.com": "INACTIVE",
-            "collector-life360.lightstep.com": "INACTIVE"
-        },
-        "1572502816": {
-            "collector.lightstep.com": "INACTIVE"
-        },
-        "1572502823": {
-            "collector-loadtest.lightstep.com": "INACTIVE"
-        },
-        "1572502829": {
-            "collector-lyft-dev.lightstep.com": "INACTIVE"
-        },
-        "1572502836": {
-            "collector-lyft-dev-no-grpc.lightstep.com": "INACTIVE"
-        },
-        "1572502843": {
-            "collector.meta.lightstep.com": "INACTIVE"
-        },
-        "1572502850": {
-            "collector-meta.lightstep.com": "INACTIVE"
-        },
-        "1572502968": {
-            "collector.placelocal.com": "INACTIVE"
-        },
-        "1572502974": {
-            "collector.prod.expedia.com": "INACTIVE"
-        },
-        "1572502975": {
-            "collector-px04cd4k9e.perimeterx.net": "INACTIVE"
-        },
-        "1572502976": {
-            "collector-px09a9fhxa.perimeterx.net": "INACTIVE",
-            "collector-px0dqvu288.perimeterx.net": "INACTIVE"
-        },
-        "1572502977": {
-            "collector-px0f3091f3.perimeterx.net": "INACTIVE",
-            "collector-px0fq4xg0s.perimeterx.net": "INACTIVE"
-        },
-        "1572502978": {
-            "collector-px0lizzs6w.perimeterx.net": "INACTIVE",
-            "collector-px0n3xmol0.perimeterx.net": "INACTIVE"
-        },
-        "1572502979": {
-            "collector-px0sxgcyfr.perimeterx.net": "INACTIVE"
-        },
-        "1572502980": {
-            "collector-px0uqk4c76.perimeterx.net": "INACTIVE",
-            "collector-px12ew76qt.perimeterx.net": "INACTIVE"
-        },
-        "1572502981": {
-            "collector-px16ud0kof.perimeterx.net": "INACTIVE",
-            "collector-px16wtn1zd.perimeterx.net": "INACTIVE"
-        },
-        "1572502982": {
-            "collector-px1osi1aka.perimeterx.net": "INACTIVE"
-        },
-        "1572502983": {
-            "collector-px1z8hxu41.perimeterx.net": "INACTIVE",
-            "collector-px2003.cl6.perimeterx.net": "INACTIVE"
-        },
-        "1572502984": {
-            "collector-px2003.perimeterx.net": "INACTIVE",
-            "collector-px27m703hm.perimeterx.net": "INACTIVE"
-        },
-        "1572502985": {
-            "collector-px28s65pz2.perimeterx.net": "INACTIVE"
-        },
-        "1572502986": {
-            "collector-px2desiie9.perimeterx.net": "INACTIVE",
-            "collector-px2ldwspdg.perimeterx.net": "INACTIVE"
-        },
-        "1572502987": {
-            "collector-px2pmxpr54.perimeterx.net": "INACTIVE",
-            "collector-px2qgibktu.perimeterx.net": "INACTIVE"
-        },
-        "1572502988": {
-            "collector-px2wixzdhx.perimeterx.net": "INACTIVE"
-        },
-        "1572502989": {
-            "collector-px2ztkihy4.perimeterx.net": "INACTIVE",
-            "collector-px352q28k6.perimeterx.net": "INACTIVE"
-        },
-        "1572502990": {
-            "collector-px35v5ygcp.perimeterx.net": "INACTIVE",
-            "collector-px3c3ez9ug.perimeterx.net": "INACTIVE"
-        },
-        "1572502991": {
-            "collector-px3cvqbi14.perimeterx.net": "INACTIVE"
-        },
-        "1572502992": {
-            "collector-px3h2ds8p1.perimeterx.net": "INACTIVE",
-            "collector-px3t7fwqg6.perimeterx.net": "INACTIVE"
-        },
-        "1572502993": {
-            "collector-px3vk96i6i.perimeterx.net": "INACTIVE",
-            "collector-px3xfxv51b.perimeterx.net": "INACTIVE"
-        },
-        "1572502994": {
-            "collector-px46uwk7he.perimeterx.net": "INACTIVE"
-        },
-        "1572502995": {
-            "collector-px4bynv8ar.perimeterx.net": "INACTIVE",
-            "collector-px4rn57kj2.perimeterx.net": "INACTIVE"
-        },
-        "1572502996": {
-            "collector-px54pltfoq.perimeterx.net": "INACTIVE",
-            "collector-px5cg3t23p.perimeterx.net": "INACTIVE"
-        },
-        "1572502997": {
-            "collector-px5j5h9cc2.perimeterx.net": "INACTIVE"
-        },
-        "1572502998": {
-            "collector-px69t0ouvr.perimeterx.net": "INACTIVE",
-            "collector-px6ejs0kwo.perimeterx.net": "INACTIVE"
-        },
-        "1572502999": {
-            "collector-px6j7ezb51.perimeterx.net": "INACTIVE",
-            "collector-px6k5vcsug.perimeterx.net": "INACTIVE"
-        },
-        "1572503000": {
-            "collector-px6lfn3nm0.perimeterx.net": "INACTIVE"
-        },
-        "1572503001": {
-            "collector-px6tosdlh8.perimeterx.net": "INACTIVE",
-            "collector-px6ze6vybh.perimeterx.net": "INACTIVE"
-        },
-        "1572503002": {
-            "collector-px7001.perimeterx.net": "INACTIVE",
-            "collector-px74roxf6t.perimeterx.net": "INACTIVE"
-        },
-        "1572503003": {
-            "collector-px79lwtrta.perimeterx.net": "INACTIVE"
-        },
-        "1572503004": {
-            "collector-px7g7bfrt2.perimeterx.net": "INACTIVE",
-            "collector-px7i76o2z5.perimeterx.net": "INACTIVE"
-        },
-        "1572503005": {
-            "collector-px7vv0zost.perimeterx.net": "INACTIVE",
-            "collector-px81wk13v6.perimeterx.net": "INACTIVE"
-        },
-        "1572503006": {
-            "collector-px85fbc6q9.perimeterx.net": "INACTIVE"
-        },
-        "1572503007": {
-            "collector-px879tg0qa.perimeterx.net": "INACTIVE",
-            "collector-px89p1cyql.perimeterx.net": "INACTIVE"
-        },
-        "1572503008": {
-            "collector-px8fcgygk4.perimeterx.net": "INACTIVE",
-            "collector-px8kccwcpc.perimeterx.net": "INACTIVE"
-        },
-        "1572503009": {
-            "collector-px8kq4ewfc.perimeterx.net": "INACTIVE",
-            "collector-px8kuc03xk.perimeterx.net": "INACTIVE"
-        },
-        "1572503010": {
-            "collector-px8la3oway.perimeterx.net": "INACTIVE"
-        },
-        "1572503011": {
-            "collector-px9atjsd0n.perimeterx.net": "INACTIVE",
-            "collector-px9gxgqy6v.perimeterx.net": "INACTIVE"
-        },
-        "1572503012": {
-            "collector-px9popoyoe.perimeterx.net": "INACTIVE",
-            "collector-px9qx3rve4.perimeterx.net": "INACTIVE"
-        },
-        "1572503013": {
-            "collector-px9vyuvz4f.perimeterx.net": "INACTIVE"
-        },
-        "1572503014": {
-            "collector-px9zaqe9fv.perimeterx.net": "INACTIVE",
-            "collector-pxa0o07ort.perimeterx.net": "INACTIVE"
-        },
-        "1572503015": {
-            "collector-pxa3zjcxzu.perimeterx.net": "INACTIVE",
-            "collector-pxa5sexfmj.perimeterx.net": "INACTIVE"
-        },
-        "1572503016": {
-            "collector-pxaflyiz9n.perimeterx.net": "INACTIVE"
-        },
-        "1572503017": {
-            "collector-pxag6zzoxu.perimeterx.net": "INACTIVE",
-            "collector-pxajdckzhd.perimeterx.net": "INACTIVE"
-        },
-        "1572503018": {
-            "collector-pxakdjyq9g.perimeterx.net": "INACTIVE"
-        },
-        "1572503019": {
-            "collector-pxalxmt4ma.perimeterx.net": "INACTIVE",
-            "collector-pxaotqiwnf.perimeterx.net": "INACTIVE"
-        },
-        "1572503020": {
-            "collector-pxasqjfz9w.perimeterx.net": "INACTIVE",
-            "collector-pxbecn7fqx.perimeterx.net": "INACTIVE"
-        },
-        "1572503021": {
-            "collector-pxbg6vwucj.perimeterx.net": "INACTIVE"
-        },
-        "1572503022": {
-            "collector-pxcemzmint.perimeterx.net": "INACTIVE",
-            "collector-pxcqafo9jx.perimeterx.net": "INACTIVE"
-        },
-        "1572503023": {
-            "collector-pxd0cks2ak.perimeterx.net": "INACTIVE",
-            "collector-pxd0s4dq5i.perimeterx.net": "INACTIVE"
-        },
-        "1572503024": {
-            "collector-pxd62eqwow.perimeterx.net": "INACTIVE"
-        },
-        "1572503025": {
-            "collector-pxdl6gosf9.perimeterx.net": "INACTIVE",
-            "collector-pxdoe5cht3.perimeterx.net": "INACTIVE"
-        },
-        "1572503026": {
-            "collector-pxdvngdttv.perimeterx.net": "INACTIVE",
-            "collector-pxe8kfvgtl.perimeterx.net": "INACTIVE"
-        },
-        "1572503027": {
-            "collector-pxengygmc2.perimeterx.net": "INACTIVE",
-            "collector-pxev56my37.perimeterx.net": "INACTIVE"
-        },
-        "1572503028": {
-            "collector-pxeyndrtd4.perimeterx.net": "INACTIVE"
-        },
-        "1572503029": {
-            "collector-pxfbwxyujl.perimeterx.net": "INACTIVE",
-            "collector-pxflo1elgs.perimeterx.net": "INACTIVE"
-        },
-        "1572503030": {
-            "collector-pxfqtaw5et.perimeterx.net": "INACTIVE",
-            "collector-pxft56yv2e.perimeterx.net": "INACTIVE"
-        },
-        "1572503031": {
-            "collector-pxfx724h89.perimeterx.net": "INACTIVE"
-        },
-        "1572503032": {
-            "collector-pxfxx25tyn.perimeterx.net": "INACTIVE",
-            "collector-pxg6p26otu.perimeterx.net": "INACTIVE"
-        },
-        "1572503033": {
-            "collector-pxg8atfja1.perimeterx.net": "INACTIVE",
-            "collector-pxginpfea6.perimeterx.net": "INACTIVE"
-        },
-        "1572503034": {
-            "collector-pxgy5w79au.perimeterx.net": "INACTIVE"
-        },
-        "1572503035": {
-            "collector-pxh52dw03a.perimeterx.net": "INACTIVE",
-            "collector-pxhd2cxrgh.perimeterx.net": "INACTIVE"
-        },
-        "1572503036": {
-            "collector-pxhf9ns48h.perimeterx.net": "INACTIVE",
-            "collector-pxhp4b16gp.perimeterx.net": "INACTIVE"
-        },
-        "1572503037": {
-            "collector-pxhv1dpin4.perimeterx.net": "INACTIVE"
-        },
-        "1572503038": {
-            "collector-pxhyx10rg3.perimeterx.net": "INACTIVE",
-            "collector-pxi2d9zt6z.perimeterx.net": "INACTIVE"
-        },
-        "1572503039": {
-            "collector-pxi7wtmiso.perimeterx.net": "INACTIVE",
-            "collector-pxii3cas33.perimeterx.net": "INACTIVE"
-        },
-        "1572503040": {
-            "collector-pxij55yhvs.perimeterx.net": "INACTIVE"
-        },
-        "1572503041": {
-            "collector-pxikkul2rm.perimeterx.net": "INACTIVE"
-        },
-        "1572503042": {
-            "collector-pxio9sdzn4.perimeterx.net": "INACTIVE",
-            "collector-pxiuboghjl.perimeterx.net": "INACTIVE"
-        },
-        "1572503043": {
-            "collector-pxj770cp7y.perimeterx.net": "INACTIVE"
-        },
-        "1572503044": {
-            "collector-pxj8il5nks.perimeterx.net": "INACTIVE",
-            "collector-pxj9uge6qj.perimeterx.net": "INACTIVE"
-        },
-        "1572503045": {
-            "collector-pxjayeky18.perimeterx.net": "INACTIVE",
-            "collector-pxjbdhncwl.perimeterx.net": "INACTIVE"
-        },
-        "1572503046": {
-            "collector-pxjbzbz6lr.perimeterx.net": "INACTIVE"
-        },
-        "1572503047": {
-            "collector-pxjj060g79.perimeterx.net": "INACTIVE",
-            "collector-pxjmbe7t0q.perimeterx.net": "INACTIVE"
-        },
-        "1572503048": {
-            "collector-pxjmcvubg8.perimeterx.net": "INACTIVE",
-            "collector-pxjqmocpg1.perimeterx.net": "INACTIVE"
-        },
-        "1572503049": {
-            "collector-pxk0d2v6vv.perimeterx.net": "INACTIVE"
-        },
-        "1572503050": {
-            "collector-pxk266ff2d.perimeterx.net": "INACTIVE",
-            "collector-pxk47l567g.perimeterx.net": "INACTIVE"
-        },
-        "1572503051": {
-            "collector-pxk6s8okp3.perimeterx.net": "INACTIVE",
-            "collector-pxk8l5v12h.perimeterx.net": "INACTIVE"
-        },
-        "1572503052": {
-            "collector-pxkaly4qo6.perimeterx.net": "INACTIVE",
-            "collector-pxkgkikzzj.perimeterx.net": "INACTIVE"
-        },
-        "1572503053": {
-            "collector-pxkj3yf9nf.perimeterx.net": "INACTIVE"
-        },
-        "1572503054": {
-            "collector-pxknxwvhco.perimeterx.net": "INACTIVE",
-            "collector-pxkz8zzqmw.perimeterx.net": "INACTIVE"
-        },
-        "1572503055": {
-            "collector-pxliujcowl.perimeterx.net": "INACTIVE",
-            "collector-pxljub4etb.perimeterx.net": "INACTIVE"
-        },
-        "1572503056": {
-            "collector-pxlk409faf.perimeterx.net": "INACTIVE"
-        },
-        "1572503057": {
-            "collector-pxlw63r8a2.perimeterx.net": "INACTIVE",
-            "collector-pxlznv2dn4.perimeterx.net": "INACTIVE"
-        },
-        "1572503058": {
-            "collector-pxm2jhbdkv.perimeterx.net": "INACTIVE",
-            "collector-pxm4c135au.perimeterx.net": "INACTIVE"
-        },
-        "1572503059": {
-            "collector-pxm636svr4.perimeterx.net": "INACTIVE"
-        },
-        "1572503060": {
-            "collector-pxmkulqa8r.perimeterx.net": "INACTIVE",
-            "collector-pxmysiivml.perimeterx.net": "INACTIVE"
-        },
-        "1572503061": {
-            "collector-pxn56pxeeb.perimeterx.net": "INACTIVE",
-            "collector-pxn8glwf62.perimeterx.net": "INACTIVE"
-        },
-        "1572503062": {
-            "collector-pxnfaj40us.perimeterx.net": "INACTIVE"
-        },
-        "1572503063": {
-            "collector-pxnkbtefxe.perimeterx.net": "INACTIVE",
-            "collector-pxnp9b16cq.perimeterx.net": "INACTIVE"
-        },
-        "1572503064": {
-            "collector-pxnrdalolx.perimeterx.net": "INACTIVE",
-            "collector-pxntz74r3e.perimeterx.net": "INACTIVE"
-        },
-        "1572503065": {
-            "collector-pxo4wpdyyd.perimeterx.net": "INACTIVE",
-            "collector-pxo97ybh4j.perimeterx.net": "INACTIVE"
-        },
-        "1572503066": {
-            "collector-pxob5twirq.perimeterx.net": "INACTIVE"
-        },
-        "1572503067": {
-            "collector-pxofrh1wnk.perimeterx.net": "INACTIVE",
-            "collector-pxogckki0e.perimeterx.net": "INACTIVE"
-        },
-        "1572503068": {
-            "collector-pxoinjap26.perimeterx.net": "INACTIVE",
-            "collector-pxosx7m0dx.perimeterx.net": "INACTIVE"
-        },
-        "1572503069": {
-            "collector-pxot24w3x2.perimeterx.net": "INACTIVE"
-        },
-        "1572503070": {
-            "collector-pxoyox6vj7.perimeterx.net": "INACTIVE",
-            "collector-pxp08ypnn1.perimeterx.net": "INACTIVE"
-        },
-        "1572503071": {
-            "collector-pxp0j9lefm.perimeterx.net": "INACTIVE",
-            "collector-pxp2tbvnjz.perimeterx.net": "INACTIVE"
-        },
-        "1572503072": {
-            "collector-pxp3nbqmmw.perimeterx.net": "INACTIVE",
-            "collector-pxp6kjrele.cl6.perimeterx.net": "INACTIVE"
-        },
-        "1572503073": {
-            "collector-pxp6kjrele.perimeterx.net": "INACTIVE"
-        },
-        "1572503074": {
-            "collector-pxp750p64i.perimeterx.net": "INACTIVE",
-            "collector-pxpb7sa58f.perimeterx.net": "INACTIVE"
-        },
-        "1572503075": {
-            "collector-pxpftaypj9.perimeterx.net": "INACTIVE",
-            "collector-pxpgvezpuy.perimeterx.net": "INACTIVE"
-        },
-        "1572503076": {
-            "collector-pxphwoqumu.perimeterx.net": "INACTIVE",
-            "collector-pxpkewm2nh.perimeterx.net": "INACTIVE"
-        },
-        "1572503077": {
-            "collector-pxpmp8ilui.perimeterx.net": "INACTIVE"
-        },
-        "1572503078": {
-            "collector-pxpmq1d3fb.perimeterx.net": "INACTIVE",
-            "collector-pxq1te0gvl.perimeterx.net": "INACTIVE"
-        },
-        "1572503079": {
-            "collector-pxq99aloxk.perimeterx.net": "INACTIVE",
-            "collector-pxqdgu9nir.perimeterx.net": "INACTIVE"
-        },
-        "1572503080": {
-            "collector-pxqoad6otn.perimeterx.net": "INACTIVE"
-        },
-        "1572503081": {
-            "collector-pxqukd4lo9.perimeterx.net": "INACTIVE",
-            "collector-pxr3pnvz1f.perimeterx.net": "INACTIVE"
-        },
-        "1572503082": {
-            "collector-pxr6fpm57v.perimeterx.net": "INACTIVE",
-            "collector-pxrf8vapwa.perimeterx.net": "INACTIVE"
-        },
-        "1572503083": {
-            "collector-pxrw7m6iav.perimeterx.net": "INACTIVE"
-        },
-        "1572503084": {
-            "collector-pxs0ivy1pq.perimeterx.net": "INACTIVE",
-            "collector-pxs2e03d8g.perimeterx.net": "INACTIVE"
-        },
-        "1572503085": {
-            "collector-pxslc3j22k.perimeterx.net": "INACTIVE",
-            "collector-pxsny1d9mw.perimeterx.net": "INACTIVE"
-        },
-        "1572503086": {
-            "collector-pxss13u803.perimeterx.net": "INACTIVE",
-            "collector-pxszbf5p84.perimeterx.net": "INACTIVE"
-        },
-        "1572503087": {
-            "collector-pxszbka5m.perimeterx.net": "INACTIVE"
-        },
-        "1572503088": {
-            "collector-pxszbkva5m.perimeterx.net": "INACTIVE",
-            "collector-pxtn88q85m.perimeterx.net": "INACTIVE"
-        },
-        "1572503089": {
-            "collector-pxtneymj9v.perimeterx.net": "INACTIVE",
-            "collector-pxtsf7wcbr.perimeterx.net": "INACTIVE"
-        },
-        "1572503090": {
-            "collector-pxtu0h5frq.perimeterx.net": "INACTIVE"
-        },
-        "1572503091": {
-            "collector-pxtw69u8ub.perimeterx.net": "INACTIVE",
-            "collector-pxty0ejule.perimeterx.net": "INACTIVE"
-        },
-        "1572503092": {
-            "collector-pxu4k0s8nx.perimeterx.net": "INACTIVE",
-            "collector-pxu6b0qd2s.perimeterx.net": "INACTIVE"
-        },
-        "1572503093": {
-            "collector-pxuapo0cuk.perimeterx.net": "INACTIVE",
-            "collector-pxuarm9b04.perimeterx.net": "INACTIVE"
-        },
-        "1572503094": {
-            "collector-pxumsss5ar.perimeterx.net": "INACTIVE"
-        },
-        "1572503095": {
-            "collector-pxur63h57z.perimeterx.net": "INACTIVE",
-            "collector-pxuxoat7g7.perimeterx.net": "INACTIVE"
-        },
-        "1572503096": {
-            "collector-pxw3iam8bj.perimeterx.net": "INACTIVE",
-            "collector-pxw587i9y4.perimeterx.net": "INACTIVE"
-        },
-        "1572503097": {
-            "collector-pxwc27j6fy.perimeterx.net": "INACTIVE"
-        },
-        "1572503098": {
-            "collector-pxwekzyxmm.perimeterx.net": "INACTIVE",
-            "collector-pxwn0gh9ab.perimeterx.net": "INACTIVE"
-        },
-        "1572503099": {
-            "collector-pxx2qtwag9.perimeterx.net": "INACTIVE",
-            "collector-pxxgcxm9by.cl6.perimeterx.net": "INACTIVE"
-        },
-        "1572503100": {
-            "collector-pxxgcxm9by.perimeterx.net": "INACTIVE",
-            "collector-pxxgwm9nuh.perimeterx.net": "INACTIVE"
-        },
-        "1572503101": {
-            "collector-pxxiuo7qtj.perimeterx.net": "INACTIVE"
-        },
-        "1572503102": {
-            "collector-pxxor1k5b6.perimeterx.net": "INACTIVE"
-        },
-        "1572503103": {
-            "collector-pxxxab76ed.perimeterx.net": "INACTIVE",
-            "collector-pxy4ahxga8.perimeterx.net": "INACTIVE"
-        },
-        "1572503104": {
-            "collector-pxyeuwa5s0.perimeterx.net": "INACTIVE"
-        },
-        "1572503105": {
-            "collector-pxyo6yjwlb.perimeterx.net": "INACTIVE",
-            "collector-pxz6br9g1g.perimeterx.net": "INACTIVE"
-        },
-        "1572503106": {
-            "collector-pxzd817sic.perimeterx.net": "INACTIVE"
-        },
-        "1572503107": {
-            "collector-pxzhh9f9x0.perimeterx.net": "INACTIVE",
-            "collector-pxzkfhwd1c.perimeterx.net": "INACTIVE"
-        },
-        "1572503108": {
-            "collector-pxznu59zhd.perimeterx.net": "INACTIVE"
-        },
-        "1572503109": {
-            "collector-pxznv1oh58.perimeterx.net": "INACTIVE",
-            "collector-pxzu6rve8a.perimeterx.net": "INACTIVE"
-        },
-        "1572503110": {
-            "collector-pxzyvfoxac.perimeterx.net": "INACTIVE"
-        },
-        "1572503117": {
-            "collector-single-fastly.a.pxi.pub": "INACTIVE"
-        },
-        "1572503123": {
-            "collector.staging.lightstep.com": "INACTIVE"
-        },
-        "1572503130": {
-            "collector-staging.lightstep.com": "INACTIVE"
-        },
-        "1572503131": {
-            "collector.staging.pxi.pub": "INACTIVE"
-        },
-        "1572503132": {
-            "collector-v2.a.pxi.pub": "INACTIVE"
-        },
-        "1572503140": {
-            "columbiacollege.sitescoutadserver.com": "INACTIVE"
-        },
-        "1572503142": {
-            "columbiasportswear.tt.omtrdc.net": "INACTIVE",
-            "columbiasportswearusacorp.demdex.net": "INACTIVE"
-        },
-        "1572503143": {
-            "com12276.engine.mobileapptracking.com": "INACTIVE"
-        },
-        "1572503145": {
-            "combine.urbanairship.com": "INACTIVE"
-        },
-        "1572503148": {
-            "comcast.cdn.auditude.com": "INACTIVE",
-            "comcastathena.demdex.net": "INACTIVE"
-        },
-        "1572503150": {
-            "comcast.demdex.net": "INACTIVE"
-        },
-        "1572503151": {
-            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503152": {
-            "comcast-signup.postmaster.returnpath.net": "INACTIVE"
-        },
-        "1572503153": {
-            "comcast.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503154": {
-            "com.cdn.ezoic.net": "INACTIVE"
-        },
-        "1572503158": {
-            "co.mediamath.com": "INACTIVE",
-            "comenityservicing.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503160": {
-            "comeon-comeon.bannerflow.com": "INACTIVE",
-            "comeresaprensasl.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503171": {
-            "comicbook.cbsi.com": "INACTIVE"
-        },
-        "1572503179": {
-            "comments-api.ext.nile.works": "INACTIVE"
-        },
-        "1572503180": {
-            "commentsapi.ext.nile.works": "INACTIVE"
-        },
-        "1572503181": {
-            "comments-api-staging.ext.nile.works": "INACTIVE"
-        },
-        "1572503187": {
-            "comments.backtrace.io": "INACTIVE"
-        },
-        "1572503188": {
-            "comments-test.backtrace.io": "INACTIVE"
-        },
-        "1572503190": {
-            "comment.tie.163.com": "INACTIVE"
-        },
-        "1572503191": {
-            "commerce.ad-brix.com": "INACTIVE"
-        },
-        "1572503192": {
-            "commerce.adobedtm.com": "INACTIVE"
-        },
-        "1572503193": {
-            "commerce-api.sprinklr.com": "INACTIVE",
-            "commerceforward.demdex.net": "INACTIVE"
-        },
-        "1572503201": {
-            "commerce.ss-omtrdc.net": "INACTIVE"
-        },
-        "1572503202": {
-            "commercial.daznservices.com": "INACTIVE"
-        },
-        "1572503204": {
-            "commonwealthbankofau.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503206": {
-            "commsec.demdex.net": "INACTIVE"
-        },
-        "1572503216": {
-            "communication.zypmedia.com": "INACTIVE"
-        },
-        "1572503218": {
-            "community4chan.engine.adglare.net": "INACTIVE"
-        },
-        "1572503219": {
-            "community-old2.dynamicyield.com": "INACTIVE"
-        },
-        "1572503220": {
-            "community-old.dynamicyield.com": "INACTIVE"
-        },
-        "1572503221": {
-            "community-staging.optimizely.com": "INACTIVE"
-        },
-        "1572503222": {
-            "communitytest.silverpop.com": "INACTIVE"
-        },
-        "1572503232": {
-            "compass.eloqua.com": "INACTIVE"
-        },
-        "1572503235": {
-            "competec.demdex.net": "INACTIVE"
-        },
-        "1572503248": {
-            "compliance.dev.pardot.com": "INACTIVE"
-        },
-        "1572503250": {
-            "components.forter.com": "INACTIVE"
-        },
-        "1572503251": {
-            "composer.segment.com": "INACTIVE"
-        },
-        "1572503252": {
-            "compta.xiti.com": "INACTIVE"
-        },
-        "1572503253": {
-            "computersciencescorp.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503258": {
-            "com.tenjin.ios.api": "INVALID"
-        },
-        "1572503261": {
-            "com.vsassets.com": "INACTIVE"
-        },
-        "1572503263": {
-            "conagra.links.channelintelligence.com": "INACTIVE"
-        },
-        "1572503271": {
-            "concur.demdex.net": "INACTIVE"
-        },
-        "1572503272": {
-            "concurtechnologies.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503276": {
-            "condenast.demdex.net": "INACTIVE"
-        },
-        "1572503278": {
-            "condenast.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503280": {
-            "c.one.impact-ad.jp": "INACTIVE"
-        },
-        "1572503281": {
-            "conf.dco.advertising.com": "INACTIVE"
-        },
-        "1572503282": {
-            "conference-2-freewheelcupscluster.fwmrm.net": "INACTIVE"
-        },
-        "1572503283": {
-            "conference-2-standalonecluster7a91e.fwmrm.net": "INACTIVE"
-        },
-        "1572503284": {
-            "conference-3-freewheelcupscluster.fwmrm.net": "INACTIVE",
-            "conference-3-standalonecluster7a91e.fwmrm.net": "INACTIVE"
-        },
-        "1572503286": {
-            "conference.meeting.abtasty.com": "INACTIVE"
-        },
-        "1572503287": {
-            "config20.adtilt.com": "INACTIVE"
-        },
-        "1572503288": {
-            "config2-origin.mparticle.com": "INACTIVE"
-        },
-        "1572503289": {
-            "config.ams1.appgw.inmobi.com": "INACTIVE"
-        },
-        "1572503290": {
-            "config-canary.flurry.com": "INACTIVE"
-        },
-        "1572503291": {
-            "config.dco.advertising.com": "INACTIVE"
-        },
-        "1572503292": {
-            "config.dfw1.vip.inmobi.com": "INACTIVE",
-            "config.dfw2.vip.inmobi.com": "INACTIVE"
-        },
-        "1572503293": {
-            "config.eastus.avi.inmobi.com": "INACTIVE",
-            "config.edge.skype.comwf.cbarsrv.com": "INACTIVE"
-        },
-        "1572503300": {
-            "config.experimentation.intuit.com": "INACTIVE"
-        },
-        "1572503301": {
-            "config.flurry.com": "INACTIVE"
-        },
-        "1572503302": {
-            "config.inmobi.cn": "INACTIVE"
-        },
-        "1572503303": {
-            "config.inmobi.com": "INACTIVE"
-        },
-        "1572503304": {
-            "config-loadtest.flurry.com": "INACTIVE"
-        },
-        "1572503305": {
-            "config-ltvp.inmobi.com": "INACTIVE",
-            "config-ltvp.vip.uh1.inmobi.com": "INACTIVE"
-        },
-        "1572503307": {
-            "config.mail.163.com": "INACTIVE",
-            "config.mediavine.com": "INACTIVE"
-        },
-        "1572503308": {
-            "config.parsely.com": "INACTIVE"
-        },
-        "1572503309": {
-            "config.pek1.vip.inmobi.com": "INACTIVE"
-        },
-        "1572503312": {
-            "config.pfa.gcp.datamind.ru": "INACTIVE"
-        },
-        "1572503314": {
-            "configuration.ma.tune.com": "INACTIVE"
-        },
-        "1572503316": {
-            "config.vip.126.com": "INACTIVE"
-        },
-        "1572503317": {
-            "confluence-tech.amobee.com": "INACTIVE"
-        },
-        "1572503318": {
-            "confluent.demdex.net": "INACTIVE"
-        },
-        "1572503319": {
-            "confluent.mktoweb.com": "INACTIVE",
-            "conforamaad.zanox.com": "INACTIVE"
-        },
-        "1572503321": {
-            "conf.perimeterx.net": "INACTIVE"
-        },
-        "1572503327": {
-            "conges.weborama.com": "INACTIVE"
-        },
-        "1572503331": {
-            "connect2.adxpose.com": "INACTIVE"
-        },
-        "1572503332": {
-            "connect.adobedtm.com": "INACTIVE",
-            "connect2.dataxu.net": "INACTIVE"
-        },
-        "1572503339": {
-            "connect.adxpose.com": "INACTIVE"
-        },
-        "1572503340": {
-            "connect-api-demo.rubiconproject.com": "INACTIVE"
-        },
-        "1572503344": {
-            "connect-dashboard.m.beeketing.com": "INACTIVE",
-            "connect.decibelinsight.com": "INACTIVE"
-        },
-        "1572503351": {
-            "connected.ma.tune.com": "INACTIVE"
-        },
-        "1572503353": {
-            "connection-test.newrelic.com": "INACTIVE"
-        },
-        "1572503355": {
-            "connectivitycheck.android.comopps.cbarsrv.com": "INACTIVE",
-            "connectivitycheck.gstatic.comwf.cbarsrv.com": "INACTIVE"
-        },
-        "1572503362": {
-            "connect.manage.com": "INACTIVE"
-        },
-        "1572503364": {
-            "connector.krxd.net": "INACTIVE"
-        },
-        "1572503366": {
-            "connect.rubiconproject.com": "INACTIVE"
-        },
-        "1572503367": {
-            "connect.scroll.com": "INACTIVE",
-            "connect.signifyd.com": "INACTIVE"
-        },
-        "1572503368": {
-            "connect-testing.urbanairship.com": "INACTIVE"
-        },
-        "1572503375": {
-            "connect.uat.tradedoubler.com": "INACTIVE",
-            "connect.urbanairship.com": "INACTIVE"
-        },
-        "1572503378": {
-            "connectx.inmobi.com": "INACTIVE"
-        },
-        "1572503379": {
-            "connexity.snowflakeproxy.connexity.net": "INACTIVE"
-        },
-        "1572503380": {
-            "connext-cdn.ec.azureedge.net": "INACTIVE"
-        },
-        "1572503382": {
-            "conns.mpeasylink.com": "INACTIVE"
-        },
-        "1572503383": {
-            "co.np.adproxy.ndmdhs.com": "INACTIVE"
-        },
-        "1572503389": {
-            "consent.iubenda.com": "INACTIVE"
-        },
-        "1572503393": {
-            "consequence-tagan.adlightning.com": "INACTIVE"
-        },
-        "1572503394": {
-            "console01.ec2.st-av.net": "INACTIVE"
-        },
-        "1572503395": {
-            "console11.ec2.st-av.net": "INACTIVE",
-            "console21.ec2.st-av.net": "INACTIVE"
-        },
-        "1572503396": {
-            "console60.ec2.st-av.net": "INACTIVE"
-        },
-        "1572503403": {
-            "console-api.ucg.smart-dmp.com": "INACTIVE"
-        },
-        "1572503406": {
-            "consul.df-srv.de": "INACTIVE"
-        },
-        "1572503407": {
-            "consul-legacy.df-srv.de": "INACTIVE"
-        },
-        "1572503414": {
-            "consul.mediamath.com": "INACTIVE"
-        },
-        "1572503416": {
-            "consul-us-west-1.mparticle.com": "INACTIVE",
-            "consult.taboola.com": "INACTIVE"
-        },
-        "1572503418": {
-            "consumerinfo.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503419": {
-            "consumer.krxd.net": "INACTIVE"
-        },
-        "1572503420": {
-            "consumersccusc92212829us1.cobrowse.oraclecloud.com": "INACTIVE"
-        },
-        "1572503421": {
-            "consumer-staging.krxd.net": "INACTIVE"
-        },
-        "1572503422": {
-            "consumersunion.demdex.net": "INACTIVE"
-        },
-        "1572503425": {
-            "contactdb2-stage.sendgrid.net": "INACTIVE"
-        },
-        "1572503427": {
-            "contactdb-e2e.mcdata.sendgrid.net": "INACTIVE"
-        },
-        "1572503428": {
-            "contactdb-stage.mcdata.sendgrid.net": "INACTIVE"
-        },
-        "1572503435": {
-            "contact-proxy-dev.sendgrid.net": "INACTIVE"
-        },
-        "1572503439": {
-            "contact-upload-nat-dev.sendgrid.net": "INACTIVE"
-        },
-        "1572503443": {
-            "contenido-akm.midasplayer.com": "INACTIVE"
-        },
-        "1572503444": {
-            "contenido.lb.neqa.midasplayer.com": "INACTIVE"
-        },
-        "1572503446": {
-            "content1.adfox.ru": "INACTIVE"
-        },
-        "1572503447": {
-            "content2.adfox.ru": "INACTIVE"
-        },
-        "1572503448": {
-            "content3.adfox.ru": "INACTIVE"
-        },
-        "1572503450": {
-            "content4.adfox.ru": "INACTIVE"
-        },
-        "1572503451": {
-            "content6.adfox.ru": "INACTIVE"
-        },
-        "1572503452": {
-            "content8.adfox.ru": "INACTIVE"
-        },
-        "1572503453": {
-            "content-acceptance.sharethrough.com": "INACTIVE"
-        },
-        "1572503460": {
-            "content.acc-hd.de": "INACTIVE"
-        },
-        "1572503461": {
-            "content.accu.amobee.com": "INACTIVE",
-            "content.activision.swrve.com": "INACTIVE"
-        },
-        "1572503465": {
-            "content.adroll.com": "INACTIVE"
-        },
-        "1572503466": {
-            "content.afp.amobee.com": "INACTIVE"
-        },
-        "1572503467": {
-            "content.agkn.com": "INACTIVE"
-        },
-        "1572503470": {
-            "content.appboy.com": "INACTIVE"
-        },
-        "1572503471": {
-            "content.braze.com": "INACTIVE"
-        },
-        "1572503473": {
-            "content.channelintelligence.com": "INACTIVE"
-        },
-        "1572503474": {
-            "content-click.amanad.adtdp.com": "INACTIVE"
-        },
-        "1572503475": {
-            "content-cluster.mediaforge.com": "INACTIVE",
-            "content.cmp.advertising.com": "INACTIVE"
-        },
-        "1572503477": {
-            "content.devvm.imprev.net": "INACTIVE"
-        },
-        "1572503481": {
-            "content.dskfv.de": "INACTIVE"
-        },
-        "1572503483": {
-            "content.glance.inmobi.com": "INACTIVE",
-            "content.granify.com": "INACTIVE"
-        },
-        "1572503484": {
-            "content.heapanalytics.com": "INACTIVE"
-        },
-        "1572503486": {
-            "content-imp.amanad.adtdp.com": "INACTIVE"
-        },
-        "1572503487": {
-            "content.imprev.net": "INACTIVE"
-        },
-        "1572503493": {
-            "content-insights-revenue.snapchat.com": "INACTIVE"
-        },
-        "1572503494": {
-            "content-inview.amanad.adtdp.com": "INACTIVE"
-        },
-        "1572503495": {
-            "content.jetlore.com": "INACTIVE"
-        },
-        "1572503496": {
-            "content-js.tapjoy.com": "INACTIVE"
-        },
-        "1572503498": {
-            "content.ligatus.com": "INACTIVE"
-        },
-        "1572503499": {
-            "content.links.channelintelligence.com": "INACTIVE",
-            "content.lokaplatform.com": "INACTIVE"
-        },
-        "1572503500": {
-            "content.mediaforge.com": "INACTIVE"
-        },
-        "1572503502": {
-            "content.outbrain.com": "INACTIVE"
-        },
-        "1572503510": {
-            "content.postrelease.com": "INACTIVE"
-        },
-        "1572503512": {
-            "content.qa-dest.imprev.net": "INACTIVE"
-        },
-        "1572503513": {
-            "content.qa.imprev.net": "INACTIVE"
-        },
-        "1572503514": {
-            "content.rce.veeseo.com": "INACTIVE"
-        },
-        "1572503516": {
-            "content.rejoiner.com": "INACTIVE"
-        },
-        "1572503517": {
-            "content.rubiconproject.com": "INACTIVE"
-        },
-        "1572503524": {
-            "content.shareaholic.com": "INACTIVE"
-        },
-        "1572503525": {
-            "content.sharethrough.com": "INACTIVE"
-        },
-        "1572503526": {
-            "content-staging.sharethrough.com": "INACTIVE"
-        },
-        "1572503527": {
-            "content.swrve.com": "INACTIVE"
-        },
-        "1572503529": {
-            "content.testcluster.imprev.net": "INACTIVE",
-            "content.tinkoff.ru": "INACTIVE"
-        },
-        "1572503531": {
-            "content.wsod.com": "INACTIVE"
-        },
-        "1572503532": {
-            "content.zemanta.com": "INACTIVE"
-        },
-        "1572503541": {
-            "contestengine.eyereturn.com": "INACTIVE"
-        },
-        "1572503542": {
-            "context-matching.dashboard.superawesome.tv": "INACTIVE"
-        },
-        "1572503544": {
-            "contextualns.media.net": "INACTIVE"
-        },
-        "1572503545": {
-            "context.webgains.com": "INACTIVE"
-        },
-        "1572503546": {
-            "contextweb.map.fastlylb.net": "INACTIVE"
-        },
-        "1572503547": {
-            "contextweb.yieldoptimizer.com": "INACTIVE"
-        },
-        "1572503551": {
-            "continuumanalytics.mktoweb.com": "INACTIVE"
-        },
-        "1572503558": {
-            "contractor.wbinsights.com": "INACTIVE"
-        },
-        "1572503559": {
-            "controlcenterportal.mpeasylink.com": "INACTIVE"
-        },
-        "1572503560": {
-            "controller2.foreseeresults.com": "INACTIVE"
-        },
-        "1572503561": {
-            "controller.foreseeresults.com": "INACTIVE"
-        },
-        "1572503562": {
-            "control.springserve.com": "INACTIVE"
-        },
-        "1572503563": {
-            "control-test-ec.adaptv.advertising.com": "INACTIVE"
-        },
-        "1572503564": {
-            "controltower.dz.optimizely.com": "INACTIVE"
-        },
-        "1572503565": {
-            "convammp.cbarsrv.com": "INACTIVE"
-        },
-        "1572503682": {
-            "convammp.taboola.com": "INACTIVE"
-        },
-        "1572503683": {
-            "convammp.zorosrv.com": "INACTIVE"
-        },
-        "1572503684": {
-            "convchmp.cbarsrv.com": "INACTIVE",
-            "convchmp.taboola.com": "INACTIVE"
-        },
-        "1572503685": {
-            "convchmp.zorosrv.com": "INACTIVE"
-        },
-        "1572503686": {
-            "convdamp.taboola.com": "INACTIVE",
-            "convdb.buysellads.com": "INACTIVE"
-        },
-        "1572503694": {
-            "convenkun.macromill.com": "INACTIVE"
-        },
-        "1572503701": {
-            "conversation.api.drift.com": "INACTIVE"
-        },
-        "1572503708": {
-            "conversation.api.driftt.com": "INACTIVE"
-        },
-        "1572503709": {
-            "conversation.dev.api.driftt.com": "INACTIVE"
-        },
-        "1572503710": {
-            "conversation-read.spot.im": "INACTIVE",
-            "conversion.ace.advertising.com": "INACTIVE"
-        },
-        "1572503717": {
-            "conversion.amobee.com": "INACTIVE"
-        },
-        "1572503719": {
-            "conversion.chitika.net": "INACTIVE"
-        },
-        "1572503720": {
-            "conversion.intentiq.com": "INACTIVE"
-        },
-        "1572503721": {
-            "conversionmachine.sitescoutadserver.com": "INACTIVE"
-        },
-        "1572503722": {
-            "conversions.adaptv.advertising.com": "INACTIVE"
-        },
-        "1572503728": {
-            "convertmedia.thirdpresence.com": "INACTIVE"
-        },
-        "1572503729": {
-            "convert-sr.streamrail.net": "INACTIVE"
-        },
-        "1572503730": {
-            "conveump.cbarsrv.com": "INACTIVE"
-        },
-        "1572503731": {
-            "convhkmp.cbarsrv.com": "INACTIVE"
-        },
-        "1572503732": {
-            "convhkmp.taboola.com": "INACTIVE"
-        },
-        "1572503733": {
-            "convhkmp.zorosrv.com": "INACTIVE"
-        },
-        "1572503734": {
-            "convlatbmp.cbarsrv.com": "INACTIVE",
-            "convlatbmp.taboola.com": "INACTIVE"
-        },
-        "1572503735": {
-            "convlatbmp.zorosrv.com": "INACTIVE"
-        },
-        "1572503736": {
-            "conv.log.go.com": "INACTIVE",
-            "convnjmp.cbarsrv.com": "INACTIVE"
-        },
-        "1572503737": {
-            "convnjmp.taboola.com": "INACTIVE"
-        },
-        "1572503738": {
-            "convnjmp.zorosrv.com": "INACTIVE"
-        },
-        "1572503739": {
-            "convsgmp.taboola.com": "INACTIVE"
-        },
-        "1572503740": {
-            "convsgmp.zorosrv.com": "INACTIVE"
-        },
-        "1572503742": {
-            "convusmp.admailtiser.com": "INACTIVE",
-            "convusmp.cbarsrv.com": "INACTIVE"
-        },
-        "1572503746": {
-            "convusmp.genorithm.com": "INACTIVE"
-        },
-        "1572503749": {
-            "convusmp.gogorithm.com": "INACTIVE"
-        },
-        "1572503752": {
-            "convusmp.tractionize.com": "INACTIVE"
-        },
-        "1572503755": {
-            "cookbiz.silveregg.net": "INACTIVE"
-        },
-        "1572503756": {
-            "cookie.altitude-arena.com": "INACTIVE"
-        },
-        "1572503758": {
-            "cookie.fuel451.com": "INACTIVE"
-        },
-        "1572503759": {
-            "cookieinformation.mgr.consensu.org": "INACTIVE"
-        },
-        "1572503760": {
-            "cookiematching.adform.net": "INACTIVE"
-        },
-        "1572503762": {
-            "cookiepixie.zemanta.com": "INACTIVE"
-        },
-        "1572503763": {
-            "cookies.dyn.perfectaudience.com": "INACTIVE"
-        },
-        "1572503765": {
-            "cookiesuksouth.blob.core.windows.net": "INACTIVE"
-        },
-        "1572503766": {
-            "cookiesync.mparticle.com": "INACTIVE"
-        },
-        "1572503768": {
-            "cookrdr.dc-storm.com": "INACTIVE"
-        },
-        "1572503769": {
-            "cooladata.kampyle.com": "INACTIVE"
-        },
-        "1572503770": {
-            "coolblue.feeds.bannerflow.com": "INACTIVE"
-        },
-        "1572503771": {
-            "coolmath-d3.openxenterprise.com": "INACTIVE"
-        },
-        "1572503772": {
-            "coopbank.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572503774": {
-            "coop.demdex.net": "INACTIVE"
-        },
-        "1572503781": {
-            "cooper.logs.roku.com": "INACTIVE"
-        },
-        "1572503782": {
-            "coordinator-prd.svc.tapad.com": "INACTIVE",
-            "coordinator-stg.svc.tapad.com": "INACTIVE"
-        },
         "1572503783": {
             "copacabana.weborama.com": "INACTIVE"
         },
@@ -104597,6 +103327,1212 @@
         },
         "1572590024": {
             "collector-global-http-lb-dsr-poc.perimeterx.net": "INACTIVE"
+        },
+        "1572590368": {
+            "collector-grpc-latest.lightstep.com": "INACTIVE"
+        },
+        "1572590375": {
+            "collector-grpc.lightstep.com": "INACTIVE"
+        },
+        "1572590382": {
+            "collector-grpc-loadtest.lightstep.com": "INACTIVE"
+        },
+        "1572590388": {
+            "collector-grpc-meta.lightstep.com": "INACTIVE"
+        },
+        "1572590395": {
+            "collector-grpc-staging.lightstep.com": "INACTIVE"
+        },
+        "1572590396": {
+            "collector.hiconversion.com": "INACTIVE"
+        },
+        "1572590402": {
+            "collector-http.lightstep.com": "INACTIVE"
+        },
+        "1572590403": {
+            "collector-istio.staging.lightstep.com": "INACTIVE"
+        },
+        "1572590404": {
+            "collector-latest.lightstep.com": "INACTIVE",
+            "collector-life360.lightstep.com": "INACTIVE"
+        },
+        "1572590411": {
+            "collector.lightstep.com": "INACTIVE"
+        },
+        "1572590417": {
+            "collector-loadtest.lightstep.com": "INACTIVE"
+        },
+        "1572590424": {
+            "collector-lyft-dev.lightstep.com": "INACTIVE"
+        },
+        "1572590431": {
+            "collector-lyft-dev-no-grpc.lightstep.com": "INACTIVE"
+        },
+        "1572590437": {
+            "collector-meta.lightstep.com": "INACTIVE"
+        },
+        "1572590444": {
+            "collector.meta.lightstep.com": "INACTIVE"
+        },
+        "1572590445": {
+            "collector.placelocal.com": "INACTIVE"
+        },
+        "1572590451": {
+            "collector.prod.expedia.com": "INACTIVE"
+        },
+        "1572590452": {
+            "collector-px04cd4k9e.perimeterx.net": "INACTIVE",
+            "collector-px09a9fhxa.perimeterx.net": "INACTIVE"
+        },
+        "1572590453": {
+            "collector-px0dqvu288.perimeterx.net": "INACTIVE"
+        },
+        "1572590454": {
+            "collector-px0f3091f3.perimeterx.net": "INACTIVE",
+            "collector-px0fq4xg0s.perimeterx.net": "INACTIVE"
+        },
+        "1572590455": {
+            "collector-px0lizzs6w.perimeterx.net": "INACTIVE",
+            "collector-px0n3xmol0.perimeterx.net": "INACTIVE"
+        },
+        "1572590456": {
+            "collector-px0sxgcyfr.perimeterx.net": "INACTIVE",
+            "collector-px0uqk4c76.perimeterx.net": "INACTIVE"
+        },
+        "1572590457": {
+            "collector-px12ew76qt.perimeterx.net": "INACTIVE"
+        },
+        "1572590458": {
+            "collector-px16ud0kof.perimeterx.net": "INACTIVE",
+            "collector-px16wtn1zd.perimeterx.net": "INACTIVE"
+        },
+        "1572590459": {
+            "collector-px1osi1aka.perimeterx.net": "INACTIVE"
+        },
+        "1572590460": {
+            "collector-px1z8hxu41.perimeterx.net": "INACTIVE",
+            "collector-px2003.cl6.perimeterx.net": "INACTIVE"
+        },
+        "1572590461": {
+            "collector-px2003.perimeterx.net": "INACTIVE",
+            "collector-px27m703hm.perimeterx.net": "INACTIVE"
+        },
+        "1572590462": {
+            "collector-px28s65pz2.perimeterx.net": "INACTIVE"
+        },
+        "1572590463": {
+            "collector-px2desiie9.perimeterx.net": "INACTIVE",
+            "collector-px2ldwspdg.perimeterx.net": "INACTIVE"
+        },
+        "1572590464": {
+            "collector-px2pmxpr54.perimeterx.net": "INACTIVE"
+        },
+        "1572590465": {
+            "collector-px2qgibktu.perimeterx.net": "INACTIVE",
+            "collector-px2wixzdhx.perimeterx.net": "INACTIVE"
+        },
+        "1572590466": {
+            "collector-px2ztkihy4.perimeterx.net": "INACTIVE"
+        },
+        "1572590467": {
+            "collector-px352q28k6.perimeterx.net": "INACTIVE",
+            "collector-px35v5ygcp.perimeterx.net": "INACTIVE"
+        },
+        "1572590468": {
+            "collector-px3c3ez9ug.perimeterx.net": "INACTIVE",
+            "collector-px3cvqbi14.perimeterx.net": "INACTIVE"
+        },
+        "1572590469": {
+            "collector-px3h2ds8p1.perimeterx.net": "INACTIVE",
+            "collector-px3t7fwqg6.perimeterx.net": "INACTIVE"
+        },
+        "1572590470": {
+            "collector-px3vk96i6i.perimeterx.net": "INACTIVE"
+        },
+        "1572590471": {
+            "collector-px3xfxv51b.perimeterx.net": "INACTIVE",
+            "collector-px46uwk7he.perimeterx.net": "INACTIVE"
+        },
+        "1572590472": {
+            "collector-px4bynv8ar.perimeterx.net": "INACTIVE"
+        },
+        "1572590473": {
+            "collector-px4rn57kj2.perimeterx.net": "INACTIVE",
+            "collector-px54pltfoq.perimeterx.net": "INACTIVE"
+        },
+        "1572590474": {
+            "collector-px5cg3t23p.perimeterx.net": "INACTIVE"
+        },
+        "1572590475": {
+            "collector-px5j5h9cc2.perimeterx.net": "INACTIVE",
+            "collector-px69t0ouvr.perimeterx.net": "INACTIVE"
+        },
+        "1572590476": {
+            "collector-px6ejs0kwo.perimeterx.net": "INACTIVE",
+            "collector-px6j7ezb51.perimeterx.net": "INACTIVE"
+        },
+        "1572590477": {
+            "collector-px6k5vcsug.perimeterx.net": "INACTIVE",
+            "collector-px6lfn3nm0.perimeterx.net": "INACTIVE"
+        },
+        "1572590478": {
+            "collector-px6tosdlh8.perimeterx.net": "INACTIVE"
+        },
+        "1572590479": {
+            "collector-px6ze6vybh.perimeterx.net": "INACTIVE",
+            "collector-px7001.perimeterx.net": "INACTIVE"
+        },
+        "1572590480": {
+            "collector-px74roxf6t.perimeterx.net": "INACTIVE",
+            "collector-px79lwtrta.perimeterx.net": "INACTIVE"
+        },
+        "1572590481": {
+            "collector-px7g7bfrt2.perimeterx.net": "INACTIVE"
+        },
+        "1572590482": {
+            "collector-px7i76o2z5.perimeterx.net": "INACTIVE",
+            "collector-px7vv0zost.perimeterx.net": "INACTIVE"
+        },
+        "1572590483": {
+            "collector-px81wk13v6.perimeterx.net": "INACTIVE",
+            "collector-px85fbc6q9.perimeterx.net": "INACTIVE"
+        },
+        "1572590484": {
+            "collector-px879tg0qa.perimeterx.net": "INACTIVE",
+            "collector-px89p1cyql.perimeterx.net": "INACTIVE"
+        },
+        "1572590485": {
+            "collector-px8fcgygk4.perimeterx.net": "INACTIVE"
+        },
+        "1572590486": {
+            "collector-px8kccwcpc.perimeterx.net": "INACTIVE",
+            "collector-px8kq4ewfc.perimeterx.net": "INACTIVE"
+        },
+        "1572590487": {
+            "collector-px8kuc03xk.perimeterx.net": "INACTIVE",
+            "collector-px8la3oway.perimeterx.net": "INACTIVE"
+        },
+        "1572590488": {
+            "collector-px9atjsd0n.perimeterx.net": "INACTIVE"
+        },
+        "1572590489": {
+            "collector-px9gxgqy6v.perimeterx.net": "INACTIVE",
+            "collector-px9popoyoe.perimeterx.net": "INACTIVE"
+        },
+        "1572590490": {
+            "collector-px9qx3rve4.perimeterx.net": "INACTIVE",
+            "collector-px9vyuvz4f.perimeterx.net": "INACTIVE"
+        },
+        "1572590491": {
+            "collector-px9zaqe9fv.perimeterx.net": "INACTIVE",
+            "collector-pxa0o07ort.perimeterx.net": "INACTIVE"
+        },
+        "1572590492": {
+            "collector-pxa3zjcxzu.perimeterx.net": "INACTIVE"
+        },
+        "1572590493": {
+            "collector-pxa5sexfmj.perimeterx.net": "INACTIVE",
+            "collector-pxaflyiz9n.perimeterx.net": "INACTIVE"
+        },
+        "1572590494": {
+            "collector-pxag6zzoxu.perimeterx.net": "INACTIVE"
+        },
+        "1572590495": {
+            "collector-pxajdckzhd.perimeterx.net": "INACTIVE",
+            "collector-pxakdjyq9g.perimeterx.net": "INACTIVE"
+        },
+        "1572590496": {
+            "collector-pxalxmt4ma.perimeterx.net": "INACTIVE",
+            "collector-pxaotqiwnf.perimeterx.net": "INACTIVE"
+        },
+        "1572590497": {
+            "collector-pxasqjfz9w.perimeterx.net": "INACTIVE",
+            "collector-pxbecn7fqx.perimeterx.net": "INACTIVE"
+        },
+        "1572590498": {
+            "collector-pxbg6vwucj.perimeterx.net": "INACTIVE"
+        },
+        "1572590499": {
+            "collector-pxcemzmint.perimeterx.net": "INACTIVE",
+            "collector-pxcqafo9jx.perimeterx.net": "INACTIVE"
+        },
+        "1572590500": {
+            "collector-pxd0cks2ak.perimeterx.net": "INACTIVE",
+            "collector-pxd0s4dq5i.perimeterx.net": "INACTIVE"
+        },
+        "1572590501": {
+            "collector-pxd62eqwow.perimeterx.net": "INACTIVE"
+        },
+        "1572590502": {
+            "collector-pxdl6gosf9.perimeterx.net": "INACTIVE",
+            "collector-pxdoe5cht3.perimeterx.net": "INACTIVE"
+        },
+        "1572590503": {
+            "collector-pxdvngdttv.perimeterx.net": "INACTIVE",
+            "collector-pxe8kfvgtl.perimeterx.net": "INACTIVE"
+        },
+        "1572590504": {
+            "collector-pxengygmc2.perimeterx.net": "INACTIVE"
+        },
+        "1572590505": {
+            "collector-pxev56my37.perimeterx.net": "INACTIVE",
+            "collector-pxeyndrtd4.perimeterx.net": "INACTIVE"
+        },
+        "1572590506": {
+            "collector-pxfbwxyujl.perimeterx.net": "INACTIVE"
+        },
+        "1572590507": {
+            "collector-pxflo1elgs.perimeterx.net": "INACTIVE",
+            "collector-pxfqtaw5et.perimeterx.net": "INACTIVE"
+        },
+        "1572590508": {
+            "collector-pxft56yv2e.perimeterx.net": "INACTIVE",
+            "collector-pxfx724h89.perimeterx.net": "INACTIVE"
+        },
+        "1572590509": {
+            "collector-pxfxx25tyn.perimeterx.net": "INACTIVE"
+        },
+        "1572590510": {
+            "collector-pxg6p26otu.perimeterx.net": "INACTIVE"
+        },
+        "1572590511": {
+            "collector-pxg8atfja1.perimeterx.net": "INACTIVE",
+            "collector-pxginpfea6.perimeterx.net": "INACTIVE"
+        },
+        "1572590512": {
+            "collector-pxgy5w79au.perimeterx.net": "INACTIVE",
+            "collector-pxh52dw03a.perimeterx.net": "INACTIVE"
+        },
+        "1572590513": {
+            "collector-pxhd2cxrgh.perimeterx.net": "INACTIVE"
+        },
+        "1572590514": {
+            "collector-pxhf9ns48h.perimeterx.net": "INACTIVE",
+            "collector-pxhp4b16gp.perimeterx.net": "INACTIVE"
+        },
+        "1572590515": {
+            "collector-pxhv1dpin4.perimeterx.net": "INACTIVE"
+        },
+        "1572590516": {
+            "collector-pxhyx10rg3.perimeterx.net": "INACTIVE"
+        },
+        "1572590517": {
+            "collector-pxi2d9zt6z.perimeterx.net": "INACTIVE",
+            "collector-pxi7wtmiso.perimeterx.net": "INACTIVE"
+        },
+        "1572590518": {
+            "collector-pxii3cas33.perimeterx.net": "INACTIVE"
+        },
+        "1572590519": {
+            "collector-pxij55yhvs.perimeterx.net": "INACTIVE"
+        },
+        "1572590520": {
+            "collector-pxikkul2rm.perimeterx.net": "INACTIVE"
+        },
+        "1572590521": {
+            "collector-pxio9sdzn4.perimeterx.net": "INACTIVE",
+            "collector-pxiuboghjl.perimeterx.net": "INACTIVE"
+        },
+        "1572590522": {
+            "collector-pxj770cp7y.perimeterx.net": "INACTIVE",
+            "collector-pxj8il5nks.perimeterx.net": "INACTIVE"
+        },
+        "1572590523": {
+            "collector-pxj9uge6qj.perimeterx.net": "INACTIVE",
+            "collector-pxjayeky18.perimeterx.net": "INACTIVE"
+        },
+        "1572590524": {
+            "collector-pxjbdhncwl.perimeterx.net": "INACTIVE"
+        },
+        "1572590525": {
+            "collector-pxjbzbz6lr.perimeterx.net": "INACTIVE",
+            "collector-pxjj060g79.perimeterx.net": "INACTIVE"
+        },
+        "1572590526": {
+            "collector-pxjmbe7t0q.perimeterx.net": "INACTIVE",
+            "collector-pxjmcvubg8.perimeterx.net": "INACTIVE"
+        },
+        "1572590527": {
+            "collector-pxjqmocpg1.perimeterx.net": "INACTIVE"
+        },
+        "1572590528": {
+            "collector-pxk0d2v6vv.perimeterx.net": "INACTIVE",
+            "collector-pxk266ff2d.perimeterx.net": "INACTIVE"
+        },
+        "1572590529": {
+            "collector-pxk47l567g.perimeterx.net": "INACTIVE",
+            "collector-pxk6s8okp3.perimeterx.net": "INACTIVE"
+        },
+        "1572590530": {
+            "collector-pxk8l5v12h.perimeterx.net": "INACTIVE"
+        },
+        "1572590531": {
+            "collector-pxkaly4qo6.perimeterx.net": "INACTIVE",
+            "collector-pxkgkikzzj.perimeterx.net": "INACTIVE"
+        },
+        "1572590532": {
+            "collector-pxkj3yf9nf.perimeterx.net": "INACTIVE",
+            "collector-pxknxwvhco.perimeterx.net": "INACTIVE"
+        },
+        "1572590533": {
+            "collector-pxkz8zzqmw.perimeterx.net": "INACTIVE"
+        },
+        "1572590534": {
+            "collector-pxliujcowl.perimeterx.net": "INACTIVE",
+            "collector-pxljub4etb.perimeterx.net": "INACTIVE"
+        },
+        "1572590535": {
+            "collector-pxlk409faf.perimeterx.net": "INACTIVE",
+            "collector-pxlw63r8a2.perimeterx.net": "INACTIVE"
+        },
+        "1572590536": {
+            "collector-pxlznv2dn4.perimeterx.net": "INACTIVE"
+        },
+        "1572590537": {
+            "collector-pxm2jhbdkv.perimeterx.net": "INACTIVE",
+            "collector-pxm4c135au.perimeterx.net": "INACTIVE"
+        },
+        "1572590538": {
+            "collector-pxm636svr4.perimeterx.net": "INACTIVE",
+            "collector-pxmkulqa8r.perimeterx.net": "INACTIVE"
+        },
+        "1572590539": {
+            "collector-pxmysiivml.perimeterx.net": "INACTIVE"
+        },
+        "1572590540": {
+            "collector-pxn56pxeeb.perimeterx.net": "INACTIVE",
+            "collector-pxn8glwf62.perimeterx.net": "INACTIVE"
+        },
+        "1572590541": {
+            "collector-pxnfaj40us.perimeterx.net": "INACTIVE",
+            "collector-pxnkbtefxe.perimeterx.net": "INACTIVE"
+        },
+        "1572590542": {
+            "collector-pxnp9b16cq.perimeterx.net": "INACTIVE"
+        },
+        "1572590543": {
+            "collector-pxnrdalolx.perimeterx.net": "INACTIVE",
+            "collector-pxntz74r3e.perimeterx.net": "INACTIVE"
+        },
+        "1572590544": {
+            "collector-pxo4wpdyyd.perimeterx.net": "INACTIVE",
+            "collector-pxo97ybh4j.perimeterx.net": "INACTIVE"
+        },
+        "1572590545": {
+            "collector-pxob5twirq.perimeterx.net": "INACTIVE",
+            "collector-pxofrh1wnk.perimeterx.net": "INACTIVE"
+        },
+        "1572590546": {
+            "collector-pxogckki0e.perimeterx.net": "INACTIVE"
+        },
+        "1572590547": {
+            "collector-pxoinjap26.perimeterx.net": "INACTIVE",
+            "collector-pxosx7m0dx.perimeterx.net": "INACTIVE"
+        },
+        "1572590548": {
+            "collector-pxot24w3x2.perimeterx.net": "INACTIVE"
+        },
+        "1572590549": {
+            "collector-pxoyox6vj7.perimeterx.net": "INACTIVE",
+            "collector-pxp08ypnn1.perimeterx.net": "INACTIVE"
+        },
+        "1572590550": {
+            "collector-pxp0j9lefm.perimeterx.net": "INACTIVE"
+        },
+        "1572590551": {
+            "collector-pxp2tbvnjz.perimeterx.net": "INACTIVE",
+            "collector-pxp3nbqmmw.perimeterx.net": "INACTIVE"
+        },
+        "1572590552": {
+            "collector-pxp6kjrele.cl6.perimeterx.net": "INACTIVE",
+            "collector-pxp6kjrele.perimeterx.net": "INACTIVE"
+        },
+        "1572590553": {
+            "collector-pxp750p64i.perimeterx.net": "INACTIVE"
+        },
+        "1572590554": {
+            "collector-pxpb7sa58f.perimeterx.net": "INACTIVE",
+            "collector-pxpftaypj9.perimeterx.net": "INACTIVE"
+        },
+        "1572590555": {
+            "collector-pxpgvezpuy.perimeterx.net": "INACTIVE",
+            "collector-pxphwoqumu.perimeterx.net": "INACTIVE"
+        },
+        "1572590556": {
+            "collector-pxpkewm2nh.perimeterx.net": "INACTIVE",
+            "collector-pxpmp8ilui.perimeterx.net": "INACTIVE"
+        },
+        "1572590557": {
+            "collector-pxpmq1d3fb.perimeterx.net": "INACTIVE"
+        },
+        "1572590558": {
+            "collector-pxq1te0gvl.perimeterx.net": "INACTIVE",
+            "collector-pxq99aloxk.perimeterx.net": "INACTIVE"
+        },
+        "1572590559": {
+            "collector-pxqdgu9nir.perimeterx.net": "INACTIVE",
+            "collector-pxqoad6otn.perimeterx.net": "INACTIVE"
+        },
+        "1572590560": {
+            "collector-pxqukd4lo9.perimeterx.net": "INACTIVE"
+        },
+        "1572590561": {
+            "collector-pxr3pnvz1f.perimeterx.net": "INACTIVE",
+            "collector-pxr6fpm57v.perimeterx.net": "INACTIVE"
+        },
+        "1572590562": {
+            "collector-pxrf8vapwa.perimeterx.net": "INACTIVE",
+            "collector-pxrw7m6iav.perimeterx.net": "INACTIVE"
+        },
+        "1572590563": {
+            "collector-pxs0ivy1pq.perimeterx.net": "INACTIVE"
+        },
+        "1572590564": {
+            "collector-pxs2e03d8g.perimeterx.net": "INACTIVE",
+            "collector-pxslc3j22k.perimeterx.net": "INACTIVE"
+        },
+        "1572590565": {
+            "collector-pxsny1d9mw.perimeterx.net": "INACTIVE",
+            "collector-pxss13u803.perimeterx.net": "INACTIVE"
+        },
+        "1572590566": {
+            "collector-pxszbf5p84.perimeterx.net": "INACTIVE",
+            "collector-pxszbka5m.perimeterx.net": "INACTIVE"
+        },
+        "1572590567": {
+            "collector-pxszbkva5m.perimeterx.net": "INACTIVE"
+        },
+        "1572590568": {
+            "collector-pxtn88q85m.perimeterx.net": "INACTIVE",
+            "collector-pxtneymj9v.perimeterx.net": "INACTIVE"
+        },
+        "1572590569": {
+            "collector-pxtsf7wcbr.perimeterx.net": "INACTIVE"
+        },
+        "1572590570": {
+            "collector-pxtu0h5frq.perimeterx.net": "INACTIVE",
+            "collector-pxtw69u8ub.perimeterx.net": "INACTIVE"
+        },
+        "1572590571": {
+            "collector-pxty0ejule.perimeterx.net": "INACTIVE",
+            "collector-pxu4k0s8nx.perimeterx.net": "INACTIVE"
+        },
+        "1572590572": {
+            "collector-pxu6b0qd2s.perimeterx.net": "INACTIVE",
+            "collector-pxuapo0cuk.perimeterx.net": "INACTIVE"
+        },
+        "1572590573": {
+            "collector-pxuarm9b04.perimeterx.net": "INACTIVE"
+        },
+        "1572590574": {
+            "collector-pxumsss5ar.perimeterx.net": "INACTIVE",
+            "collector-pxur63h57z.perimeterx.net": "INACTIVE"
+        },
+        "1572590575": {
+            "collector-pxuxoat7g7.perimeterx.net": "INACTIVE",
+            "collector-pxw3iam8bj.perimeterx.net": "INACTIVE"
+        },
+        "1572590576": {
+            "collector-pxw587i9y4.perimeterx.net": "INACTIVE"
+        },
+        "1572590577": {
+            "collector-pxwc27j6fy.perimeterx.net": "INACTIVE",
+            "collector-pxwekzyxmm.perimeterx.net": "INACTIVE"
+        },
+        "1572590578": {
+            "collector-pxwn0gh9ab.perimeterx.net": "INACTIVE",
+            "collector-pxx2qtwag9.perimeterx.net": "INACTIVE"
+        },
+        "1572590579": {
+            "collector-pxxgcxm9by.cl6.perimeterx.net": "INACTIVE"
+        },
+        "1572590580": {
+            "collector-pxxgcxm9by.perimeterx.net": "INACTIVE",
+            "collector-pxxgwm9nuh.perimeterx.net": "INACTIVE"
+        },
+        "1572590581": {
+            "collector-pxxiuo7qtj.perimeterx.net": "INACTIVE"
+        },
+        "1572590582": {
+            "collector-pxxor1k5b6.perimeterx.net": "INACTIVE",
+            "collector-pxxxab76ed.perimeterx.net": "INACTIVE"
+        },
+        "1572590583": {
+            "collector-pxy4ahxga8.perimeterx.net": "INACTIVE",
+            "collector-pxyeuwa5s0.perimeterx.net": "INACTIVE"
+        },
+        "1572590584": {
+            "collector-pxyo6yjwlb.perimeterx.net": "INACTIVE",
+            "collector-pxz6br9g1g.perimeterx.net": "INACTIVE"
+        },
+        "1572590585": {
+            "collector-pxzd817sic.perimeterx.net": "INACTIVE"
+        },
+        "1572590586": {
+            "collector-pxzhh9f9x0.perimeterx.net": "INACTIVE",
+            "collector-pxzkfhwd1c.perimeterx.net": "INACTIVE"
+        },
+        "1572590587": {
+            "collector-pxznu59zhd.perimeterx.net": "INACTIVE",
+            "collector-pxznv1oh58.perimeterx.net": "INACTIVE"
+        },
+        "1572590588": {
+            "collector-pxzu6rve8a.perimeterx.net": "INACTIVE"
+        },
+        "1572590589": {
+            "collector-pxzyvfoxac.perimeterx.net": "INACTIVE"
+        },
+        "1572590595": {
+            "collector-single-fastly.a.pxi.pub": "INACTIVE"
+        },
+        "1572590602": {
+            "collector-staging.lightstep.com": "INACTIVE"
+        },
+        "1572590608": {
+            "collector.staging.lightstep.com": "INACTIVE"
+        },
+        "1572590610": {
+            "collector-v2.a.pxi.pub": "INACTIVE",
+            "collector.staging.pxi.pub": "INACTIVE"
+        },
+        "1572590613": {
+            "columbiacollege.sitescoutadserver.com": "INACTIVE"
+        },
+        "1572590614": {
+            "columbiasportswear.tt.omtrdc.net": "INACTIVE",
+            "columbiasportswearusacorp.demdex.net": "INACTIVE"
+        },
+        "1572590615": {
+            "com12276.engine.mobileapptracking.com": "INACTIVE"
+        },
+        "1572590616": {
+            "combine.urbanairship.com": "INACTIVE",
+            "comcastathena.demdex.net": "INACTIVE"
+        },
+        "1572590617": {
+            "comcast.cdn.auditude.com": "INACTIVE"
+        },
+        "1572590618": {
+            "comcast.demdex.net": "INACTIVE"
+        },
+        "1572590619": {
+            "comcast-signup.postmaster.returnpath.net": "INACTIVE",
+            "comcastresidentialservices.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572590620": {
+            "comcast.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572590621": {
+            "co.mediamath.com": "INACTIVE",
+            "com.cdn.ezoic.net": "INACTIVE"
+        },
+        "1572590622": {
+            "comenityservicing.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572590623": {
+            "comeon-comeon.bannerflow.com": "INACTIVE"
+        },
+        "1572590624": {
+            "comeresaprensasl.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572590630": {
+            "comicbook.cbsi.com": "INACTIVE"
+        },
+        "1572590631": {
+            "comments-api.ext.nile.works": "INACTIVE",
+            "commentsapi.ext.nile.works": "INACTIVE"
+        },
+        "1572590632": {
+            "comments-api-staging.ext.nile.works": "INACTIVE"
+        },
+        "1572590633": {
+            "comments-test.backtrace.io": "INACTIVE",
+            "comments.backtrace.io": "INACTIVE"
+        },
+        "1572590635": {
+            "comment.tie.163.com": "INACTIVE"
+        },
+        "1572590636": {
+            "commerce.ad-brix.com": "INACTIVE"
+        },
+        "1572590637": {
+            "commerce-api.sprinklr.com": "INACTIVE",
+            "commerce.adobedtm.com": "INACTIVE"
+        },
+        "1572590638": {
+            "commerceforward.demdex.net": "INACTIVE"
+        },
+        "1572590645": {
+            "commerce.ss-omtrdc.net": "INACTIVE"
+        },
+        "1572590646": {
+            "commercial.daznservices.com": "INACTIVE"
+        },
+        "1572590647": {
+            "commonwealthbankofau.tt.omtrdc.net": "INACTIVE",
+            "commsec.demdex.net": "INACTIVE"
+        },
+        "1572590648": {
+            "communication.zypmedia.com": "INACTIVE"
+        },
+        "1572590649": {
+            "community4chan.engine.adglare.net": "INACTIVE"
+        },
+        "1572590650": {
+            "community-old2.dynamicyield.com": "INACTIVE"
+        },
+        "1572590651": {
+            "community-old.dynamicyield.com": "INACTIVE",
+            "community-staging.optimizely.com": "INACTIVE"
+        },
+        "1572590652": {
+            "communitytest.silverpop.com": "INACTIVE"
+        },
+        "1572590659": {
+            "compass.eloqua.com": "INACTIVE",
+            "competec.demdex.net": "INACTIVE"
+        },
+        "1572590666": {
+            "compliance.dev.pardot.com": "INACTIVE"
+        },
+        "1572590667": {
+            "components.forter.com": "INACTIVE",
+            "composer.segment.com": "INACTIVE"
+        },
+        "1572590668": {
+            "compta.xiti.com": "INACTIVE"
+        },
+        "1572590669": {
+            "computersciencescorp.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572590670": {
+            "com.tenjin.ios.api": "INVALID",
+            "com.vsassets.com": "INACTIVE"
+        },
+        "1572590671": {
+            "conagra.links.channelintelligence.com": "INACTIVE"
+        },
+        "1572590672": {
+            "concur.demdex.net": "INACTIVE",
+            "concurtechnologies.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572590673": {
+            "condenast.demdex.net": "INACTIVE"
+        },
+        "1572590674": {
+            "condenast.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572590675": {
+            "c.one.impact-ad.jp": "INACTIVE",
+            "conf.dco.advertising.com": "INACTIVE"
+        },
+        "1572590676": {
+            "conference-2-freewheelcupscluster.fwmrm.net": "INACTIVE"
+        },
+        "1572590677": {
+            "conference-2-standalonecluster7a91e.fwmrm.net": "INACTIVE"
+        },
+        "1572590678": {
+            "conference-3-freewheelcupscluster.fwmrm.net": "INACTIVE"
+        },
+        "1572590679": {
+            "conference-3-standalonecluster7a91e.fwmrm.net": "INACTIVE"
+        },
+        "1572590680": {
+            "conference.meeting.abtasty.com": "INACTIVE",
+            "config20.adtilt.com": "INACTIVE"
+        },
+        "1572590681": {
+            "config2-origin.mparticle.com": "INACTIVE"
+        },
+        "1572590682": {
+            "config.ams1.appgw.inmobi.com": "INACTIVE"
+        },
+        "1572590683": {
+            "config-canary.flurry.com": "INACTIVE",
+            "config.dco.advertising.com": "INACTIVE"
+        },
+        "1572590684": {
+            "config.dfw1.vip.inmobi.com": "INACTIVE",
+            "config.dfw2.vip.inmobi.com": "INACTIVE"
+        },
+        "1572590685": {
+            "config.eastus.avi.inmobi.com": "INACTIVE"
+        },
+        "1572590686": {
+            "config.edge.skype.comwf.cbarsrv.com": "INACTIVE"
+        },
+        "1572590692": {
+            "config.experimentation.intuit.com": "INACTIVE"
+        },
+        "1572590693": {
+            "config.flurry.com": "INACTIVE"
+        },
+        "1572590694": {
+            "config.inmobi.cn": "INACTIVE"
+        },
+        "1572590695": {
+            "config.inmobi.com": "INACTIVE"
+        },
+        "1572590696": {
+            "config-loadtest.flurry.com": "INACTIVE"
+        },
+        "1572590697": {
+            "config-ltvp.inmobi.com": "INACTIVE",
+            "config-ltvp.vip.uh1.inmobi.com": "INACTIVE"
+        },
+        "1572590699": {
+            "config.mail.163.com": "INACTIVE"
+        },
+        "1572590700": {
+            "config.mediavine.com": "INACTIVE",
+            "config.parsely.com": "INACTIVE"
+        },
+        "1572590701": {
+            "config.pek1.vip.inmobi.com": "INACTIVE"
+        },
+        "1572590704": {
+            "config.pfa.gcp.datamind.ru": "INACTIVE"
+        },
+        "1572590705": {
+            "configuration.ma.tune.com": "INACTIVE"
+        },
+        "1572590707": {
+            "config.vip.126.com": "INACTIVE"
+        },
+        "1572590708": {
+            "confluence-tech.amobee.com": "INACTIVE",
+            "confluent.demdex.net": "INACTIVE"
+        },
+        "1572590709": {
+            "confluent.mktoweb.com": "INACTIVE"
+        },
+        "1572590710": {
+            "conforamaad.zanox.com": "INACTIVE"
+        },
+        "1572590711": {
+            "conf.perimeterx.net": "INACTIVE"
+        },
+        "1572590717": {
+            "conges.weborama.com": "INACTIVE"
+        },
+        "1572590718": {
+            "connect2.adxpose.com": "INACTIVE"
+        },
+        "1572590719": {
+            "connect.adobedtm.com": "INACTIVE",
+            "connect2.dataxu.net": "INACTIVE"
+        },
+        "1572590726": {
+            "connect.adxpose.com": "INACTIVE"
+        },
+        "1572590727": {
+            "connect-api-demo.rubiconproject.com": "INACTIVE",
+            "connect-dashboard.m.beeketing.com": "INACTIVE"
+        },
+        "1572590728": {
+            "connect.decibelinsight.com": "INACTIVE"
+        },
+        "1572590735": {
+            "connected.ma.tune.com": "INACTIVE",
+            "connection-test.newrelic.com": "INACTIVE"
+        },
+        "1572590736": {
+            "connectivitycheck.android.comopps.cbarsrv.com": "INACTIVE"
+        },
+        "1572590737": {
+            "connectivitycheck.gstatic.comwf.cbarsrv.com": "INACTIVE"
+        },
+        "1572590743": {
+            "connect.manage.com": "INACTIVE"
+        },
+        "1572590744": {
+            "connect.rubiconproject.com": "INACTIVE",
+            "connector.krxd.net": "INACTIVE"
+        },
+        "1572590745": {
+            "connect.scroll.com": "INACTIVE"
+        },
+        "1572590746": {
+            "connect-testing.urbanairship.com": "INACTIVE",
+            "connect.signifyd.com": "INACTIVE"
+        },
+        "1572590753": {
+            "connect.uat.tradedoubler.com": "INACTIVE",
+            "connect.urbanairship.com": "INACTIVE"
+        },
+        "1572590756": {
+            "connectx.inmobi.com": "INACTIVE"
+        },
+        "1572590757": {
+            "connexity.snowflakeproxy.connexity.net": "INACTIVE",
+            "connext-cdn.ec.azureedge.net": "INACTIVE"
+        },
+        "1572590758": {
+            "conns.mpeasylink.com": "INACTIVE"
+        },
+        "1572590759": {
+            "co.np.adproxy.ndmdhs.com": "INACTIVE"
+        },
+        "1572590760": {
+            "consent.iubenda.com": "INACTIVE",
+            "consequence-tagan.adlightning.com": "INACTIVE"
+        },
+        "1572590761": {
+            "console01.ec2.st-av.net": "INACTIVE"
+        },
+        "1572590762": {
+            "console11.ec2.st-av.net": "INACTIVE"
+        },
+        "1572590763": {
+            "console21.ec2.st-av.net": "INACTIVE",
+            "console60.ec2.st-av.net": "INACTIVE"
+        },
+        "1572590770": {
+            "console-api.ucg.smart-dmp.com": "INACTIVE"
+        },
+        "1572590771": {
+            "consul.df-srv.de": "INACTIVE"
+        },
+        "1572590772": {
+            "consul-legacy.df-srv.de": "INACTIVE"
+        },
+        "1572590779": {
+            "consul.mediamath.com": "INACTIVE",
+            "consult.taboola.com": "INACTIVE"
+        },
+        "1572590780": {
+            "consul-us-west-1.mparticle.com": "INACTIVE"
+        },
+        "1572590781": {
+            "consumer.krxd.net": "INACTIVE",
+            "consumerinfo.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572590782": {
+            "consumersccusc92212829us1.cobrowse.oraclecloud.com": "INACTIVE"
+        },
+        "1572590783": {
+            "consumer-staging.krxd.net": "INACTIVE"
+        },
+        "1572590784": {
+            "consumersunion.demdex.net": "INACTIVE"
+        },
+        "1572590786": {
+            "contactdb2-stage.sendgrid.net": "INACTIVE"
+        },
+        "1572590788": {
+            "contactdb-e2e.mcdata.sendgrid.net": "INACTIVE"
+        },
+        "1572590790": {
+            "contactdb-stage.mcdata.sendgrid.net": "INACTIVE"
+        },
+        "1572590794": {
+            "contact-proxy-dev.sendgrid.net": "INACTIVE"
+        },
+        "1572590795": {
+            "contact-upload-nat-dev.sendgrid.net": "INACTIVE"
+        },
+        "1572590796": {
+            "contenido-akm.midasplayer.com": "INACTIVE",
+            "contenido.lb.neqa.midasplayer.com": "INACTIVE"
+        },
+        "1572590797": {
+            "content1.adfox.ru": "INACTIVE"
+        },
+        "1572590799": {
+            "content2.adfox.ru": "INACTIVE"
+        },
+        "1572590800": {
+            "content3.adfox.ru": "INACTIVE"
+        },
+        "1572590801": {
+            "content4.adfox.ru": "INACTIVE"
+        },
+        "1572590802": {
+            "content6.adfox.ru": "INACTIVE"
+        },
+        "1572590804": {
+            "content-acceptance.sharethrough.com": "INACTIVE",
+            "content8.adfox.ru": "INACTIVE"
+        },
+        "1572590811": {
+            "content.acc-hd.de": "INACTIVE"
+        },
+        "1572590812": {
+            "content.accu.amobee.com": "INACTIVE"
+        },
+        "1572590813": {
+            "content.activision.swrve.com": "INACTIVE",
+            "content.adroll.com": "INACTIVE"
+        },
+        "1572590814": {
+            "content.afp.amobee.com": "INACTIVE"
+        },
+        "1572590815": {
+            "content.agkn.com": "INACTIVE"
+        },
+        "1572590816": {
+            "content.appboy.com": "INACTIVE",
+            "content.braze.com": "INACTIVE"
+        },
+        "1572590817": {
+            "content.channelintelligence.com": "INACTIVE"
+        },
+        "1572590818": {
+            "content-click.amanad.adtdp.com": "INACTIVE",
+            "content-cluster.mediaforge.com": "INACTIVE"
+        },
+        "1572590819": {
+            "content.cmp.advertising.com": "INACTIVE"
+        },
+        "1572590820": {
+            "content.devvm.imprev.net": "INACTIVE"
+        },
+        "1572590824": {
+            "content.dskfv.de": "INACTIVE",
+            "content.glance.inmobi.com": "INACTIVE"
+        },
+        "1572590825": {
+            "content.granify.com": "INACTIVE"
+        },
+        "1572590826": {
+            "content.heapanalytics.com": "INACTIVE"
+        },
+        "1572590827": {
+            "content-imp.amanad.adtdp.com": "INACTIVE",
+            "content.imprev.net": "INACTIVE"
+        },
+        "1572590834": {
+            "content-insights-revenue.snapchat.com": "INACTIVE"
+        },
+        "1572590835": {
+            "content-inview.amanad.adtdp.com": "INACTIVE"
+        },
+        "1572590836": {
+            "content-js.tapjoy.com": "INACTIVE",
+            "content.jetlore.com": "INACTIVE"
+        },
+        "1572590837": {
+            "content.ligatus.com": "INACTIVE"
+        },
+        "1572590838": {
+            "content.links.channelintelligence.com": "INACTIVE",
+            "content.lokaplatform.com": "INACTIVE"
+        },
+        "1572590839": {
+            "content.mediaforge.com": "INACTIVE"
+        },
+        "1572590840": {
+            "content.outbrain.com": "INACTIVE"
+        },
+        "1572590846": {
+            "content.postrelease.com": "INACTIVE"
+        },
+        "1572590847": {
+            "content.qa-dest.imprev.net": "INACTIVE"
+        },
+        "1572590848": {
+            "content.qa.imprev.net": "INACTIVE"
+        },
+        "1572590849": {
+            "content.rce.veeseo.com": "INACTIVE",
+            "content.rejoiner.com": "INACTIVE"
+        },
+        "1572590850": {
+            "content.rubiconproject.com": "INACTIVE"
+        },
+        "1572590856": {
+            "content.shareaholic.com": "INACTIVE"
+        },
+        "1572590857": {
+            "content.sharethrough.com": "INACTIVE"
+        },
+        "1572590858": {
+            "content-staging.sharethrough.com": "INACTIVE",
+            "content.swrve.com": "INACTIVE"
+        },
+        "1572590859": {
+            "content.testcluster.imprev.net": "INACTIVE"
+        },
+        "1572590860": {
+            "content.tinkoff.ru": "INACTIVE"
+        },
+        "1572590861": {
+            "content.wsod.com": "INACTIVE",
+            "content.zemanta.com": "INACTIVE"
+        },
+        "1572590868": {
+            "contestengine.eyereturn.com": "INACTIVE",
+            "context-matching.dashboard.superawesome.tv": "INACTIVE"
+        },
+        "1572590870": {
+            "context.webgains.com": "INACTIVE",
+            "contextualns.media.net": "INACTIVE"
+        },
+        "1572590871": {
+            "contextweb.map.fastlylb.net": "INACTIVE"
+        },
+        "1572590872": {
+            "contextweb.yieldoptimizer.com": "INACTIVE"
+        },
+        "1572590873": {
+            "continuumanalytics.mktoweb.com": "INACTIVE"
+        },
+        "1572590880": {
+            "contractor.wbinsights.com": "INACTIVE",
+            "controlcenterportal.mpeasylink.com": "INACTIVE"
+        },
+        "1572590881": {
+            "controller2.foreseeresults.com": "INACTIVE"
+        },
+        "1572590882": {
+            "control.springserve.com": "INACTIVE",
+            "controller.foreseeresults.com": "INACTIVE"
+        },
+        "1572590883": {
+            "control-test-ec.adaptv.advertising.com": "INACTIVE"
+        },
+        "1572590884": {
+            "controltower.dz.optimizely.com": "INACTIVE"
+        },
+        "1572590885": {
+            "convammp.cbarsrv.com": "INACTIVE",
+            "convammp.taboola.com": "INACTIVE"
+        },
+        "1572590886": {
+            "convammp.zorosrv.com": "INACTIVE"
+        },
+        "1572590887": {
+            "convchmp.cbarsrv.com": "INACTIVE",
+            "convchmp.taboola.com": "INACTIVE"
+        },
+        "1572590888": {
+            "convchmp.zorosrv.com": "INACTIVE"
+        },
+        "1572590889": {
+            "convdamp.taboola.com": "INACTIVE",
+            "convdb.buysellads.com": "INACTIVE"
+        },
+        "1572590896": {
+            "convenkun.macromill.com": "INACTIVE"
+        },
+        "1572590902": {
+            "conversation.api.drift.com": "INACTIVE"
+        },
+        "1572590909": {
+            "conversation.api.driftt.com": "INACTIVE"
+        },
+        "1572590910": {
+            "conversation-read.spot.im": "INACTIVE",
+            "conversation.dev.api.driftt.com": "INACTIVE"
+        },
+        "1572590911": {
+            "conversion.ace.advertising.com": "INACTIVE"
+        },
+        "1572590918": {
+            "conversion.amobee.com": "INACTIVE"
+        },
+        "1572590919": {
+            "conversion.chitika.net": "INACTIVE",
+            "conversion.intentiq.com": "INACTIVE"
+        },
+        "1572590921": {
+            "conversionmachine.sitescoutadserver.com": "INACTIVE"
+        },
+        "1572590922": {
+            "conversions.adaptv.advertising.com": "INACTIVE"
+        },
+        "1572590923": {
+            "convertmedia.thirdpresence.com": "INACTIVE"
+        },
+        "1572590924": {
+            "convert-sr.streamrail.net": "INACTIVE",
+            "conveump.cbarsrv.com": "INACTIVE"
+        },
+        "1572590925": {
+            "convhkmp.cbarsrv.com": "INACTIVE"
+        },
+        "1572590926": {
+            "convhkmp.taboola.com": "INACTIVE"
+        },
+        "1572590927": {
+            "convhkmp.zorosrv.com": "INACTIVE",
+            "convlatbmp.cbarsrv.com": "INACTIVE"
+        },
+        "1572590928": {
+            "convlatbmp.taboola.com": "INACTIVE"
+        },
+        "1572590929": {
+            "convlatbmp.zorosrv.com": "INACTIVE"
+        },
+        "1572590931": {
+            "conv.log.go.com": "INACTIVE",
+            "convnjmp.cbarsrv.com": "INACTIVE"
+        },
+        "1572590932": {
+            "convnjmp.taboola.com": "INACTIVE"
+        },
+        "1572590933": {
+            "convnjmp.zorosrv.com": "INACTIVE",
+            "convsgmp.taboola.com": "INACTIVE"
+        },
+        "1572590934": {
+            "convsgmp.zorosrv.com": "INACTIVE"
+        },
+        "1572590938": {
+            "convusmp.admailtiser.com": "INACTIVE",
+            "convusmp.cbarsrv.com": "INACTIVE"
+        },
+        "1572590941": {
+            "convusmp.genorithm.com": "INACTIVE"
+        },
+        "1572590944": {
+            "convusmp.gogorithm.com": "INACTIVE"
+        },
+        "1572590948": {
+            "convusmp.tractionize.com": "INACTIVE"
+        },
+        "1572590949": {
+            "cookbiz.silveregg.net": "INACTIVE",
+            "cookie.altitude-arena.com": "INACTIVE"
+        },
+        "1572590950": {
+            "cookie.fuel451.com": "INACTIVE"
+        },
+        "1572590951": {
+            "cookieinformation.mgr.consensu.org": "INACTIVE"
+        },
+        "1572590952": {
+            "cookiematching.adform.net": "INACTIVE",
+            "cookiepixie.zemanta.com": "INACTIVE"
+        },
+        "1572590953": {
+            "cookies.dyn.perfectaudience.com": "INACTIVE"
+        },
+        "1572590954": {
+            "cookiesuksouth.blob.core.windows.net": "INACTIVE",
+            "cookiesync.mparticle.com": "INACTIVE"
+        },
+        "1572590955": {
+            "cookrdr.dc-storm.com": "INACTIVE"
+        },
+        "1572590956": {
+            "cooladata.kampyle.com": "INACTIVE",
+            "coolblue.feeds.bannerflow.com": "INACTIVE"
+        },
+        "1572590957": {
+            "coolmath-d3.openxenterprise.com": "INACTIVE"
+        },
+        "1572590958": {
+            "coop.demdex.net": "INACTIVE",
+            "coopbank.tt.omtrdc.net": "INACTIVE"
+        },
+        "1572590965": {
+            "cooper.logs.roku.com": "INACTIVE",
+            "coordinator-prd.svc.tapad.com": "INACTIVE"
+        },
+        "1572590966": {
+            "coordinator-stg.svc.tapad.com": "INACTIVE"
         }
     }
 }
