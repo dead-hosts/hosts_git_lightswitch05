@@ -104,6 +104,7 @@ ad8.adfarm1.adition.com
 ad9.adfarm1.adition.com
 ad.adcash.com
 ad.amanad.adtdp.com
+ad-analytics-bootstrap-dev.metaps.com
 ad.arrivalist.com
 ad.as.amanad.adtdp.com
 ad.atdmt.com
@@ -177,6 +178,7 @@ adproxy-us-west.fyber.com
 adpxljs.adpxl.co
 adquota.rtb.d5p.de17a.com
 adrank.celtra.com
+adreporter.mediavine.com
 adr-sdk.avidly.com
 adr-sdk-cn.avidly.com
 ad-s1.media6degrees.com
@@ -229,6 +231,7 @@ ad.sin2.auditude.com
 ads.inmobi.com
 ads.locsensads.com
 ads.mediaforge.com
+ads.mediarithmics.com
 ads.nc.cname.inmobi.com
 ads-opera.admarvel.com
 ads-pictela-net.geo.adtechus.com
@@ -422,6 +425,9 @@ api.ad-score.com
 api.advertisers.adasiaholdings.com
 api.airfind.com
 api.amplitude.com
+api-analytics-bootstrap-dev.metaps.com
+api-analytics-bootstrap-stg.metaps.com
+api-analytics-stg.metaps.com
 api.applovin.com
 api.appsee.com
 api.appsflyer.com
@@ -464,6 +470,7 @@ api.eum-appdynamics.com
 api-eu-west-1.datadome.co
 api-eu-west-2.datadome.co
 api-experimental.curalate.com
+api-ext.mediav.com
 api.foobar.qa.bounceexchange.com
 api.fooo.qa.bounceexchange.com
 api.forter.com
@@ -481,10 +488,12 @@ api-js.datadome.co
 api.kissmetrics.com
 api-mashery.mediamath.com
 api-mashery-qa.mediamath.com
+api.mediavoice.com
 api-metrics-canary.flurry.com
 api-metrics-e2e.nonprod.flurry.com
 api-metrics.flurry.com
 api-metrics-smoke.nonprod.flurry.com
+api.mg2connext.com
 api.mobile.cnzz.com
 api.nirror.abtasty.com
 api.ola.gemius.com
@@ -657,6 +666,7 @@ attribution.chacos.com
 attribution.grasshoppers.com
 attribution.hushpuppies.com
 attribution.keds.com
+attribution.merrell.com
 au.ad.lgsmartad.com
 audiences.bluekai.com
 audiences.prod.leanplum.com
@@ -874,6 +884,7 @@ canary.ord-1.mathmon.mediamath.com
 canary.ord-2.mathmon.mediamath.com
 canary-us-pre.ads.justpremium.com
 capi.connatix.com
+career.metaps.com
 carpet.pulse.inmobi.com
 carphonewarehouse-mid-prod1-t.campaign.adobe.com
 carzoneprod.amobee.com
@@ -936,6 +947,9 @@ cdn.lmiutil.com
 cdn.localytics.com
 cdn.lokaplatform.com
 cdn.madmobile.com
+cdn.mediavine.com
+cdn.mediavoice.com
+cdn.mg2connext.com
 cdn-preview.dynamicyield.com
 cdnreporting.adacado.com
 cdn-sec.tacoda.at.atwola.com
@@ -988,6 +1002,7 @@ cimg.163.com
 cint.insightexpressai.com
 cipix.acxiom.com
 ck.connatix.com
+ckmap.mediav.com
 cks.connatix.com
 cl.ad.lgsmartad.com
 clarity.ihasdsp.inmobi.com
@@ -998,14 +1013,15 @@ click.atdmt.com
 click-east.acuityplatform.com
 click-euro.acuityplatform.com
 click.mail.getadmiral.com
+click.mediav.com
 clicknj.cbarsrv.com
 clicks.adsomenoise.adhese.com
 clicks.eyereturn.com
 clicks.fiksu.com
 clicks-orangegames.adhese.com
 clicks-pebblemedia.adhese.com
-clicks.roularta.adhese.com
 clicks-roularta.adhese.com
+clicks.roularta.adhese.com
 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
@@ -1069,8 +1085,8 @@ collector-lyft-dev-no-grpc.lightstep.com
 collector-meta.lightstep.com
 collector.meta.lightstep.com
 collector.prod.expedia.com
-collector.staging.lightstep.com
 collector-staging.lightstep.com
+collector.staging.lightstep.com
 comcast.cdn.auditude.com
 comeon-comeon.bannerflow.com
 comment.tie.163.com
@@ -1089,6 +1105,7 @@ config.inmobi.com
 config-loadtest.flurry.com
 config-ltvp.inmobi.com
 config.mail.163.com
+config.mediavine.com
 config.pek1.vip.inmobi.com
 config.vip.126.com
 confluence-tech.amobee.com
@@ -1482,6 +1499,7 @@ dmpbeta7.bluekai.com
 dmpbeta8.bluekai.com
 dmpbeta9.bluekai.com
 dmpboard.bluekai.com
+dmp.cn.miaozhen.com
 dmpkibana.bluekai.com
 dmv-written-test.h-bid.com
 dn0.stage.kissmetrics.com
@@ -1551,6 +1569,7 @@ ec.atdmt.com
 eccliptwo.adtoox.com
 ecf.d41.co
 ec.info.lgsmartad.com
+e.cn.miaozhen.com
 e.company-target.com
 e.crashlytics.com
 ecr.ladsp.com
@@ -1689,6 +1708,7 @@ events.appsflyer.com
 events.blis.com
 events.bounceexchange.com
 events.browsiprod.com
+events.mediarithmics.com
 events.staging.bounceexchange.com
 events.stg.apester.com
 event-tracker-alb.production.fiksu.com
@@ -1739,6 +1759,7 @@ fg-set-my-cookie.c.bing.com
 field-guide.feathr.co
 fi.info.lgsmartad.com
 filedownload.lenovo.comwf.cbarsrv.com
+file.juxiao.mediav.com
 files.bidsimulator.com
 file-service.staging-1.staging.leanplum.com
 files.innovid.com
@@ -1781,6 +1802,7 @@ fwias.adsafeprotected.com
 fyber-east-bidder.manage.com
 fybervast.s2s.lfstmedia.com
 fyc.heyzap.com
+g.ads.cn.miaozhen.com
 gae-data-platform.locust.staging-1.staging.leanplum.com
 galefes.demo.apester.com
 gallery.innovid.com
@@ -1793,6 +1815,7 @@ gbapplovinrtb.lfstmedia.com
 gb.info.lgsmartad.com
 gbinmobirtb.lfstmedia.com
 gcm.ctnsnet.com
+g.cn.miaozhen.com
 gcp-adstrategies.adready.com
 gcp-analytics.apester.com
 gcp-dev-auth.adready.com
@@ -1911,6 +1934,7 @@ helium-auction.chartboost.com
 helix-origin.mediamath.com
 helixuat.inmobi.com
 hello.drift.com
+help-m.mediav.com
 help-videos.brightedge.com
 he-qa.lijit.com
 hey.drift.com
@@ -1985,6 +2009,7 @@ i.ctnsnet.com
 identity.dev.extremereach.com
 identity.extremereach.com
 id.info.lgsmartad.com
+id.mediavine.com
 idpix.media6degrees.com
 idp.ops.inmobi.com
 ie.info.lgsmartad.com
@@ -2200,6 +2225,7 @@ jss.acxiom.com
 js.w.inmobi.cn
 js.w.inmobi.com
 jula-product-images.bannerflow.com
+ju.mediav.com
 k300.infra.apester.com
 k8dash.k8s-inap-nj.lifestreet.com
 k8s-hetzner-dashboard-dev.lifestreet.com
@@ -2410,6 +2436,7 @@ mcd-mkt-prod2.campaign.adobe.com
 mcd-mkt-prod2-t.campaign.adobe.com
 m.conviva.com
 mc.poc.exacttarget.com
+mcp-video.mediavine.com
 med.heyzap.com
 media.altitude-arena.com
 media.apester.com
@@ -2483,8 +2510,10 @@ mock-s2s-server.dsp.k8s-hetzner-dev.lifestreet.com
 mock-s2s-server.k8s-hetzner-dev.lifestreet.com
 mock-server.staging-1.staging.leanplum.com
 mojo.exelator.com
+mojoworks.snv.mediaplex.com
 mologiqprod.amobee.com
 mona.admanmedia.com
+monitoring.mediavine.com
 monitor.stage.adition.com
 monkeyfrill-whip.demo.apester.com
 mopub-apac-bidder.manage.com
@@ -2518,6 +2547,7 @@ m-tomorrow.agkn.com
 mudah-sin.gravityrd-services.com
 mug.criteo.com
 mup.amp.mcafee.com
+mvp.mediav.com
 mx.ad.lgsmartad.com
 mx.info.lgsmartad.com
 my.ad.lgsmartad.com
@@ -2542,6 +2572,7 @@ new.eu-central-1.tracking.quality.awin.com
 news.blis.com
 news.genapi.euwf.cbarsrv.com
 newsite.joystickinteractive.com
+nex.adx.mediav.com
 nexage.dca.events.bidstalk.com
 nexage-east-bidder.manage.com
 nexage.hkg.events.bidstalk.com
@@ -2791,6 +2822,7 @@ pe-west.intentiq.com
 pf.levexis.com
 pfna.levexis.com
 pg.alcmpn.com
+philly-api.mg2connext.com
 photo.idate.163.com
 photos-us.bazaarvoice.com
 ph-p.alcmpn.com
@@ -2861,8 +2893,8 @@ pool.admedo.com
 pool-eu.creative-serving.com
 pool.ipm.adhese.com
 pool-orangegames.adhese.com
-pool-pebblemedia.adhese.com
 pool.pebblemedia.adhese.com
+pool-pebblemedia.adhese.com
 pool-roularta.adhese.com
 pool-use.creative-serving.com
 pool-usw.creative-serving.com
@@ -2923,8 +2955,8 @@ prod-tools.effiliation.com
 production.pao-1.mathmon.mediamath.com
 productivity.alertmanager.staging-1.staging.leanplum.com
 productivity.grafana.staging-1.staging.leanplum.com
-productivity.locust2.staging-1.staging.leanplum.com
 productivity.locust-2.staging-1.staging.leanplum.com
+productivity.locust2.staging-1.staging.leanplum.com
 productivity.locust.staging-1.staging.leanplum.com
 productivity.prometheus.staging-1.staging.leanplum.com
 products.effiliation.com
@@ -3001,6 +3033,7 @@ push.goadservices.com
 push-metrics.staging.leanplum.com
 pv.amanad.adtdp.com
 p.video.adacado.com
+pv.mediav.com
 pv-p.alcmpn.com
 p.w.e0mn.com
 pwm.exelator.com
@@ -3333,6 +3366,8 @@ scr.dc-storm.com
 screenshots.bugherd.com
 script.hotjar.com
 scripts.host.bannerflow.com
+scripts.mediavine.com
+scripts-staging.mediavine.com
 script-staging.hotjar.com
 s-cs.rd.linksynergy.com
 sdk.appsflyer.com
@@ -3368,6 +3403,7 @@ secure.eloqua.com
 secure.ib.sin1.geoadnxs.com
 securemail-highmark.comshasta.vizu.comrubicon.admailtiser.com
 secure.media6degrees.com
+secure.mediav.com
 secure.p01.eloqua.com
 secure.p03.eloqua.com
 secure.p04.eloqua.com
@@ -3462,6 +3498,9 @@ share.stg.apester.com
 shashank-ingestion-service.dp.staging-1.staging.leanplum.com
 shopify.gosquared.com
 shopify.staging2.crazyegg.com
+show-f.mediav.com
+show.mediav.com
+show.v.mediav.com
 sh-p.alcmpn.com
 sic.33across.com
 sic-akamai.33across.com
@@ -3471,6 +3510,7 @@ signin.innovid.com
 signupservice.appsflyer.com
 simpleview.adready.com
 simulator.engagefront.com
+sina.mediav.com
 singular1.apsalar.com
 singular2.apsalar.com
 singular3.apsalar.com
@@ -3658,12 +3698,12 @@ static.atgsvcs.com
 static.blog.chartbeat.com
 static.bounceexchange.com
 staticc.adacado.com
-static.cdn.adblade.com
 static-cdn.adblade.com
+static.cdn.adblade.com
 static.criteo.com
 staticd.cdn.adblade.com
-static-devex.adblade.com
 static.devex.adblade.com
+static-devex.adblade.com
 static.doubleclick.com
 static.ecorebates.com
 static.eloqua.com
@@ -3839,6 +3879,7 @@ taurusking.adkmob.com
 tc-bic.appspot.com
 t.dev02.manage.com
 t.dlx.addthis.com
+t-dsp.mediav.com
 team.c3metrics.com
 telemetry.malwarebytes.com
 telemetry.sdk.ams1.appgw.inmobi.com
@@ -3911,6 +3952,7 @@ tracking.dc-storm.com
 tracking-graphly-907699188.us-west-2.elb.amazonaws.com
 tracking.host.bannerflow.com
 tracking.inlocomedia.com
+track.mediav.com
 tracks.aniview.com
 track.scoota.co
 track-stage.scoota.co
@@ -3926,6 +3968,7 @@ traffic-statics-europe.creativecdn.com
 traffic-statics-usa.creativecdn.com
 trak.adrd.co
 tr.ams.contextweb.com
+tran.mediav.com
 transfer-transferwise.bannerflow.com
 tr.blismedia.com
 tr.connatix.com
@@ -4141,15 +4184,18 @@ video-cdn.clinch.co
 video.doubleverify.com
 video-dsa.fyber.com
 video.inmobi.com
+video.mediavine.com
 videos.answermedia.com
 videos.brightedge.com
 videos.clinch.co
 videoserve.engageclick.com
 video-stage.adaptv.advertising.com
+video-staging.mediavine.com
 video.study.163.com
 view.adjust.com
 view.atdmt.com
 view.bidsimulator.com
+view.mediav.com
 v.installfarm.com
 virginatlantic-mkt-prod1-res.campaign.adobe.com
 virginatlantic-mkt-prod1-t.campaign.adobe.com
@@ -4168,6 +4214,7 @@ vortex.hulu.com
 votes2.webcgi.163.com
 vpaid.cbarsrv.com
 vpc.altitude-arena.com
+vpn1sh.ext.mediav.com
 vpx.mathtag.com
 vq-ap-southeast-1.amazon-adsystem.com
 vq-eu-west-1.amazon-adsystem.com
@@ -4225,6 +4272,7 @@ web-sj.marketo.com
 web-sn.marketo.com
 web.ssp.advertising.com
 web.staging.bidstalk.com
+web-staging.mediavine.com
 web-st.marketo.com
 webvideoinspector.adsafeprotected.com
 wegmans-mkt-prod1.campaign.adobe.com
@@ -4338,6 +4386,7 @@ www.mdotlabs.com
 www.m-freeway.com
 www.opinion.inmobi.com
 www.orbee.co
+www-ow.metaps.com
 www.portainer.innovation.abtasty.com
 www.preprod.api.canarybay.innovation.abtasty.com
 www.preprod.canarybay.innovation.abtasty.com
