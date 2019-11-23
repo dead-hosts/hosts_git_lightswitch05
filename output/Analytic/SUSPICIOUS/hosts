@@ -289,6 +289,8 @@
 0.0.0.0 airflow-dev-temp.etl.us-east-1.kops.kargo.com
 0.0.0.0 airflow-temp.etl.us-east-1.kops.kargo.com
 0.0.0.0 ais.amobee.com
+0.0.0.0 akamai-ste.mediamath.com
+0.0.0.0 akamai-test.mediamath.com
 0.0.0.0 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com
 0.0.0.0 alert.infra.apester.com
 0.0.0.0 alert.k8s-hetzner-dev.lifestreet.com
@@ -477,6 +479,8 @@
 0.0.0.0 api.jetlore.com
 0.0.0.0 api-js.datadome.co
 0.0.0.0 api.kissmetrics.com
+0.0.0.0 api-mashery.mediamath.com
+0.0.0.0 api-mashery-qa.mediamath.com
 0.0.0.0 api-metrics-canary.flurry.com
 0.0.0.0 api-metrics-e2e.nonprod.flurry.com
 0.0.0.0 api-metrics.flurry.com
@@ -866,6 +870,8 @@
 0.0.0.0 campaigns.staging-1.staging.leanplum.com
 0.0.0.0 campaign.stg.apester.com
 0.0.0.0 canary.mathtag.com
+0.0.0.0 canary.ord-1.mathmon.mediamath.com
+0.0.0.0 canary.ord-2.mathmon.mediamath.com
 0.0.0.0 canary-us-pre.ads.justpremium.com
 0.0.0.0 capi.connatix.com
 0.0.0.0 carpet.pulse.inmobi.com
@@ -998,8 +1004,8 @@
 0.0.0.0 clicks.fiksu.com
 0.0.0.0 clicks-orangegames.adhese.com
 0.0.0.0 clicks-pebblemedia.adhese.com
-0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clicks-roularta.adhese.com
+0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
@@ -1063,8 +1069,8 @@
 0.0.0.0 collector-meta.lightstep.com
 0.0.0.0 collector.meta.lightstep.com
 0.0.0.0 collector.prod.expedia.com
-0.0.0.0 collector-staging.lightstep.com
 0.0.0.0 collector.staging.lightstep.com
+0.0.0.0 collector-staging.lightstep.com
 0.0.0.0 comcast.cdn.auditude.com
 0.0.0.0 comeon-comeon.bannerflow.com
 0.0.0.0 comment.tie.163.com
@@ -1090,6 +1096,7 @@
 0.0.0.0 connectivitycheck.gstatic.comwf.cbarsrv.com
 0.0.0.0 connect.manage.com
 0.0.0.0 consent.iubenda.com
+0.0.0.0 consul.mediamath.com
 0.0.0.0 content.accu.amobee.com
 0.0.0.0 content.afp.amobee.com
 0.0.0.0 content.appboy.com
@@ -1266,6 +1273,7 @@
 0.0.0.0 cs.marinsm.com
 0.0.0.0 cs-p.alcmpn.com
 0.0.0.0 cspix.media6degrees.com
+0.0.0.0 csp.mediaplex.com
 0.0.0.0 css.dc-storm.com
 0.0.0.0 cstag.admanmedia.com
 0.0.0.0 cstest.adtechus.com
@@ -1359,6 +1367,7 @@
 0.0.0.0 dc.mobile.abtasty.com
 0.0.0.0 dco-msg.mathtag.com
 0.0.0.0 dcs-edge-va6-802167536.us-east-1.elb.amazonaws.com
+0.0.0.0 dcs.mediamath.com
 0.0.0.0 dc-thomso-dc-thomsons.bannerflow.com
 0.0.0.0 dc-thomson-alan-milne.bannerflow.com
 0.0.0.0 dd.connextra.com
@@ -1718,6 +1727,7 @@
 0.0.0.0 fastretailing-mkt-stage1-t.campaign.adobe.com
 0.0.0.0 faststrip.stg.apester.com
 0.0.0.0 fasttext.audiencediscovery.innovation.abtasty.com
+0.0.0.0 fav.mediamath.com
 0.0.0.0 f.cbarsrv.com
 0.0.0.0 fd.alcmpn.com
 0.0.0.0 feedback-au.kampyle.com
@@ -1830,6 +1840,7 @@
 0.0.0.0 glb-ads.voicefive.adtechus.com
 0.0.0.0 global.insightexpressai.com
 0.0.0.0 globalmdc.gaeadata.com
+0.0.0.0 global-status.us-east-1.mathmon.mediamath.com
 0.0.0.0 globo.cdn.auditude.com
 0.0.0.0 go.aweber.com
 0.0.0.0 go.bidsimulator.com
@@ -1897,6 +1908,7 @@
 0.0.0.0 heatmap.buzzdeck.com
 0.0.0.0 he.lijit.com
 0.0.0.0 helium-auction.chartboost.com
+0.0.0.0 helix-origin.mediamath.com
 0.0.0.0 helixuat.inmobi.com
 0.0.0.0 hello.drift.com
 0.0.0.0 help-videos.brightedge.com
@@ -1922,6 +1934,7 @@
 0.0.0.0 hn.ad.lgsmartad.com
 0.0.0.0 hn.info.lgsmartad.com
 0.0.0.0 home-staging.fgl.com
+0.0.0.0 honeybadger.mediamath.com
 0.0.0.0 hookedmediaprod.amobee.com
 0.0.0.0 hotstaramerica-sjc.gravityrd-services.com
 0.0.0.0 hotstar-ev-sin.gravityrd-services.com
@@ -2382,6 +2395,7 @@
 0.0.0.0 match.cbarsrv.com
 0.0.0.0 match.deepintent.com
 0.0.0.0 match.gogorithm.com
+0.0.0.0 mathbot.infra.mediamath.com
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 mathid-origin.mathtag.com
 0.0.0.0 mavericks.marketo.com
@@ -2498,6 +2512,7 @@
 0.0.0.0 msapi.appsflyer.com
 0.0.0.0 m-sc2.adsymptotic.com
 0.0.0.0 msg.vip.126.com
+0.0.0.0 ms.mediamath.com
 0.0.0.0 msoid.criteo.com
 0.0.0.0 m-tomorrow.agkn.com
 0.0.0.0 mudah-sin.gravityrd-services.com
@@ -2589,6 +2604,7 @@
 0.0.0.0 ns2.eloqua.com
 0.0.0.0 ns2.footprintdns.com
 0.0.0.0 ns3.adtooxcloud.com
+0.0.0.0 ns3.mediaplex.com
 0.0.0.0 ns.adxcel-ec2.com
 0.0.0.0 nt.alcmpn.com
 0.0.0.0 ntm.adotube.com
@@ -2667,6 +2683,7 @@
 0.0.0.0 o-o---preferred---sn-o097zne7---v7---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-o097zne7---v8---cache.c.googlesyndication.com
 0.0.0.0 oops.cbarsrv.com
+0.0.0.0 open-internal.mediamath.com
 0.0.0.0 openrtb.allinviews.com
 0.0.0.0 openrtb.contextweb.com
 0.0.0.0 openx.dca.events.bidstalk.com
@@ -2809,6 +2826,7 @@
 0.0.0.0 pl.allinviews.com
 0.0.0.0 plans.apester.com
 0.0.0.0 plans-api.stg.apester.com
+0.0.0.0 platform-cdw.mediamind.com
 0.0.0.0 platform.gcp.blis.com
 0.0.0.0 platform.ifc.inmobi.com
 0.0.0.0 playable-api.avidly.com
@@ -2830,6 +2848,7 @@
 0.0.0.0 pm.alcmpn.com
 0.0.0.0 pmcprod.amobee.com
 0.0.0.0 p.mdotlabs.com
+0.0.0.0 podcast.mediapass.com
 0.0.0.0 polo.feathr.co
 0.0.0.0 polo-v0.feathr.co
 0.0.0.0 polo-v1.feathr.co
@@ -2842,8 +2861,8 @@
 0.0.0.0 pool-eu.creative-serving.com
 0.0.0.0 pool.ipm.adhese.com
 0.0.0.0 pool-orangegames.adhese.com
-0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool-pebblemedia.adhese.com
+0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 pool-use.creative-serving.com
 0.0.0.0 pool-usw.creative-serving.com
@@ -2886,6 +2905,7 @@
 0.0.0.0 priceminister.effiliation.com
 0.0.0.0 privacyapi.evidon.com
 0.0.0.0 privacyapp.applovin.com
+0.0.0.0 private-branded.mediaplex.com
 0.0.0.0 privateexchange.dca.events.bidstalk.com
 0.0.0.0 prod01.kaxsdc.com
 0.0.0.0 prod-a.applovin.com
@@ -2900,6 +2920,7 @@
 0.0.0.0 prod.sea.geoservice.inmobi.com
 0.0.0.0 prod.skepsi.autopilothq.com
 0.0.0.0 prod-tools.effiliation.com
+0.0.0.0 production.pao-1.mathmon.mediamath.com
 0.0.0.0 productivity.alertmanager.staging-1.staging.leanplum.com
 0.0.0.0 productivity.grafana.staging-1.staging.leanplum.com
 0.0.0.0 productivity.locust-2.staging-1.staging.leanplum.com
@@ -2955,6 +2976,7 @@
 0.0.0.0 public-webservice.apdc3n.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
 0.0.0.0 publisher.evidon.com
+0.0.0.0 publisher.mediapass.com
 0.0.0.0 publishers-api.allinviews.com
 0.0.0.0 publishers.clickpoint.com
 0.0.0.0 pubmatic.hkg.events.bidstalk.com
@@ -3629,6 +3651,7 @@
 0.0.0.0 stat8.flashtalking.com
 0.0.0.0 stat.flashtalking.com
 0.0.0.0 static2.creative-serving.com
+0.0.0.0 static2.mediamath.com
 0.0.0.0 static3.creative-serving.com
 0.0.0.0 static.adblade.com
 0.0.0.0 static.atgsvcs.com
@@ -3697,6 +3720,7 @@
 0.0.0.0 stream.installfarm.com
 0.0.0.0 stripewh.getadmiral.com
 0.0.0.0 strip.stg.apester.com
+0.0.0.0 sts.mediamind.com
 0.0.0.0 stub.api.jivox.com
 0.0.0.0 stubhub2.flashtalking.com
 0.0.0.0 studio5.brainient.com
@@ -3893,6 +3917,7 @@
 0.0.0.0 track.tagtoo.co
 0.0.0.0 track-us.admaxim.com
 0.0.0.0 track.xadchina.cn
+0.0.0.0 trac.mediaiqdigital.com
 0.0.0.0 tr.ad.lgsmartad.com
 0.0.0.0 tr.admailtiser.com
 0.0.0.0 traffick.jivox.com
