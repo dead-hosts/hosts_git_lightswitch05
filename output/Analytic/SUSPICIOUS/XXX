@@ -5,6 +5,7 @@ pdb.inmobi.cn
 w.vip.pek1.inmobi.cn
 w.inmobi.cn
 02.creativecdn.com
+02.gw.flurry.com
 09.creativecdn.com
 1000335.adacado.com
 10.creativecdn.com
@@ -61,6 +62,7 @@ academy-test.addthis.com
 accelerate.criteo.com
 accountkit.avidly.com
 acdn.adrd.co
+aco.flashtalking.com
 acquisition-1.americanexpress.com
 actdemo.activate.ensighten.com
 actions.adrd.co
@@ -128,6 +130,7 @@ adgainer.adready.com
 adimg.cbsi.com
 adkarmaprod.amobee.com
 adlog.cbsi.com
+adlog.flurry.com
 ad.lon5.auditude.com
 adm.adpiano.com
 admazing.adfarm1.adition.com
@@ -175,6 +178,8 @@ adserving.rockabox.co
 ads-eu.adaptv.advertising.com
 ads-experiment-2.celtra.com
 ads.feathr.co
+ads.fgl.com
+ads.flurry.com
 ad.sin2.auditude.com
 ads-opera.admarvel.com
 ads-pictela-net.geo.adtechus.com
@@ -205,6 +210,7 @@ ae.amgdgt.com
 ae-p.alcmpn.com
 aerserv.dca.events.bidstalk.com
 aerservprod.amobee.com
+a.fiksu.com
 ag.ctnsnet.com
 agent.aralego.com
 agents.dev.extremereach.com
@@ -244,6 +250,7 @@ analytics.airfind.com
 analytics.api.appdynamics.com
 analytics.atdmt.com
 analytics.cohesionapps.com
+analytics.foresee.com
 analytics-ingress-global.bitmovin.com
 analytics.staging.airfind.com
 androidads20.adcolony.com
@@ -359,6 +366,10 @@ api-experimental.curalate.com
 api.foobar.qa.bounceexchange.com
 api.fooo.qa.bounceexchange.com
 api-js.datadome.co
+api-metrics-canary.flurry.com
+api-metrics-e2e.nonprod.flurry.com
+api-metrics.flurry.com
+api-metrics-smoke.nonprod.flurry.com
 api.mobile.cnzz.com
 api.nirror.abtasty.com
 api.pt.163.com
@@ -423,6 +434,7 @@ app.boa.exacttarget.com
 appcentre.bronto.com
 app.eloqua.com
 app.exacttarget.com
+app.flurry.com
 appleimap.vip.163.com
 applovin.dca.events.bidstalk.com
 applovin.hkg.events.bidstalk.com
@@ -457,6 +469,8 @@ as.amanad.adtdp.com
 asiamiles-mkt-prod1-res.campaign.adobe.com
 asiamiles-mkt-stage1-t.campaign.adobe.com
 asia.mpay.mkey.163.com
+asotrack1.fiksu.com
+asotrack2.fiksu.com
 asset.cdn.auditude.com
 assets.adobedtm.com
 assets.bounceexchange.com
@@ -480,9 +494,15 @@ audiences-qa-oiada.bluekai.com
 audiences-test.bluekai.com
 audit.manage.ensighten.com
 a-usa.applovin.com
+auth-canary.flurry.com
+auth-cmi-canary.flurry.com
 auth.datadome.co
+auth-e2e.nonprod.flurry.com
+auth-e2e-testing.nonprod.flurry.com
 auth.extremereach.com
+auth.flurry.com
 auth.infra.apester.com
+auth-smoke.nonprod.flurry.com
 autodiscover.dotomi.com
 autodiscover.eloqua.com
 autodiscover.evowise.com
@@ -518,8 +538,12 @@ bb.o2.eyereturn.com
 bbs.163.com
 bc.amanad.adtdp.com
 b.c.bing.com
+bconf.flurry.com
 b.ctnsnet.com
 bdg-analytics.appspot.com
+bd-nplb01.foresee.com
+bd-nplb02.foresee.com
+bd-nplb03.foresee.com
 bd-p.alcmpn.com
 beacon.answermedia.com
 beacon.campaigndeputy.com
@@ -600,10 +624,15 @@ bs.adapf.com
 bs.adledge.com
 bsapi-test.brsrvr.com
 bs-p.alcmpn.com
+bsrc.flurry.com
 bsw-winners-ap-northeast-1-rtb.adroll.com
 bsw-winners-eu-west-1-rtb.adroll.com
 bsw-winners-us-east-1-rtb.adroll.com
 bsw-winners-us-west-2-rtb.adroll.com
+burst-canary.flurry.com
+burst.flurry.com
+burst-smoke1.flurry.com
+burst-smoke2.flurry.com
 bus.ctnsnet.com
 bwp.cbsi.com
 c2s.w.inmobi.cn
@@ -688,6 +717,7 @@ cf.adform.com
 cf.alcmpn.com
 cfg.adkmob.com
 cfg.adxcel-ec2.com
+cfg.flurry.com
 cf-npr.streaming.adswizz.com
 cgi.vod.cc.163.com
 checkipv6.quickconnect.towf.cbarsrv.com
@@ -710,10 +740,11 @@ click-euro.acuityplatform.com
 clicknj.cbarsrv.com
 clicks.adsomenoise.adhese.com
 clicks.eyereturn.com
+clicks.fiksu.com
 clicks-orangegames.adhese.com
 clicks-pebblemedia.adhese.com
-clicks.roularta.adhese.com
 clicks-roularta.adhese.com
+clicks.roularta.adhese.com
 clickus.admailtiser.com
 clickus.continular.com
 click-west.acuityplatform.com
@@ -744,7 +775,10 @@ commerce.adobedtm.com
 commercial.daznservices.com
 compliance.aralego.com
 config20.adtilt.com
+config-canary.flurry.com
 config.edge.skype.comwf.cbarsrv.com
+config.flurry.com
+config-loadtest.flurry.com
 config.mail.163.com
 config.vip.126.com
 confluence-tech.amobee.com
@@ -757,6 +791,8 @@ content.braze.com
 content-click.amanad.adtdp.com
 content-imp.amanad.adtdp.com
 content-inview.amanad.adtdp.com
+controller2.foreseeresults.com
+controller.foreseeresults.com
 control-test-ec.adaptv.advertising.com
 convammp.cbarsrv.com
 convchmp.cbarsrv.com
@@ -861,6 +897,7 @@ cpa.adtilt.com
 cpa-paas.adcolony.com
 cpxiasia.adready.com
 crashlytics.163.com
+crash-metadata.flurry.com
 crcdn01.adnxs.com
 crcdn09.adnxs.com
 crcdn.adnxs.com
@@ -913,6 +950,7 @@ cws-usw1.conviva.com
 cws-usw2.conviva.com
 d.254a.com
 d5p.de17a.com
+d9.flashtalking.com
 da.chartboost.com
 d.adroll.com
 daily.cc.163.com
@@ -932,6 +970,7 @@ datacollect.abtasty.com
 data.dianomi.com
 data.emb-api.com
 data-play.scoota.co
+datarequest.flurry.com
 dataroom.stg.apester.com
 data-staging-v3.conductrics.com
 dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
@@ -977,6 +1016,7 @@ dev-metric.adrd.co
 devportal.bluekai.com
 devsecure.eloqua.com
 dev.skepsi.autopilothq.com
+dev-x.flurry.com
 dg-p.alcmpn.com
 diag.atdmt.com
 director.adcolony.com
@@ -1016,10 +1056,11 @@ douglasgmbh-mkt-prod1.campaign.adobe.com
 download.bannersnack.com
 download.dev.extremereach.com
 download.extremereach.com
-dpx.airpr.com
 d.px.airpr.com
+dpx.airpr.com
 dq.alcmpn.com
 drts.contextweb.com
+druid-broker.flurry.com
 druid-test-master.extc.adswizz.com
 dsp.adotmob.com
 dspcluster.adfarm1.adition.com
@@ -1058,6 +1099,10 @@ eccliptwo.adtoox.com
 ecf.d41.co
 e.company-target.com
 e.crashlytics.com
+ecto-e2e.nonprod.flurry.com
+ecto.flurry.com
+ecto-smoke.nonprod.flurry.com
+ecto-stg.flurry.com
 e.curalate.com
 edge.addthis.com
 edge.bnmla.com
@@ -1156,6 +1201,11 @@ events.bounceexchange.com
 events.browsiprod.com
 events.staging.bounceexchange.com
 events.stg.apester.com
+event-tracker-alb.production.fiksu.com
+event-tracker.fiksu.com
+event-tracker.k8s-test.fiksu.com
+event-tracker.production.fiksu.com
+ev.fiksu.com
 e.vip.126.com
 evt.bfmio.com
 evtp.bfmio.com
@@ -1166,6 +1216,7 @@ exchangeyb.admailtiser.com
 exch-e.atdmt.com
 exch-eu.atdmt.com
 exch-w.atdmt.com
+explorer-staging.flurry.com
 expressllc-mkt-prod1-lb.campaign.adobe.com
 extapi-cmp.adsafeprotected.com
 ext-int.convertcart.com
@@ -1255,6 +1306,7 @@ go.aweber.com
 go.bidsimulator.com
 go.brightedge.com
 go.bronto.com
+go.fiksu.com
 gogoogle.aniview.com
 gonzalezz.admanmedia.com
 google-api.secure.blismedia.com
@@ -1276,9 +1328,11 @@ guce.advertising.com
 guce.tacoda.at.atwola.com
 gum.criteo.com
 gus.admanmedia.com
+gw.flurry.com
 gw.metadata.dynamicyield.com
 gw-metadata.euc1.dynamicyield.com
 handbook.apester.com
+handler.fiksu.com
 haproxy2-js1-eu-france-1.datadome.co
 haproxy2-js2-eu-france-1.datadome.co
 h.atdmt.com
@@ -1289,6 +1343,7 @@ hc-p.alcmpn.com
 hdfcbank-mkt-prod1-1.campaign.adobe.com
 hdfcbank-mkt-prod1-lb.campaign.adobe.com
 hdfcbank-rt-prod2-lb.campaign.adobe.com
+heartbeat-uploads.fiksu.com
 heatmap.buzzdeck.com
 helium-auction.chartboost.com
 hello.drift.com
@@ -1308,6 +1363,7 @@ hiro-player.demo.apester.com
 hiro-sdk.demo.apester.com
 hkgstage-rtbwin.applovin.com
 hlsmaster1.adswizz.com
+home-staging.fgl.com
 hookedmediaprod.amobee.com
 hp.activate.ensighten.com
 hq1.appsflyer.com
@@ -1377,15 +1433,18 @@ img3.aweber.com
 img.apester.com
 img.applovin.com
 img.atdmt.com
+imgcf.flashtalking.com
 img.dc-storm.com
 img.en25.com
 img.exactag.com
+img.flashtalking.com
 img.stg.apester.com
 imp.amanad.adtdp.com
 imply.blis.com
 imp.m.altitude-arena.com
 imprammp.cbarsrv.com
 imprchmp.cbarsrv.com
+impressions.fiksu.com
 impreump.cbarsrv.com
 imprhkmp.cbarsrv.com
 impriatbmp.cbarsrv.com
@@ -1406,6 +1465,8 @@ info.apsalar.com
 info.brightedge.com
 info.ensighten.com
 info.exactag.com
+info.fiksu.com
+info.flurry.com
 inform-api.ensighten.com
 ingestion-dashboard.bluekai.com
 ingress.feathr.co
@@ -1497,6 +1558,7 @@ lga-tag.contextweb.com
 lga-tag-stage.contextweb.com
 lga-tr-bgp.contextweb.com
 lga-tr.contextweb.com
+lgc.flashtalking.com
 libs.coremetrics.com
 libs.de.coremetrics.com
 lifeat.bannerflow.com
@@ -1534,6 +1596,7 @@ log10.doubleverify.com
 log.doubleverify.com
 log.espn.com
 logger.keywee.co
+login-canary.flurry.com
 logos.brightedge.com
 logs.convertexperiments.com
 log-wc-b.adaptv.advertising.com
@@ -1544,6 +1607,7 @@ lt-p.alcmpn.com
 l-v1.feathr.co
 lwsp02.acxiom.com
 lwsp03.acxiom.com
+lyncdiscover.foreseeresults.com
 m15-178.vip.126.com
 m176ad97310c765ff085adc9814c763ae.c.bing.com
 m2.alcmpn.com
@@ -1581,6 +1645,7 @@ mc.poc.exacttarget.com
 media.altitude-arena.com
 media.apester.com
 mediabuy.adready.com
+media.fiksu.com
 media.orbee.co
 media-reports.bluekai.com
 media.stg.apester.com
@@ -1648,6 +1713,7 @@ my.network-stg.bazaarvoice.com
 n01d06.cumulus-cloud.com
 n.254a.com
 napp.adjust.com
+nativead.flashtalking.com
 nbcuniversal.adready.com
 ndn.cdn.auditude.com
 ned.admanmedia.com
@@ -1668,6 +1734,7 @@ nexus-us-east.ensighten.com
 nexus-us-west2.ensighten.com
 nexus-us-west.ensighten.com
 nft.adsttc.com
+ngdp-staging.flurry.com
 nhelp.adjust.com
 nirror.abtasty.com
 nl.alcmpn.com
@@ -1688,12 +1755,14 @@ npr.streaming.adswizz.com
 nrtstage-rtbwin.applovin.com
 ns1.adtooxcloud.com
 ns1.eloqua.com
+ns1.footprintdns.com
 ns1.play.adtoox.com
 ns1.se-de-fr-ecc.adtooxcloud.com
 ns1.se-de-fr-ect.adtooxcloud.com
 ns1.se-de-fr-secure-fours.adtooxcloud.com
 ns2.adtooxcloud.com
 ns2.eloqua.com
+ns2.footprintdns.com
 ns3.adtooxcloud.com
 ns.adxcel-ec2.com
 nt.alcmpn.com
@@ -1726,9 +1795,11 @@ oase00917.247realmedia.com
 oauth.adtoox.com
 o.cmp.advertising.com
 og.alcmpn.com
+ogdp-staging.flurry.com
 ogi-the-cheesecake-fa.bannerflow.com
 old.advidi.com
 olsb.adready.com
+om-dev.flurry.com
 on.aggregateknowledge.com
 onelink.appsflyer.com
 on.exacttarget.com
@@ -1910,12 +1981,16 @@ prod.ui.activate.ensighten.com
 prometheus.feathr.co
 prom.infra.apester.com
 promotable.crazyegg.com
+proton.flurry.com
+proton-int.flurry.com
+proton-ws.flurry.com
 proxy.allinviews.com
 proxy.beeviewd.com
 proxy.bestcontentonline.com
 proxy-ssl.allinviews.com
 psa.aralego.com
 ps.alcmpn.com
+pt.fiksu.com
 p-tky-ebs.adsymptotic.com
 pub.admanmedia.com
 pub-console.qa.bounceexchange.com
@@ -1937,9 +2012,12 @@ pulse.apester.com
 pulsepoint.dca.events.bidstalk.com
 pulse.stg.apester.com
 punchbowl.alcmpn.com
+purplebox-burst.flurry.com
+purplebox.flurry.com
 push.adventurefeeds.com
 push.bitdefender.netwf.cbarsrv.com
 push.bluekai.com
+push.fiksu.com
 pv.amanad.adtdp.com
 p.video.adacado.com
 pv-p.alcmpn.com
@@ -1962,10 +2040,15 @@ r.254a.com
 rackspace-rackspace.bannerflow.com
 rad.atdmt.com
 r.adroll.com
+railsplitter-canary.flurry.com
+railsplitter-e2e.flurry.com
+railsplitter.flurry.com
+railsplitter-stg.flurry.com
 rails-push.bluekai.com
 ratfrill-skinner.demo.apester.com
 raven.163.com
 rawdata.appsflyer.com
+rawdata.flurry.com
 rb-p.alcmpn.com
 rc2.tr.blismedia.com
 rc.adition.com
@@ -1987,6 +2070,7 @@ rdrs.ad-score.com
 rdy-p.alcmpn.com
 reachads.bfmio.com
 reachms.bfmio.com
+realtime-metrics.flurry.com
 rebtel-rebtel.bannerflow.com
 rec.g.163.com
 recommd.xyq.cbg.163.com
@@ -1995,6 +2079,7 @@ recommendation.apester.com
 recommendation.citrix.com
 recs.atgsvcs.com
 recvis.capitalone.acxiom.com
+redblue.flashtalking.com
 redboxplay.3cinteractive.com
 redcross.campaign.adobe.com
 redcross-mid-prod1-t.campaign.adobe.com
@@ -2002,8 +2087,10 @@ relay1.exponential.com
 renderer.apester.com
 renderer.demo.apester.com
 renderer.stg.apester.com
+replayservice3.foreseeresults.com
 report.boldchat.com
 report-eu.boldchat.com
+report.footprintdns.com
 reports.appsflyer.com
 reports.boldchat.com
 request.adrcdn.com
@@ -2050,6 +2137,7 @@ rtb.admaxim.com
 rtb.adventurefeeds.com
 rtb.altitude-arena.com
 rtb.connatix.com
+rtb-creatives-test.fiksu.com
 rtb.d5p.de17a.com
 rtb.dstillery.com
 rtb-eu.adventurefeeds.com
@@ -2089,6 +2177,7 @@ s2s.ssp.advertising.com
 s380069937.hs.eloqua.com
 s3.addthis.com
 s3-assets.brainient.com
+s3cf.flashtalking.com
 s-55.algovid.com
 s-56.algovid.com
 s5.addthis.com
@@ -2117,12 +2206,14 @@ scripts.host.bannerflow.com
 sdk.appsflyer.com
 sdk.avidly.com
 sdk-calcalist.demo.apester.com
+sdk.fiksu.com
 sdk-jita3.demo.apester.com
 sdk.mumu.163.com
 sdk-services.appsflyer.com
 sdk.stg.apester.com
 sdk.streaming.adswizz.com
 sdktest.appsflyer.com
+sdk-test.fiksu.com
 sdktm.w.inmobi.cn
 sdk-vertical.demo.apester.com
 search.addthis.com
@@ -2148,6 +2239,7 @@ se.google.rtb.d5p.de17a.com
 sentry.feathr.co
 sepav.acxiom.com
 ser.adledge.com
+servedby.flashtalking.com
 serve-east.acuityplatform.com
 serve-euro.acuityplatform.com
 server2.allinviews.com
@@ -2216,6 +2308,7 @@ si-p.alcmpn.com
 sip.criteo.com
 sip.exponential.com
 sipexternal.acxiom.com
+sip.foresee.com
 site-optimization-api.company-target.com
 six.cdn-net.com
 sjc03-rtb.dotomi.com
@@ -2316,10 +2409,12 @@ stage-vid.applovin.com
 staging4.dynamicyield.com
 staging.api.curalate.com
 staging.ariane.abtasty.com
+staging-aso.fiksu.com
 staging-be-2.tag.clrstm.com
 staging.convertkit.com
 staging.corp.evidon.com
 staging-dsp.adotmob.com
+staging-gq1-x.flurry.com
 staging-jp-2.tag.clrstm.com
 staging-or-2.tag.clrstm.com
 staging-sc-2.tag.clrstm.com
@@ -2327,8 +2422,19 @@ stagingsharedmarketingcontent.acxiom.com
 staging-sidekiq-status.appboy.com
 staging-sql.beeketing.com
 staging-v3.conductrics.com
+staging-x.flurry.com
 stags.phx.bluekai.com
 start.driftt.com
+stat1.flashtalking.com
+stat240.flashtalking.com
+stat2.flashtalking.com
+stat3.flashtalking.com
+stat4.flashtalking.com
+stat5.flashtalking.com
+stat6.flashtalking.com
+stat7.flashtalking.com
+stat8.flashtalking.com
+stat.flashtalking.com
 static2.creative-serving.com
 static3.creative-serving.com
 static.adblade.com
@@ -2340,8 +2446,8 @@ static-cdn.adblade.com
 static.cdn.adblade.com
 static.criteo.com
 staticd.cdn.adblade.com
-static.devex.adblade.com
 static-devex.adblade.com
+static.devex.adblade.com
 static.doubleclick.com
 static.ecorebates.com
 static.eloqua.com
@@ -2378,6 +2484,7 @@ stream.bestcontentonline.com
 stream.feathr.co
 streaming.emerse.com
 strip.stg.apester.com
+stubhub2.flashtalking.com
 studio5.brainient.com
 studio8-beta.brainient.com
 studio8.brainient.com
@@ -2403,6 +2510,8 @@ switch.atdmt.com
 sw-p.alcmpn.com
 syd.adjust.com
 syd-col.eum-appdynamics.com
+symbol-file.flurry.com
+symbol-upload.flurry.com
 sync.adaptv.advertising.com
 sync.admanmedia.com
 sync.alcmpn.com
@@ -2478,6 +2587,7 @@ temp.163.com
 temp-api.dc1.exacttarget.com
 templates.convertcart.com
 tersertude.amobee.com
+test66.firstpromoter.com
 testads.acuityplatform.com
 test-afp.aws.amobee.com
 testdevices.appsflyer.com
@@ -2581,6 +2691,7 @@ upload.aca.ftv.bugsnag.appstore.a2z.com
 upload.bugsnag.appstore.a2z.com
 upload.bugsnag.com
 upload.firetv.bugsnag.appstore.a2z.com
+upload.flurry.com
 urbn-live-stream-feeds.dynamicyield.com
 url3080.braze.com
 usbank.campaign.adobe.com
@@ -2639,6 +2750,7 @@ vcore.connatix.com
 vcr.staging2.crazyegg.com
 vdopia.dca.events.bidstalk.com
 vd-p.alcmpn.com
+venkman.flurry.com
 vgairaus-mid-stage1-t.campaign.adobe.com
 vid0264.d41.co
 vid0349.d41.co
@@ -2823,6 +2935,7 @@ www.www.db.neo4jdb.innovation.abtasty.com
 www.www.fasttext.audiencediscovery.innovation.abtasty.com
 www.www.www.api.audiencediscovery.innovation.abtasty.com
 x.dlx.addthis.com
+x.flashtalking.com
 xhr.acrabakasaka.com
 xtrade-xforex.bannerflow.com
 xtrade-xtrade.bannerflow.com
@@ -2830,6 +2943,7 @@ xunfei.bidagent.xadchina.cn
 y.254a.com
 yahoo.adready.com
 yahoomydisplayads.adready.com
+yampui-staging.flurry.com
 yax-winners-ap-southeast-1-rtb.adroll.com
 yax-winners-eu-west-1-rtb.adroll.com
 yax-winners-us-east-1-rtb.adroll.com
@@ -2846,4 +2960,5 @@ zee.cws.conviva.com
 zodiac-zodiac.bannerflow.com
 zplay.bidagent.xadchina.cn
 zu-p.alcmpn.com
+zuul-ws.flurry.com
 zz.connextra.com
