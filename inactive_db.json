@@ -11685,9 +11685,6 @@
         "1572895154": {
             "gizmo.serving-sys.com": "INACTIVE"
         },
-        "1572895185": {
-            "globalmdc.gaeadata.com": "INACTIVE"
-        },
         "1572895195": {
             "global-status.us-east-1.mathmon.mediamath.com": "INACTIVE"
         },
@@ -13195,7 +13192,6 @@
             "interstatebatteries.madmobile.com": "INACTIVE"
         },
         "1572901826": {
-            "interstitial.fyber.com": "INACTIVE",
             "interstitial.loopme.me": "INACTIVE"
         },
         "1572901827": {
@@ -13230,9 +13226,6 @@
         },
         "1572901862": {
             "int.propellerads.com": "INACTIVE"
-        },
-        "1572901863": {
-            "intra.fyber.com": "INACTIVE"
         },
         "1572901864": {
             "int.siftscience.com": "INACTIVE",
@@ -13349,9 +13342,6 @@
         },
         "1572901984": {
             "ipc.skimresources.com": "INACTIVE"
-        },
-        "1572901985": {
-            "ip.freshmarketer.com": "INACTIVE"
         },
         "1572901987": {
             "iphone.playhaven.com": "INACTIVE"
@@ -14891,14 +14881,10 @@
             "kibana2.fbot.me": "INACTIVE"
         },
         "1572906473": {
-            "kibana.k8s-hetzner-dev.lifestreet.com": "INACTIVE",
-            "kibana.prd.fyber.com": "INACTIVE"
+            "kibana.k8s-hetzner-dev.lifestreet.com": "INACTIVE"
         },
         "1572906481": {
             "kibana.sonic-us.supersonicads.com": "INACTIVE"
-        },
-        "1572906482": {
-            "kibana.tracker.fyber.com": "INACTIVE"
         },
         "1572906488": {
             "kijiji.demdex.net": "INACTIVE"
@@ -14980,12 +14966,6 @@
         "1572906590": {
             "koushik-ingestion-service.dp.staging-1.staging.leanplum.com": "INACTIVE"
         },
-        "1572906597": {
-            "kp1.forter.com": "INACTIVE"
-        },
-        "1572906603": {
-            "kp2.forter.com": "INACTIVE"
-        },
         "1572906604": {
             "kp8u.adj.st": "INACTIVE"
         },
@@ -15000,9 +14980,6 @@
         },
         "1572906610": {
             "kpmg.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572906624": {
-            "kpstat.forter.com": "INACTIVE"
         },
         "1572906625": {
             "k-pupremium.streamrail.net": "INACTIVE"
@@ -15456,16 +15433,6 @@
         "1572922666": {
             "as.serving-sys.com": "INACTIVE"
         },
-        "1572922667": {
-            "asset1.fyber.com": "INACTIVE"
-        },
-        "1572922668": {
-            "asset2.fyber.com": "INACTIVE",
-            "asset3.fyber.com": "INACTIVE"
-        },
-        "1572922669": {
-            "asset4.fyber.com": "INACTIVE"
-        },
         "1572922672": {
             "assets2.huluim.com": "INACTIVE"
         },
@@ -15660,12 +15627,8 @@
         "1572922856": {
             "atlascz.adocean.pl": "INACTIVE"
         },
-        "1572922858": {
-            "atlassian2.fyber.com": "INACTIVE"
-        },
         "1572922859": {
-            "atlassian-ihu9wbfxmn.xid.segment.com": "INACTIVE",
-            "atlassian.fyber.com": "INACTIVE"
+            "atlassian-ihu9wbfxmn.xid.segment.com": "INACTIVE"
         },
         "1572922861": {
             "atl-dc01.marketo.net": "INACTIVE"
@@ -16150,7 +16113,6 @@
             "aws.apex.go.sonobi.com": "INACTIVE"
         },
         "1572923575": {
-            "aws.banner-server.fyber.com": "INACTIVE",
             "aws.bare-metal.logrocket.io": "INACTIVE"
         },
         "1572923576": {
@@ -16169,9 +16131,6 @@
             "aws-fr-sync.bidswitch.net": "INACTIVE",
             "aws.go.sonobi.com": "INACTIVE"
         },
-        "1572923588": {
-            "aws.interstitial-broker.fyber.com": "INACTIVE"
-        },
         "1572923589": {
             "aws-int.silveregg.net": "INACTIVE"
         },
@@ -16188,26 +16147,7 @@
         "1572923595": {
             "aws.prod-mobile.macromill.com": "INACTIVE"
         },
-        "1572923602": {
-            "aws-production-banner-server-eu-west-1.banner-server.fyber.com": "INACTIVE"
-        },
-        "1572923608": {
-            "aws-production-banner-server-us-west-2.banner-server.fyber.com": "INACTIVE"
-        },
-        "1572923615": {
-            "aws-production-tracker-eu-west-1.tracker.fyber.com": "INACTIVE"
-        },
-        "1572923621": {
-            "aws-production-tracker-us-west-2.tracker.fyber.com": "INACTIVE"
-        },
-        "1572923628": {
-            "aws-production-video-broker-eu-west-1.video-v2.fyber.com": "INACTIVE"
-        },
-        "1572923629": {
-            "aws-production-video-broker-us-west-2.video-v2.fyber.com": "INACTIVE"
-        },
         "1572923636": {
-            "aws-staging-banner-eu-west-1.staging-banner.fyber.com": "INACTIVE",
             "awsstaging.madmobile.com": "INACTIVE"
         },
         "1572923637": {
@@ -16301,9 +16241,6 @@
         },
         "1572923707": {
             "b1.2cnt.net": "INACTIVE"
-        },
-        "1572923713": {
-            "b136c9c4-4798-4d9e-b9dd-972e3ce64d75-078d9f6a6dc1.cdn.forter.com": "INACTIVE"
         },
         "1572923722": {
             "b17.nakanohito.jp": "INACTIVE"
@@ -16459,12 +16396,6 @@
             "backoffice.carambo.la": "INACTIVE",
             "backoffice.liverail.com": "INACTIVE"
         },
-        "1572923822": {
-            "backstage-client.funnelenvy.com": "INACTIVE"
-        },
-        "1572923829": {
-            "backstage-staging-ux.funnelenvy.com": "INACTIVE"
-        },
         "1572923835": {
             "backup.unrulymedia.com": "INACTIVE"
         },
@@ -16552,8 +16483,7 @@
             "bankofthewest.demdex.net": "INACTIVE"
         },
         "1572924623": {
-            "banner-gateway.supersonicads.com": "INACTIVE",
-            "banner.fyber.com": "INACTIVE"
+            "banner-gateway.supersonicads.com": "INACTIVE"
         },
         "1572924633": {
             "bannertest.adtech.de": "INACTIVE"
@@ -17047,8 +16977,7 @@
             "beeswax.tapjoy.com": "INACTIVE"
         },
         "1572925040": {
-            "be-get.teads.tv": "INACTIVE",
-            "be.fyber.com": "INACTIVE"
+            "be-get.teads.tv": "INACTIVE"
         },
         "1572925042": {
             "behe-cm.cn.miaozhen.com": "INACTIVE",
@@ -17199,7 +17128,6 @@
             "bf8f.adj.st": "INACTIVE"
         },
         "1572925185": {
-            "b.fqtag.com": "INACTIVE",
             "bfvu.app.link": "INACTIVE"
         },
         "1572925188": {
@@ -17944,9 +17872,6 @@
             "breezeinteus.geneva.keyvault.genevawarm.breeze.int.applicationinsights.io": "INACTIVE",
             "breezeintscus.geneva.keyvault.genevawarm.breeze.int.applicationinsights.io": "INACTIVE"
         },
-        "1572926804": {
-            "bre.fyber.com": "INACTIVE"
-        },
         "1572926805": {
             "brf-corpca1.corp.mparticle.com": "INACTIVE",
             "bridge1.admarketplace.net": "INACTIVE"
@@ -18010,8 +17935,7 @@
             "brocker.omnitagjs.com": "INACTIVE"
         },
         "1572926863": {
-            "broinfofb.engine.adglare.net": "INACTIVE",
-            "broker-builder.staging-video-v2.fyber.com": "INACTIVE"
+            "broinfofb.engine.adglare.net": "INACTIVE"
         },
         "1572926870": {
             "broker.classifier.dev.superawesome.tv": "INACTIVE",
@@ -18030,11 +17954,9 @@
             "broker.qpipe-s.globalwebindex.net": "INACTIVE"
         },
         "1572926886": {
-            "broker-usa02.omnitagjs.com": "INACTIVE",
-            "broker.staging-video-v2.fyber.com": "INACTIVE"
+            "broker-usa02.omnitagjs.com": "INACTIVE"
         },
         "1572926893": {
-            "broker.video-v2.fyber.com": "INACTIVE",
             "brookdale.demdex.net": "INACTIVE"
         },
         "1572926894": {
@@ -18065,11 +17987,7 @@
         "1572926928": {
             "bsc.microad.jp": "INACTIVE"
         },
-        "1572926929": {
-            "bs-creatives-fix.fyber.com": "INACTIVE"
-        },
         "1572926930": {
-            "bs-creatives.fyber.com": "INACTIVE",
             "bsd.frontend.weborama.fr": "INACTIVE"
         },
         "1572926932": {
@@ -18766,9 +18684,6 @@
         "1572927793": {
             "cbo.placeyourview.com": "INACTIVE"
         },
-        "1572927800": {
-            "cbp.forter.com": "INACTIVE"
-        },
         "1572927801": {
             "cbql2fu0-android.mobile-sdk-api.intercom.io": "INACTIVE"
         },
@@ -18818,9 +18733,6 @@
         },
         "1572927857": {
             "cca-sjc2.rubiconproject.com": "INACTIVE"
-        },
-        "1572927864": {
-            "ccb7596e-84ef-4748-8a73-ed57b17ac2df-078d9f6a6dc1.cdn5.forter.com": "INACTIVE"
         },
         "1572927873": {
             "ccde.events.marketo.com": "INACTIVE"
@@ -18898,7 +18810,6 @@
             "cdn02.adriver.ru": "INACTIVE"
         },
         "1572927951": {
-            "cdn0.fyber.com": "INACTIVE",
             "cdn02.survicate.com": "INACTIVE"
         },
         "1572927958": {
@@ -18908,11 +18819,7 @@
             "cdn-103.statdynamic.com": "INACTIVE"
         },
         "1572928005": {
-            "cdn1.adadvisor.net": "INACTIVE",
-            "cdn1.forter.com": "INACTIVE"
-        },
-        "1572928006": {
-            "cdn1.fyber.com": "INACTIVE"
+            "cdn1.adadvisor.net": "INACTIVE"
         },
         "1572928007": {
             "cdn1-marketplace.vntsm.com": "INACTIVE"
@@ -18943,9 +18850,6 @@
         "1572928016": {
             "cdn2.adtelligence.de": "INACTIVE"
         },
-        "1572928018": {
-            "cdn2.fyber.com": "INACTIVE"
-        },
         "1572928019": {
             "cdn2-marketplace.vntsm.com": "INACTIVE",
             "cdn2.lfstmedia.com": "INACTIVE"
@@ -18961,8 +18865,7 @@
             "cdn31.vizury.com": "INACTIVE"
         },
         "1572928037": {
-            "cdn3.extremereach.io": "INACTIVE",
-            "cdn3.fyber.com": "INACTIVE"
+            "cdn3.extremereach.io": "INACTIVE"
         },
         "1572928038": {
             "cdn3.lfstmedia.com": "INACTIVE"
@@ -18980,21 +18883,14 @@
         "1572928048": {
             "cdn4.extremereach.io": "INACTIVE"
         },
-        "1572928049": {
-            "cdn4.fyber.com": "INACTIVE"
-        },
         "1572928050": {
-            "cdn4.planeapes.de": "INACTIVE",
-            "cdn4.usw.forter.com": "INACTIVE"
+            "cdn4.planeapes.de": "INACTIVE"
         },
         "1572928058": {
             "cdn507.rontar.com": "INACTIVE"
         },
         "1572928065": {
             "cdn508.rontar.com": "INACTIVE"
-        },
-        "1572928287": {
-            "cdn5.forter.com": "INACTIVE"
         },
         "1572928288": {
             "cdn5.tribalfusion.com": "INACTIVE"
@@ -19006,24 +18902,11 @@
             "cdn602.rontar.com": "INACTIVE"
         },
         "1572928309": {
-            "cdn6.adspirit.de": "INACTIVE",
-            "cdn6b.forter.com": "INACTIVE"
-        },
-        "1572928310": {
-            "cdn6.forter.com": "INACTIVE"
+            "cdn6.adspirit.de": "INACTIVE"
         },
         "1572928312": {
             "cdn6.media.net": "INACTIVE",
             "cdn77.omniconvert.com": "INACTIVE"
-        },
-        "1572928319": {
-            "cdn7.forter.com": "INACTIVE"
-        },
-        "1572928333": {
-            "cdn8.forter.com": "INACTIVE"
-        },
-        "1572928340": {
-            "cdn8.usw.forter.com": "INACTIVE"
         },
         "1572928348": {
             "cdn-adacado.netdna-ssl.com": "INACTIVE"
@@ -19158,11 +19041,7 @@
             "cdn.forms-content-production.sendgrid.net": "INACTIVE",
             "cdn.forms-content-staging.sendgrid.net": "INACTIVE"
         },
-        "1572928462": {
-            "cdn.forter.com": "INACTIVE"
-        },
         "1572928463": {
-            "cdn.fyber.com": "INACTIVE",
             "cdn.getambassador.com.sandbox.getambassador.com": "INACTIVE"
         },
         "1572928464": {
@@ -19366,9 +19245,6 @@
         },
         "1572928610": {
             "cdn-us-1.userreplay.net": "INACTIVE"
-        },
-        "1572928616": {
-            "cdn.usw.forter.com": "INACTIVE"
         },
         "1572928618": {
             "cdnv.adhigh.net": "INACTIVE"
@@ -19804,12 +19680,6 @@
         },
         "1572929357": {
             "ciencecom.salesloftlinks.com": "INACTIVE"
-        },
-        "1572929364": {
-            "ci.friendbuy.com": "INACTIVE"
-        },
-        "1572929370": {
-            "ci.fyber.com": "INACTIVE"
         },
         "1572929371": {
             "cigirex.com.pathful.com": "INACTIVE"
@@ -20433,9 +20303,6 @@
         },
         "1572930564": {
             "cn-dbug-tam.sociomantic.com": "INACTIVE"
-        },
-        "1572930566": {
-            "cndtconfig.gaeadata.com": "INACTIVE"
         },
         "1572930567": {
             "cn-enquete.macromill.com": "INACTIVE"
@@ -21211,7 +21078,6 @@
             "compliance.dev.pardot.com": "INACTIVE"
         },
         "1572931298": {
-            "components.forter.com": "INACTIVE",
             "composer.segment.com": "INACTIVE"
         },
         "1572931299": {
@@ -21592,9 +21458,6 @@
         },
         "1572931575": {
             "cookbiz.silveregg.net": "INACTIVE"
-        },
-        "1572931577": {
-            "cookie.fuel451.com": "INACTIVE"
         },
         "1572931578": {
             "cookieinformation.mgr.consensu.org": "INACTIVE",
@@ -22020,9 +21883,6 @@
         "1572932337": {
             "crowd.df-srv.de": "INACTIVE"
         },
-        "1572932343": {
-            "crowd.fyber.com": "INACTIVE"
-        },
         "1572932344": {
             "crowd.rubiconproject.com": "INACTIVE"
         },
@@ -22380,9 +22240,6 @@
         },
         "1572932852": {
             "customerexchange-uat.thunderhead.com": "INACTIVE"
-        },
-        "1572932858": {
-            "customersupport.fyber.com": "INACTIVE"
         },
         "1572932859": {
             "customfields-e2e.sendgrid.net": "INACTIVE",
@@ -22889,9 +22746,6 @@
         },
         "1572933672": {
             "d-audienceiq-sjc2.turn.com": "INACTIVE"
-        },
-        "1572933679": {
-            "dau.fyber.com": "INACTIVE"
         },
         "1572933680": {
             "da.us.criteo.net": "INACTIVE"
@@ -23547,9 +23401,6 @@
         "1572934899": {
             "dev-admin.videocollect.macromill.com": "INACTIVE"
         },
-        "1572934901": {
-            "dev.ads.fuel451.com": "INACTIVE"
-        },
         "1572934905": {
             "dev-airflow.drawbrid.ge": "INACTIVE",
             "dev.aimon.applicationinsights.io": "INACTIVE"
@@ -23659,9 +23510,6 @@
         "1572935384": {
             "dev-dsp.cointraffic.io": "INACTIVE"
         },
-        "1572935392": {
-            "developer-staging.fyber.com": "INACTIVE"
-        },
         "1572935393": {
             "development.d1.impact-ad.jp": "INACTIVE"
         },
@@ -23676,9 +23524,6 @@
         },
         "1572935411": {
             "dev-event.wbinsights.com": "INACTIVE"
-        },
-        "1572935413": {
-            "dev.forter.com": "INACTIVE"
         },
         "1572935433": {
             "dev.getadmiral.com": "INACTIVE"
@@ -23809,7 +23654,6 @@
             "dev.pfa.gcp.datamind.ru": "INACTIVE"
         },
         "1572935589": {
-            "dev.pixel.fuel451.com": "INACTIVE",
             "dev.pixlee.com": "INACTIVE"
         },
         "1572935596": {
@@ -24170,8 +24014,7 @@
             "displayrtb.monarchads.com": "INACTIVE"
         },
         "1572936396": {
-            "display.xad.com": "INACTIVE",
-            "displaytrack.fuel451.com": "INACTIVE"
+            "display.xad.com": "INACTIVE"
         },
         "1572936397": {
             "disp.tidaltv.com": "INACTIVE"
@@ -24574,9 +24417,6 @@
         },
         "1572937158": {
             "dpcomepost.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572937164": {
-            "dp-dashboard.fyber.com": "INACTIVE"
         },
         "1572937165": {
             "dpe9.adj.st": "INACTIVE"
@@ -25869,8 +25709,7 @@
             "edge202.staging.tt.omtrdc.net": "INACTIVE"
         },
         "1572938934": {
-            "edge.experimentation.intuit.com": "INACTIVE",
-            "edge.fullstory.com": "INACTIVE"
+            "edge.experimentation.intuit.com": "INACTIVE"
         },
         "1572938941": {
             "edgegateway-lax.reachlocal.com": "INACTIVE"
@@ -25886,9 +25725,6 @@
         },
         "1572938951": {
             "edgell.nui.media": "INACTIVE"
-        },
-        "1572938952": {
-            "edge.staging.fullstory.com": "INACTIVE"
         },
         "1572938953": {
             "edge.staging.sharethis.com": "INACTIVE"
@@ -27512,9 +27348,6 @@
             "eu-west-1.awstrack.me": "INACTIVE",
             "euw.adserver.snapads.com": "INACTIVE"
         },
-        "1572940410": {
-            "eu-west-1.banner-server.fyber.com": "INACTIVE"
-        },
         "1572940411": {
             "eu-west-1.bid.bidr.io": "INACTIVE",
             "eu-west-1.dc-dev.ads.linkedin.com": "INACTIVE"
@@ -28610,9 +28443,6 @@
         "1572941363": {
             "facebook.us-west-2.stinger-ad.bidr.io": "INACTIVE"
         },
-        "1572941364": {
-            "factory.funnelenvy.com": "INACTIVE"
-        },
         "1572941372": {
             "fad.zanox.com": "INACTIVE"
         },
@@ -28897,9 +28727,6 @@
         "1572941487": {
             "fawd.adj.st": "INACTIVE"
         },
-        "1572941494": {
-            "faw.forter.com": "INACTIVE"
-        },
         "1572941495": {
             "faz.demdex.net": "INACTIVE"
         },
@@ -28921,9 +28748,6 @@
         },
         "1572941508": {
             "fbnnepod-android.mobile-sdk-api.intercom.io": "INACTIVE"
-        },
-        "1572941509": {
-            "fb-proxy-003.friendbuy.com": "INACTIVE"
         },
         "1572941510": {
             "fbt.singular.net": "INACTIVE"
@@ -29951,9 +29775,6 @@
         "1572943733": {
             "fmrcorp.tt.omtrdc.net": "INACTIVE"
         },
-        "1572943739": {
-            "fmx-req.fractionalmedia.com": "INACTIVE"
-        },
         "1572943740": {
             "fn8g.adj.st": "INACTIVE"
         },
@@ -30158,9 +29979,6 @@
         "1572943967": {
             "fp.fap1.adriver.ru": "INACTIVE"
         },
-        "1572943968": {
-            "fp.fuel451.com": "INACTIVE"
-        },
         "1572943969": {
             "fp.interpolls.com": "INACTIVE",
             "fpoc-origin-dev.jwpltx.com": "INACTIVE"
@@ -30173,12 +29991,6 @@
         },
         "1572943972": {
             "fpsb.adj.st": "INACTIVE"
-        },
-        "1572943973": {
-            "fps-prd.production.fyber.com": "INACTIVE"
-        },
-        "1572943979": {
-            "fps.production.fyber.com": "INACTIVE"
         },
         "1572943993": {
             "fp.tinkoff.ru": "INACTIVE",
@@ -30491,11 +30303,7 @@
             "f.siftscience.com": "INACTIVE",
             "fs.interpolls.com": "INACTIVE"
         },
-        "1572944445": {
-            "fsr3.fuel451.com": "INACTIVE"
-        },
         "1572944453": {
-            "fsr.fuel451.com": "INACTIVE",
             "fssz.adj.st": "INACTIVE"
         },
         "1572944454": {
@@ -30879,9 +30687,6 @@
         "1572944856": {
             "gdpr-service.herokuapp.com": "INACTIVE"
         },
-        "1572944857": {
-            "gdpr-verify.forter.com": "INACTIVE"
-        },
         "1572944863": {
             "gdsns1.mmstat.com": "INACTIVE"
         },
@@ -30889,7 +30694,6 @@
             "g-dsp.adsniper.ru": "INACTIVE"
         },
         "1572944869": {
-            "gdtconfig.gaeadata.com": "INACTIVE",
             "ge93.adj.st": "INACTIVE"
         },
         "1572944870": {
@@ -31061,9 +30865,6 @@
         "1572945136": {
             "gg-ams.gravityrd-services.com": "INACTIVE",
             "gg.imrworldwide.com": "INACTIVE"
-        },
-        "1572945143": {
-            "gg.kp2.forter.com": "INACTIVE"
         },
         "1572945150": {
             "gg.mmgl.cd.serving-sys.com": "INACTIVE"
@@ -31775,7 +31576,6 @@
             "grafana.example-prom-app.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE"
         },
         "1572946048": {
-            "grafana.fyber.com": "INACTIVE",
             "grafana.gae.prod-1.prod.leanplum.com": "INACTIVE"
         },
         "1572946049": {
@@ -31808,7 +31608,6 @@
             "grafana.ops.pendo.io": "INACTIVE"
         },
         "1572946071": {
-            "grafana.prd.fyber.com": "INACTIVE",
             "grafana.prod-1.prod.leanplum.com": "INACTIVE"
         },
         "1572946072": {
@@ -32237,7 +32036,6 @@
             "gumtree.demdex.net": "INACTIVE"
         },
         "1572946681": {
-            "gunnars.friendbuy.com": "INACTIVE",
             "gurgle.zdbb.net": "INACTIVE"
         },
         "1572946682": {
@@ -32265,14 +32063,8 @@
         "1572946704": {
             "gwe.tpbid.com": "INACTIVE"
         },
-        "1572946711": {
-            "gw.fyber.com": "INACTIVE"
-        },
         "1572946713": {
             "gw-hliu.sendgrid.net": "INACTIVE"
-        },
-        "1572946719": {
-            "gw-il.fyber.com": "INACTIVE"
         },
         "1572946720": {
             "gwiq.globalwebindex.net": "INACTIVE"
@@ -32307,9 +32099,6 @@
         },
         "1572946768": {
             "gw.rocketyield.com": "INACTIVE"
-        },
-        "1572946775": {
-            "gw-sf.fyber.com": "INACTIVE"
         },
         "1572946781": {
             "gwsfo.smaato.net": "INACTIVE"
@@ -32752,9 +32541,6 @@
         },
         "1572947010": {
             "laredoute.demdex.net": "INACTIVE"
-        },
-        "1572947025": {
-            "latency.banner-server.fyber.com": "INACTIVE"
         },
         "1572947033": {
             "latest.liverail.com": "INACTIVE"
@@ -33569,9 +33355,6 @@
         "1572947712": {
             "l-ber1-ltm-002.zanox.com": "INACTIVE"
         },
-        "1572947713": {
-            "lb.forter.com": "INACTIVE"
-        },
         "1572947715": {
             "lb.iad1.visto1.net": "INACTIVE"
         },
@@ -33597,8 +33380,7 @@
             "lb-rtb-east.liftoff.io": "INACTIVE"
         },
         "1572947726": {
-            "lb.sjc1.visto1.net": "INACTIVE",
-            "lbservices2.fyber.com": "INACTIVE"
+            "lb.sjc1.visto1.net": "INACTIVE"
         },
         "1572947728": {
             "lb.smrtb.com": "INACTIVE",
@@ -33778,9 +33560,6 @@
         "1572948319": {
             "hpfce.adj.st": "INACTIVE",
             "hpfe.adj.st": "INACTIVE"
-        },
-        "1572948320": {
-            "hp.fuel451.com": "INACTIVE"
         },
         "1572948321": {
             "hpjapan.demdex.net": "INACTIVE",
@@ -34330,9 +34109,6 @@
         },
         "1572948796": {
             "leftovers.whisk.com": "INACTIVE"
-        },
-        "1572948820": {
-            "legacy.fqtag.com": "INACTIVE"
         },
         "1572948821": {
             "legacy-prometheus.prod.leanplum.com": "INACTIVE"
@@ -35129,9 +34905,6 @@
         },
         "1572952277": {
             "l-rc.rlcdn.com": "INACTIVE"
-        },
-        "1572952278": {
-            "lrs.fuel451.com": "INACTIVE"
         },
         "1572952279": {
             "lr.us-east-1.bid.bidr.io": "INACTIVE"
@@ -36113,9 +35886,6 @@
         "1572956578": {
             "mapstats81.stickyadstv.com": "INACTIVE"
         },
-        "1572956580": {
-            "marathon.prd.fyber.com": "INACTIVE"
-        },
         "1572956581": {
             "marca.services.webspectator.com": "INACTIVE"
         },
@@ -36381,10 +36151,6 @@
         },
         "1572958901": {
             "mbdl.midasplayer.com": "INACTIVE"
-        },
-        "1572958902": {
-            "mbe-cdn-rtb-staging.fyber.com": "INACTIVE",
-            "mbe-cdn-rtb.fyber.com": "INACTIVE"
         },
         "1572958906": {
             "mbid.marfeelrev.com": "INACTIVE"
@@ -36765,9 +36531,6 @@
         "1572961131": {
             "media.streamrail.net": "INACTIVE"
         },
-        "1572961140": {
-            "mediation.fyber.com": "INACTIVE"
-        },
         "1572961141": {
             "mediationsdk.smartadserverapis.com": "INACTIVE"
         },
@@ -36983,9 +36746,6 @@
         "1572961422": {
             "metrics.fe.apple-dns.net": "INACTIVE"
         },
-        "1572961423": {
-            "metrics.freecreditscore.com": "INACTIVE"
-        },
         "1572961424": {
             "metrics.hbonow.com": "INACTIVE"
         },
@@ -37056,9 +36816,6 @@
         },
         "1572961496": {
             "mettlertoledointernational.demdex.net": "INACTIVE"
-        },
-        "1572961497": {
-            "meundies.friendbuy.com": "INACTIVE"
         },
         "1572961498": {
             "mewj.adj.st": "INACTIVE"
@@ -37885,9 +37642,6 @@
         "1572965579": {
             "m-retarg.admixer.net": "INACTIVE"
         },
-        "1572965580": {
-            "mr.fullstory.com": "INACTIVE"
-        },
         "1572965582": {
             "m.rkdms.com": "INACTIVE"
         },
@@ -38510,9 +38264,6 @@
         },
         "1572976986": {
             "native-creative.triplelift.com": "INACTIVE"
-        },
-        "1572976987": {
-            "native.fuel451.com": "INACTIVE"
         },
         "1572976989": {
             "native.ladsp.com": "INACTIVE"
@@ -39397,51 +39148,11 @@
             "nocookie.jasperlabs.com": "INACTIVE",
             "nocookie.w55c.net": "INACTIVE"
         },
-        "1573080233": {
-            "node10.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080236": {
-            "node11.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080237": {
-            "node12.fractionalmedia.com": "INACTIVE",
-            "node14.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080238": {
-            "node15.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080239": {
-            "node19.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080241": {
-            "node1.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080248": {
-            "node21.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080249": {
-            "node23.fractionalmedia.com": "INACTIVE",
-            "node28.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080254": {
-            "node31.fractionalmedia.com": "INACTIVE"
-        },
         "1573080263": {
             "node4.tradelab.fr": "INACTIVE"
         },
-        "1573080264": {
-            "node5.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080265": {
-            "node6.fractionalmedia.com": "INACTIVE",
-            "node7.fractionalmedia.com": "INACTIVE"
-        },
-        "1573080266": {
-            "node8.fractionalmedia.com": "INACTIVE"
-        },
         "1573080267": {
-            "node-express-ssl-lb.global.prod1.sharethis.net": "INACTIVE",
-            "node9.fractionalmedia.com": "INACTIVE"
+            "node-express-ssl-lb.global.prod1.sharethis.net": "INACTIVE"
         },
         "1573080268": {
             "node-nl-aiwi3w.sitescout.com": "INACTIVE"
@@ -40415,9 +40126,6 @@
         "1573081816": {
             "ntas6.ads.scanapps.com": "INACTIVE"
         },
-        "1573081819": {
-            "nt.fuel451.com": "INACTIVE"
-        },
         "1573081826": {
             "nttplalaisp.tt.omtrdc.net": "INACTIVE"
         },
@@ -40701,9 +40409,6 @@
         "1573082543": {
             "observer.ethn.io": "INACTIVE"
         },
-        "1573082557": {
-            "observium.prd.fyber.com": "INACTIVE"
-        },
         "1573082566": {
             "o-ca.wtp101.com": "INACTIVE",
             "oc.adsrvr.org": "INACTIVE"
@@ -40834,9 +40539,6 @@
         },
         "1573082684": {
             "of-proxy08.dskfv.de": "INACTIVE"
-        },
-        "1573082685": {
-            "ofw-pivot-prd.production.fyber.com": "INACTIVE"
         },
         "1573082690": {
             "og-images.segment.com": "INACTIVE"
@@ -41108,9 +40810,6 @@
         },
         "1573083084": {
             "openrtb.shoofle.tv": "INACTIVE"
-        },
-        "1573083086": {
-            "opensource.forter.com": "INACTIVE"
         },
         "1573083087": {
             "opentable.tt.omtrdc.net": "INACTIVE"
@@ -42218,12 +41917,6 @@
         "1573084975": {
             "pe2.intentiq.com": "INACTIVE"
         },
-        "1573084992": {
-            "pecan-ofw.fyber.com": "INACTIVE"
-        },
-        "1573084999": {
-            "pecan-ofw.production.fyber.com": "INACTIVE"
-        },
         "1573085000": {
             "pedialyte.com.102.112.2o7.net": "INACTIVE"
         },
@@ -42838,9 +42531,6 @@
         "1573085860": {
             "pix.hk.as.criteo.net": "INACTIVE"
         },
-        "1573085864": {
-            "pixie.fyber.com": "INACTIVE"
-        },
         "1573085865": {
             "piximedia.eu-west-1.stinger-ad.bidr.io": "INACTIVE"
         },
@@ -42994,9 +42684,6 @@
         "1573086082": {
             "playable-api.upltv.com": "INACTIVE"
         },
-        "1573086083": {
-            "playables.fractionalmedia.com": "INACTIVE"
-        },
         "1573086085": {
             "playbook.segment.com": "INACTIVE"
         },
@@ -43141,10 +42828,6 @@
         },
         "1573086272": {
             "pmi.nui.media": "INACTIVE"
-        },
-        "1573086273": {
-            "pmm.prd-aws.fyber.com": "INACTIVE",
-            "pmm.stg-aws.fyber.com": "INACTIVE"
         },
         "1573086282": {
             "p.moatads.com": "INACTIVE",
@@ -43295,9 +42978,6 @@
         },
         "1573086788": {
             "popsugar.demdex.net": "INACTIVE"
-        },
-        "1573086796": {
-            "portalc.forter.com": "INACTIVE"
         },
         "1573086797": {
             "portal-fynd.headlinerlabs.com": "INACTIVE"
@@ -43456,9 +43136,6 @@
         },
         "1573087003": {
             "prebid-cache-us-west.rubiconproject.com": "INACTIVE"
-        },
-        "1573087007": {
-            "prebid.fqtag.com": "INACTIVE"
         },
         "1573087009": {
             "prebid-server.rubiconproject.com": "INACTIVE"
@@ -43949,9 +43626,6 @@
         "1573087640": {
             "production-balancers-us-east-1.smadex.com": "INACTIVE"
         },
-        "1573087641": {
-            "production-bidding-agent.fyber.com": "INACTIVE"
-        },
         "1573087643": {
             "production.eu-west-2.kops.kargo.com": "INACTIVE"
         },
@@ -44200,9 +43874,6 @@
         "1573087982": {
             "prometheus.ex-prom-app.ei-dev-a.us-east-1.k8s.sendgrid.net": "INACTIVE"
         },
-        "1573087989": {
-            "prometheus.fullstory.com": "INACTIVE"
-        },
         "1573087991": {
             "prometheus.gitlab.gcp.datamind.ru": "INACTIVE"
         },
@@ -44252,9 +43923,6 @@
         "1573088040": {
             "prometheus.staging-1.staging.leanplum.com": "INACTIVE"
         },
-        "1573088041": {
-            "prometheus.staging.fullstory.com": "INACTIVE"
-        },
         "1573088047": {
             "prometheus-staging-mdw1.k8s.sendgrid.net": "INACTIVE"
         },
@@ -44278,9 +43946,6 @@
         },
         "1573088065": {
             "promfederation.infra.voodoo-ads.io": "INACTIVE"
-        },
-        "1573088066": {
-            "prom.fullstory.com": "INACTIVE"
         },
         "1573088067": {
             "prom.k8s-hetzner-dev.lifestreet.com": "INACTIVE"
@@ -44372,9 +44037,6 @@
         "1573088286": {
             "proxy.placeyourview.com": "INACTIVE"
         },
-        "1573088287": {
-            "proxy.prometheus.staging.fullstory.com": "INACTIVE"
-        },
         "1573088293": {
             "proxy.scanscout.com": "INACTIVE"
         },
@@ -44449,12 +44111,8 @@
         "1573088387": {
             "pseboom-src.imgsniper.com": "INACTIVE"
         },
-        "1573088389": {
-            "ps.fuel451.com": "INACTIVE"
-        },
         "1573088390": {
-            "psh.imrworldwide.com": "INACTIVE",
-            "psi.fuel451.com": "INACTIVE"
+            "psh.imrworldwide.com": "INACTIVE"
         },
         "1573088392": {
             "ps.info.lgsmartad.com": "INACTIVE"
@@ -44483,9 +44141,6 @@
         "1573088424": {
             "pso.ws.ev1.inmobi.com": "INACTIVE"
         },
-        "1573088428": {
-            "psr.fuel451.com": "INACTIVE"
-        },
         "1573088435": {
             "ps.serving-sys.com": "INACTIVE"
         },
@@ -44513,9 +44168,6 @@
         },
         "1573088455": {
             "ptc.imrworldwide.com": "INACTIVE"
-        },
-        "1573088458": {
-            "pt.friendbuy.com": "INACTIVE"
         },
         "1573088461": {
             "pt.info.lgsmartad.com": "INACTIVE"
@@ -45294,9 +44946,6 @@
             "query-eu-west-1.petametrics.com": "INACTIVE",
             "query-fb6cjraf9cejut2a.petametrics.com": "INACTIVE"
         },
-        "1573089493": {
-            "query.fqtag.com": "INACTIVE"
-        },
         "1573089494": {
             "query-gce.petametrics.com": "INACTIVE"
         },
@@ -46063,8 +45712,7 @@
             "reedbusinessinternat.tt.omtrdc.net": "INACTIVE"
         },
         "1573090560": {
-            "referabuyer.engine.adglare.net": "INACTIVE",
-            "reference.fyber.com": "INACTIVE"
+            "referabuyer.engine.adglare.net": "INACTIVE"
         },
         "1573090561": {
             "referral.supersonic.com": "INACTIVE"
@@ -46514,7 +46162,6 @@
             "rfm.rubiconproject.com": "INACTIVE"
         },
         "1573091341": {
-            "r.fullstory.com": "INACTIVE",
             "rfp.lkqd.net": "INACTIVE"
         },
         "1573091342": {
@@ -46669,9 +46316,6 @@
         "1573091464": {
             "rnjs-tc.r-ad.ne.jp": "INACTIVE"
         },
-        "1573091471": {
-            "rntsweb.dc2.fyber.com": "INACTIVE"
-        },
         "1573091473": {
             "ro.ad.lgsmartad.com": "INACTIVE"
         },
@@ -46693,9 +46337,6 @@
         },
         "1573091546": {
             "ro.df-srv.de": "INACTIVE"
-        },
-        "1573091553": {
-            "rodimus.forter.com": "INACTIVE"
         },
         "1573091557": {
             "rogerscommunicaitonp.tt.omtrdc.net": "INACTIVE"
@@ -46896,9 +46537,6 @@
         "1573091930": {
             "rscomponentsltd.tt.omtrdc.net": "INACTIVE"
         },
-        "1573091932": {
-            "rs.fullstory.com": "INACTIVE"
-        },
         "1573091934": {
             "r.sharethis.com": "INACTIVE"
         },
@@ -46925,11 +46563,7 @@
             "rsscloud.zemanta.com": "INACTIVE"
         },
         "1573091961": {
-            "rs.so.com": "INACTIVE",
-            "rs.staging.fullstory.com": "INACTIVE"
-        },
-        "1573091983": {
-            "r.staging.fullstory.com": "INACTIVE"
+            "rs.so.com": "INACTIVE"
         },
         "1573091991": {
             "rste.adj.st": "INACTIVE"
@@ -47187,9 +46821,6 @@
         },
         "1573092193": {
             "rtb-ca.wtp101.com": "INACTIVE"
-        },
-        "1573092200": {
-            "rtbcc.fyber.com": "INACTIVE"
         },
         "1573092201": {
             "rtb-china-1.vizury.com": "INACTIVE"
@@ -47528,9 +47159,6 @@
             "rtb-xv.openx.net": "INACTIVE",
             "rtb-yahoo-gus.nxtck.com": "INACTIVE"
         },
-        "1573092587": {
-            "rtcc.fyber.com": "INACTIVE"
-        },
         "1573092588": {
             "rt-dc3.videoamp.com": "INACTIVE"
         },
@@ -47763,9 +47391,6 @@
         },
         "1573092924": {
             "rundeck.adsrvr.org": "INACTIVE"
-        },
-        "1573092925": {
-            "rundeck.bi.fyber.com": "INACTIVE"
         },
         "1573092938": {
             "rundeck.dz.optimizely.com": "INACTIVE"
@@ -48537,14 +48162,8 @@
         "1573094012": {
             "salesforcecom.tt.omtrdc.net": "INACTIVE"
         },
-        "1573094013": {
-            "sales.forter.com": "INACTIVE"
-        },
         "1573094014": {
             "sales.gumgum.com": "INACTIVE"
-        },
-        "1573094017": {
-            "salesloft.fullstory.com": "INACTIVE"
         },
         "1573094018": {
             "salesloft.getsentry.com": "INACTIVE"
@@ -48739,9 +48358,6 @@
         },
         "1573094167": {
             "sanfrancisco.reachlocal.com": "INACTIVE"
-        },
-        "1573094168": {
-            "san.fyber.com": "INACTIVE"
         },
         "1573094170": {
             "sanjose.reachlocal.com": "INACTIVE"
@@ -50106,9 +49722,6 @@
         "1573096244": {
             "services.serving-sys.com": "INACTIVE"
         },
-        "1573096245": {
-            "service.stg-aws.fyber.com": "INACTIVE"
-        },
         "1573096246": {
             "service.swrve.com": "INACTIVE",
             "services.viewbix.com": "INACTIVE"
@@ -50208,9 +49821,6 @@
         "1573096448": {
             "sfp-cdn.sharethrough.com": "INACTIVE"
         },
-        "1573096449": {
-            "s.fqtag.com": "INACTIVE"
-        },
         "1573096450": {
             "sfrbusinessteam.mktoweb.com": "INACTIVE"
         },
@@ -50301,9 +49911,6 @@
         },
         "1573096549": {
             "shadow.bid.snapads.com": "INACTIVE"
-        },
-        "1573096551": {
-            "shadow.cloud.fyber.com": "INACTIVE"
         },
         "1573096552": {
             "shadow.forecast.snapads.com": "INACTIVE"
@@ -51807,9 +51414,6 @@
             "spotlight.us-west-2.stinger-ad.bidr.io": "INACTIVE",
             "spotops.spot.im": "INACTIVE"
         },
-        "1573099392": {
-            "spotter.fuel451.com": "INACTIVE"
-        },
         "1573099393": {
             "spotxbidder-east.extend.tv": "INACTIVE"
         },
@@ -51904,9 +51508,6 @@
         "1573099495": {
             "sqxr.adrise.tv": "INACTIVE"
         },
-        "1573099504": {
-            "src.freshmarketer.com": "INACTIVE"
-        },
         "1573099512": {
             "sreetest.solocpm.com": "INACTIVE"
         },
@@ -51920,9 +51521,6 @@
         "1573099516": {
             "s.rfihub.com": "INACTIVE",
             "s.rfihub.com.akadns.net": "INACTIVE"
-        },
-        "1573099517": {
-            "sr.freshmarketer.com": "INACTIVE"
         },
         "1573099524": {
             "srib.serving-sys.com": "INACTIVE"
@@ -52567,8 +52165,7 @@
             "staging-aws-fr.bidswitch.net": "INACTIVE"
         },
         "1573100404": {
-            "staging-bam.nr-data.net": "INACTIVE",
-            "staging-banner.fyber.com": "INACTIVE"
+            "staging-bam.nr-data.net": "INACTIVE"
         },
         "1573100414": {
             "staging-beacon-1.newrelic.com": "INACTIVE"
@@ -52606,9 +52203,6 @@
         "1573100585": {
             "staging.data-service.ispot.tv": "INACTIVE"
         },
-        "1573100586": {
-            "staging-dau.fyber.com": "INACTIVE"
-        },
         "1573100587": {
             "staging.delivery.api.getadmiral.com": "INACTIVE"
         },
@@ -52618,9 +52212,6 @@
         },
         "1573100599": {
             "staging.eam.pubocean.com": "INACTIVE"
-        },
-        "1573100606": {
-            "staging-engine.fyber.com": "INACTIVE"
         },
         "1573100607": {
             "staging-eu-gce.bidswitch.net": "INACTIVE"
@@ -52694,9 +52285,6 @@
         },
         "1573100724": {
             "staging.mediabong.net": "INACTIVE"
-        },
-        "1573100730": {
-            "staging-mediation.fyber.com": "INACTIVE"
         },
         "1573100731": {
             "staging-mobile-collector.newrelic.com": "INACTIVE"
@@ -52801,9 +52389,6 @@
         },
         "1573100837": {
             "staging.vangogher.glance.inmobi.com": "INACTIVE"
-        },
-        "1573100844": {
-            "staging-video-broker.fyber.com": "INACTIVE"
         },
         "1573100845": {
             "staging.videostat.com": "INACTIVE",
@@ -53290,9 +52875,6 @@
         },
         "1573101577": {
             "stg-fe-nsc1-ext.stg.fwmrm.net": "INACTIVE"
-        },
-        "1573101578": {
-            "stg.fyber.com": "INACTIVE"
         },
         "1573101585": {
             "stg.iubenda.com": "INACTIVE",
@@ -53799,9 +53381,6 @@
         "1573102406": {
             "swa.demdex.net": "INACTIVE"
         },
-        "1573102407": {
-            "swaggerapi.friendbuy.com": "INACTIVE"
-        },
         "1573102409": {
             "swansonhealthproduct.tt.omtrdc.net": "INACTIVE"
         },
@@ -54141,9 +53720,6 @@
         },
         "1573102920": {
             "tableau.signifyd.com": "INACTIVE"
-        },
-        "1573102921": {
-            "tableau-test.fyber.com": "INACTIVE"
         },
         "1573102923": {
             "taboola.com.cdn.cloudflare.net": "INACTIVE"
@@ -54928,9 +54504,6 @@
         "1573103789": {
             "testads.undertone.com": "INACTIVE"
         },
-        "1573103791": {
-            "test-api.forter.com": "INACTIVE"
-        },
         "1573103795": {
             "test-astat.bugly.qq.com": "INACTIVE"
         },
@@ -55029,9 +54602,6 @@
         },
         "1573103914": {
             "test-ldap02.microad.jp": "INACTIVE"
-        },
-        "1573103915": {
-            "testle.fqtag.com": "INACTIVE"
         },
         "1573103916": {
             "testle.media.net": "INACTIVE"
@@ -55669,9 +55239,6 @@
         "1573104962": {
             "tq.mdotlabs.com": "INACTIVE"
         },
-        "1573104963": {
-            "tr1.fuel451.com": "INACTIVE"
-        },
         "1573104969": {
             "trace.onb.workers.dev": "INACTIVE"
         },
@@ -55710,9 +55277,6 @@
         },
         "1573105001": {
             "track.adpredictive.net": "INACTIVE"
-        },
-        "1573105003": {
-            "track.api.fuel451.com": "INACTIVE"
         },
         "1573105023": {
             "track-east.mobileadtrading.com": "INACTIVE",
@@ -56637,9 +56201,6 @@
         "1573106311": {
             "t.tworismo.com": "INACTIVE"
         },
-        "1573106318": {
-            "tube.fyber.com": "INACTIVE"
-        },
         "1573106319": {
             "tuct3dec70f.zorosrv.com": "INACTIVE"
         },
@@ -56681,8 +56242,7 @@
             "t.update.morgdog.springserve.com": "INACTIVE"
         },
         "1573106354": {
-            "t.update.openx.com": "INACTIVE",
-            "t.update.postimp-ofw.fyber.com": "INACTIVE"
+            "t.update.openx.com": "INACTIVE"
         },
         "1573106355": {
             "t.update.rose.pubmatic.com": "INACTIVE",
@@ -57741,9 +57301,6 @@
         "1573107086": {
             "ui.dispatch-stage-a.us-east-2.k8s.sendgrid.net": "INACTIVE"
         },
-        "1573107087": {
-            "ui-dsp-rtb.fyber.com": "INACTIVE"
-        },
         "1573107088": {
             "uid.vindicosuite.com": "INACTIVE"
         },
@@ -57762,14 +57319,8 @@
         "1573107110": {
             "ui.optimizely.com": "INACTIVE"
         },
-        "1573107113": {
-            "ui-rtb.fyber.com": "INACTIVE"
-        },
         "1573107114": {
             "uiservices.adtech.de": "INACTIVE"
-        },
-        "1573107115": {
-            "ui.staging-api-docs.fyber.com": "INACTIVE"
         },
         "1573107122": {
             "ui-staging.dispatch-stage-a.us-east-2.k8s.sendgrid.net": "INACTIVE"
@@ -59712,8 +59263,7 @@
             "vast-tagson.streamrail.net": "INACTIVE"
         },
         "1573109338": {
-            "vast.unruly.systems": "INACTIVE",
-            "vasttracktest.fuel451.com": "INACTIVE"
+            "vast.unruly.systems": "INACTIVE"
         },
         "1573109339": {
             "vast-vid46.streamrail.net": "INACTIVE"
@@ -59998,9 +59548,6 @@
         "1573109730": {
             "videoad-swf.mixpo.com": "INACTIVE"
         },
-        "1573109850": {
-            "video-aws-staging.fyber.com": "INACTIVE"
-        },
         "1573109853": {
             "videobeet.neodatagroup.com": "INACTIVE"
         },
@@ -60012,9 +59559,6 @@
         },
         "1573109861": {
             "video-console.playbuzz.com": "INACTIVE"
-        },
-        "1573109870": {
-            "video-dsa.fyber.com": "INACTIVE"
         },
         "1573109873": {
             "video.everestads.net": "INACTIVE",
@@ -60462,9 +60006,6 @@
         "1573110276": {
             "vpaid-advinteo.streamrail.net": "INACTIVE"
         },
-        "1573110284": {
-            "vpaid.fuel451.com": "INACTIVE"
-        },
         "1573110285": {
             "vpaid-goproad.streamrail.net": "INACTIVE",
             "vpaid-junnya.streamrail.net": "INACTIVE"
@@ -60514,9 +60055,6 @@
         },
         "1573110324": {
             "vpn-eu-west-1.monetate.net": "INACTIVE"
-        },
-        "1573110338": {
-            "vpng2.friendbuy.com": "INACTIVE"
         },
         "1573110346": {
             "vpn-it.rubiconproject.com": "INACTIVE"
@@ -61086,7 +60624,6 @@
             "webdisk.blog.rontar.com": "INACTIVE"
         },
         "1573111467": {
-            "webdisk.fortressarcade.com": "INACTIVE",
             "webdisk.ibrahimjabbari.com": "INACTIVE"
         },
         "1573111469": {
@@ -62497,9 +62034,6 @@
         "1573113865": {
             "www.api.dsp.inmobi.com": "INACTIVE"
         },
-        "1573113868": {
-            "www.api.forter.com": "INACTIVE"
-        },
         "1573113869": {
             "www.api-gateway.uat.dev.sizmek.com": "INACTIVE",
             "www.api.glance.inmobi.com": "INACTIVE"
@@ -62899,9 +62433,6 @@
         "1573114361": {
             "www.c.bksn.se": "INACTIVE"
         },
-        "1573114362": {
-            "www.cbp.forter.com": "INACTIVE"
-        },
         "1573114363": {
             "www-cbssports-com.cdn.ampproject.org": "INACTIVE"
         },
@@ -62918,9 +62449,6 @@
         "1573114369": {
             "www.cdn02.adriver.ru": "INACTIVE"
         },
-        "1573114370": {
-            "www.cdn0.usw.forter.com": "INACTIVE"
-        },
         "1573114376": {
             "www-cdn1.pardot.com": "INACTIVE"
         },
@@ -62931,11 +62459,7 @@
             "www.cdn2.planetapes.de": "INACTIVE"
         },
         "1573114391": {
-            "www-cdn3.pardot.com": "INACTIVE",
-            "www.cdn3.usw.forter.com": "INACTIVE"
-        },
-        "1573114393": {
-            "www.cdn8.usw.forter.com": "INACTIVE"
+            "www-cdn3.pardot.com": "INACTIVE"
         },
         "1573114396": {
             "www.cdn.adf.ly": "INACTIVE"
@@ -63578,9 +63102,6 @@
         "1573115125": {
             "www.ft3-de.adhigh.net": "INACTIVE"
         },
-        "1573115127": {
-            "www.fuel451.com": "INACTIVE"
-        },
         "1573115130": {
             "www.funghi.metalyzer.com": "INACTIVE"
         },
@@ -63599,9 +63120,6 @@
         "1573115144": {
             "www.gdpr-service.herokuapp.com": "INACTIVE"
         },
-        "1573115145": {
-            "www.gdpr-verify.forter.com": "INACTIVE"
-        },
         "1573115147": {
             "www.gemius.mgr.consensu.org": "INACTIVE"
         },
@@ -63611,9 +63129,6 @@
         "1573115151": {
             "www.geoservice.nonprod.sea.inmobi.com": "INACTIVE",
             "www.geoservice.prod.sea.inmobi.com": "INACTIVE"
-        },
-        "1573115156": {
-            "www.get.funnelenvy.com": "INACTIVE"
         },
         "1573115157": {
             "www.get.hull.io": "INACTIVE"
@@ -63727,15 +63242,6 @@
         },
         "1573115222": {
             "www.guestwifi.marketo.net": "INACTIVE"
-        },
-        "1573115223": {
-            "www.gw.fyber.com": "INACTIVE"
-        },
-        "1573115224": {
-            "www.gw-il.fyber.com": "INACTIVE"
-        },
-        "1573115225": {
-            "www.gw-sf.fyber.com": "INACTIVE"
         },
         "1573115230": {
             "www.haloapps.com": "INACTIVE"
@@ -63991,9 +63497,6 @@
         "1573115578": {
             "www.kdata.fr": "INACTIVE"
         },
-        "1573115591": {
-            "www.kibana.prd.fyber.com": "INACTIVE"
-        },
         "1573115595": {
             "www.kiwicollection.com.pathful.com": "INACTIVE"
         },
@@ -64152,9 +63655,6 @@
         },
         "1573115746": {
             "www-manchestereveningnews-co-uk.api.omnitagjs.com": "INACTIVE"
-        },
-        "1573115749": {
-            "www.m.api.usw.forter.com": "INACTIVE"
         },
         "1573115758": {
             "www.marketing-partners.taboola.com": "INACTIVE",
@@ -64530,9 +64030,6 @@
         "1573116097": {
             "www.partner.glance.inmobi.com": "INACTIVE"
         },
-        "1573116102": {
-            "www.partners.fullstory.com": "INACTIVE"
-        },
         "1573116103": {
             "www.partners.klaviyo.com": "INACTIVE",
             "www.partners.salesloft.com": "INACTIVE"
@@ -64784,9 +64281,6 @@
         },
         "1573116426": {
             "www.qa2-h-api.online-metrix.net": "INACTIVE"
-        },
-        "1573116433": {
-            "www-qa.foreseeresults.com": "INACTIVE"
         },
         "1573116434": {
             "www.qaperf2-h-api.online-metrix.net": "INACTIVE"
@@ -65117,9 +64611,6 @@
         },
         "1573116712": {
             "www.shuttle.mashero.com": "INACTIVE"
-        },
-        "1573116723": {
-            "www.sigs.fullstory.com": "INACTIVE"
         },
         "1573116726": {
             "www.sil.siliconorchard.com": "INACTIVE"
@@ -76945,9 +76436,6 @@
         "1573146806": {
             "adconsole.inmobi.com": "INACTIVE"
         },
-        "1573146809": {
-            "adcount.fyber.com": "INACTIVE"
-        },
         "1573146822": {
             "adcreative.vindicosuite.com": "INACTIVE"
         },
@@ -76985,7 +76473,6 @@
             "adecco.silveregg.net": "INACTIVE"
         },
         "1573146888": {
-            "ade.fuel451.com": "INACTIVE",
             "ade.googlesyndication.com": "INACTIVE"
         },
         "1573146889": {
@@ -77024,17 +76511,11 @@
         "1573146921": {
             "adfox-sync.rutarget.ru": "INACTIVE"
         },
-        "1573146923": {
-            "ad.fractionalmedia.com": "INACTIVE"
-        },
         "1573146927": {
             "adfront-vice-v2.ads-srv.net": "INACTIVE"
         },
         "1573146943": {
             "adfs.qadynamics.marketo.com": "INACTIVE"
-        },
-        "1573146944": {
-            "ad.fuel451.com": "INACTIVE"
         },
         "1573146945": {
             "adfunnel3.microad.jp": "INACTIVE"
@@ -77264,16 +76745,6 @@
         "1573147352": {
             "ad.propellerads.com": "INACTIVE"
         },
-        "1573147353": {
-            "adproxy-as-us-west.fyber.com": "INACTIVE",
-            "adproxy-eu-west.fyber.com": "INACTIVE"
-        },
-        "1573147354": {
-            "adproxy-us-east.fyber.com": "INACTIVE"
-        },
-        "1573147355": {
-            "adproxy-us-west.fyber.com": "INACTIVE"
-        },
         "1573147366": {
             "ad.qwapi.com": "INACTIVE"
         },
@@ -77461,7 +76932,6 @@
             "adsapi2.snapchat.com": "INACTIVE"
         },
         "1573149044": {
-            "ads-api.ft.com": "INACTIVE",
             "adsapimus.snapchat.com": "INACTIVE"
         },
         "1573149045": {
@@ -77571,9 +77041,6 @@
         "1573149181": {
             "adserver-euwest.tidaltv.com": "INACTIVE"
         },
-        "1573149182": {
-            "adserver.fyber.com": "INACTIVE"
-        },
         "1573149183": {
             "adserver.goodnuze.com": "INACTIVE"
         },
@@ -77613,9 +77080,6 @@
         },
         "1573149215": {
             "adserver.placeyourview.com": "INACTIVE"
-        },
-        "1573149219": {
-            "adserver-reporting.fyber.com": "INACTIVE"
         },
         "1573149220": {
             "adserverrouter02.prod.vungle.com": "INACTIVE"
@@ -78007,9 +77471,6 @@
         "1573151232": {
             "adtg.widerplanet.com": "INACTIVE"
         },
-        "1573151241": {
-            "adtrack.api.fuel451.com": "INACTIVE"
-        },
         "1573151243": {
             "adtracker.altaopinione.it": "INACTIVE"
         },
@@ -78094,9 +77555,6 @@
         },
         "1573151338": {
             "adv.thirdpresence.com": "INACTIVE"
-        },
-        "1573151340": {
-            "adw.fuel451.com": "INACTIVE"
         },
         "1573151346": {
             "adwiz.zdbb.net": "INACTIVE"
@@ -78366,7 +77824,6 @@
             "afp.e-planning.net": "INACTIVE"
         },
         "1573153167": {
-            "a.fqtag.com": "INACTIVE",
             "afp.tidaltv.com": "INACTIVE"
         },
         "1573153169": {
@@ -79366,12 +78823,6 @@
         "1573156996": {
             "ams4.100tb.heyzap.com": "INACTIVE"
         },
-        "1573157015": {
-            "ams-aws-prd.fyber.com": "INACTIVE"
-        },
-        "1573157021": {
-            "ams-aws-stg.fyber.com": "INACTIVE"
-        },
         "1573157028": {
             "amsgslb1.fwmrm.net": "INACTIVE"
         },
@@ -80147,15 +79598,6 @@
         },
         "1573159387": {
             "api.final.env.sandbox53.localytics.com": "INACTIVE"
-        },
-        "1573159396": {
-            "api.forter.com": "INACTIVE"
-        },
-        "1573159403": {
-            "api.fuel451.com": "INACTIVE"
-        },
-        "1573159404": {
-            "api.funnelenvy.com": "INACTIVE"
         },
         "1573159405": {
             "api.gameanalytics.com": "INACTIVE"
@@ -80971,14 +80413,7 @@
             "app.ebis.ne.jp": "INACTIVE"
         },
         "1573162505": {
-            "app.enabler.neodatagroup.com": "INACTIVE",
-            "appengage-fyber.fyber.com": "INACTIVE"
-        },
-        "1573162506": {
-            "appengage-video.staging.fyber.com": "INACTIVE"
-        },
-        "1573162508": {
-            "appengage-video-staging.fyber.com": "INACTIVE"
+            "app.enabler.neodatagroup.com": "INACTIVE"
         },
         "1573162515": {
             "appgalleries.inmobi.com": "INACTIVE"
@@ -95003,6 +94438,355 @@
         },
         "1574503178": {
             "winexch1dca.foreseeresults.com": "INACTIVE"
+        },
+        "1574504336": {
+            "www-qa.foreseeresults.com": "INACTIVE"
+        },
+        "1574504337": {
+            "www.api.forter.com": "INACTIVE",
+            "www.cbp.forter.com": "INACTIVE"
+        },
+        "1574504338": {
+            "cdn.forter.com": "INACTIVE"
+        },
+        "1574504339": {
+            "b136c9c4-4798-4d9e-b9dd-972e3ce64d75-078d9f6a6dc1.cdn.forter.com": "INACTIVE",
+            "cdn1.forter.com": "INACTIVE"
+        },
+        "1574504343": {
+            "cdn5.forter.com": "INACTIVE",
+            "cdn6.forter.com": "INACTIVE"
+        },
+        "1574504344": {
+            "ccb7596e-84ef-4748-8a73-ed57b17ac2df-078d9f6a6dc1.cdn5.forter.com": "INACTIVE",
+            "cdn6b.forter.com": "INACTIVE"
+        },
+        "1574504345": {
+            "cdn7.forter.com": "INACTIVE",
+            "cdn8.forter.com": "INACTIVE"
+        },
+        "1574504346": {
+            "components.forter.com": "INACTIVE",
+            "dev.forter.com": "INACTIVE"
+        },
+        "1574504347": {
+            "faw.forter.com": "INACTIVE",
+            "www.gdpr-verify.forter.com": "INACTIVE"
+        },
+        "1574504348": {
+            "kp1.forter.com": "INACTIVE",
+            "kp2.forter.com": "INACTIVE"
+        },
+        "1574504349": {
+            "gg.kp2.forter.com": "INACTIVE",
+            "kpstat.forter.com": "INACTIVE"
+        },
+        "1574504350": {
+            "lb.forter.com": "INACTIVE"
+        },
+        "1574504351": {
+            "opensource.forter.com": "INACTIVE",
+            "rodimus.forter.com": "INACTIVE"
+        },
+        "1574504353": {
+            "cdn.usw.forter.com": "INACTIVE",
+            "www.m.api.usw.forter.com": "INACTIVE"
+        },
+        "1574504354": {
+            "cdn4.usw.forter.com": "INACTIVE",
+            "www.cdn0.usw.forter.com": "INACTIVE"
+        },
+        "1574504355": {
+            "www.cdn3.usw.forter.com": "INACTIVE",
+            "www.cdn8.usw.forter.com": "INACTIVE"
+        },
+        "1574504356": {
+            "cdn8.usw.forter.com": "INACTIVE"
+        },
+        "1574504357": {
+            "a.fqtag.com": "INACTIVE",
+            "webdisk.fortressarcade.com": "INACTIVE"
+        },
+        "1574504358": {
+            "b.fqtag.com": "INACTIVE"
+        },
+        "1574504359": {
+            "legacy.fqtag.com": "INACTIVE",
+            "prebid.fqtag.com": "INACTIVE"
+        },
+        "1574504360": {
+            "testle.fqtag.com": "INACTIVE"
+        },
+        "1574504361": {
+            "ad.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504362": {
+            "fmx-req.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504363": {
+            "node1.fractionalmedia.com": "INACTIVE",
+            "node10.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504364": {
+            "node11.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504365": {
+            "node12.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504366": {
+            "node14.fractionalmedia.com": "INACTIVE",
+            "node15.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504367": {
+            "node19.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504368": {
+            "node21.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504369": {
+            "node23.fractionalmedia.com": "INACTIVE",
+            "node28.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504370": {
+            "node31.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504373": {
+            "node5.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504374": {
+            "node6.fractionalmedia.com": "INACTIVE",
+            "node7.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504375": {
+            "node8.fractionalmedia.com": "INACTIVE",
+            "node9.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504376": {
+            "playables.fractionalmedia.com": "INACTIVE"
+        },
+        "1574504380": {
+            "sr.freshmarketer.com": "INACTIVE"
+        },
+        "1574504382": {
+            "fb-proxy-003.friendbuy.com": "INACTIVE"
+        },
+        "1574504383": {
+            "gunnars.friendbuy.com": "INACTIVE",
+            "meundies.friendbuy.com": "INACTIVE"
+        },
+        "1574504384": {
+            "swaggerapi.friendbuy.com": "INACTIVE"
+        },
+        "1574504385": {
+            "vpng2.friendbuy.com": "INACTIVE"
+        },
+        "1574504387": {
+            "ad.fuel451.com": "INACTIVE"
+        },
+        "1574504388": {
+            "adtrack.api.fuel451.com": "INACTIVE",
+            "dev.ads.fuel451.com": "INACTIVE"
+        },
+        "1574504389": {
+            "api.fuel451.com": "INACTIVE",
+            "track.api.fuel451.com": "INACTIVE"
+        },
+        "1574504391": {
+            "fp.fuel451.com": "INACTIVE",
+            "fsr.fuel451.com": "INACTIVE"
+        },
+        "1574504392": {
+            "hp.fuel451.com": "INACTIVE"
+        },
+        "1574504393": {
+            "native.fuel451.com": "INACTIVE",
+            "nt.fuel451.com": "INACTIVE"
+        },
+        "1574504394": {
+            "dev.pixel.fuel451.com": "INACTIVE"
+        },
+        "1574504396": {
+            "tr1.fuel451.com": "INACTIVE",
+            "vasttracktest.fuel451.com": "INACTIVE"
+        },
+        "1574504397": {
+            "vpaid.fuel451.com": "INACTIVE",
+            "www.fuel451.com": "INACTIVE"
+        },
+        "1574504399": {
+            "www.partners.fullstory.com": "INACTIVE"
+        },
+        "1574504400": {
+            "prom.fullstory.com": "INACTIVE"
+        },
+        "1574504401": {
+            "prometheus.fullstory.com": "INACTIVE"
+        },
+        "1574504402": {
+            "www.sigs.fullstory.com": "INACTIVE"
+        },
+        "1574504403": {
+            "prometheus.staging.fullstory.com": "INACTIVE",
+            "proxy.prometheus.staging.fullstory.com": "INACTIVE"
+        },
+        "1574504405": {
+            "backstage-client.funnelenvy.com": "INACTIVE"
+        },
+        "1574504406": {
+            "backstage-staging-ux.funnelenvy.com": "INACTIVE"
+        },
+        "1574504407": {
+            "factory.funnelenvy.com": "INACTIVE",
+            "www.get.funnelenvy.com": "INACTIVE"
+        },
+        "1574504412": {
+            "appengage-fyber.fyber.com": "INACTIVE"
+        },
+        "1574504413": {
+            "asset1.fyber.com": "INACTIVE",
+            "asset2.fyber.com": "INACTIVE"
+        },
+        "1574504414": {
+            "asset3.fyber.com": "INACTIVE",
+            "asset4.fyber.com": "INACTIVE"
+        },
+        "1574504415": {
+            "atlassian.fyber.com": "INACTIVE",
+            "atlassian2.fyber.com": "INACTIVE"
+        },
+        "1574504416": {
+            "aws-production-banner-server-eu-west-1.banner-server.fyber.com": "INACTIVE"
+        },
+        "1574504417": {
+            "aws-production-banner-server-us-west-2.banner-server.fyber.com": "INACTIVE",
+            "eu-west-1.banner-server.fyber.com": "INACTIVE"
+        },
+        "1574504418": {
+            "be.fyber.com": "INACTIVE",
+            "latency.banner-server.fyber.com": "INACTIVE"
+        },
+        "1574504419": {
+            "bre.fyber.com": "INACTIVE",
+            "rundeck.bi.fyber.com": "INACTIVE"
+        },
+        "1574504420": {
+            "bs-creatives-fix.fyber.com": "INACTIVE",
+            "cdn.fyber.com": "INACTIVE"
+        },
+        "1574504421": {
+            "cdn0.fyber.com": "INACTIVE",
+            "cdn1.fyber.com": "INACTIVE"
+        },
+        "1574504422": {
+            "cdn2.fyber.com": "INACTIVE",
+            "cdn3.fyber.com": "INACTIVE"
+        },
+        "1574504423": {
+            "cdn4.fyber.com": "INACTIVE",
+            "shadow.cloud.fyber.com": "INACTIVE"
+        },
+        "1574504424": {
+            "ci.fyber.com": "INACTIVE",
+            "crowd.fyber.com": "INACTIVE"
+        },
+        "1574504425": {
+            "customersupport.fyber.com": "INACTIVE"
+        },
+        "1574504426": {
+            "rntsweb.dc2.fyber.com": "INACTIVE"
+        },
+        "1574504427": {
+            "dp-dashboard.fyber.com": "INACTIVE",
+            "grafana.fyber.com": "INACTIVE"
+        },
+        "1574504428": {
+            "gw.fyber.com": "INACTIVE",
+            "www.gw.fyber.com": "INACTIVE"
+        },
+        "1574504429": {
+            "gw-il.fyber.com": "INACTIVE",
+            "www.gw-il.fyber.com": "INACTIVE"
+        },
+        "1574504430": {
+            "gw-sf.fyber.com": "INACTIVE",
+            "www.gw-sf.fyber.com": "INACTIVE"
+        },
+        "1574504432": {
+            "intra.fyber.com": "INACTIVE"
+        },
+        "1574504433": {
+            "mbe-cdn-rtb-staging.fyber.com": "INACTIVE",
+            "mbe-cdn-rtb.fyber.com": "INACTIVE"
+        },
+        "1574504435": {
+            "pixie.fyber.com": "INACTIVE"
+        },
+        "1574504436": {
+            "grafana.prd.fyber.com": "INACTIVE",
+            "kibana.prd.fyber.com": "INACTIVE"
+        },
+        "1574504437": {
+            "marathon.prd.fyber.com": "INACTIVE",
+            "www.kibana.prd.fyber.com": "INACTIVE"
+        },
+        "1574504438": {
+            "observium.prd.fyber.com": "INACTIVE",
+            "pmm.prd-aws.fyber.com": "INACTIVE"
+        },
+        "1574504439": {
+            "fps-prd.production.fyber.com": "INACTIVE",
+            "ofw-pivot-prd.production.fyber.com": "INACTIVE"
+        },
+        "1574504440": {
+            "production-bidding-agent.fyber.com": "INACTIVE"
+        },
+        "1574504441": {
+            "rtcc.fyber.com": "INACTIVE"
+        },
+        "1574504442": {
+            "san.fyber.com": "INACTIVE"
+        },
+        "1574504443": {
+            "appengage-video.staging.fyber.com": "INACTIVE",
+            "ui.staging-api-docs.fyber.com": "INACTIVE"
+        },
+        "1574504444": {
+            "aws-staging-banner-eu-west-1.staging-banner.fyber.com": "INACTIVE"
+        },
+        "1574504446": {
+            "staging-video-broker.fyber.com": "INACTIVE"
+        },
+        "1574504447": {
+            "broker-builder.staging-video-v2.fyber.com": "INACTIVE",
+            "stg.fyber.com": "INACTIVE"
+        },
+        "1574504448": {
+            "pmm.stg-aws.fyber.com": "INACTIVE",
+            "service.stg-aws.fyber.com": "INACTIVE"
+        },
+        "1574504449": {
+            "tableau-test.fyber.com": "INACTIVE"
+        },
+        "1574504450": {
+            "aws-production-tracker-eu-west-1.tracker.fyber.com": "INACTIVE",
+            "aws-production-tracker-us-west-2.tracker.fyber.com": "INACTIVE"
+        },
+        "1574504451": {
+            "kibana.tracker.fyber.com": "INACTIVE",
+            "tube.fyber.com": "INACTIVE"
+        },
+        "1574504452": {
+            "ui-dsp-rtb.fyber.com": "INACTIVE"
+        },
+        "1574504453": {
+            "video-aws-staging.fyber.com": "INACTIVE"
+        },
+        "1574504454": {
+            "aws-production-video-broker-eu-west-1.video-v2.fyber.com": "INACTIVE",
+            "aws-production-video-broker-us-west-2.video-v2.fyber.com": "INACTIVE"
+        },
+        "1574504455": {
+            "broker.video-v2.fyber.com": "INACTIVE"
         }
     }
 }
