@@ -196,6 +196,7 @@
 0.0.0.0 analytics.airfind.com
 0.0.0.0 analytics.api.appdynamics.com
 0.0.0.0 analytics.atdmt.com
+0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.staging.airfind.com
 0.0.0.0 androidads20.adcolony.com
@@ -286,6 +287,7 @@
 0.0.0.0 api.bri-test2.qa.bounceexchange.com
 0.0.0.0 api.bri-test.qa.bounceexchange.com
 0.0.0.0 api.clevergirlscollective.com
+0.0.0.0 api.commander1.com
 0.0.0.0 api.config.airfind.com
 0.0.0.0 api.crashing.qa.bounceexchange.com
 0.0.0.0 api.datadome.co
@@ -299,6 +301,7 @@
 0.0.0.0 api.foobar.qa.bounceexchange.com
 0.0.0.0 api.fooo.qa.bounceexchange.com
 0.0.0.0 api-js.datadome.co
+0.0.0.0 api.mobile.cnzz.com
 0.0.0.0 api.nirror.abtasty.com
 0.0.0.0 api.pt.163.com
 0.0.0.0 api-public.addthis.com
@@ -524,6 +527,7 @@
 0.0.0.0 carphonewarehouse-mid-prod1-t.campaign.adobe.com
 0.0.0.0 carzoneprod.amobee.com
 0.0.0.0 casino-ro-casino-room.bannerflow.com
+0.0.0.0 ca.tag.clrstm.com
 0.0.0.0 cb-p.alcmpn.com
 0.0.0.0 cbsiadops.cbsi.com
 0.0.0.0 cbsnews.cbsi.com
@@ -911,6 +915,7 @@
 0.0.0.0 eum-col.appdynamics.com
 0.0.0.0 eum-image.appdynamics.com
 0.0.0.0 eum-iot-col.appdynamics.com
+0.0.0.0 eu.tag.clrstm.com
 0.0.0.0 eu-west-1.lb.infinity.blismedia.com
 0.0.0.0 eu-west-1.tr.blismedia.com
 0.0.0.0 eu-west-2.target.aws.amazon.com
@@ -1081,6 +1086,7 @@
 0.0.0.0 hookedmediaprod.amobee.com
 0.0.0.0 hq1.appsflyer.com
 0.0.0.0 hq61.appsflyer.com
+0.0.0.0 hqs1.cnzz.com
 0.0.0.0 ht.alcmpn.com
 0.0.0.0 html5.host.bannerflow.com
 0.0.0.0 http.00.s.sophosxl.netopps.cbarsrv.com
@@ -1165,6 +1171,7 @@
 0.0.0.0 isoa.adition.com
 0.0.0.0 issues.adconion.com
 0.0.0.0 i.stg.apester.com
+0.0.0.0 it.clickpoint.com
 0.0.0.0 i.techrepublic.cbsi.com
 0.0.0.0 i.w.inmobi.cn
 0.0.0.0 iwmap.americanexpress.com
@@ -1173,6 +1180,7 @@
 0.0.0.0 jlog.iad.appboy.com
 0.0.0.0 jp.adnxs.com
 0.0.0.0 jp.so.yys.163.com
+0.0.0.0 jp.tag.clrstm.com
 0.0.0.0 js.alocdn.com
 0.0.0.0 js.brealtime.com
 0.0.0.0 js.dev.brealtime.com
@@ -1270,6 +1278,7 @@
 0.0.0.0 media-reports.bluekai.com
 0.0.0.0 media.stg.apester.com
 0.0.0.0 mediation.adpushup.com
+0.0.0.0 mediavine-res.cloudinary.com
 0.0.0.0 meetatces.clinch.co
 0.0.0.0 meetmeprod.amobee.com
 0.0.0.0 metabase.infra.apester.com
@@ -1336,10 +1345,14 @@
 0.0.0.0 nhelp.adjust.com
 0.0.0.0 nirror.abtasty.com
 0.0.0.0 nl.alcmpn.com
+0.0.0.0 nl.clickpoint.com
 0.0.0.0 nlearn.adjust.com
 0.0.0.0 node1.admanmedia.com
+0.0.0.0 node1.colossusssp.com
 0.0.0.0 node2.admanmedia.com
+0.0.0.0 node2.colossusssp.com
 0.0.0.0 node3.admanmedia.com
+0.0.0.0 node3.colossusssp.com
 0.0.0.0 notary.vip.126.com
 0.0.0.0 notifications.stg.apester.com
 0.0.0.0 npr-news.streaming.adswizz.com
@@ -1475,6 +1488,7 @@
 0.0.0.0 player.stg.apester.com
 0.0.0.0 pl.beeviewd.com
 0.0.0.0 pl.bestcontentonline.com
+0.0.0.0 pl.clickpoint.com
 0.0.0.0 pl-p.alcmpn.com
 0.0.0.0 pm.adsafeprotected.com
 0.0.0.0 pm.alcmpn.com
@@ -1488,8 +1502,8 @@
 0.0.0.0 pool.admedo.com
 0.0.0.0 pool.ipm.adhese.com
 0.0.0.0 pool-orangegames.adhese.com
-0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool-pebblemedia.adhese.com
+0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 pop.163.com
 0.0.0.0 pop3.163.com
@@ -1500,6 +1514,7 @@
 0.0.0.0 potomac-clickstream.capitalone.com
 0.0.0.0 pp.adjust.com
 0.0.0.0 pp.alcmpn.com
+0.0.0.0 ppd.clrstm.com
 0.0.0.0 prague-ad.adtdp.com
 0.0.0.0 prague-bid.adtdp.com
 0.0.0.0 prague-cdn.adtdp.com
@@ -1541,6 +1556,7 @@
 0.0.0.0 public-webservice.apdc3n.adpushup.com
 0.0.0.0 public-webservice.geo.adpushup.com
 0.0.0.0 publishers-api.allinviews.com
+0.0.0.0 publishers.clickpoint.com
 0.0.0.0 pubmatic.hkg.events.bidstalk.com
 0.0.0.0 pubmatic-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 pubmatic-winners-eu-west-1-rtb.adroll.com
@@ -1561,6 +1577,7 @@
 0.0.0.0 pxgp1.adpredictive.com
 0.0.0.0 pxgp2.adpredictive.com
 0.0.0.0 pxn.adpredictive.com
+0.0.0.0 q14.cnzz.com
 0.0.0.0 qa3-link.apsalar.com
 0.0.0.0 qa-ads.integration.amobee.com
 0.0.0.0 q.addthis.com
@@ -1723,12 +1740,25 @@
 0.0.0.0 server2.beeviewd.com
 0.0.0.0 server2.bestcontentonline.com
 0.0.0.0 server.allinviews.com
+0.0.0.0 server-be-3.tag.clrstm.com
+0.0.0.0 server-be-4.tag.clrstm.com
 0.0.0.0 server.beeviewd.com
 0.0.0.0 server.bestcontentonline.com
 0.0.0.0 serverc.allinviews.com
 0.0.0.0 servercin.allinviews.com
 0.0.0.0 serverc-ssl.allinviews.com
 0.0.0.0 serverd.allinviews.com
+0.0.0.0 server-jp-2.tag.clrstm.com
+0.0.0.0 server-or-10.tag.clrstm.com
+0.0.0.0 server-or-6.tag.clrstm.com
+0.0.0.0 server-or-7.tag.clrstm.com
+0.0.0.0 server-or-8.tag.clrstm.com
+0.0.0.0 server-sc-10.tag.clrstm.com
+0.0.0.0 server-sc-11.tag.clrstm.com
+0.0.0.0 server-sc-12.tag.clrstm.com
+0.0.0.0 server-sc-7.tag.clrstm.com
+0.0.0.0 server-sc-8.tag.clrstm.com
+0.0.0.0 server-sc-9.tag.clrstm.com
 0.0.0.0 server-ssl.allinviews.com
 0.0.0.0 server-ssl.beeviewd.com
 0.0.0.0 server-ssl.bestcontentonline.com
@@ -1775,6 +1805,7 @@
 0.0.0.0 smartflow.mail.163.com
 0.0.0.0 smetrics.babycenter.com
 0.0.0.0 smetrics.boston.com
+0.0.0.0 smetrics.cnn.com
 0.0.0.0 sm-p.alcmpn.com
 0.0.0.0 smrtpxl.advertising.com
 0.0.0.0 smrtpxl-staging.advertising.com
@@ -1837,7 +1868,11 @@
 0.0.0.0 stage-rtb.applovin.com
 0.0.0.0 stage-vid.applovin.com
 0.0.0.0 staging.ariane.abtasty.com
+0.0.0.0 staging-be-2.tag.clrstm.com
 0.0.0.0 staging-dsp.adotmob.com
+0.0.0.0 staging-jp-2.tag.clrstm.com
+0.0.0.0 staging-or-2.tag.clrstm.com
+0.0.0.0 staging-sc-2.tag.clrstm.com
 0.0.0.0 stagingsharedmarketingcontent.acxiom.com
 0.0.0.0 staging-sidekiq-status.appboy.com
 0.0.0.0 staging-sql.beeketing.com
@@ -1847,8 +1882,8 @@
 0.0.0.0 static.blog.chartbeat.com
 0.0.0.0 static.bounceexchange.com
 0.0.0.0 staticc.adacado.com
-0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static.cdn.adblade.com
+0.0.0.0 static-cdn.adblade.com
 0.0.0.0 staticd.cdn.adblade.com
 0.0.0.0 static-devex.adblade.com
 0.0.0.0 static.devex.adblade.com
@@ -1906,6 +1941,7 @@
 0.0.0.0 sync.alcmpn.com
 0.0.0.0 sync.aniview.com
 0.0.0.0 sync.aralego.com
+0.0.0.0 sync.colossusssp.com
 0.0.0.0 synchrobox.adswizz.com
 0.0.0.0 synchrobox.ec2eu.adswizz.com
 0.0.0.0 syshealth.capitalone.acxiom.com
@@ -2020,6 +2056,7 @@
 0.0.0.0 t.update.3lift.com
 0.0.0.0 t.update.altitude-arena.com
 0.0.0.0 t.update.chartbeat.com
+0.0.0.0 t.update.clrstm.com
 0.0.0.0 t.update.wtag.adaptv.advertising.com
 0.0.0.0 tw-taipei-ad-track.aralego.com
 0.0.0.0 u002fwww.adjust.com
@@ -2086,6 +2123,7 @@
 0.0.0.0 vastpixel2.adsafeprotected.com
 0.0.0.0 vastpixel.adsafeprotected.com
 0.0.0.0 vast.w.inmobi.cn
+0.0.0.0 va.tag.clrstm.com
 0.0.0.0 v.bestcontentonline.com
 0.0.0.0 vdopia.dca.events.bidstalk.com
 0.0.0.0 vd-p.alcmpn.com
@@ -2223,6 +2261,7 @@
 0.0.0.0 www.capitolone.com
 0.0.0.0 www.cbarsrv.com
 0.0.0.0 www.c.bing.com
+0.0.0.0 www.cmaxsrv.com
 0.0.0.0 www.db.neo4jdb.innovation.abtasty.com
 0.0.0.0 www.decision.canarybay.innovation.abtasty.com
 0.0.0.0 www.deviceatlasdc.appspot.com

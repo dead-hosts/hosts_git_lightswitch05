@@ -196,6 +196,7 @@ analytics.163.com
 analytics.airfind.com
 analytics.api.appdynamics.com
 analytics.atdmt.com
+analytics.cohesionapps.com
 analytics-ingress-global.bitmovin.com
 analytics.staging.airfind.com
 androidads20.adcolony.com
@@ -261,8 +262,8 @@ api9328.d41.co
 api9371.d41.co
 api9761.d41.co
 api9931.d41.co
-api.ab4c.ad-brix.com
 apiab4c.ad-brix.com
+api.ab4c.ad-brix.com
 api.accuweather.comwf.cbarsrv.com
 api.addthis.com
 api.adnxs.com
@@ -286,6 +287,7 @@ api.bri.qa.bounceexchange.com
 api.bri-test2.qa.bounceexchange.com
 api.bri-test.qa.bounceexchange.com
 api.clevergirlscollective.com
+api.commander1.com
 api.config.airfind.com
 api.crashing.qa.bounceexchange.com
 api.datadome.co
@@ -299,6 +301,7 @@ api-eu-west-2.datadome.co
 api.foobar.qa.bounceexchange.com
 api.fooo.qa.bounceexchange.com
 api-js.datadome.co
+api.mobile.cnzz.com
 api.nirror.abtasty.com
 api.pt.163.com
 api-public.addthis.com
@@ -524,6 +527,7 @@ campaign.stg.apester.com
 carphonewarehouse-mid-prod1-t.campaign.adobe.com
 carzoneprod.amobee.com
 casino-ro-casino-room.bannerflow.com
+ca.tag.clrstm.com
 cb-p.alcmpn.com
 cbsiadops.cbsi.com
 cbsnews.cbsi.com
@@ -587,8 +591,8 @@ clicknj.cbarsrv.com
 clicks.adsomenoise.adhese.com
 clicks-orangegames.adhese.com
 clicks-pebblemedia.adhese.com
-clicks.roularta.adhese.com
 clicks-roularta.adhese.com
+clicks.roularta.adhese.com
 clickus.admailtiser.com
 click-west.acuityplatform.com
 client-files.celtra.com
@@ -843,8 +847,8 @@ doubleclick.dca.events.bidstalk.com
 doubleclick.hkg.events.bidstalk.com
 douglasgmbh-mkt-prod1.campaign.adobe.com
 download.bannersnack.com
-dpx.airpr.com
 d.px.airpr.com
+dpx.airpr.com
 dq.alcmpn.com
 druid-test-master.extc.adswizz.com
 dsp.adotmob.com
@@ -911,6 +915,7 @@ eu.event.cmp.advertising.com
 eum-col.appdynamics.com
 eum-image.appdynamics.com
 eum-iot-col.appdynamics.com
+eu.tag.clrstm.com
 eu-west-1.lb.infinity.blismedia.com
 eu-west-1.tr.blismedia.com
 eu-west-2.target.aws.amazon.com
@@ -1081,6 +1086,7 @@ hlsmaster1.adswizz.com
 hookedmediaprod.amobee.com
 hq1.appsflyer.com
 hq61.appsflyer.com
+hqs1.cnzz.com
 ht.alcmpn.com
 html5.host.bannerflow.com
 http.00.s.sophosxl.netopps.cbarsrv.com
@@ -1165,6 +1171,7 @@ ir3.mail.163.com
 isoa.adition.com
 issues.adconion.com
 i.stg.apester.com
+it.clickpoint.com
 i.techrepublic.cbsi.com
 i.w.inmobi.cn
 iwmap.americanexpress.com
@@ -1173,6 +1180,7 @@ jact.atdmt.com
 jlog.iad.appboy.com
 jp.adnxs.com
 jp.so.yys.163.com
+jp.tag.clrstm.com
 js.alocdn.com
 js.brealtime.com
 js.dev.brealtime.com
@@ -1270,6 +1278,7 @@ media.orbee.co
 media-reports.bluekai.com
 media.stg.apester.com
 mediation.adpushup.com
+mediavine-res.cloudinary.com
 meetatces.clinch.co
 meetmeprod.amobee.com
 metabase.infra.apester.com
@@ -1336,10 +1345,14 @@ nft.adsttc.com
 nhelp.adjust.com
 nirror.abtasty.com
 nl.alcmpn.com
+nl.clickpoint.com
 nlearn.adjust.com
 node1.admanmedia.com
+node1.colossusssp.com
 node2.admanmedia.com
+node2.colossusssp.com
 node3.admanmedia.com
+node3.colossusssp.com
 notary.vip.126.com
 notifications.stg.apester.com
 npr-news.streaming.adswizz.com
@@ -1475,6 +1488,7 @@ player-jita3.demo.apester.com
 player.stg.apester.com
 pl.beeviewd.com
 pl.bestcontentonline.com
+pl.clickpoint.com
 pl-p.alcmpn.com
 pm.adsafeprotected.com
 pm.alcmpn.com
@@ -1488,8 +1502,8 @@ pool.adizio.com
 pool.admedo.com
 pool.ipm.adhese.com
 pool-orangegames.adhese.com
-pool.pebblemedia.adhese.com
 pool-pebblemedia.adhese.com
+pool.pebblemedia.adhese.com
 pool-roularta.adhese.com
 pop.163.com
 pop3.163.com
@@ -1500,6 +1514,7 @@ portal-jenkins.saastest.appdynamics.com
 potomac-clickstream.capitalone.com
 pp.adjust.com
 pp.alcmpn.com
+ppd.clrstm.com
 prague-ad.adtdp.com
 prague-bid.adtdp.com
 prague-cdn.adtdp.com
@@ -1541,6 +1556,7 @@ public-webservice.apdc2n.adpushup.com
 public-webservice.apdc3n.adpushup.com
 public-webservice.geo.adpushup.com
 publishers-api.allinviews.com
+publishers.clickpoint.com
 pubmatic.hkg.events.bidstalk.com
 pubmatic-winners-ap-northeast-1-rtb.adroll.com
 pubmatic-winners-eu-west-1-rtb.adroll.com
@@ -1561,6 +1577,7 @@ px.airpr.com
 pxgp1.adpredictive.com
 pxgp2.adpredictive.com
 pxn.adpredictive.com
+q14.cnzz.com
 qa3-link.apsalar.com
 qa-ads.integration.amobee.com
 q.addthis.com
@@ -1723,12 +1740,25 @@ server2.allinviews.com
 server2.beeviewd.com
 server2.bestcontentonline.com
 server.allinviews.com
+server-be-3.tag.clrstm.com
+server-be-4.tag.clrstm.com
 server.beeviewd.com
 server.bestcontentonline.com
 serverc.allinviews.com
 servercin.allinviews.com
 serverc-ssl.allinviews.com
 serverd.allinviews.com
+server-jp-2.tag.clrstm.com
+server-or-10.tag.clrstm.com
+server-or-6.tag.clrstm.com
+server-or-7.tag.clrstm.com
+server-or-8.tag.clrstm.com
+server-sc-10.tag.clrstm.com
+server-sc-11.tag.clrstm.com
+server-sc-12.tag.clrstm.com
+server-sc-7.tag.clrstm.com
+server-sc-8.tag.clrstm.com
+server-sc-9.tag.clrstm.com
 server-ssl.allinviews.com
 server-ssl.beeviewd.com
 server-ssl.bestcontentonline.com
@@ -1775,6 +1805,7 @@ smartcart.chicoryapp.com
 smartflow.mail.163.com
 smetrics.babycenter.com
 smetrics.boston.com
+smetrics.cnn.com
 sm-p.alcmpn.com
 smrtpxl.advertising.com
 smrtpxl-staging.advertising.com
@@ -1837,7 +1868,11 @@ stage-pdn.applovin.com
 stage-rtb.applovin.com
 stage-vid.applovin.com
 staging.ariane.abtasty.com
+staging-be-2.tag.clrstm.com
 staging-dsp.adotmob.com
+staging-jp-2.tag.clrstm.com
+staging-or-2.tag.clrstm.com
+staging-sc-2.tag.clrstm.com
 stagingsharedmarketingcontent.acxiom.com
 staging-sidekiq-status.appboy.com
 staging-sql.beeketing.com
@@ -1850,8 +1885,8 @@ staticc.adacado.com
 static-cdn.adblade.com
 static.cdn.adblade.com
 staticd.cdn.adblade.com
-static-devex.adblade.com
 static.devex.adblade.com
+static-devex.adblade.com
 static.green.erne.co
 static.nirror.abtasty.com
 static.red.erne.co
@@ -1906,6 +1941,7 @@ sync.admanmedia.com
 sync.alcmpn.com
 sync.aniview.com
 sync.aralego.com
+sync.colossusssp.com
 synchrobox.adswizz.com
 synchrobox.ec2eu.adswizz.com
 syshealth.capitalone.acxiom.com
@@ -2020,6 +2056,7 @@ tuku.163.com
 t.update.3lift.com
 t.update.altitude-arena.com
 t.update.chartbeat.com
+t.update.clrstm.com
 t.update.wtag.adaptv.advertising.com
 tw-taipei-ad-track.aralego.com
 u002fwww.adjust.com
@@ -2086,6 +2123,7 @@ vast.adrd.co
 vastpixel2.adsafeprotected.com
 vastpixel.adsafeprotected.com
 vast.w.inmobi.cn
+va.tag.clrstm.com
 v.bestcontentonline.com
 vdopia.dca.events.bidstalk.com
 vd-p.alcmpn.com
@@ -2223,6 +2261,7 @@ www.buzzdeck.com
 www.capitolone.com
 www.cbarsrv.com
 www.c.bing.com
+www.cmaxsrv.com
 www.db.neo4jdb.innovation.abtasty.com
 www.decision.canarybay.innovation.abtasty.com
 www.deviceatlasdc.appspot.com
