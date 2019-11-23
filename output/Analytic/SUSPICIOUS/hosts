@@ -211,6 +211,7 @@
 0.0.0.0 aol-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 aol-winners-us-east-1-rtb.adroll.com
 0.0.0.0 aol-winners-us-west-2-rtb.adroll.com
+0.0.0.0 aorta.clickagy.com
 0.0.0.0 apac.bfmio.com
 0.0.0.0 apac-hk-adops.aralego.com
 0.0.0.0 apac-hk-ad-track.aralego.com
@@ -284,6 +285,7 @@
 0.0.0.0 api.bri.qa.bounceexchange.com
 0.0.0.0 api.bri-test2.qa.bounceexchange.com
 0.0.0.0 api.bri-test.qa.bounceexchange.com
+0.0.0.0 api.clevergirlscollective.com
 0.0.0.0 api.config.airfind.com
 0.0.0.0 api.crashing.qa.bounceexchange.com
 0.0.0.0 api.datadome.co
@@ -526,6 +528,7 @@
 0.0.0.0 cbsiadops.cbsi.com
 0.0.0.0 cbsnews.cbsi.com
 0.0.0.0 cbssports.cbsi.com
+0.0.0.0 cc.clickagy.com
 0.0.0.0 ccdn.brightedge.com
 0.0.0.0 c.datadome.co
 0.0.0.0 cdb.amanad.adtdp.com
@@ -797,6 +800,7 @@
 0.0.0.0 dev.adcolony.com
 0.0.0.0 dev-ad-track.aralego.com
 0.0.0.0 dev-adx.aralego.com
+0.0.0.0 dev-aorta.clickagy.com
 0.0.0.0 dev.buzzdeck.com
 0.0.0.0 dev.context.bestbuy.com
 0.0.0.0 dev-dsp.aralego.com
@@ -808,6 +812,7 @@
 0.0.0.0 dg-p.alcmpn.com
 0.0.0.0 diag.atdmt.com
 0.0.0.0 director.adcolony.com
+0.0.0.0 disco.chatid.com
 0.0.0.0 discover-api.apester.com
 0.0.0.0 discover.stg.apester.com
 0.0.0.0 display.apester.com
@@ -1017,6 +1022,7 @@
 0.0.0.0 get.bounceexchange.com
 0.0.0.0 gf-p.alcmpn.com
 0.0.0.0 gift.adkmob.com
+0.0.0.0 gisp-demo.test.chatid.com
 0.0.0.0 glb-ads.affinity.adtechus.com
 0.0.0.0 glb-ads-as.one.adtechjp.com
 0.0.0.0 glb-ads.atwola.adtechjp.com
@@ -1145,6 +1151,7 @@
 0.0.0.0 intent.cbsi.com
 0.0.0.0 interaction.apester.com
 0.0.0.0 interaction.stg.apester.com
+0.0.0.0 internal-analytics.chatid.com
 0.0.0.0 inview.amanad.adtdp.com
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 iomsp.bfmio.com
@@ -1198,6 +1205,7 @@
 0.0.0.0 leargas3.saas.appdynamics.com
 0.0.0.0 legendbrook-dive.demo.apester.com
 0.0.0.0 leovegas-leovegas.bannerflow.com
+0.0.0.0 lexi.clickagy.com
 0.0.0.0 l.feathr.co
 0.0.0.0 lifeat.bannerflow.com
 0.0.0.0 lifescript.alcmpn.com
@@ -1250,6 +1258,7 @@
 0.0.0.0 m.arrivalist.com
 0.0.0.0 match.cbarsrv.com
 0.0.0.0 maw.bronto.com
+0.0.0.0 mb.chatid.com
 0.0.0.0 mc.algovid.com
 0.0.0.0 mccontacts.mail.163.com
 0.0.0.0 mcd-mkt-prod2.campaign.adobe.com
@@ -1411,6 +1420,7 @@
 0.0.0.0 page.beeketing.com
 0.0.0.0 pages.brightedge.com
 0.0.0.0 pages.chartbeat.com
+0.0.0.0 pages.chartboost.com
 0.0.0.0 p.alcmpn.com
 0.0.0.0 parrable.adacado.com
 0.0.0.0 particle.appdynamics.com
@@ -1478,11 +1488,12 @@
 0.0.0.0 pool.admedo.com
 0.0.0.0 pool.ipm.adhese.com
 0.0.0.0 pool-orangegames.adhese.com
-0.0.0.0 pool-pebblemedia.adhese.com
 0.0.0.0 pool.pebblemedia.adhese.com
+0.0.0.0 pool-pebblemedia.adhese.com
 0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 pop.163.com
 0.0.0.0 pop3.163.com
+0.0.0.0 popcorn.chartboost.com
 0.0.0.0 pop-up.1.backend-staging.services.adx1.com
 0.0.0.0 portainer.innovation.abtasty.com
 0.0.0.0 portal-jenkins.saastest.appdynamics.com
@@ -1506,9 +1517,13 @@
 0.0.0.0 privateexchange.dca.events.bidstalk.com
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-a-usa.applovin.com
+0.0.0.0 prod-cart.chicoryapp.com
+0.0.0.0 prod-chat.api.chatid.com
+0.0.0.0 prod-event.chicoryapp.com
 0.0.0.0 prod.hdflash.brightedge.com
 0.0.0.0 prod-m-node-1111.ssp.advertising.com
 0.0.0.0 prod-m-node-3111.ssp.advertising.com
+0.0.0.0 prod-pixel.chicoryapp.com
 0.0.0.0 prod.skepsi.autopilothq.com
 0.0.0.0 prometheus.feathr.co
 0.0.0.0 prom.infra.apester.com
@@ -1577,6 +1592,7 @@
 0.0.0.0 recommd.xyq.cbg.163.com
 0.0.0.0 recommendation.algolia.com
 0.0.0.0 recommendation.apester.com
+0.0.0.0 recommendation.citrix.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 recvis.capitalone.acxiom.com
 0.0.0.0 redboxplay.3cinteractive.com
@@ -1720,6 +1736,7 @@
 0.0.0.0 service-dev.sp.advertising.com
 0.0.0.0 services.answerscloud.com
 0.0.0.0 services.capitalone.acxiom.com
+0.0.0.0 services.chartboost.com
 0.0.0.0 service.sp.advertising.com
 0.0.0.0 seventeen.adready.com
 0.0.0.0 sfb-rtb.applovin.com
@@ -1754,6 +1771,7 @@
 0.0.0.0 smaato.bidagent.xadchina.cn
 0.0.0.0 smaato.dca.events.bidstalk.com
 0.0.0.0 smaato.hkg.events.bidstalk.com
+0.0.0.0 smartcart.chicoryapp.com
 0.0.0.0 smartflow.mail.163.com
 0.0.0.0 smetrics.babycenter.com
 0.0.0.0 smetrics.boston.com
@@ -1829,11 +1847,11 @@
 0.0.0.0 static.blog.chartbeat.com
 0.0.0.0 static.bounceexchange.com
 0.0.0.0 staticc.adacado.com
-0.0.0.0 static.cdn.adblade.com
 0.0.0.0 static-cdn.adblade.com
+0.0.0.0 static.cdn.adblade.com
 0.0.0.0 staticd.cdn.adblade.com
-0.0.0.0 static.devex.adblade.com
 0.0.0.0 static-devex.adblade.com
+0.0.0.0 static.devex.adblade.com
 0.0.0.0 static.green.erne.co
 0.0.0.0 static.nirror.abtasty.com
 0.0.0.0 static.red.erne.co
@@ -1894,6 +1912,7 @@
 0.0.0.0 t.254a.com
 0.0.0.0 t2hz.vip.126.com
 0.0.0.0 tableau.adroll.com
+0.0.0.0 tableau.chatid.com
 0.0.0.0 taboola-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 taboola-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 taboola-winners-us-east-1-rtb.adroll.com
@@ -1974,6 +1993,7 @@
 0.0.0.0 tracker-us-east.adotmob.com
 0.0.0.0 track-fr.admaxim.com
 0.0.0.0 tracking.acs529.com
+0.0.0.0 tracking.chartboost.com
 0.0.0.0 tracking-graphly-907699188.us-west-2.elb.amazonaws.com
 0.0.0.0 tracking.host.bannerflow.com
 0.0.0.0 tracks.aniview.com
@@ -2162,6 +2182,7 @@
 0.0.0.0 wf.cbarsrv.com
 0.0.0.0 wfrm-emeaa.trendmicro.comopps.cbarsrv.com
 0.0.0.0 whatismyip.akamai.comwf.cbarsrv.com
+0.0.0.0 wheatley.chatid.com
 0.0.0.0 whirlpool-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 whirlpool-mkt-prod1-res.campaign.adobe.com
 0.0.0.0 whitbread-rt-prod1-lb.campaign.adobe.com
@@ -2243,6 +2264,7 @@
 0.0.0.0 yj-p.alcmpn.com
 0.0.0.0 ymda.adready.com
 0.0.0.0 youdao.bidagent.xadchina.cn
+0.0.0.0 yunify.chicoryapp.com
 0.0.0.0 zakka.webapp.163.com
 0.0.0.0 zodiac-zodiac.bannerflow.com
 0.0.0.0 zplay.bidagent.xadchina.cn
