@@ -254,6 +254,10 @@ aggreports.appsflyer.com                                                        
 ag.innovid.com                                                                                       ACTIVE      XXX        2019-11-23T11:47:26.689430
 a.innovid.com                                                                                        ACTIVE      XXX        2019-11-23T11:47:25.196119
 aip-stg.insightexpressai.com                                                                         ACTIVE      XXX        2019-11-23T11:47:40.479238
+airflow-bb.etl.us-east-1.kops.kargo.com                                                              ACTIVE      XXX        2019-11-23T12:15:14.883128
+airflow-dev.etl.us-east-1.kops.kargo.com                                                             ACTIVE      XXX        2019-11-23T12:15:15.507001
+airflow-dev-temp.etl.us-east-1.kops.kargo.com                                                        ACTIVE      XXX        2019-11-23T12:15:15.824816
+airflow-temp.etl.us-east-1.kops.kargo.com                                                            ACTIVE      XXX        2019-11-23T12:15:16.534683
 ais.amobee.com                                                                                       ACTIVE      XXX        2019-11-23T02:49:10.187385
 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com                                              ACTIVE      XXX        2019-11-23T02:48:46.737339
 alert.infra.apester.com                                                                              ACTIVE      XXX        2019-11-23T03:03:41.735475
@@ -549,6 +553,7 @@ aragorn.innovid.com                                                             
 archive.consumedmedia.com                                                                            ACTIVE      XXX        2019-11-23T06:26:02.435589
 arena.altitude-arena.com                                                                             ACTIVE      XXX        2019-11-23T02:47:54.526312
 ariane-eu-ae.abtasty.com                                                                             ACTIVE      XXX        2019-11-23T00:10:25.005353
+arion-api.staging.us-east-1.kops.kargo.com                                                           ACTIVE      XXX        2019-11-23T12:15:28.268216
 as.amanad.adtdp.com                                                                                  ACTIVE      XXX        2019-11-23T02:03:55.782941
 asiamiles-mkt-prod1-res.campaign.adobe.com                                                           ACTIVE      XXX        2019-11-23T01:35:31.615695
 asiamiles-mkt-stage1-t.campaign.adobe.com                                                            ACTIVE      XXX        2019-11-23T01:35:31.900380
@@ -578,6 +583,7 @@ attr.appsflyer.com                                                              
 attribution.chacos.com                                                                               ACTIVE      XXX        2019-11-23T05:45:23.422441
 attribution.grasshoppers.com                                                                         ACTIVE      XXX        2019-11-23T10:58:16.445351
 attribution.hushpuppies.com                                                                          ACTIVE      XXX        2019-11-23T11:18:20.697011
+attribution.keds.com                                                                                 ACTIVE      XXX        2019-11-23T12:15:56.874274
 audiences.bluekai.com                                                                                ACTIVE      XXX        2019-11-23T04:13:02.933661
 audiences-qa.bluekai.com                                                                             ACTIVE      XXX        2019-11-23T04:13:06.762743
 audiences-qa-oiada.bluekai.com                                                                       ACTIVE      XXX        2019-11-23T04:13:07.534886
@@ -718,6 +724,7 @@ borg-alfa.brainient.com                                                         
 borg-beta.brainient.com                                                                              ACTIVE      XXX        2019-11-23T04:28:29.426776
 bot.163.com                                                                                          ACTIVE      XXX        2019-11-22T23:30:08.073493
 b.rad.atdmt.com                                                                                      ACTIVE      XXX        2019-11-23T03:38:04.077545
+brain-dev.staging.us-east-1.kops.kargo.com                                                           ACTIVE      XXX        2019-11-23T12:15:28.547591
 brandcdn.exacttarget.com                                                                             ACTIVE      XXX        2019-11-23T08:33:35.247907
 brandedtest.bannersnack.com                                                                          ACTIVE      XXX        2019-11-23T03:56:33.648372
 br.edge.experimentation.intuit.com                                                                   ACTIVE      XXX        2019-11-23T11:48:33.517946
@@ -834,6 +841,9 @@ cedato-sdk.demo.apester.com                                                     
 cedato-test.demo.apester.com                                                                         ACTIVE      XXX        2019-11-23T03:03:27.279142
 cedb.bluekai.com                                                                                     ACTIVE      XXX        2019-11-23T04:13:13.855697
 celtra-uber-personal-messaging.celtra.com                                                            ACTIVE      XXX        2019-11-23T05:45:13.848660
+cerberus.production.ap-southeast-2.kops.kargo.com                                                    ACTIVE      XXX        2019-11-23T12:15:12.453124
+cerberus.production.us-east-1.kops.kargo.com                                                         ACTIVE      XXX        2019-11-23T12:15:19.705245
+cerberus.prod.us-east-1.kops.kargo.com                                                               ACTIVE      XXX        2019-11-23T12:15:18.731831
 ceres.bluekai.com                                                                                    ACTIVE      XXX        2019-11-23T04:13:14.437237
 cf.adform.com                                                                                        ACTIVE      XXX        2019-11-23T00:53:28.936987
 cf.alcmpn.com                                                                                        ACTIVE      XXX        2019-11-23T02:34:43.405474
@@ -889,7 +899,15 @@ cloudflare.abtasty.com                                                          
 cloudflarewh.getadmiral.com                                                                          ACTIVE      XXX        2019-11-23T10:39:17.528513
 cloudgz-ecs.gravityzone.bitdefender.comwf.cbarsrv.com                                                ACTIVE      XXX        2019-11-23T05:44:20.932725
 clusterd10.adlooxtracking.com                                                                        ACTIVE      XXX        2019-11-23T01:09:40.152208
+cma-dev.staging.us-east-1.kops.kargo.com                                                             ACTIVE      XXX        2019-11-23T12:15:28.840403
+cma.kargo.com                                                                                        ACTIVE      XXX        2019-11-23T12:15:06.027096
 cm.alcmpn.com                                                                                        ACTIVE      XXX        2019-11-23T02:34:43.995507
+cma-mgmt-dev.staging.us-east-1.kops.kargo.com                                                        ACTIVE      XXX        2019-11-23T12:15:29.121977
+cma-mgmt-staging.staging.us-east-1.kops.kargo.com                                                    ACTIVE      XXX        2019-11-23T12:15:29.402742
+cma.production.ap-southeast-2.kops.kargo.com                                                         ACTIVE      XXX        2019-11-23T12:15:12.736605
+cma.production.us-east-1.kops.kargo.com                                                              ACTIVE      XXX        2019-11-23T12:15:19.985524
+cma.prod.us-east-1.kops.kargo.com                                                                    ACTIVE      XXX        2019-11-23T12:15:19.014024
+cma-staging.staging.us-east-1.kops.kargo.com                                                         ACTIVE      XXX        2019-11-23T12:15:29.698268
 cmc-marke-cmc-markets.bannerflow.com                                                                 ACTIVE      XXX        2019-11-23T03:56:11.541247
 cm.ctnsnet.com                                                                                       ACTIVE      XXX        2019-11-23T07:04:48.982803
 cm-p.alcmpn.com                                                                                      ACTIVE      XXX        2019-11-23T02:34:43.700902
@@ -958,6 +976,7 @@ convusmp.gogorithm.com                                                          
 cookie.altitude-arena.com                                                                            ACTIVE      XXX        2019-11-23T02:47:55.710137
 cookie.fuel451.com                                                                                   ACTIVE      XXX        2019-11-23T10:19:50.521891
 cookrdr.dc-storm.com                                                                                 ACTIVE      XXX        2019-11-23T07:05:30.996923
+cooladata.kampyle.com                                                                                ACTIVE      XXX        2019-11-23T12:14:48.874362
 coolblue.feeds.bannerflow.com                                                                        ACTIVE      XXX        2019-11-23T03:56:14.907168
 cor.allinviews.com                                                                                   ACTIVE      XXX        2019-11-23T02:47:41.884227
 cor.beeviewd.com                                                                                     ACTIVE      XXX        2019-11-23T03:57:13.043214
@@ -1055,6 +1074,7 @@ cr4.gogorithm.com                                                               
 crashlytics.163.com                                                                                  ACTIVE      XXX        2019-11-22T23:30:19.987366
 crash-metadata.flurry.com                                                                            ACTIVE      XXX        2019-11-23T09:58:36.816556
 crb.innovid.com                                                                                      ACTIVE      XXX        2019-11-23T11:47:27.782112
+crb.kargo.com                                                                                        ACTIVE      XXX        2019-11-23T12:15:06.566188
 crcdn01.adnxs.com                                                                                    ACTIVE      XXX        2019-11-23T01:22:47.030359
 crcdn09.adnxs.com                                                                                    ACTIVE      XXX        2019-11-23T01:22:47.321050
 crcdn.adnxs.com                                                                                      ACTIVE      XXX        2019-11-23T01:22:46.738041
@@ -1170,6 +1190,7 @@ demos.airpr.com                                                                 
 demos.gumgum.com                                                                                     ACTIVE      XXX        2019-11-23T10:59:04.276656
 deondernemer-ams.gravityrd-services.com                                                              ACTIVE      XXX        2019-11-23T10:58:19.608393
 deploy.hiconversion.com                                                                              ACTIVE      XXX        2019-11-23T11:17:18.078002
+design.dev.kargo.com                                                                                 ACTIVE      XXX        2019-11-23T12:15:07.582655
 destination.stg.apester.com                                                                          ACTIVE      XXX        2019-11-23T03:03:59.508323
 dev.adcolony.com                                                                                     ACTIVE      XXX        2019-11-23T00:40:14.404162
 dev-ad-track.aralego.com                                                                             ACTIVE      XXX        2019-11-23T03:21:25.914496
@@ -1192,6 +1213,7 @@ dev.igaworks.com                                                                
 dev.images.my.getadmiral.com                                                                         ACTIVE      XXX        2019-11-23T10:39:24.401220
 dev-metric.adrd.co                                                                                   ACTIVE      XXX        2019-11-22T23:02:48.585487
 dev.operation.igaworks.com                                                                           ACTIVE      XXX        2019-11-23T11:18:30.704110
+devops-dashboard.ops.kargo.com                                                                       ACTIVE      XXX        2019-11-23T12:15:40.302713
 devportal.bluekai.com                                                                                ACTIVE      XXX        2019-11-23T04:13:18.867596
 devsecure.eloqua.com                                                                                 ACTIVE      XXX        2019-11-23T07:55:44.014551
 dev.skepsi.autopilothq.com                                                                           ACTIVE      XXX        2019-11-23T03:39:11.822849
@@ -1441,6 +1463,7 @@ faststrip.stg.apester.com                                                       
 fasttext.audiencediscovery.innovation.abtasty.com                                                    ACTIVE      XXX        2019-11-23T00:10:45.776539
 f.cbarsrv.com                                                                                        ACTIVE      XXX        2019-11-23T05:44:27.104861
 fd.alcmpn.com                                                                                        ACTIVE      XXX        2019-11-23T02:34:48.178747
+feedback-au.kampyle.com                                                                              ACTIVE      XXX        2019-11-23T12:14:50.630082
 feeds.sandbox.auditude.com                                                                           ACTIVE      XXX        2019-11-23T03:38:58.064633
 ff.connextra.com                                                                                     ACTIVE      XXX        2019-11-23T06:25:58.255097
 fg-p.alcmpn.com                                                                                      ACTIVE      XXX        2019-11-23T02:34:48.482966
@@ -1460,6 +1483,7 @@ flash.adrd.co                                                                   
 flash-ads.adsorb.com                                                                                 ACTIVE      XXX        2019-11-23T01:50:43.095257
 fleet.infra.apester.com                                                                              ACTIVE      XXX        2019-11-23T03:03:43.480056
 fl.imgsniper.com                                                                                     ACTIVE      XXX        2019-11-23T11:19:04.139902
+flower.airflow-bb.etl.us-east-1.kops.kargo.com                                                       ACTIVE      XXX        2019-11-23T12:15:15.169447
 fl.reg.163.com                                                                                       ACTIVE      XXX        2019-11-22T23:31:01.405256
 flv.stream.atwola.com                                                                                ACTIVE      XXX        2019-11-23T03:38:33.880089
 fm.alcmpn.com                                                                                        ACTIVE      XXX        2019-11-23T02:34:48.773697
@@ -1501,10 +1525,13 @@ gem.gbc.criteo.com                                                              
 gem.tools.inmobi.com                                                                                 ACTIVE      XXX        2019-11-23T11:46:50.875287
 generic-tarball.tools.inmobi.com                                                                     ACTIVE      XXX        2019-11-23T11:46:51.163127
 geniee.hkg.events.bidstalk.com                                                                       ACTIVE      XXX        2019-11-23T03:58:02.850657
+geoapi.staging.us-east-1.kops.kargo.com                                                              ACTIVE      XXX        2019-11-23T12:15:30.295720
 geo.brainient.com                                                                                    ACTIVE      XXX        2019-11-23T04:28:33.071921
 geo.celtra.com                                                                                       ACTIVE      XXX        2019-11-23T05:45:16.090259
 geoip.apester.com                                                                                    ACTIVE      XXX        2019-11-23T03:03:39.948700
 geoip.stg.apester.com                                                                                ACTIVE      XXX        2019-11-23T03:04:01.572988
+geoip-test.etl.us-east-1.kops.kargo.com                                                              ACTIVE      XXX        2019-11-23T12:15:16.193309
+geoip-web-test.etl.us-east-1.kops.kargo.com                                                          ACTIVE      XXX        2019-11-23T12:15:16.906396
 geoservice.jivox.com                                                                                 ACTIVE      XXX        2019-11-23T12:01:17.142344
 get.appsflyer.com                                                                                    ACTIVE      XXX        2019-11-23T03:20:47.014429
 get.bounceexchange.com                                                                               ACTIVE      XXX        2019-11-23T04:14:35.392520
@@ -1513,6 +1540,7 @@ giantdsp-env-2.us-west-2.elasticbeanstalk.com                                   
 gift.adkmob.com                                                                                      ACTIVE      XXX        2019-11-23T01:07:27.072891
 gisp-demo.test.chatid.com                                                                            ACTIVE      XXX        2019-11-23T05:58:48.788987
 github.tools.inmobi.com                                                                              ACTIVE      XXX        2019-11-23T11:46:51.461439
+g.jwpsrv.com                                                                                         ACTIVE      XXX        2019-11-23T12:14:47.438766
 gladesokkerdk-ams.gravityrd-services.com                                                             ACTIVE      XXX        2019-11-23T10:58:23.931522
 glance.inmobi.com                                                                                    ACTIVE      XXX        2019-11-23T11:33:28.344135
 glb-ads.affinity.adtechus.com                                                                        ACTIVE      XXX        2019-11-23T02:04:48.941536
@@ -1749,6 +1777,7 @@ insights.bluekai.com                                                            
 insights-staging-test.hotjar.com                                                                     ACTIVE      XXX        2019-11-23T11:17:45.020153
 instagram.clinch.co                                                                                  ACTIVE      XXX        2019-11-22T23:03:01.859128
 intapi.adxcel.com                                                                                    ACTIVE      XXX        2019-11-23T02:33:39.429734
+integrations-hub.staging.us-east-1.kops.kargo.com                                                    ACTIVE      XXX        2019-11-23T12:15:30.588183
 intent.cbsi.com                                                                                      ACTIVE      XXX        2019-11-23T05:44:49.359139
 interaction.apester.com                                                                              ACTIVE      XXX        2019-11-23T03:03:47.784064
 interaction.stg.apester.com                                                                          ACTIVE      XXX        2019-11-23T03:04:02.702343
@@ -1819,8 +1848,16 @@ kapi.connatix.com                                                               
 kap-kaplan-internatio.bannerflow.com                                                                 ACTIVE      XXX        2019-11-23T03:56:20.313779
 kaunet-hnd.gravityrd-services.com                                                                    ACTIVE      XXX        2019-11-23T10:58:31.866524
 kaunet-sin.gravityrd-services.com                                                                    ACTIVE      XXX        2019-11-23T10:58:32.150557
+k-auth-dev.staging.us-east-1.kops.kargo.com                                                          ACTIVE      XXX        2019-11-23T12:15:30.866143
 kb.bluekai.com                                                                                       ACTIVE      XXX        2019-11-23T04:13:30.897571
+kbr-builder-dev.staging.us-east-1.kops.kargo.com                                                     ACTIVE      XXX        2019-11-23T12:15:31.442281
+kbr-builder-staging.staging.us-east-1.kops.kargo.com                                                 ACTIVE      XXX        2019-11-23T12:15:31.719016
+kbr-builder.staging.us-east-1.kops.kargo.com                                                         ACTIVE      XXX        2019-11-23T12:15:31.163964
 k.datadome.co                                                                                        ACTIVE      XXX        2019-11-22T23:04:07.487383
+kds.dev.us-west-2.kops.kargo.com                                                                     ACTIVE      XXX        2019-11-23T12:15:36.096868
+kds-pixel.k8s.dev.kargo.com                                                                          ACTIVE      XXX        2019-11-23T12:15:08.840499
+kds-pixel.kargo.com                                                                                  ACTIVE      XXX        2019-11-23T12:15:10.962370
+kds-pixel-proxy.production.us-east-1.kops.kargo.com                                                  ACTIVE      XXX        2019-11-23T12:15:20.426678
 keeper.vip.126.com                                                                                   ACTIVE      XXX        2019-11-22T23:18:16.479226
 kes.gbc.criteo.com                                                                                   ACTIVE      XXX        2019-11-23T07:03:58.661195
 keyring.cbsi.com                                                                                     ACTIVE      XXX        2019-11-23T05:44:50.285664
@@ -1833,7 +1870,13 @@ kjdemo01.stg.bounceexchange.com                                                 
 kjdemo.stg.bounceexchange.com                                                                        ACTIVE      XXX        2019-11-23T04:28:22.850482
 klick-he-klick-health.bannerflow.com                                                                 ACTIVE      XXX        2019-11-23T03:56:20.626073
 kpi.adverline.com                                                                                    ACTIVE      XXX        2019-11-23T02:18:17.102097
+kraken.production.ap-southeast-2.kops.kargo.com                                                      ACTIVE      XXX        2019-11-23T12:15:13.027414
+kraken.production.us-east-1.kops.kargo.com                                                           ACTIVE      XXX        2019-11-23T12:15:20.730221
+kraken.production.us-west-1.kops.kargo.com                                                           ACTIVE      XXX        2019-11-23T12:15:34.773093
 krdtconfig.gaeadata.com                                                                              ACTIVE      XXX        2019-11-23T10:38:34.655062
+krk.kargo.com                                                                                        ACTIVE      XXX        2019-11-23T12:15:36.399618
+krk-nlb-test.kargo.com                                                                               ACTIVE      XXX        2019-11-23T12:15:36.777045
+k-serve.svc.kargo.com                                                                                ACTIVE      XXX        2019-11-23T12:15:48.843300
 kube.app.api.jivox.com                                                                               ACTIVE      XXX        2019-11-23T12:01:11.000046
 kube.brb.api.jivox.com                                                                               ACTIVE      XXX        2019-11-23T12:01:12.001564
 lb2.aaxads.com                                                                                       ACTIVE      XXX        2019-11-23T00:10:22.892615
@@ -1852,6 +1895,8 @@ lens.data.inmobi.com                                                            
 lens.secondry.data.dfw1.inmobi.com                                                                   ACTIVE      XXX        2019-11-23T11:33:07.388344
 leovegas-leovegas.bannerflow.com                                                                     ACTIVE      XXX        2019-11-23T03:56:21.042623
 lexi.clickagy.com                                                                                    ACTIVE      XXX        2019-11-23T05:59:04.450211
+lexid-dev.staging.us-east-1.kops.kargo.com                                                           ACTIVE      XXX        2019-11-23T12:15:32.627026
+lexid.staging.us-east-1.kops.kargo.com                                                               ACTIVE      XXX        2019-11-23T12:15:32.027463
 l.feathr.co                                                                                          ACTIVE      XXX        2019-11-22T23:04:29.021542
 lga-ads-bgp.contextweb.com                                                                           ACTIVE      XXX        2019-11-23T06:26:17.823402
 lga-ads.contextweb.com                                                                               ACTIVE      XXX        2019-11-23T06:26:17.531908
@@ -1908,6 +1953,7 @@ logos.brightedge.com                                                            
 logs.convertexperiments.com                                                                          ACTIVE      XXX        2019-11-23T06:27:00.138000
 log-wc-b.adaptv.advertising.com                                                                      ACTIVE      XXX        2019-11-23T02:18:59.004895
 lookerrnd.appsflyer.com                                                                              ACTIVE      XXX        2019-11-23T03:20:51.219739
+lookup.kargo.com                                                                                     ACTIVE      XXX        2019-11-23T12:15:37.553162
 lp.dynamicyield.com                                                                                  ACTIVE      XXX        2019-11-23T07:54:12.815246
 lrs.fuel451.com                                                                                      ACTIVE      XXX        2019-11-23T10:19:52.970258
 lt.alcmpn.com                                                                                        ACTIVE      XXX        2019-11-23T02:34:52.642258
@@ -1926,6 +1972,7 @@ m.adsymptotic.com                                                               
 magento.convertcart.com                                                                              ACTIVE      XXX        2019-11-23T06:26:49.047290
 mail.acxiom.com                                                                                      ACTIVE      XXX        2019-11-23T00:26:17.940394
 mail.aggregateknowledge.com                                                                          ACTIVE      XXX        2019-11-23T02:34:06.973438
+mailhog.kargo.com                                                                                    ACTIVE      XXX        2019-11-23T12:15:37.940380
 mail.ym.163.com                                                                                      ACTIVE      XXX        2019-11-22T23:31:23.796625
 main.atdmt.com                                                                                       ACTIVE      XXX        2019-11-23T03:38:02.381771
 m.algovid.com                                                                                        ACTIVE      XXX        2019-11-23T02:35:16.280207
@@ -1938,6 +1985,7 @@ marketing.activate.ensighten.com                                                
 marketing.adrizer.com                                                                                ACTIVE      XXX        2019-11-23T01:49:34.708874
 marketing.bronto.com                                                                                 ACTIVE      XXX        2019-11-23T04:29:46.662776
 marketing.ensighten.com                                                                              ACTIVE      XXX        2019-11-23T08:17:56.416995
+marketplace-test.kargo.com                                                                           ACTIVE      XXX        2019-11-23T12:15:38.314367
 marktcom.h-bid.com                                                                                   ACTIVE      XXX        2019-11-23T10:59:15.662370
 m.arrivalist.com                                                                                     ACTIVE      XXX        2019-11-23T03:21:35.691800
 match.cbarsrv.com                                                                                    ACTIVE      XXX        2019-11-23T05:44:30.920512
@@ -1976,6 +2024,7 @@ metrics.creditreport.com                                                        
 metrics.daveandbusters.com                                                                           ACTIVE      XXX        2019-11-23T07:05:24.980172
 metrics.freecreditscore.com                                                                          ACTIVE      XXX        2019-11-23T10:19:37.066444
 metricsupdater.adswizz.com                                                                           ACTIVE      XXX        2019-11-23T02:02:59.513918
+mgmt-angular.dev.staging.us-east-1.kops.kargo.com                                                    ACTIVE      XXX        2019-11-23T12:15:30.000039
 mg-p.alcmpn.com                                                                                      ACTIVE      XXX        2019-11-23T02:34:53.659405
 m.ib.sin1.geoadnxs.com                                                                               ACTIVE      XXX        2019-11-23T10:39:09.735858
 microservice.hapyak.com                                                                              ACTIVE      XXX        2019-11-23T10:59:28.731143
@@ -2061,6 +2110,7 @@ nexus-us-west2.ensighten.com                                                    
 nexus-us-west.ensighten.com                                                                          ACTIVE      XXX        2019-11-23T08:18:08.816805
 nft.adsttc.com                                                                                       ACTIVE      XXX        2019-11-23T02:02:46.132213
 ngdp-staging.flurry.com                                                                              ACTIVE      XXX        2019-11-23T09:58:43.254817
+nginx.prod.us-east-1.gcs.kargo.com                                                                   ACTIVE      XXX        2019-11-23T12:15:10.276936
 nguyenkim-sin.gravityrd-services.com                                                                 ACTIVE      XXX        2019-11-23T10:58:34.682251
 nguyenkim_t-sin.gravityrd-services.com                                                               ACTIVE      XXX        2019-11-23T10:58:35.448855
 nhelp.adjust.com                                                                                     ACTIVE      XXX        2019-11-23T01:07:15.984477
@@ -2355,14 +2405,17 @@ preflight.stage-one.heyzap.com                                                  
 premium.adready.com                                                                                  ACTIVE      XXX        2019-11-23T01:49:26.696328
 preprod-c.datadome.co                                                                                ACTIVE      XXX        2019-11-22T23:04:08.654656
 preview.joystickinteractive.com                                                                      ACTIVE      XXX        2019-11-23T12:01:44.796051
+prg-dev.kargo.com                                                                                    ACTIVE      XXX        2019-11-23T12:15:41.380798
 prg-image-dr.global.exacttarget.com                                                                  ACTIVE      XXX        2019-11-23T08:33:51.261590
 prg-image.global.exacttarget.com                                                                     ACTIVE      XXX        2019-11-23T08:33:50.463818
+prg.kargo.com                                                                                        ACTIVE      XXX        2019-11-23T12:15:40.596852
 prg-mc-dr.global.exacttarget.com                                                                     ACTIVE      XXX        2019-11-23T08:33:51.899130
 prg-mc.global.exacttarget.com                                                                        ACTIVE      XXX        2019-11-23T08:33:51.586003
 priceminister.effiliation.com                                                                        ACTIVE      XXX        2019-11-23T07:55:29.702053
 privacyapi.evidon.com                                                                                ACTIVE      XXX        2019-11-23T08:32:38.778949
 privacyapp.applovin.com                                                                              ACTIVE      XXX        2019-11-23T03:20:05.609069
 privateexchange.dca.events.bidstalk.com                                                              ACTIVE      XXX        2019-11-23T03:57:58.234605
+prod01.kaxsdc.com                                                                                    ACTIVE      XXX        2019-11-23T12:15:55.057854
 prod-a.applovin.com                                                                                  ACTIVE      XXX        2019-11-23T03:20:05.924308
 prod-a-usa.applovin.com                                                                              ACTIVE      XXX        2019-11-23T03:20:06.228455
 prod-cart.chicoryapp.com                                                                             ACTIVE      XXX        2019-11-23T05:58:49.998206
@@ -2679,10 +2732,12 @@ salesloft.demandbase.com                                                        
 salesloft.fullstory.com                                                                              ACTIVE      XXX        2019-11-23T10:20:02.020837
 salesloft.getsentry.com                                                                              ACTIVE      XXX        2019-11-23T10:39:56.058491
 sam.admanmedia.com                                                                                   ACTIVE      XXX        2019-11-23T01:22:02.136263
+sandbox02.kaxsdc.com                                                                                 ACTIVE      XXX        2019-11-23T12:15:56.323815
 sandbox-api.gameanalytics.com                                                                        ACTIVE      XXX        2019-11-23T10:38:49.283485
 sandbox-tracker.bannerflow.com                                                                       ACTIVE      XXX        2019-11-23T03:56:23.777020
 sa-p.alcmpn.com                                                                                      ACTIVE      XXX        2019-11-23T02:35:02.486143
 sapi.adsafeprotected.com                                                                             ACTIVE      XXX        2019-11-23T01:50:30.874038
+sbt-prod.kampyle.com                                                                                 ACTIVE      XXX        2019-11-23T12:14:53.290340
 scaleout.hkg.events.bidstalk.com                                                                     ACTIVE      XXX        2019-11-23T03:58:05.027541
 scdn.uc.atwola.com                                                                                   ACTIVE      XXX        2019-11-23T03:38:34.186559
 scm.ctnsnet.com                                                                                      ACTIVE      XXX        2019-11-23T07:04:50.517516
@@ -2879,6 +2934,7 @@ southwest-airlines-rt-prod2-lb.campaign.adobe.com                               
 southwest-airlines-rt-prod2-res.campaign.adobe.com                                                   ACTIVE      XXX        2019-11-23T01:35:58.100783
 southwest-airlines-rt-prod2-t.campaign.adobe.com                                                     ACTIVE      XXX        2019-11-23T01:35:58.429671
 sp.alcmpn.com                                                                                        ACTIVE      XXX        2019-11-23T02:35:05.432332
+spark.svc.kargo.com                                                                                  ACTIVE      XXX        2019-11-23T12:15:52.506012
 spdy-lb7.adsymptotic.com                                                                             ACTIVE      XXX        2019-11-23T02:03:48.804454
 spdy-lb8.adsymptotic.com                                                                             ACTIVE      XXX        2019-11-23T02:03:49.124380
 specs.justpremium.com                                                                                ACTIVE      XXX        2019-11-23T12:02:20.844356
@@ -2906,6 +2962,7 @@ ss.drift.com                                                                    
 sskzeu.ayads.co                                                                                      ACTIVE      XXX        2019-11-22T23:02:58.219725
 ssl.connextra.com                                                                                    ACTIVE      XXX        2019-11-23T06:25:59.051939
 ssltest.adobedtm.com                                                                                 ACTIVE      XXX        2019-11-23T01:36:07.963546
+sso-dev.staging.us-east-1.kops.kargo.com                                                             ACTIVE      XXX        2019-11-23T12:15:32.331863
 ssp.admanmedia.com                                                                                   ACTIVE      XXX        2019-11-23T01:22:02.470328
 ss-p.alcmpn.com                                                                                      ACTIVE      XXX        2019-11-23T02:35:05.742548
 ssq.tr.blismedia.com                                                                                 ACTIVE      XXX        2019-11-23T04:12:59.695787
@@ -3163,7 +3220,10 @@ throttled.api.test.appsee.com                                                   
 thumbnails.huluim.com                                                                                ACTIVE      XXX        2019-11-23T11:18:12.314760
 tile-service.weather.microsoft.comwf.cbarsrv.com                                                     ACTIVE      XXX        2019-11-23T05:44:21.830062
 timeinc-under-20.bannerflow.com                                                                      ACTIVE      XXX        2019-11-23T03:56:24.602410
+tk.cloud.kargo.com                                                                                   ACTIVE      XXX        2019-11-23T12:15:04.298485
+tk.kargo.com                                                                                         ACTIVE      XXX        2019-11-23T12:15:53.370005
 tk-p.alcmpn.com                                                                                      ACTIVE      XXX        2019-11-23T02:35:09.247172
+tk.production.us-east-1.kops.kargo.com                                                               ACTIVE      XXX        2019-11-23T12:15:21.114203
 tl-p.alcmpn.com                                                                                      ACTIVE      XXX        2019-11-23T02:35:09.588927
 tm-p.alcmpn.com                                                                                      ACTIVE      XXX        2019-11-23T02:35:09.912348
 tmscdn.coremetrics.com                                                                               ACTIVE      XXX        2019-11-23T06:40:33.702010
@@ -3185,6 +3245,8 @@ track-dev.scoota.co                                                             
 track.dictionary.com                                                                                 ACTIVE      XXX        2019-11-23T07:29:37.199458
 tracker.adotmob.com                                                                                  ACTIVE      XXX        2019-11-23T01:48:02.578463
 tracker-asia.adotmob.com                                                                             ACTIVE      XXX        2019-11-23T01:48:03.747996
+tracker.dev.kargo.com                                                                                ACTIVE      XXX        2019-11-23T12:15:09.228079
+tracker-dev.staging.us-east-1.kops.kargo.com                                                         ACTIVE      XXX        2019-11-23T12:15:32.947227
 tracker-us-east.adotmob.com                                                                          ACTIVE      XXX        2019-11-23T01:48:04.067002
 track-fr.admaxim.com                                                                                 ACTIVE      XXX        2019-11-23T01:22:24.800430
 tracking.acs529.com                                                                                  ACTIVE      XXX        2019-11-23T00:11:26.437973
@@ -3249,8 +3311,11 @@ uac.advertising.com                                                             
 uad-winners-ap-northeast-1-rtb.adroll.com                                                            ACTIVE      XXX        2019-11-23T01:50:06.377934
 uaid-linkage.imrworldwide.com                                                                        ACTIVE      XXX        2019-11-23T11:32:09.525737
 ua.inmobi.com                                                                                        ACTIVE      XXX        2019-11-23T11:46:53.169883
+uaparser.staging.us-east-1.kops.kargo.com                                                            ACTIVE      XXX        2019-11-23T12:15:33.253040
 ucrm.bounceexchange.com                                                                              ACTIVE      XXX        2019-11-23T04:28:24.069265
 udata.inlocomedia.com                                                                                ACTIVE      XXX        2019-11-23T11:32:15.900296
+udc.kampyle.com                                                                                      ACTIVE      XXX        2019-11-23T12:14:53.837582
+udc-neb.kampyle.com                                                                                  ACTIVE      XXX        2019-11-23T12:14:54.158247
 ui-rtb.fyber.com                                                                                     ACTIVE      XXX        2019-11-23T10:20:52.795358
 ujjwaltest.qa.campaign.adobe.com                                                                     ACTIVE      XXX        2019-11-23T01:35:53.051912
 uk.edge.experimentation.intuit.com                                                                   ACTIVE      XXX        2019-11-23T11:48:34.407815
@@ -3333,6 +3398,7 @@ vastpixel.adsafeprotected.com                                                   
 vast.w.inmobi.cn                                                                                     ACTIVE      XXX        2019-11-22T23:02:38.215754
 vast.w.inmobi.com                                                                                    ACTIVE      XXX        2019-11-23T11:47:12.055099
 va.tag.clrstm.com                                                                                    ACTIVE      XXX        2019-11-23T06:13:08.122968
+vault.kargo.com                                                                                      ACTIVE      XXX        2019-11-23T12:15:53.918725
 v.bestcontentonline.com                                                                              ACTIVE      XXX        2019-11-23T03:57:29.674361
 vcore.connatix.com                                                                                   ACTIVE      XXX        2019-11-23T06:25:55.845028
 vcr.staging2.crazyegg.com                                                                            ACTIVE      XXX        2019-11-23T06:41:06.285215
@@ -3491,6 +3557,7 @@ ws-skreemr.origin.inverse.com                                                   
 wt.alcmpn.com                                                                                        ACTIVE      XXX        2019-11-23T02:35:12.906200
 wt.orbee.co                                                                                          ACTIVE      XXX        2019-11-22T23:17:39.835343
 w.vip1.ams1.inmobi.com                                                                               ACTIVE      XXX        2019-11-23T11:32:22.942081
+wv.kargo.com                                                                                         ACTIVE      XXX        2019-11-23T12:15:54.426558
 www02.secure.eloqua.com                                                                              ACTIVE      XXX        2019-11-23T08:16:51.135012
 www.15.cbarsrv.com                                                                                   ACTIVE      XXX        2019-11-23T05:44:15.855986
 www.1.backend-staging.services.adx1.com                                                              ACTIVE      XXX        2019-11-23T02:33:26.812480
@@ -3545,6 +3612,7 @@ www.haloapps.com                                                                
 www.hb.adx1.com                                                                                      ACTIVE      XXX        2019-11-23T02:33:03.883011
 www.ithd.exacttarget.com                                                                             ACTIVE      XXX        2019-11-23T08:33:58.773198
 www.jss.aweber.com                                                                                   ACTIVE      XXX        2019-11-23T03:39:24.395759
+www.kampyle.com                                                                                      ACTIVE      XXX        2019-11-23T12:14:54.628477
 www.map.admarvel.com                                                                                 ACTIVE      XXX        2019-11-23T01:22:11.014670
 www.match.cbarsrv.com                                                                                ACTIVE      XXX        2019-11-23T05:44:31.251885
 www.opinion.inmobi.com                                                                               ACTIVE      XXX        2019-11-23T11:34:14.086411
@@ -3570,6 +3638,7 @@ www.www.api.audiencediscovery.innovation.abtasty.com                            
 www.www.db.neo4jdb.innovation.abtasty.com                                                            ACTIVE      XXX        2019-11-23T00:10:54.008371
 www.www.fasttext.audiencediscovery.innovation.abtasty.com                                            ACTIVE      XXX        2019-11-23T00:10:46.154245
 www.www.www.api.audiencediscovery.innovation.abtasty.com                                             ACTIVE      XXX        2019-11-23T00:10:45.116216
+wyvern.prod.us-east-1.kops.kargo.com                                                                 ACTIVE      XXX        2019-11-23T12:15:19.323772
 x.dlx.addthis.com                                                                                    ACTIVE      XXX        2019-11-23T00:52:58.629687
 x.flashtalking.com                                                                                   ACTIVE      XXX        2019-11-23T09:58:28.443371
 x.heyzap.com                                                                                         ACTIVE      XXX        2019-11-23T11:17:16.717784

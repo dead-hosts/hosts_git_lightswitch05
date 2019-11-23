@@ -254,6 +254,10 @@ aggreports.appsflyer.com
 ag.innovid.com
 a.innovid.com
 aip-stg.insightexpressai.com
+airflow-bb.etl.us-east-1.kops.kargo.com
+airflow-dev.etl.us-east-1.kops.kargo.com
+airflow-dev-temp.etl.us-east-1.kops.kargo.com
+airflow-temp.etl.us-east-1.kops.kargo.com
 ais.amobee.com
 alb-prod-invenio-1916515004.us-west-2.elb.amazonaws.com
 alert.infra.apester.com
@@ -367,8 +371,8 @@ api9328.d41.co
 api9371.d41.co
 api9761.d41.co
 api9931.d41.co
-apiab4c.ad-brix.com
 api.ab4c.ad-brix.com
+apiab4c.ad-brix.com
 api.accuweather.comwf.cbarsrv.com
 api.addthis.com
 api.adnxs.com
@@ -549,6 +553,7 @@ aragorn.innovid.com
 archive.consumedmedia.com
 arena.altitude-arena.com
 ariane-eu-ae.abtasty.com
+arion-api.staging.us-east-1.kops.kargo.com
 as.amanad.adtdp.com
 asiamiles-mkt-prod1-res.campaign.adobe.com
 asiamiles-mkt-stage1-t.campaign.adobe.com
@@ -578,6 +583,7 @@ attr.appsflyer.com
 attribution.chacos.com
 attribution.grasshoppers.com
 attribution.hushpuppies.com
+attribution.keds.com
 audiences.bluekai.com
 audiences-qa.bluekai.com
 audiences-qa-oiada.bluekai.com
@@ -718,6 +724,7 @@ borg-alfa.brainient.com
 borg-beta.brainient.com
 bot.163.com
 b.rad.atdmt.com
+brain-dev.staging.us-east-1.kops.kargo.com
 brandcdn.exacttarget.com
 brandedtest.bannersnack.com
 br.edge.experimentation.intuit.com
@@ -834,6 +841,9 @@ cedato-sdk.demo.apester.com
 cedato-test.demo.apester.com
 cedb.bluekai.com
 celtra-uber-personal-messaging.celtra.com
+cerberus.production.ap-southeast-2.kops.kargo.com
+cerberus.production.us-east-1.kops.kargo.com
+cerberus.prod.us-east-1.kops.kargo.com
 ceres.bluekai.com
 cf.adform.com
 cf.alcmpn.com
@@ -871,8 +881,8 @@ clicks.eyereturn.com
 clicks.fiksu.com
 clicks-orangegames.adhese.com
 clicks-pebblemedia.adhese.com
-clicks.roularta.adhese.com
 clicks-roularta.adhese.com
+clicks.roularta.adhese.com
 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
@@ -889,7 +899,15 @@ cloudflare.abtasty.com
 cloudflarewh.getadmiral.com
 cloudgz-ecs.gravityzone.bitdefender.comwf.cbarsrv.com
 clusterd10.adlooxtracking.com
+cma-dev.staging.us-east-1.kops.kargo.com
+cma.kargo.com
 cm.alcmpn.com
+cma-mgmt-dev.staging.us-east-1.kops.kargo.com
+cma-mgmt-staging.staging.us-east-1.kops.kargo.com
+cma.production.ap-southeast-2.kops.kargo.com
+cma.production.us-east-1.kops.kargo.com
+cma.prod.us-east-1.kops.kargo.com
+cma-staging.staging.us-east-1.kops.kargo.com
 cmc-marke-cmc-markets.bannerflow.com
 cm.ctnsnet.com
 cm-p.alcmpn.com
@@ -958,6 +976,7 @@ convusmp.gogorithm.com
 cookie.altitude-arena.com
 cookie.fuel451.com
 cookrdr.dc-storm.com
+cooladata.kampyle.com
 coolblue.feeds.bannerflow.com
 cor.allinviews.com
 cor.beeviewd.com
@@ -1055,6 +1074,7 @@ cr4.gogorithm.com
 crashlytics.163.com
 crash-metadata.flurry.com
 crb.innovid.com
+crb.kargo.com
 crcdn01.adnxs.com
 crcdn09.adnxs.com
 crcdn.adnxs.com
@@ -1170,6 +1190,7 @@ demos.airpr.com
 demos.gumgum.com
 deondernemer-ams.gravityrd-services.com
 deploy.hiconversion.com
+design.dev.kargo.com
 destination.stg.apester.com
 dev.adcolony.com
 dev-ad-track.aralego.com
@@ -1192,6 +1213,7 @@ dev.igaworks.com
 dev.images.my.getadmiral.com
 dev-metric.adrd.co
 dev.operation.igaworks.com
+devops-dashboard.ops.kargo.com
 devportal.bluekai.com
 devsecure.eloqua.com
 dev.skepsi.autopilothq.com
@@ -1242,8 +1264,8 @@ douglasgmbh-mkt-prod1.campaign.adobe.com
 download.bannersnack.com
 download.dev.extremereach.com
 download.extremereach.com
-dpx.airpr.com
 d.px.airpr.com
+dpx.airpr.com
 dq.alcmpn.com
 drts.contextweb.com
 druid-broker.flurry.com
@@ -1441,6 +1463,7 @@ faststrip.stg.apester.com
 fasttext.audiencediscovery.innovation.abtasty.com
 f.cbarsrv.com
 fd.alcmpn.com
+feedback-au.kampyle.com
 feeds.sandbox.auditude.com
 ff.connextra.com
 fg-p.alcmpn.com
@@ -1460,6 +1483,7 @@ flash.adrd.co
 flash-ads.adsorb.com
 fleet.infra.apester.com
 fl.imgsniper.com
+flower.airflow-bb.etl.us-east-1.kops.kargo.com
 fl.reg.163.com
 flv.stream.atwola.com
 fm.alcmpn.com
@@ -1501,10 +1525,13 @@ gem.gbc.criteo.com
 gem.tools.inmobi.com
 generic-tarball.tools.inmobi.com
 geniee.hkg.events.bidstalk.com
+geoapi.staging.us-east-1.kops.kargo.com
 geo.brainient.com
 geo.celtra.com
 geoip.apester.com
 geoip.stg.apester.com
+geoip-test.etl.us-east-1.kops.kargo.com
+geoip-web-test.etl.us-east-1.kops.kargo.com
 geoservice.jivox.com
 get.appsflyer.com
 get.bounceexchange.com
@@ -1513,6 +1540,7 @@ giantdsp-env-2.us-west-2.elasticbeanstalk.com
 gift.adkmob.com
 gisp-demo.test.chatid.com
 github.tools.inmobi.com
+g.jwpsrv.com
 gladesokkerdk-ams.gravityrd-services.com
 glance.inmobi.com
 glb-ads.affinity.adtechus.com
@@ -1749,6 +1777,7 @@ insights.bluekai.com
 insights-staging-test.hotjar.com
 instagram.clinch.co
 intapi.adxcel.com
+integrations-hub.staging.us-east-1.kops.kargo.com
 intent.cbsi.com
 interaction.apester.com
 interaction.stg.apester.com
@@ -1819,8 +1848,16 @@ kapi.connatix.com
 kap-kaplan-internatio.bannerflow.com
 kaunet-hnd.gravityrd-services.com
 kaunet-sin.gravityrd-services.com
+k-auth-dev.staging.us-east-1.kops.kargo.com
 kb.bluekai.com
+kbr-builder-dev.staging.us-east-1.kops.kargo.com
+kbr-builder-staging.staging.us-east-1.kops.kargo.com
+kbr-builder.staging.us-east-1.kops.kargo.com
 k.datadome.co
+kds.dev.us-west-2.kops.kargo.com
+kds-pixel.k8s.dev.kargo.com
+kds-pixel.kargo.com
+kds-pixel-proxy.production.us-east-1.kops.kargo.com
 keeper.vip.126.com
 kes.gbc.criteo.com
 keyring.cbsi.com
@@ -1833,7 +1870,13 @@ kjdemo01.stg.bounceexchange.com
 kjdemo.stg.bounceexchange.com
 klick-he-klick-health.bannerflow.com
 kpi.adverline.com
+kraken.production.ap-southeast-2.kops.kargo.com
+kraken.production.us-east-1.kops.kargo.com
+kraken.production.us-west-1.kops.kargo.com
 krdtconfig.gaeadata.com
+krk.kargo.com
+krk-nlb-test.kargo.com
+k-serve.svc.kargo.com
 kube.app.api.jivox.com
 kube.brb.api.jivox.com
 lb2.aaxads.com
@@ -1852,6 +1895,8 @@ lens.data.inmobi.com
 lens.secondry.data.dfw1.inmobi.com
 leovegas-leovegas.bannerflow.com
 lexi.clickagy.com
+lexid-dev.staging.us-east-1.kops.kargo.com
+lexid.staging.us-east-1.kops.kargo.com
 l.feathr.co
 lga-ads-bgp.contextweb.com
 lga-ads.contextweb.com
@@ -1908,6 +1953,7 @@ logos.brightedge.com
 logs.convertexperiments.com
 log-wc-b.adaptv.advertising.com
 lookerrnd.appsflyer.com
+lookup.kargo.com
 lp.dynamicyield.com
 lrs.fuel451.com
 lt.alcmpn.com
@@ -1926,6 +1972,7 @@ m.adsymptotic.com
 magento.convertcart.com
 mail.acxiom.com
 mail.aggregateknowledge.com
+mailhog.kargo.com
 mail.ym.163.com
 main.atdmt.com
 m.algovid.com
@@ -1938,6 +1985,7 @@ marketing.activate.ensighten.com
 marketing.adrizer.com
 marketing.bronto.com
 marketing.ensighten.com
+marketplace-test.kargo.com
 marktcom.h-bid.com
 m.arrivalist.com
 match.cbarsrv.com
@@ -1976,6 +2024,7 @@ metrics.creditreport.com
 metrics.daveandbusters.com
 metrics.freecreditscore.com
 metricsupdater.adswizz.com
+mgmt-angular.dev.staging.us-east-1.kops.kargo.com
 mg-p.alcmpn.com
 m.ib.sin1.geoadnxs.com
 microservice.hapyak.com
@@ -2061,6 +2110,7 @@ nexus-us-west2.ensighten.com
 nexus-us-west.ensighten.com
 nft.adsttc.com
 ngdp-staging.flurry.com
+nginx.prod.us-east-1.gcs.kargo.com
 nguyenkim-sin.gravityrd-services.com
 nguyenkim_t-sin.gravityrd-services.com
 nhelp.adjust.com
@@ -2146,8 +2196,8 @@ o-o---preferred---sn-5uaezn7y---v24---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v23---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v24---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v8---cache.c.googlesyndication.com
-o-o.preferred.sn-5uu-vgqe.v18.cache.c.googlesyndication.com
 o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
+o-o.preferred.sn-5uu-vgqe.v18.cache.c.googlesyndication.com
 o-o---preferred---sn-5uu-vgqe---v9---cache.c.googlesyndication.com
 o-o---preferred---sn-5uu-vgql---v21---cache.c.googlesyndication.com
 o-o---preferred---sn-o097zne7---v10---cache.c.googlesyndication.com
@@ -2355,14 +2405,17 @@ preflight.stage-one.heyzap.com
 premium.adready.com
 preprod-c.datadome.co
 preview.joystickinteractive.com
+prg-dev.kargo.com
 prg-image-dr.global.exacttarget.com
 prg-image.global.exacttarget.com
+prg.kargo.com
 prg-mc-dr.global.exacttarget.com
 prg-mc.global.exacttarget.com
 priceminister.effiliation.com
 privacyapi.evidon.com
 privacyapp.applovin.com
 privateexchange.dca.events.bidstalk.com
+prod01.kaxsdc.com
 prod-a.applovin.com
 prod-a-usa.applovin.com
 prod-cart.chicoryapp.com
@@ -2679,10 +2732,12 @@ salesloft.demandbase.com
 salesloft.fullstory.com
 salesloft.getsentry.com
 sam.admanmedia.com
+sandbox02.kaxsdc.com
 sandbox-api.gameanalytics.com
 sandbox-tracker.bannerflow.com
 sa-p.alcmpn.com
 sapi.adsafeprotected.com
+sbt-prod.kampyle.com
 scaleout.hkg.events.bidstalk.com
 scdn.uc.atwola.com
 scm.ctnsnet.com
@@ -2879,6 +2934,7 @@ southwest-airlines-rt-prod2-lb.campaign.adobe.com
 southwest-airlines-rt-prod2-res.campaign.adobe.com
 southwest-airlines-rt-prod2-t.campaign.adobe.com
 sp.alcmpn.com
+spark.svc.kargo.com
 spdy-lb7.adsymptotic.com
 spdy-lb8.adsymptotic.com
 specs.justpremium.com
@@ -2906,6 +2962,7 @@ ss.drift.com
 sskzeu.ayads.co
 ssl.connextra.com
 ssltest.adobedtm.com
+sso-dev.staging.us-east-1.kops.kargo.com
 ssp.admanmedia.com
 ss-p.alcmpn.com
 ssq.tr.blismedia.com
@@ -3163,7 +3220,10 @@ throttled.api.test.appsee.com
 thumbnails.huluim.com
 tile-service.weather.microsoft.comwf.cbarsrv.com
 timeinc-under-20.bannerflow.com
+tk.cloud.kargo.com
+tk.kargo.com
 tk-p.alcmpn.com
+tk.production.us-east-1.kops.kargo.com
 tl-p.alcmpn.com
 tm-p.alcmpn.com
 tmscdn.coremetrics.com
@@ -3185,6 +3245,8 @@ track-dev.scoota.co
 track.dictionary.com
 tracker.adotmob.com
 tracker-asia.adotmob.com
+tracker.dev.kargo.com
+tracker-dev.staging.us-east-1.kops.kargo.com
 tracker-us-east.adotmob.com
 track-fr.admaxim.com
 tracking.acs529.com
@@ -3249,8 +3311,11 @@ uac.advertising.com
 uad-winners-ap-northeast-1-rtb.adroll.com
 uaid-linkage.imrworldwide.com
 ua.inmobi.com
+uaparser.staging.us-east-1.kops.kargo.com
 ucrm.bounceexchange.com
 udata.inlocomedia.com
+udc.kampyle.com
+udc-neb.kampyle.com
 ui-rtb.fyber.com
 ujjwaltest.qa.campaign.adobe.com
 uk.edge.experimentation.intuit.com
@@ -3333,6 +3398,7 @@ vastpixel.adsafeprotected.com
 vast.w.inmobi.cn
 vast.w.inmobi.com
 va.tag.clrstm.com
+vault.kargo.com
 v.bestcontentonline.com
 vcore.connatix.com
 vcr.staging2.crazyegg.com
@@ -3491,6 +3557,7 @@ ws-skreemr.origin.inverse.com
 wt.alcmpn.com
 wt.orbee.co
 w.vip1.ams1.inmobi.com
+wv.kargo.com
 www02.secure.eloqua.com
 www.15.cbarsrv.com
 www.1.backend-staging.services.adx1.com
@@ -3545,6 +3612,7 @@ www.haloapps.com
 www.hb.adx1.com
 www.ithd.exacttarget.com
 www.jss.aweber.com
+www.kampyle.com
 www.map.admarvel.com
 www.match.cbarsrv.com
 www.opinion.inmobi.com
@@ -3570,6 +3638,7 @@ www.www.api.audiencediscovery.innovation.abtasty.com
 www.www.db.neo4jdb.innovation.abtasty.com
 www.www.fasttext.audiencediscovery.innovation.abtasty.com
 www.www.www.api.audiencediscovery.innovation.abtasty.com
+wyvern.prod.us-east-1.kops.kargo.com
 x.dlx.addthis.com
 x.flashtalking.com
 x.heyzap.com
