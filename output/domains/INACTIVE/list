@@ -384,6 +384,7 @@ adtrack.api.fuel451.com
 ad-track.aralego.com
 adtracker.airmilesopinions.ca
 adtracker.irishopinions.com
+adtracker.opineygane.com
 adtracker.valuedopinions.com.au
 adtracker.webperspectives.ca
 adt-sync.adtdp.com
@@ -1027,6 +1028,7 @@ at.lokaplatform.com
 atmedia.mindtake.com
 atms.wdm.mindtake.com
 atom.link.apsalar.com
+at.optimahub.com
 attdns.acxiom.com
 attribution.mediamind.com
 att-uat.analytics-egain.com
@@ -1069,6 +1071,7 @@ auth.mparticle.com
 authorisation.analyticson.com
 authorization.affiliates.advidi.com
 auth.poc.exacttarget.com
+authportal.optimizely.com
 auth.qa1.exacttarget.com
 auth.qa2.exacttarget.com
 auth.qa3.exacttarget.com
@@ -1524,6 +1527,7 @@ cdg-integration-x1.mediamath.com
 cdh4.ebuzzing.com
 cdhmanager-prod.bronto.com
 cdim.channelintelligence.com
+cdkdc.optimahub.com
 c.dlx.addthis.com
 cdm.adpiano.com
 cdn0.fyber.com
@@ -1652,6 +1656,8 @@ c.googlesyndication.com
 cg.ra.linksynergy.com
 ch1aqu.atdmt.com
 ch1trk.atdmt.com
+changehistory.dev.appbe.optimizely.com
+changehistory-dev-travis.dev.appbe.optimizely.com
 channeliq-d3.openxenterprise.com
 channelm.miaozhen.com
 chaplin2019052207423110.saas.appdynamics.com
@@ -1740,6 +1746,7 @@ clicks-vrt.adhese.com
 clicktrack.adtheorent.com
 clicktrack.bnmla.com
 click.trigr.co
+client.build.optimizely.com
 client.dotomi.com
 client-fast.addthis.com
 clientmanagement.aws.lijit.com
@@ -2001,6 +2008,7 @@ cts-secure.channelintelligence.com
 ctv.aertb.com
 cunda.advolution.biz
 curiositystream.adlegend.com
+current.app.optimizely.com
 current-azure-ext.newrelic.com
 cusas10.acxiom.com
 cusp.rdr.channelintelligence.com
@@ -2120,6 +2128,11 @@ dbs.adadyn.com
 db-us-central.adlithium.com
 db-us-east.adlithium.com
 dc01.automatad.com
+dc-13abe.optimahub.com
+dc-1623b.optimahub.com
+dc-1a595.optimahub.com
+dc-1dc69.optimahub.com
+dc-1eab4.optimahub.com
 dc2-10.abtasty.com
 dc2-11.abtasty.com
 dc2-1.abtasty.com
@@ -2132,8 +2145,15 @@ dc2-6.abtasty.com
 dc2-7.abtasty.com
 dc2-8.abtasty.com
 dc2-9.abtasty.com
+dc-3001b.optimahub.com
 dc3.corp.appdynamics.com
+dc-3d98b.optimahub.com
+dc-4073b.optimahub.com
+dc-42d57.optimahub.com
+dc-5a2fd.optimahub.com
+dc-6581a.optimahub.com
 dc7.x.lijit.com
+dc-9b4b9.optimahub.com
 dca.bids.bidstalk.com
 dca.bidstalk.com
 dca.cevent.bidstalk.com
@@ -2146,7 +2166,11 @@ dca.notify.bidstalk.com
 dca-rtbprod.applovin.com
 dcastage-rtb.applovin.com
 dca.win.bidstalk.com
+dc-b6349.optimahub.com
 dcblade01.bnmla.com
+dc-d2d45.optimahub.com
+dc-f47e4.optimahub.com
+dc-facd2.optimahub.com
 dc.geo.bizographics.com
 dcnsterm01.acxiom.com
 dcnsterm02.acxiom.com
@@ -2226,6 +2250,7 @@ demo-uk.adlearnop.advertising.com
 den03prmon01.channelintelligence.com
 denon.links.channelintelligence.com
 dental.gumgum.com
+de.optimahub.com
 deployer.53.localytics.com
 desijedeikin.fanbread.com
 desk.adasiaholdings.com
@@ -2266,6 +2291,7 @@ dev.api.drift.com
 dev-api-eu-west.adlithium.com
 dev.api.orbee.co
 dev-api-us-east.adlithium.com
+dev.appbe.optimizely.com
 devapp.extremereach.com
 dev.applicationinsights.microsoft.com
 dev.ap-southeast-2.kops.kargo.com
@@ -2314,6 +2340,7 @@ dev.instructions.getadmiral.com
 dev.internal.getadmiral.com
 dev.itown.163.com
 dev-j-serval.adtdp.com
+dev-k8.optimahub.com
 dev-k8s.beeketing.com
 dev-kraken03.wdc.bluekai.com
 dev.liverail.com
@@ -2994,6 +3021,10 @@ freud.links.channelintelligence.com
 fr.eu.preprod.criteo.com
 fr.np.adproxy.ndmdhs.com
 frontbeta.localytics.com
+frontdoor-develrc.appbe.optimizely.com
+frontdoor-develrc-new.us-east.appbe.optimizely.com
+frontdoor-develrc-new.us-west-2.appbe.optimizely.com
+frontdoor-develrc-new.us-west.appbe.optimizely.com
 frontend1.innovid.com
 frontend5.innovid.com
 frontend6.innovid.com
@@ -3138,8 +3169,8 @@ global-admin.macromill.com
 global.macromill.com
 global-monitor.macromill.com
 globalnow.macromill.com
-globeprod.amobee.com
 globe-prod.amobee.com
+globeprod.amobee.com
 glossy.adroll.com
 gls.rt.cquotient.com
 g.mbm.cn.miaozhen.com
@@ -3555,8 +3586,8 @@ ingress-test-api.newstags.stag.bounceexchange.com
 ingress-test.newstags.stag.bounceexchange.com
 in.hotjar.com
 iniitian.saas.appdynamics.com
-in.jwpltx.com
 i.n.jwpltx.com
+in.jwpltx.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
 inmobi.web10-east.manage.com
@@ -3746,6 +3777,9 @@ jss.adroll.com
 jss.aweber.com
 jssdkcdns-staging.mparticle.com
 jssdks-edge.mparticle.com
+js-validator-appx-1188.appbe.optimizely.com
+js-validator.dev.appbe.optimizely.com
+js-validator.qa.appbe.optimizely.com
 juegosdecroquet.7p.com
 juggernaut.bluekai.com
 juggernaut-int.bluekai.com
@@ -3821,6 +3855,7 @@ kpstat.forter.com
 krmdc.gaeadata.com
 kr.np.adproxy.ndmdhs.com
 ks01.ks.extremereach.com
+ksl-d3.openxenterprise.com
 kuber.dsp-bidder-dev.demandbase.com
 kubotasystems-trial.saas.appdynamics.com
 kws.midasplayer.com
@@ -4135,6 +4170,7 @@ mail.search.advertisingbox.com
 ma.inmobi.com
 maintenance.criteo.com
 maintenance.flurry.com
+majorgeeks-d3.openxenterprise.com
 maker.mkto-b0065.com
 makh.7p.com
 malamen.7p.com
@@ -4366,6 +4402,7 @@ mobile-collector-2.newrelic.com
 mobile.openx.com
 mobile.smedia.ca
 mob-uu.dev.webapp.163.com
+mobzilla-d3.openxenterprise.com
 modcloth.sp1.convertro.com
 modelbot.bytegain.com
 model-viewer.bytegain.com
@@ -5318,6 +5355,7 @@ partycityca.rdr.channelintelligence.com
 pas-beta.pinpoint.us-east-1.amazonaws.com
 pas-gamma.pinpoint.us-east-1.amazonaws.com
 pa.silverpush.co
+paste-d3.openxenterprise.com
 patch.analytics.163.com
 path.blismedia.com
 patwill2008.7p.com
@@ -5328,8 +5366,8 @@ payterm01.acxiom.com
 paywall.marketingg2.com
 payweb01.acxiom.com
 pbbl.agkn.com
-pbm-x.7p.com
 pbmx.7p.com
+pbm-x.7p.com
 pbr3-wn2.brightedge.com
 pbrowser-proxy22.brightedge.com
 pc1.mkto-b0065.com
@@ -5513,8 +5551,8 @@ pool-techeu.adhese.com
 pool.telenet.be.adhese.com
 pool-trf.adhese.com
 pool-uatrmb.adhese.com
-pool.vrt.adhese.com
 pool-vrt.adhese.com
+pool.vrt.adhese.com
 pop3.qiye.163.com
 pop.adrcdn.com
 pop.adverline.com
@@ -5731,8 +5769,8 @@ prospect-cm.dsp.linksynergy.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 proximiter-stg.joystickinteractive.com
 proximiter-temp.joystickinteractive.com
 proximiter-tmp.joystickinteractive.com
@@ -5932,6 +5970,7 @@ r.adlithium.com
 rado.segmentation.staging.leanplum.com
 rad.rad.atdmt.com
 railslab.newrelic.com
+raiseit-d3.openxenterprise.com
 rakuten.adroll.com
 ra.linksynergy.com
 ramazil.7p.com
@@ -6313,6 +6352,7 @@ s.admaster.com.cn
 s.adotube.com
 s.ad-pixel.com
 s.ads-twitter.com
+salemwebnetworks-d3.openxenterprise.com
 sales-live-events1.use.dynamicyield.com
 salon-tagan.adlightning.com
 samsonite-cdn.madmobile.com
@@ -6655,6 +6695,7 @@ slate-in.jivox.com
 slave-1.cdn.engagecore.com
 slider-akm.midasplayer.com
 s.ligatus.com
+sloanreview-d3.openxenterprise.com
 slotrod.7p.com
 slv.adpiano.com
 smaato.events.bidstalk.com
@@ -6811,6 +6852,7 @@ southwest.adlegend.com
 sp1.convertro.com
 sp.advertising.com
 spark-cluster.svc.kargo.com
+sparkpeople-d3.openxenterprise.com
 spd.atdmt.com
 spdy-lb11.adsymptotic.com
 spdy-lb2.adsymptotic.com
@@ -7141,6 +7183,7 @@ tableau-test.fyber.com
 t.acexedge.com
 tac.miaozhen.com
 tacoda.at.atwola.com
+tacticalrepublic-d3.openxenterprise.com
 t.adlookr.com
 t.admathhd.com
 t.admthop.com
@@ -7262,6 +7305,7 @@ tester.adocean-global.com
 teste.teste.aunica.com
 test-foo.dev-iad.amobee.com
 testing.avg.163.com
+testing.fullstack.api.optimizely.com
 test-insurancesolutions.acxiom.com
 testjira.corp.ev1.inmobi.com
 test-k8s.dev-iad.amobee.com
@@ -7287,11 +7331,13 @@ testtt.allinviews.com
 test-ui.awin.com
 test-user-sync.adhese.com
 text.foreseeresults.com
+tfe-stage.appbe.optimizely.com
 tfs2010.marketingg2.com
 tfs.marketingg2.com
 t.getadmiral.com
 thebrotherhood.7p.com
 theek.dev-iad.amobee.com
+thelocal-d3.openxenterprise.com
 the-perf-shop-part-2.7p.com
 therealreal.sp1.convertro.com
 thereelrejects.fanbread.com
@@ -7371,6 +7417,7 @@ tracker-cnv.bidder10.mookie1.com
 tracker-cnv.bidder7.mookie1.com
 tracker-cnv.bidder9.mookie1.com
 tracker.meetleads.com
+tracker.optimahub.com
 tracker.staging.adotmob.com
 tracker.staging-analytics.adotmob.com
 tracker.staging-dmp.adotmob.com
@@ -7454,8 +7501,8 @@ transfer.transam.macromill.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel.productads.hlserve.com
 travel-productads.hlserve.com
+travel.productads.hlserve.com
 tr.bnmla.com
 trello-callback.glance-internal.inmobi.com
 tr-em.ad4m.at
@@ -7537,6 +7584,7 @@ ufs.adkmob.com
 ugama.dev-iad.amobee.com
 ugama.qa-iad.amobee.com
 ui2.ensighten.com
+ui4.sandbox.openxenterprise.com
 ui.agkn.com
 ui-dsp-rtb.fyber.com
 ui-idx.inmobi.com
@@ -7885,6 +7933,7 @@ walgreens2.3cinteractive.com
 wanted.adform.com
 wap.advertising.com
 warbyparker.sp1.convertro.com
+washingtonpost-d3.openxenterprise.com
 wass.qa-iad.amobee.com
 watcher.adlithium.com
 wateraid-admin-dev.joystickinteractive.com
@@ -7908,6 +7957,7 @@ w.dfw2.vip.inmobi.com
 wdpbeta.iesnare.com
 w-dual.inmobi.com
 w.e0mn.com
+weatherus-d3.openxenterprise.com
 web001.apsalar.com
 web002.apsalar.com
 web003.apsalar.com
@@ -8785,6 +8835,7 @@ www.officewebapps.foresee.com
 www.oldtown.joystickinteractive.com
 www.opengdpr.mparticle.com
 www.oppo.analytics.glance.inmobi.com
+www.optimezer.com
 www.opt.use.dynamicyield.com
 www-origin.appdynamics.com
 www.origin.demo.mediamind.com
@@ -9174,6 +9225,7 @@ yampapi-prod.flurry.com
 yampapi-staging.flurry.com
 y.atwola.com
 yellowbelt.adform.com
+yellowpages-d3.openxenterprise.com
 yeoldeblog.kissmetrics.com
 yesil.7p.com
 yg.srs.doubleverify.com
