@@ -698,8 +698,8 @@
 0.0.0.0 adyoulike.api.omnitagjs.com
 0.0.0.0 adyoulike-api.omnitagjs.com
 0.0.0.0 adyoulike.apt.omnitagjs.com
-0.0.0.0 adyoulike.dyn.omnitagjs.com
 0.0.0.0 adyoulike-dyn.omnitagjs.com
+0.0.0.0 adyoulike.dyn.omnitagjs.com
 0.0.0.0 adyoulike.omnitagjs.com
 0.0.0.0 adyoulike-preview-09.api.omnitagjs.com
 0.0.0.0 adyoulike.ssp.omnitagjs.com
@@ -1198,9 +1198,12 @@
 0.0.0.0 artifactory-secondary.dev.pardot.com
 0.0.0.0 artifactory-tertiary.dev.pardot.com
 0.0.0.0 as.amanad.adtdp.com
+0.0.0.0 asia.bidswitch.rtb.quantserve.com
+0.0.0.0 asia-google-rtb.quantserve.com
 0.0.0.0 asiamiles-mkt-prod1-res.campaign.adobe.com
 0.0.0.0 asiamiles-mkt-stage1-t.campaign.adobe.com
 0.0.0.0 asia.mpay.mkey.163.com
+0.0.0.0 asia-notify.bidswitch.rtb.quantserve.com
 0.0.0.0 asotrack1.fiksu.com
 0.0.0.0 asotrack2.fiksu.com
 0.0.0.0 asr.ladsp.com
@@ -1291,6 +1294,7 @@
 0.0.0.0 aw.netseer.com
 0.0.0.0 aws.banner-server.fyber.com
 0.0.0.0 aws.interstitial-broker.fyber.com
+0.0.0.0 aws-us-east-rtb.ak.quantserve.com
 0.0.0.0 axioma.mktoweb.com
 0.0.0.0 axonifylearning.mktoweb.com
 0.0.0.0 axonix.dca.events.bidstalk.com
@@ -1353,6 +1357,7 @@
 0.0.0.0 bennelongfundsmanagement.mktoweb.com
 0.0.0.0 bentest.admanmedia.com
 0.0.0.0 berklee-ssl.mktoweb.com
+0.0.0.0 beta1-app.quantummetric.com
 0.0.0.0 beta1.studio.ev1.inmobi.com
 0.0.0.0 beta2-pre.ads.justpremium.com
 0.0.0.0 beta-player1.mixpo.com
@@ -1703,8 +1708,8 @@
 0.0.0.0 clicks.fiksu.com
 0.0.0.0 clicks-orangegames.adhese.com
 0.0.0.0 clicks-pebblemedia.adhese.com
-0.0.0.0 clicks-roularta.adhese.com
 0.0.0.0 clicks.roularta.adhese.com
+0.0.0.0 clicks-roularta.adhese.com
 0.0.0.0 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
@@ -2332,8 +2337,8 @@
 0.0.0.0 e106.yt.srs.doubleverify.com
 0.0.0.0 e2ecredentials.dev.pardot.com
 0.0.0.0 e2-locust.locust.staging-1.staging.leanplum.com
-0.0.0.0 e2.locust.staging-1.staging.leanplum.com
 0.0.0.0 e2-locust.staging-1.staging.leanplum.com
+0.0.0.0 e2.locust.staging-1.staging.leanplum.com
 0.0.0.0 e3.adpushup.com
 0.0.0.0 e9865.lb.engagecore.com
 0.0.0.0 e.acuityplatform.com
@@ -2463,6 +2468,7 @@
 0.0.0.0 eu1-2.nanorep.com
 0.0.0.0 eu1-4.nanorep.com
 0.0.0.0 eu1-bot1.nanorep.com
+0.0.0.0 eu.bidswitch.rtb.quantserve.com
 0.0.0.0 eu-central-1-capture.lift.acquia.com
 0.0.0.0 eu-central-1-prod-tc.lift.acquia.com
 0.0.0.0 eu-central-1-prod-tw.lift.acquia.com
@@ -2473,15 +2479,22 @@
 0.0.0.0 eucmpixel.onedigitalad.com
 0.0.0.0 eu-col-lbg.eum-appdynamics.com
 0.0.0.0 eu.event.cmp.advertising.com
+0.0.0.0 eu-google-rtb.quantserve.com
 0.0.0.0 eu.h-bid.com
 0.0.0.0 eum-col.appdynamics.com
 0.0.0.0 eum.concursolutions.com
 0.0.0.0 eum-image.appdynamics.com
 0.0.0.0 eum-iot-col.appdynamics.com
+0.0.0.0 eu-notify.bidswitch.rtb.quantserve.com
 0.0.0.0 e.update.placelocal.com
 0.0.0.0 eu-pool.a.company-target.com
 0.0.0.0 eu-pool.d.company-target.com
+0.0.0.0 eu.pulsepoint.rtb.quantserve.com
+0.0.0.0 eu-pulsepoint-rtb.quantserve.com
+0.0.0.0 eu-rtb.ak.quantserve.com
+0.0.0.0 eu-rtb-new.ak.quantserve.com
 0.0.0.0 eurtb.onedigitalad.com
+0.0.0.0 eu-smart-ad-rtb.quantserve.com
 0.0.0.0 eu.tag.clrstm.com
 0.0.0.0 eu-west-1.dc-dev.ads.linkedin.com
 0.0.0.0 eu-west-1.email.ads.linkedin.com
@@ -2555,6 +2568,8 @@
 0.0.0.0 exch-e.atdmt.com
 0.0.0.0 exch-eu.atdmt.com
 0.0.0.0 exch.quantserve.comcontrol.kochava.com
+0.0.0.0 exch-us-east.quantserve.com
+0.0.0.0 exch-us-west.quantserve.com
 0.0.0.0 exch-w.atdmt.com
 0.0.0.0 experimentation.intuit.com
 0.0.0.0 explorer-staging.flurry.com
@@ -2633,8 +2648,8 @@
 0.0.0.0 formula-api.adtechus.com
 0.0.0.0 fo-ssp-asi01.omnitagjs.com
 0.0.0.0 fo-ssp-fra01.omnitagjs.com
-0.0.0.0 fo-ssp.omnitagjs.com
 0.0.0.0 fossp.omnitagjs.com
+0.0.0.0 fo-ssp.omnitagjs.com
 0.0.0.0 fo-ssp-usa01.omnitagjs.com
 0.0.0.0 fo-ssp-usa02.omnitagjs.com
 0.0.0.0 fo-static-usa01.omnitagjs.com
@@ -3618,6 +3633,7 @@
 0.0.0.0 mopub-east3-bidder.manage.com
 0.0.0.0 mopub-east3-win.manage.com
 0.0.0.0 mopub-east-bidder.manage.com
+0.0.0.0 mopub.m.quantcount.com
 0.0.0.0 mopubretargeting.dca.events.bidstalk.com
 0.0.0.0 mopubrtb23.lfstmedia.com
 0.0.0.0 m-origin.algovid.com
@@ -3753,6 +3769,7 @@
 0.0.0.0 ns1.footprintdns.com
 0.0.0.0 ns1.nxtck.com
 0.0.0.0 ns1.play.adtoox.com
+0.0.0.0 ns1.quantserve.com
 0.0.0.0 ns1.se-de-fr-ecc.adtooxcloud.com
 0.0.0.0 ns1.se-de-fr-ect.adtooxcloud.com
 0.0.0.0 ns1.se-de-fr-secure-fours.adtooxcloud.com
@@ -3843,8 +3860,8 @@
 0.0.0.0 o-o---preferred---sn-5uaeznek---v23---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uaeznek---v24---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uaeznek---v8---cache.c.googlesyndication.com
-0.0.0.0 o-o.preferred.sn-5uu-vgqe.v18.cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
+0.0.0.0 o-o.preferred.sn-5uu-vgqe.v18.cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uu-vgqe---v9---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uu-vgql---v21---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-o097zne7---v10---cache.c.googlesyndication.com
@@ -4084,6 +4101,7 @@
 0.0.0.0 pixels.perfectaudience.com
 0.0.0.0 pixel-test.parsely.com
 0.0.0.0 pixel.warner.buzzdeck.com
+0.0.0.0 pixel.westpac.quantserve.com
 0.0.0.0 pixfuture-d3.openxenterprise.com
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 places.placed.com
@@ -4139,8 +4157,8 @@
 0.0.0.0 pool-eu.creative-serving.com
 0.0.0.0 pool.ipm.adhese.com
 0.0.0.0 pool-orangegames.adhese.com
-0.0.0.0 pool-pebblemedia.adhese.com
 0.0.0.0 pool.pebblemedia.adhese.com
+0.0.0.0 pool-pebblemedia.adhese.com
 0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 pool-use.creative-serving.com
 0.0.0.0 pool-usw.creative-serving.com
@@ -4217,8 +4235,8 @@
 0.0.0.0 production.pao-1.mathmon.mediamath.com
 0.0.0.0 productivity.alertmanager.staging-1.staging.leanplum.com
 0.0.0.0 productivity.grafana.staging-1.staging.leanplum.com
-0.0.0.0 productivity.locust-2.staging-1.staging.leanplum.com
 0.0.0.0 productivity.locust2.staging-1.staging.leanplum.com
+0.0.0.0 productivity.locust-2.staging-1.staging.leanplum.com
 0.0.0.0 productivity.locust.staging-1.staging.leanplum.com
 0.0.0.0 productivity.prometheus.staging-1.staging.leanplum.com
 0.0.0.0 products.effiliation.com
@@ -4368,6 +4386,7 @@
 0.0.0.0 qa-master1a.apsalar.com
 0.0.0.0 qa-partners.apsalar.com
 0.0.0.0 qasymphony.mktoweb.com
+0.0.0.0 qcx.quantserve.com
 0.0.0.0 qiigo.adready.com
 0.0.0.0 qt2-ec.ad.lgsmartad.com
 0.0.0.0 qt2-gb.info.lgsmartad.com
@@ -4605,8 +4624,8 @@
 0.0.0.0 rtb-facebook.mia.nxtck.com
 0.0.0.0 rtb-facebook.mrs.nxtck.com
 0.0.0.0 rtb-google-gus.nxtck.com
-0.0.0.0 rtb-google.mia.nxtck.com
 0.0.0.0 rtb-google-mia.nxtck.com
+0.0.0.0 rtb-google.mia.nxtck.com
 0.0.0.0 rtb-google-mrs.nxtck.com
 0.0.0.0 rtb-google.mrs.nxtck.com
 0.0.0.0 rtb.impresionesweb.com
@@ -4704,6 +4723,7 @@
 0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.adpushup.com
 0.0.0.0 s2s.ae1.mparticle.com
+0.0.0.0 s2s-canary.quantserve.com
 0.0.0.0 s2s.eu1.mparticle.com
 0.0.0.0 s2s.lfstmedia.com
 0.0.0.0 s2s.mparticle.com
@@ -4948,6 +4968,7 @@
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 serve-east.acuityplatform.com
 0.0.0.0 serve-euro.acuityplatform.com
+0.0.0.0 serve.quantserve.com
 0.0.0.0 server2.allinviews.com
 0.0.0.0 server2.beeviewd.com
 0.0.0.0 server2.bestcontentonline.com
@@ -5082,6 +5103,7 @@
 0.0.0.0 smaato-east-win.manage.com
 0.0.0.0 smaato-eu-bidder.manage.com
 0.0.0.0 smaato.hkg.events.bidstalk.com
+0.0.0.0 smaato.m.quantcount.com
 0.0.0.0 smartcart.chicoryapp.com
 0.0.0.0 smartflow.mail.163.com
 0.0.0.0 smartlinks-e2e.intuit.com
@@ -5466,8 +5488,8 @@
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 tag-dyn-asi01.omnitagjs.com
 0.0.0.0 tag-dyn-fra01.omnitagjs.com
-0.0.0.0 tag.dyn.omnitagjs.com
 0.0.0.0 tag-dyn.omnitagjs.com
+0.0.0.0 tag.dyn.omnitagjs.com
 0.0.0.0 tag-dyn-usa01.omnitagjs.com
 0.0.0.0 tag-dyn-usa02.omnitagjs.com
 0.0.0.0 tag-eu.loopmertb.com
@@ -5858,9 +5880,18 @@
 0.0.0.0 us-east-ad-track.aralego.com
 0.0.0.0 useast.bfmio.com
 0.0.0.0 us-east-bidder.mathtag.com
+0.0.0.0 us-east.bidswitch.rtb.quantserve.com
 0.0.0.0 us-east-dmp.adblade.com
 0.0.0.0 us-east-dsp.aralego.com
+0.0.0.0 us-east-google-rtb.quantserve.com
 0.0.0.0 useastmonitoring.livesegmentservice.com
+0.0.0.0 us-east-notify.bidswitch.rtb.quantserve.com
+0.0.0.0 us-east-pulsepoint-rtb.quantserve.com
+0.0.0.0 us-east.pulsepoint.rtb.quantserve.com
+0.0.0.0 us-east-rtb.ak.quantserve.com
+0.0.0.0 us-east-rtb-new.ak.quantserve.com
+0.0.0.0 us-east-smart-ad-rtb.quantserve.com
+0.0.0.0 us-east.smart-ad.rtb.quantserve.com
 0.0.0.0 us-east-ssp.aralego.com
 0.0.0.0 userapi.bluekai.com
 0.0.0.0 user.desmoinesregister.com
@@ -5888,7 +5919,13 @@
 0.0.0.0 us-west-2.target.aws.amazon.com
 0.0.0.0 uswest.bfmio.com
 0.0.0.0 us-west-bidder.mathtag.com
+0.0.0.0 us-west.bidswitch.rtb.quantserve.com
+0.0.0.0 us-west-google-rtb.quantserve.com
 0.0.0.0 uswestmonitoring.livesegmentservice.com
+0.0.0.0 us-west-notify.bidswitch.rtb.quantserve.com
+0.0.0.0 us-west-pulsepoint-rtb.quantserve.com
+0.0.0.0 us-west.pulsepoint.rtb.quantserve.com
+0.0.0.0 us-west-rtb.ak.quantserve.com
 0.0.0.0 us.xs.mookie1.com
 0.0.0.0 utils.bounceexchange.com
 0.0.0.0 utils.convertcart.com
@@ -6136,6 +6173,7 @@
 0.0.0.0 wolfrose-healer.demo.apester.com
 0.0.0.0 woocommerce1.convertcart.com
 0.0.0.0 wootstudio.ca.pathful.com
+0.0.0.0 wordpressstaging.qualtrics.com
 0.0.0.0 worker.igaworks.com
 0.0.0.0 worldpay.mpeasylink.com
 0.0.0.0 woxikon.h-bid.com
@@ -6363,6 +6401,7 @@
 0.0.0.0 zn8oyzfgocpm2md0h-nlmenterprise.siteintercept.qualtrics.com
 0.0.0.0 zn9kwnzmsd0tuoosj-vrt.siteintercept.qualtrics.com
 0.0.0.0 zndj4uasdhqp1srdx-carsales.siteintercept.qualtrics.com
+0.0.0.0 znefynndqka4qf0fh-euroflorist.siteintercept.qualtrics.com
 0.0.0.0 zodiac-zodiac.bannerflow.com
 0.0.0.0 zookeeper-integration.mparticle.com
 0.0.0.0 z.opmnstr.com
