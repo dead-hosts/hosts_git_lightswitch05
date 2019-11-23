@@ -108,6 +108,8 @@ ad.auditude.com
 ad.bnmla.com
 adc3-launch.adcolony.com
 adc3-launch-staging.adcolony.com
+adcolony-east-bidder.manage.com
+adcolony-east-win.manage.com
 adcount.fyber.com
 ad.cpe.dotomi.com
 addragon-addragon.addragon.com
@@ -233,14 +235,21 @@ adunitv2.cdn.auditude.com
 advevents20.adcolony.com
 adview.bidagent.xadchina.cn
 adw.fuel451.com
+adx-apac-bidder.manage.com
 adx.ap-northeast-1.lb.infinity.blismedia.com
+adx-east-bidder.manage.com
+adx-eu-bidder.manage.com
 adx.eu-west-1.lb.infinity.blismedia.com
 adx.hkg.events.bidstalk.com
+adxopenrtb-east-bidder.manage.com
+adxopenrtb-eu-bidder.manage.com
+adxopenrtb-west-bidder.manage.com
 adxua.hkg.events.bidstalk.com
 adx.us-east-1.lb.infinity.blismedia.com
 adx-useast.dpclk.com
 adx.us-west-1.lb.infinity.blismedia.com
 adx-uswest.dpclk.com
+adx-west-bidder.manage.com
 adx-winners-ap-southeast-1-rtb.adroll.com
 adx-winners-eu-west-1-rtb.adroll.com
 adx-winners-us-east-1-rtb.adroll.com
@@ -386,8 +395,8 @@ api9328.d41.co
 api9371.d41.co
 api9761.d41.co
 api9931.d41.co
-api.ab4c.ad-brix.com
 apiab4c.ad-brix.com
+api.ab4c.ad-brix.com
 api.accuweather.comwf.cbarsrv.com
 api.addthis.com
 api.adnxs.com
@@ -536,13 +545,20 @@ appengage-video-staging.fyber.com
 app.exacttarget.com
 app.flurry.com
 appgalleries.inmobi.com
+app-guse4001.marketo.com
 app.igodigital.com
 app-js.granify.com
 appleimap.vip.163.com
+applovin-apac-bidder.manage.com
 applovin.dca.events.bidstalk.com
+applovin-east-bidder.manage.com
+applovin-eu-bidder.manage.com
 applovin.hkg.events.bidstalk.com
+applovin-west-bidder.manage.com
 app.nirror.abtasty.com
 appodeal.dca.events.bidstalk.com
+appodeal-east-bidder.manage.com
+appodeal-eu-bidder.manage.com
 app.pages.brightedge.com
 app.qa1.jivox.com
 app.qa3.jivox.com
@@ -834,6 +850,7 @@ carphonewarehouse-mid-prod1-t.campaign.adobe.com
 carzoneprod.amobee.com
 casino-ro-casino-room.bannerflow.com
 ca.tag.clrstm.com
+catalog-bidder.manage.com
 cb-p.alcmpn.com
 cbp.forter.com
 cbsiadops.cbsi.com
@@ -888,6 +905,7 @@ cdn.lfstmedia.com
 cdn.lmiutil.com
 cdn.localytics.com
 cdn.lokaplatform.com
+cdn.madmobile.com
 cdn-preview.dynamicyield.com
 cdnreporting.adacado.com
 cdn-sec.tacoda.at.atwola.com
@@ -921,6 +939,7 @@ cf-npr.streaming.adswizz.com
 cgi.vod.cc.163.com
 cg.linksynergy.com
 c.greystripe.com
+chartboost-east-bidder.manage.com
 chartmuseum.k8s-hetzner-test.lifestreet.com
 chartmuseum.k8s-inap-nj.lifestreet.com
 checkipv6.quickconnect.towf.cbarsrv.com
@@ -991,6 +1010,7 @@ cm.ctnsnet.com
 cm.dsp.linksynergy.com
 cm-p.alcmpn.com
 cmp-db.celtra.com
+cms-cdn.madmobile.com
 cms-xch.33across.com
 cms-xch-chicago.33across.com
 cn.avidly.com
@@ -1015,8 +1035,8 @@ collector.lightstep.com
 collector-loadtest.lightstep.com
 collector-lyft-dev.lightstep.com
 collector-lyft-dev-no-grpc.lightstep.com
-collector.meta.lightstep.com
 collector-meta.lightstep.com
+collector.meta.lightstep.com
 collector.prod.expedia.com
 collector.staging.lightstep.com
 collector-staging.lightstep.com
@@ -1043,6 +1063,7 @@ config.vip.126.com
 confluence-tech.amobee.com
 connectivitycheck.android.comopps.cbarsrv.com
 connectivitycheck.gstatic.comwf.cbarsrv.com
+connect.manage.com
 consent.iubenda.com
 content.accu.amobee.com
 content.afp.amobee.com
@@ -1215,6 +1236,7 @@ cs.admanmedia.com
 csdsp.admanmedia.com
 csimon.adotube.com
 csivr.3cinteractive.com
+cs.marinsm.com
 cs-p.alcmpn.com
 css.dc-storm.com
 cstag.admanmedia.com
@@ -1285,6 +1307,7 @@ datacollect4.abtasty.com
 datacollect.abtasty.com
 data.dianomi.com
 data.emb-api.com
+data.maisonsdumonde.com
 data-platform-grafana.staging-1.staging.leanplum.com
 data-platform-ingestion-service.staging-1.staging.leanplum.com
 data-platform-jobs.prod-1.prod.leanplum.com
@@ -1341,6 +1364,7 @@ design.dev.kargo.com
 destination.stg.apester.com
 dev.adcolony.com
 dev-adm-booking.macromill.com
+dev-admin.videocollect.macromill.com
 dev-ad-track.aralego.com
 dev-adx.aralego.com
 dev-aorta.clickagy.com
@@ -1371,7 +1395,9 @@ devsecure.eloqua.com
 dev.skepsi.autopilothq.com
 dev-sspdetl.macromill.com
 dev.stripewh.getadmiral.com
+dev.surveydb.macromill.com
 dev-videocollect.macromill.com
+dev.www.macromill.com
 dev-x.flurry.com
 dex-auth-dev.lifestreet.com
 dex-auth.lifestreet.com
@@ -1431,8 +1457,8 @@ download.bannersnack.com
 download.dev.extremereach.com
 download.extremereach.com
 downloads.leadfeeder.com
-dpx.airpr.com
 d.px.airpr.com
+dpx.airpr.com
 dq.alcmpn.com
 drts.contextweb.com
 druid-broker.flurry.com
@@ -1467,8 +1493,8 @@ e017.en25.com
 e027.en25.com
 e106.yt.srs.doubleverify.com
 e2-locust.locust.staging-1.staging.leanplum.com
-e2.locust.staging-1.staging.leanplum.com
 e2-locust.staging-1.staging.leanplum.com
+e2.locust.staging-1.staging.leanplum.com
 e3.adpushup.com
 e9865.lb.engagecore.com
 e.acuityplatform.com
@@ -1665,6 +1691,7 @@ f.cbarsrv.com
 fd.alcmpn.com
 feedback-au.kampyle.com
 feeds.sandbox.auditude.com
+feo.marfeelcdn.com
 ff.connextra.com
 fg-p.alcmpn.com
 fg-set-my-cookie.c.bing.com
@@ -1687,6 +1714,7 @@ fleet.infra.apester.com
 fl.imgsniper.com
 flower.airflow-bb.etl.us-east-1.kops.kargo.com
 fl.reg.163.com
+flurry-east-bidder.manage.com
 flv.stream.atwola.com
 fm.alcmpn.com
 forbes.aaxads.com
@@ -1709,6 +1737,7 @@ fundingchoicesmessages.google.com
 fusionmediaprod.amobee.com
 futureusprod.amobee.com
 fwias.adsafeprotected.com
+fyber-east-bidder.manage.com
 fybervast.s2s.lfstmedia.com
 fyc.heyzap.com
 gae-data-platform.locust.staging-1.staging.leanplum.com
@@ -1819,6 +1848,9 @@ gw-metadata.euc1.dynamicyield.com
 h30.hiconversion.com
 handbook.apester.com
 handler.fiksu.com
+haproxy01-east-bidder.manage.com
+haproxy01-eu-bidder.manage.com
+haproxy01s-east-bidder.manage.com
 haproxy2-js1-eu-france-1.datadome.co
 haproxy2-js2-eu-france-1.datadome.co
 h.atdmt.com
@@ -2028,7 +2060,10 @@ ingestion-service.dp.staging-1.staging.leanplum.com
 ingress.feathr.co
 in.info.lgsmartad.com
 inl.ctnsnet.com
+inmobi-east-bidder.manage.com
+inmobi-eu-bidder.manage.com
 inneractive.dca.events.bidstalk.com
+inneractive-east-bidder.manage.com
 inneractivertb.lfstmedia.com
 insight.3cinteractive.com
 insights.bluekai.com
@@ -2172,6 +2207,7 @@ laapplovinrtb.lfstmedia.com
 lavservrtb.lfstmedia.com
 lb2.aaxads.com
 lb.aaxads.com
+lb.recruit.macromill.com
 lbservices2.fyber.com
 lb-vip-216-27-63-9.bronto.com
 lcc-mkt-prod1-res.campaign.adobe.com
@@ -2282,6 +2318,7 @@ mail.aggregateknowledge.com
 mailhog.kargo.com
 mail.kursuspemrogramman.com
 mail.ligatus.com
+mail.madmobile.com
 mail.ym.163.com
 main.atdmt.com
 m.algovid.com
@@ -2305,8 +2342,11 @@ m.arrivalist.com
 match.cbarsrv.com
 match.deepintent.com
 match.gogorithm.com
+mavericks.marketo.com
 maw.bronto.com
+maxprebid-east-bidder.manage.com
 mb.chatid.com
+mbid.marfeelrev.com
 mc34-nbtsyjx-jfbr4ks1v2b5tz4.login-qa2.exacttarget.com
 mc.algovid.com
 mccontacts.mail.163.com
@@ -2339,6 +2379,7 @@ metrics.creditreport.com
 metrics.daveandbusters.com
 metrics.freecreditscore.com
 metricsupdater.adswizz.com
+mfm.marketo.com
 mgmt-angular.dev.staging.us-east-1.kops.kargo.com
 mg-p.alcmpn.com
 mhs-admin.macromill.com
@@ -2350,7 +2391,10 @@ missioncontrol.igodigital.com
 mi.w.inmobi.cn
 mktgcdn.coremetrics.com
 mktgcdn.de.coremetrics.com
+mktg-cdn.marketo.com
 mkto.bronto.com
+mktopodab011.marketo.com
+mktopodab01.marketo.com
 mlb.cdn.auditude.com
 mlb.cdns.auditude.com
 ml-p.alcmpn.com
@@ -2359,6 +2403,8 @@ m.mc.exacttarget.com
 mni.adready.com
 moat.bfmio.com
 mob2-uu.dev.webapp.163.com
+mobfox-east-bidder.manage.com
+mobfox-west-bidder.manage.com
 mobile.abtasty.com
 mobile.adfarm1.adition.com
 mobile.adsafeprotected.com
@@ -2385,7 +2431,13 @@ mologiqprod.amobee.com
 mona.admanmedia.com
 monitor.stage.adition.com
 monkeyfrill-whip.demo.apester.com
+mopub-apac-bidder.manage.com
 mopub.dca.events.bidstalk.com
+mopub-east2-bidder.manage.com
+mopub-east2-win.manage.com
+mopub-east3-bidder.manage.com
+mopub-east3-win.manage.com
+mopub-east-bidder.manage.com
 mopubretargeting.dca.events.bidstalk.com
 mopubrtb23.lfstmedia.com
 m-origin.algovid.com
@@ -2433,6 +2485,7 @@ news.blis.com
 news.genapi.euwf.cbarsrv.com
 newsite.joystickinteractive.com
 nexage.dca.events.bidstalk.com
+nexage-east-bidder.manage.com
 nexage.hkg.events.bidstalk.com
 nexage.mads.advertising.com
 nexagertb23.lfstmedia.com
@@ -2573,6 +2626,7 @@ oops.cbarsrv.com
 openrtb.allinviews.com
 openrtb.contextweb.com
 openx.dca.events.bidstalk.com
+openx-east-bidder.manage.com
 openx.hkg.events.bidstalk.com
 openxprod.amobee.com
 openx.rtb.d5p.de17a.com
@@ -2633,6 +2687,7 @@ papajohns.webservices.exacttarget.com
 parrable.adacado.com
 particle.appdynamics.com
 partner.api.getadmiral.com
+partner-api.transam.macromill.com
 partner.glance.inmobi.com
 partner.googleadservices.com
 partnerssl.googleadservices.com
@@ -2644,6 +2699,9 @@ pb.ladsp.com
 p.brealtime.com
 pc.alcmpn.com
 pc.arrivalist.com
+pceu.marfeelrev.com
+pcus.marfeelrev.com
+pcusw.marfeelrev.com
 pd.alcmpn.com
 pdb.uat.inmobi.com
 p.d.e0mn.com
@@ -2771,6 +2829,7 @@ prebid.d.adroll.com
 preflight.stage-one.heyzap.com
 premium.adready.com
 preprod-c.datadome.co
+press.madmobile.com
 preview.joystickinteractive.com
 prg-dev.kargo.com
 prg-image-dr.global.exacttarget.com
@@ -2835,11 +2894,14 @@ psi.fuel451.com
 ps.info.lgsmartad.com
 pso-imbot.inmobi.com
 psr.fuel451.com
+pt-admin.transam.macromill.com
 ptc.imrworldwide.com
 pt.fiksu.com
 pt.friendbuy.com
 pt.info.lgsmartad.com
 p-tky-ebs.adsymptotic.com
+pt-partner-api.transam.macromill.com
+pt-research-api.transam.macromill.com
 pub.admanmedia.com
 pub-console.qa.bounceexchange.com
 public-webservice.apdc1n.adpushup.com
@@ -2997,10 +3059,12 @@ reports-k8s.staging.leanplum.com
 reports.leanplum.com
 reports-petar.prod.leanplum.com
 request.adrcdn.com
+research-api.transam.macromill.com
 reservation.squashjeudepaume.comwf.cbarsrv.com
 resources.adroll.com
 resources.host.bannerflow.com
 resources.inmobi.com
+resources.madmobile.com
 response.demandbase.com
 rest.bronto.com
 rest.dynamicyield.com
@@ -3119,8 +3183,13 @@ rtr.innovid.com
 rt-usa.applovin.com
 rtx.alcmpn.com
 ru.ad.lgsmartad.com
+rubicon-apac-bidder.manage.com
 rubicon.dca.events.bidstalk.com
+rubicon-east2-bidder.manage.com
+rubicon-east-bidder.manage.com
+rubicon-eu-bidder.manage.com
 rubicon.hkg.events.bidstalk.com
+rubicon-west-bidder.manage.com
 rub-winners-ap-northeast-1-rtb.adroll.com
 rub-winners-eu-west-1-rtb.adroll.com
 rub-winners-us-east-1-rtb.adroll.com
@@ -3358,6 +3427,9 @@ sl.alcmpn.com
 slightledhu-ams.gravityrd-services.com
 smaato.bidagent.xadchina.cn
 smaato.dca.events.bidstalk.com
+smaato-east-bidder.manage.com
+smaato-east-win.manage.com
+smaato-eu-bidder.manage.com
 smaato.hkg.events.bidstalk.com
 smartcart.chicoryapp.com
 smartflow.mail.163.com
@@ -3436,6 +3508,7 @@ sso-dev.staging.us-east-1.kops.kargo.com
 sso.staging.leanplum.com
 ssp.admanmedia.com
 ss-p.alcmpn.com
+sspdetl.macromill.com
 ssq.tr.blismedia.com
 ssrv.adjust.com
 s.sspqns.comwf.cbarsrv.com
@@ -3543,11 +3616,18 @@ stcb.admailtiser.com
 st.dynamicyield.com
 st-eu.dynamicyield.com
 st-euw1.dynamicyield.com
+stg-adm-booking.macromill.com
+stg-admin.videocollect.macromill.com
 stg-ads.inmobi.com
+stg-booking.macromill.com
 stg.d41.co
+stg-k4.macromill.com
+stg-k5.macromill.com
 stg.oem.inmobi.com
 stg.skepsi.autopilothq.com
+stg.surveydb.macromill.com
 stg-ua.inmobi.com
+stg-videocollect.macromill.com
 st.music.163.com
 stock.163.com
 store2.gumgum.com
@@ -3609,6 +3689,7 @@ synchrobox.ec2eu.adswizz.com
 sync.intentiq.com
 sync.jivox.com
 sync-west.intentiq.com
+sysco-feature1mmqa.madmobile.com
 syshealth.capitalone.acxiom.com
 t1.convertcart.com
 t.254a.com
@@ -3634,6 +3715,7 @@ tag.foobar.qa.bounceexchange.com
 tag.fooo.qa.bounceexchange.com
 tag.ladsp.com
 tagmanager.alcmpn.com
+tag.marinsm.com
 tag-router.staging.bounceexchange.com
 tags.adtz.com
 tags.bkrtx.com
@@ -3672,8 +3754,10 @@ tap-rt-prod1-t.campaign.adobe.com
 targeting-service.adtechus.com
 taurusking.adkmob.com
 tc-bic.appspot.com
+t.dev02.manage.com
 t.dlx.addthis.com
 team.c3metrics.com
+telemetry.malwarebytes.com
 telemetry.sdk.ams1.appgw.inmobi.com
 telemetry.servers.getgo.com
 telkomselprod.amobee.com
@@ -3823,6 +3907,7 @@ um.ladsp.com
 ums.adtechus.com
 underarmourprod.amobee.com
 unibet-unibet.bannerflow.com
+unity-east-bidder.manage.com
 univision.adready.com
 unleash.infra.apester.com
 unlink.adjust.com
@@ -4010,6 +4095,7 @@ vtrack.aniview.com
 vt-secure.imiclk.com
 vulcan.bluekai.com
 vwrap.imrworldwide.com
+w2.marinsm.com
 wa.appsflyer.com
 w.adacado.com
 walgreens.3cinteractive.com
@@ -4121,6 +4207,7 @@ www.capitolone.com
 www.cbarsrv.com
 www.c.bing.com
 www.cmaxsrv.com
+www.content.madmobile.com
 www.continular.com
 www.db.neo4jdb.innovation.abtasty.com
 www.decision.canarybay.innovation.abtasty.com
