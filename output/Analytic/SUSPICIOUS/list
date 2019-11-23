@@ -335,6 +335,7 @@ api2938.d41.co
 api2942.d41.co
 api2.appsflyer.com
 api-2.curalate.com
+api2.jasperlabs.com
 api3018.d41.co
 api4077.d41.co
 api4253.d41.co
@@ -401,6 +402,7 @@ api.data.ensighten.com
 api.decision.canarybay.innovation.abtasty.com
 api.dev.airfind.com
 api-dev.instartlogic.com
+api.dev.jivox.com
 apidocs-dev.instartlogic.com
 api.dsp.inmobi.com
 apieast.abs.dev.extremereach.com
@@ -425,6 +427,7 @@ api.home.igaworks.com
 api.hurra.com
 api.inmobi.com
 api.intentiq.com
+api.jetlore.com
 api-js.datadome.co
 api-metrics-canary.flurry.com
 api-metrics-e2e.nonprod.flurry.com
@@ -434,9 +437,12 @@ api.mobile.cnzz.com
 api.nirror.abtasty.com
 api.ola.gemius.com
 api.opinion.inmobi.com
+api.production.jetlore.com
 api.pt.163.com
 api-public.addthis.com
+api.qa1.jivox.com
 api.qa2.test.appsee.com
+api.qa3.jivox.com
 api.qa.test.appsee.com
 api.scraper.innovation.abtasty.com
 api-sdk.datadome.co
@@ -493,11 +499,14 @@ app7.staging.brightedge.com
 app.adjust.com
 ap-p.alcmpn.com
 appapi.adsafeprotected.com
+app.api.dev.jivox.com
+app.api.jivox.com
 app.appsflyer.com
 app.blz.163.com
 app.boa.exacttarget.com
 appcentre.bronto.com
 app-dev.instartlogic.com
+app.dev.jivox.com
 app.eloqua.com
 appengage-video-staging.fyber.com
 app.exacttarget.com
@@ -511,6 +520,8 @@ applovin.hkg.events.bidstalk.com
 app.nirror.abtasty.com
 appodeal.dca.events.bidstalk.com
 app.pages.brightedge.com
+app.qa1.jivox.com
+app.qa3.jivox.com
 approval.adpredictive.com
 app.s4.exacttarget.com
 app.s50.exacttarget.com
@@ -640,6 +651,8 @@ beetlecord-chin.demo.apester.com
 ben.admanmedia.com
 bentest.admanmedia.com
 beta1.studio.ev1.inmobi.com
+beta2-pre.ads.justpremium.com
+beta-pre.ads.justpremium.com
 betsson-betsafe.bannerflow.com
 betsson-betsson.bannerflow.com
 betsson-mrsmith.bannerflow.com
@@ -748,6 +761,7 @@ campaign-api.stg.apester.com
 campaign.bannerflow.com
 campaign-push.bluekai.com
 campaign.stg.apester.com
+canary-us-pre.ads.justpremium.com
 capi.connatix.com
 carpet.pulse.inmobi.com
 carphonewarehouse-mid-prod1-t.campaign.adobe.com
@@ -801,6 +815,7 @@ cdnfi.bnmla.com
 cdn.getambassador.com.sandbox.getambassador.com
 cdn.getsentry.com
 cdn.ipromote.com
+cdn.jasperlabs.com
 cdn-preview.dynamicyield.com
 cdnreporting.adacado.com
 cdn-sec.tacoda.at.atwola.com
@@ -912,6 +927,7 @@ config.vip.126.com
 confluence-tech.amobee.com
 connectivitycheck.android.comopps.cbarsrv.com
 connectivitycheck.gstatic.comwf.cbarsrv.com
+consent.iubenda.com
 content.accu.amobee.com
 content.afp.amobee.com
 content.appboy.com
@@ -920,6 +936,7 @@ content-click.amanad.adtdp.com
 content.granify.com
 content-imp.amanad.adtdp.com
 content-inview.amanad.adtdp.com
+content.jetlore.com
 controller2.foreseeresults.com
 controller.foreseeresults.com
 control-test-ec.adaptv.advertising.com
@@ -1158,6 +1175,7 @@ dev.adcolony.com
 dev-ad-track.aralego.com
 dev-adx.aralego.com
 dev-aorta.clickagy.com
+dev.api.jivox.com
 dev.buzzdeck.com
 dev-cdn-2.getambassador.com.sandbox.getambassador.com
 dev-cdn.getambassador.com.sandbox.getambassador.com
@@ -1310,6 +1328,7 @@ emxhb.emxdgt.com
 enricher.stg.apester.com
 ens-activatesandbox.activate.ensighten.com
 ens-mbruty.activate.ensighten.com
+entitlements.jwplayer.com
 entry.mail.163.com
 entry.vip.126.com
 envision-hjem-is.bannerflow.com
@@ -1392,6 +1411,7 @@ event-tracker.k8s-test.fiksu.com
 event-tracker.production.fiksu.com
 ev.fiksu.com
 e.vip.126.com
+evs.jivox.com
 evt.bfmio.com
 evtp.bfmio.com
 evtvpaid.bfmio.com
@@ -1485,6 +1505,7 @@ geo.brainient.com
 geo.celtra.com
 geoip.apester.com
 geoip.stg.apester.com
+geoservice.jivox.com
 get.appsflyer.com
 get.bounceexchange.com
 gf-p.alcmpn.com
@@ -1577,6 +1598,7 @@ hiro-companion1.demo.apester.com
 hiro-companion.demo.apester.com
 hiro-player.demo.apester.com
 hiro-sdk.demo.apester.com
+hits-i.iubenda.com
 hkgstage-rtbwin.applovin.com
 hlsmaster1.adswizz.com
 home-staging.fgl.com
@@ -1762,6 +1784,7 @@ iwmap.americanexpress.com
 izettle-izettle.bannerflow.com
 j9.continular.com
 jact.atdmt.com
+janus.r.jakuli.com
 jlog.iad.appboy.com
 jobseeker-sjc.gravityrd-services.com
 joraar-sjc.gravityrd-services.com
@@ -1811,6 +1834,8 @@ kjdemo.stg.bounceexchange.com
 klick-he-klick-health.bannerflow.com
 kpi.adverline.com
 krdtconfig.gaeadata.com
+kube.app.api.jivox.com
+kube.brb.api.jivox.com
 lb2.aaxads.com
 lb.aaxads.com
 lbservices2.fyber.com
@@ -2024,6 +2049,7 @@ newclicks.appsflyer.com
 new.eu-central-1.tracking.quality.awin.com
 news.blis.com
 news.genapi.euwf.cbarsrv.com
+newsite.joystickinteractive.com
 nexage.dca.events.bidstalk.com
 nexage.hkg.events.bidstalk.com
 nexage.mads.advertising.com
@@ -2043,6 +2069,7 @@ nl.alcmpn.com
 nl.clickpoint.com
 nlearn.adjust.com
 nm.contextweb.com
+nocookie.jasperlabs.com
 node1.admanmedia.com
 node1.colossusssp.com
 node2.admanmedia.com
@@ -2119,8 +2146,8 @@ o-o---preferred---sn-5uaezn7y---v24---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v23---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v24---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v8---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
 o-o.preferred.sn-5uu-vgqe.v18.cache.c.googlesyndication.com
+o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
 o-o---preferred---sn-5uu-vgqe---v9---cache.c.googlesyndication.com
 o-o---preferred---sn-5uu-vgql---v21---cache.c.googlesyndication.com
 o-o---preferred---sn-o097zne7---v10---cache.c.googlesyndication.com
@@ -2294,8 +2321,8 @@ pool.admedo.com
 pool-eu.creative-serving.com
 pool.ipm.adhese.com
 pool-orangegames.adhese.com
-pool.pebblemedia.adhese.com
 pool-pebblemedia.adhese.com
+pool.pebblemedia.adhese.com
 pool-roularta.adhese.com
 pool-use.creative-serving.com
 pool-usw.creative-serving.com
@@ -2321,11 +2348,13 @@ prague-mark.adtdp.com
 prague-trk.adtdp.com
 prague-vast.adtdp.com
 prapi.beeketing.com
+pre.ads.justpremium.com
 prebid.adroll.com
 prebid.d.adroll.com
 preflight.stage-one.heyzap.com
 premium.adready.com
 preprod-c.datadome.co
+preview.joystickinteractive.com
 prg-image-dr.global.exacttarget.com
 prg-image.global.exacttarget.com
 prg-mc-dr.global.exacttarget.com
@@ -2354,6 +2383,7 @@ promotable.crazyegg.com
 proton.flurry.com
 proton-int.flurry.com
 proton-ws.flurry.com
+proximity.juicemobile.com
 proxy.allinviews.com
 proxy.beeviewd.com
 proxy.bestcontentonline.com
@@ -2407,13 +2437,22 @@ px.airpr.com
 px.engagio.com
 pxgp1.adpredictive.com
 pxgp2.adpredictive.com
+pxlau.jivox.com
+pxl.jivox.com
+pxln.jivox.com
+pxlsg.jivox.com
 pxn.adpredictive.com
 pyk.imrworldwide.com
 pypi.tools.inmobi.com
 q14.cnzz.com
+qa1.app.api.jivox.com
+qa1.brb.api.jivox.com
+qa3.app.api.jivox.com
+qa3.brb.api.jivox.com
 qa3-link.apsalar.com
 qa-ads.integration.amobee.com
 q.addthis.com
+qa-evs.jivox.com
 qa-master1a.apsalar.com
 qa-partners.apsalar.com
 qiigo.adready.com
@@ -2842,6 +2881,7 @@ southwest-airlines-rt-prod2-t.campaign.adobe.com
 sp.alcmpn.com
 spdy-lb7.adsymptotic.com
 spdy-lb8.adsymptotic.com
+specs.justpremium.com
 spg.demandbase.com
 spine-insights.appspot.com
 spinnaker.amplitude.com
@@ -2990,6 +3030,7 @@ streaming.emerse.com
 stream.installfarm.com
 stripewh.getadmiral.com
 strip.stg.apester.com
+stub.api.jivox.com
 stubhub2.flashtalking.com
 studio5.brainient.com
 studio8-beta.brainient.com
@@ -3035,6 +3076,7 @@ sync-east.intentiq.com
 synchrobox.adswizz.com
 synchrobox.ec2eu.adswizz.com
 sync.intentiq.com
+sync.jivox.com
 sync-west.intentiq.com
 syshealth.capitalone.acxiom.com
 t1.convertcart.com
@@ -3158,6 +3200,7 @@ track.tagtoo.co
 track-us.admaxim.com
 track.xadchina.cn
 tr.admailtiser.com
+traffick.jivox.com
 traffic-statics-asia.creativecdn.com
 traffic-statics-europe.creativecdn.com
 traffic-statics-usa.creativecdn.com
@@ -3430,6 +3473,7 @@ woxikon.h-bid.com
 wpadmin.acxiom.com
 wpadmin-sharedmarketingcontent.acxiom.com
 wp.alcmpn.com
+wpbootstrap.iubenda.com
 wpg.adpxl.co
 ws10.hotjar.com
 ws1.hotjar.com
