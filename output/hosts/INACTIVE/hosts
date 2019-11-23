@@ -801,6 +801,7 @@
 0.0.0.0 aws2sip.exponential.com
 0.0.0.0 aws2webapp.exponential.com
 0.0.0.0 aws2webconf.exponential.com
+0.0.0.0 aws-acm.kissmetrics.com
 0.0.0.0 aws-adserver-origin.adtechjp.com
 0.0.0.0 aws-adserver-origin-ap-northeast-1.adtechjp.com
 0.0.0.0 aws-adserver-origin-ap-southeast-1.adtechjp.com
@@ -1404,6 +1405,7 @@
 0.0.0.0 co1aqu.atdmt.com
 0.0.0.0 co2aqu.atdmt.com
 0.0.0.0 code.elfsight.com
+0.0.0.0 code.kissmetrics.com
 0.0.0.0 codeload.github.exacttarget.com
 0.0.0.0 cog2.bnmla.com
 0.0.0.0 colgate.links.channelintelligence.com
@@ -1781,6 +1783,7 @@
 0.0.0.0 dev.demo.appdynamics.com
 0.0.0.0 dev.demobuilder.gumgum.com
 0.0.0.0 dev.discovery.uu.163.com
+0.0.0.0 dev.display.khingtracking.com
 0.0.0.0 dev.districtm.ca
 0.0.0.0 dev-dockerhub.corp.inmobi.com
 0.0.0.0 devefence.engageclick.com
@@ -1825,6 +1828,7 @@
 0.0.0.0 devsite.amobee.com
 0.0.0.0 dev.smedia.ca
 0.0.0.0 dev.stage.us-east-1.kops.kargo.com
+0.0.0.0 dev.static.display.khingtracking.com
 0.0.0.0 devsvn.extremereach.com
 0.0.0.0 devtest.celebrus.com
 0.0.0.0 dev.unir.facebook-ads.adtz.com
@@ -1914,6 +1918,8 @@
 0.0.0.0 dn03.casalemedia.com
 0.0.0.0 dn09.casalemedia.com
 0.0.0.0 dn14.casalemedia.com
+0.0.0.0 dn25.kissmetrics.com
+0.0.0.0 dn58.kissmetrics.com
 0.0.0.0 dns001.apsalar.com
 0.0.0.0 dns003.apsalar.com
 0.0.0.0 dns004.apsalar.com
@@ -2302,6 +2308,7 @@
 0.0.0.0 fls-cn.amazon-adsystem.com
 0.0.0.0 fmx-req.fractionalmedia.com
 0.0.0.0 focus.impdesk.com
+0.0.0.0 focus.kissmetrics.com
 0.0.0.0 focus.meeting.abtasty.com
 0.0.0.0 foo1-k8s.dev-iad.amobee.com
 0.0.0.0 foo2-k8s.dev-iad.amobee.com
@@ -2503,6 +2510,7 @@
 0.0.0.0 gogowa.dev-iad.amobee.com
 0.0.0.0 gogowa.qa-iad.amobee.com
 0.0.0.0 go.justuno.com
+0.0.0.0 go.kissmetrics.com
 0.0.0.0 gold.erne.co
 0.0.0.0 gomjam.dev-iad.amobee.com
 0.0.0.0 goodrx.sp1.convertro.com
@@ -2635,6 +2643,7 @@
 0.0.0.0 hp.links.channelintelligence.com
 0.0.0.0 hpshopping.rdr.channelintelligence.com
 0.0.0.0 hq58.appsflyer.com
+0.0.0.0 hq.kissmetrics.com
 0.0.0.0 hq-mail02.channelintelligence.com
 0.0.0.0 hrblock.adlegend.com
 0.0.0.0 html5toolkit.adform.com
@@ -2698,8 +2707,8 @@
 0.0.0.0 i.essads.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -2786,8 +2795,8 @@
 0.0.0.0 ingress-test.newstags.stag.bounceexchange.com
 0.0.0.0 in.hotjar.com
 0.0.0.0 iniitian.saas.appdynamics.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inneractive.win.bidstalk.com
 0.0.0.0 i.n.ping-origin-prd.jwpltx.com
 0.0.0.0 in.player.h-cdn.com
@@ -3285,6 +3294,7 @@
 0.0.0.0 marketedge.eu.acxiom.com
 0.0.0.0 marketing.coveo.com
 0.0.0.0 marketing.demandbase.com
+0.0.0.0 marketing.kissmetrics.com
 0.0.0.0 marketing.preprod.criteo.com
 0.0.0.0 marketplace.analyticson.com
 0.0.0.0 marketplace-dev.stage.us-east-1.kops.kargo.com
@@ -4045,8 +4055,10 @@
 0.0.0.0 o1.smtp.eyereturn.com
 0.0.0.0 o20.ck.n.convertkit.com
 0.0.0.0 o22.ck.n.convertkit.com
+0.0.0.0 o2.email.kissmetrics.com
 0.0.0.0 o2.haloapps.com
 0.0.0.0 o365.foresee.com
+0.0.0.0 o3.campaigns2.kissmetrics.com
 0.0.0.0 o3.outbound.crashlytics.com
 0.0.0.0 o3.sg.clickmail.clickfunnels.com
 0.0.0.0 o4.sg.clickmail.clickfunnels.com
@@ -4340,6 +4352,7 @@
 0.0.0.0 pixel.buypixelads.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 pixel.jumptap.com
+0.0.0.0 pixel.kiitties.com
 0.0.0.0 pixel-sc2.adsymptotic.com
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 pixie.fyber.com
@@ -4433,8 +4446,8 @@
 0.0.0.0 pool.telenet.be.adhese.com
 0.0.0.0 pool-trf.adhese.com
 0.0.0.0 pool-uatrmb.adhese.com
-0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pool-vrt.adhese.com
+0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pop3.qiye.163.com
 0.0.0.0 pop.adrcdn.com
 0.0.0.0 pop.adverline.com
@@ -5121,6 +5134,7 @@
 0.0.0.0 se4.ap.nexus.ensighten.com
 0.0.0.0 seagate.links.channelintelligence.com
 0.0.0.0 sean.ittest.33across.com
+0.0.0.0 search9.keywordblocks.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.airpr.com
 0.0.0.0 search.at.atwola.com
@@ -5813,6 +5827,7 @@
 0.0.0.0 target-oregon-01.clickfunnels.com
 0.0.0.0 target.rdr.channelintelligence.com
 0.0.0.0 targus.links.channelintelligence.com
+0.0.0.0 tasks.kissmetrics.com
 0.0.0.0 t.atdmt.com
 0.0.0.0 tat.flashtalking.com
 0.0.0.0 tatp.iesnare.com
@@ -5942,6 +5957,7 @@
 0.0.0.0 tools.ebuzzing.com
 0.0.0.0 tools.ensighten.com
 0.0.0.0 tools.greystripe.com
+0.0.0.0 tools.kissmetrics.com
 0.0.0.0 tools-tracking.adform.com
 0.0.0.0 top.criteo.com
 0.0.0.0 touchvpn.conviva.com
@@ -6005,6 +6021,7 @@
 0.0.0.0 trk7-us.snt.imrworldwide.com
 0.0.0.0 trk.adjust.com
 0.0.0.0 trk.adpxl.co
+0.0.0.0 trkx-east.kissmetrics.com
 0.0.0.0 troy-nalls.fanbread.com
 0.0.0.0 trueffect.adlegend.com
 0.0.0.0 trunk.guce.convertro.com
@@ -6860,6 +6877,7 @@
 0.0.0.0 www.glbl.adlegend.com
 0.0.0.0 www.goadservices.com
 0.0.0.0 www.go.justuno.com
+0.0.0.0 www.go.kissmetrics.com
 0.0.0.0 www.gpu4001.ds.ams1.inmobi.com
 0.0.0.0 www.gpu4001.ds.ev1.inmobi.com
 0.0.0.0 www.graylog.ops.ams1.inmobi.com
@@ -7349,6 +7367,7 @@
 0.0.0.0 yampapi-staging.flurry.com
 0.0.0.0 y.atwola.com
 0.0.0.0 yellowbelt.adform.com
+0.0.0.0 yeoldeblog.kissmetrics.com
 0.0.0.0 yesil.7p.com
 0.0.0.0 yg.srs.doubleverify.com
 0.0.0.0 ymsolutions.7p.com
