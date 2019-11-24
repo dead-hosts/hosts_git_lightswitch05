@@ -1018,6 +1018,8 @@ ads.rocketadv.com
 ads.solocpm.com
 ads.stage-one.heyzap.com
 ads-stats-limiter-shadow.snapads.com
+ads-stg.yieldmo.com
+ads.stg.yieldmo.com
 ads.stickyadstv.com
 adstaging.admaxim.com
 adstats-shadow.snapads.com
@@ -1029,6 +1031,7 @@ adsupnow.adready.com
 ads.vindicosuite.com
 ads-wc.adaptv.advertising.com
 ads-wp.admarvel.com
+ads.yieldmo.com
 adsystem.scupio.com
 ad-targeting-prod-elb.53.localytics.com
 ad.targeting.snapads.com
@@ -1204,6 +1207,7 @@ amplify-imp.outbrain.com
 amplify.outbrain.com
 amplifypixel.outbrain.com
 amp.localytics.com
+amp.locations.yext.com
 amp.mdotlabs.com
 ams01-event.spotxchange.com
 ams01.event.spotxchange.com
@@ -1546,6 +1550,7 @@ api.whisk.com
 api.w.inmobi.cn
 api.w.inmobi.com
 api.wootric.com.herokudns.com
+api.yoose.com
 apl.adjust.com
 ap-northeast-1.target.aws.amazon.com
 ap-notify.bidagent.xad.com
@@ -1989,6 +1994,7 @@ bidtortest.admanmedia.com
 biduseast.mndtrk.com
 biduseast.solocpm.com
 biduswest.solocpm.com
+bid.yieldmo.com
 bigpanda.mktoweb.com
 bi.infra.apester.com
 billboard.vungle.com
@@ -2095,6 +2101,7 @@ btlr.sharethrough.com
 btlr-us-east-1.sharethrough.com
 bt.signifyd.com
 bt.uat.pulse.inmobi.com
+bugs.yieldoptimizer.com
 bulk.dpa.gemini.yahoo.com
 bulkquery2.petametrics.com
 bumblebeelinens.vizury.com
@@ -2229,6 +2236,7 @@ cdn.bidtheatre.com
 cdn-bi.omniconvert.com
 cdnb.omniconvert.com
 cdn.bugly.qq.com
+cdn-b.yieldlove.com
 cdn.cf.dynamicyield.com
 cdn.cloud.thirdpresence.com
 cdn.connatix.com
@@ -2696,6 +2704,8 @@ cortex-impression.tribalfusion.com
 cosmopolitan.adready.com
 cosmos.inmobi.com
 cosmos.ssp.inmobi.com
+countcriteo.yieldmo.com
+count.yieldmo.com
 coverage.infra.apester.com
 coxcommunications.mpeasylink.com
 coyotefoul-rider.demo.apester.com
@@ -2871,7 +2881,9 @@ dashboard2.k8s-hetzner-test.lifestreet.com
 dashboard3.k8s-hetzner-test.lifestreet.com
 dashboard-metrics.prod.leanplum.com
 dashboard-metrics.staging.leanplum.com
+dashboard-portainer.dev.yoose.com
 dashboard-prom.staging.leanplum.com
+dashboard-test.yoose.com
 dashcache.addthis.com
 dash.kochava.com
 dash-prod-us-east-1.swrve.com
@@ -2985,8 +2997,8 @@ demos.airpr.com
 demos.gumgum.com
 demos.logrocket.com
 demo-ui-notifications.videoamp.com
-den01.event.spotxchange.com
 den01-event.spotxchange.com
+den01.event.spotxchange.com
 den01.sync.search.spotxchange.com
 dent.unicast.com
 denver.reachlocal.com
@@ -3074,7 +3086,9 @@ digdug-g2.logs.roku.com
 digdug.logs.roku.com
 digitalocean.mktoweb.com
 digitrust.intentiq.com
+direct.gdpr.rw.yieldmo.com
 director.adcolony.com
+directory.office.yext.com
 disco.chatid.com
 discover-api.apester.com
 discover.outbrain.com
@@ -3173,8 +3187,8 @@ downloads.salesloft.com
 downloads.sentry-cdn.com
 d-p-td-hkg1.turn.com
 d-p-td-sjc2.turn.com
-d.px.airpr.com
 dpx.airpr.com
+d.px.airpr.com
 dq.alcmpn.com
 d.r10.mopub.com
 drone-ci.videoamp.com
@@ -3831,6 +3845,7 @@ gcp-dev-auth.adready.com
 gcp-via.adready.com
 gdpr.alcmpn.com
 gdpr-controller.my.segment.com
+gdpr.rw.yieldmo.com
 gdpr-service.herokuapp.com
 gdpr-verify.forter.com
 gdsns1.mmstat.com
@@ -3921,6 +3936,8 @@ gonzalezz.admanmedia.com
 googleadapis.l.google.com
 google-api.secure.blismedia.com
 google-bidder.ads.wish.com
+googlebidder-dc1.yieldoptimizer.com
+googlebidder-dc2.yieldoptimizer.com
 googlesync.permutive.com
 go.pursuanthealth.com
 go.resonate.com
@@ -3931,12 +3948,14 @@ go.sonobi.com
 gosp.aniview.com
 gosphero.com.pathful.com
 go.vrvm.com
+go.yieldmo.com
 gpp.videostat.com
 grade-my-app.leanplum.com
 gr.adserver.yahoo.com
 grafana.cost.prod-1.prod.leanplum.com
 grafana.cost.staging-1.staging.leanplum.com
 grafana.demandbase.com
+grafana.dev.yoose.com
 grafana.feathr.co
 grafana-gae.prod.leanplum.com
 grafana.ie-1.prod-1.prod.leanplum.com
@@ -3962,10 +3981,10 @@ growthfusion.mktoweb.com
 grp.dynamicyield.com
 grtb.asia-east1a.tribalfusion.com
 grtb-asia-east1a.tribalfusion.com
-grtb.central1a.tribalfusion.com
 grtb-central1a.tribalfusion.com
-grtb.central1b.tribalfusion.com
+grtb.central1a.tribalfusion.com
 grtb-central1b.tribalfusion.com
+grtb.central1b.tribalfusion.com
 grtb-central1f.tribalfusion.com
 grtb.central1f.tribalfusion.com
 grtb.europe-west1b.tribalfusion.com
@@ -4067,13 +4086,13 @@ hiro-sdk.demo.apester.com
 hits-i.iubenda.com
 hk.adserver.yahoo.com
 hkadxrtb.lfstmedia.com
-hk-astg.widerplanet.com
 hk.astg.widerplanet.com
+hk-astg.widerplanet.com
 hkg01.sync.search.spotxchange.com
 hkgstage-rtbwin.applovin.com
 hk.info.lgsmartad.com
-hk.rtb.widerplanet.com
 hk-rtb.widerplanet.com
+hk.rtb.widerplanet.com
 hk-vpn.turn.com
 hls-beacons.xumo.com
 hlsmaster1.adswizz.com
@@ -4121,8 +4140,8 @@ hz.mmstat.com
 i196ffa3a2cd06b67266cf67628d0684c.c.bing.com
 iab-imp-gateway.supersonicads.com
 iact.atdmt.com
-iad02-event.spotxchange.com
 iad02.event.spotxchange.com
+iad02-event.spotxchange.com
 iad02.sync.search.spotxchange.com
 iad-1-apex.go.sonobi.com
 iad-1.go.sonobi.com
@@ -4712,6 +4731,7 @@ list.bidsimulator.com
 lite.wavesecure.com
 littlefield.logs.roku.com
 littlestpetshop.vntsm.com
+liveapi.yext.com
 live-asset.adtdp.com
 live-bid.adtdp.com
 livechat-beta.boldchat.com
@@ -4985,8 +5005,8 @@ mediakit.pubmatic.com
 media.minutemediacdn.com
 media.mobileapptracking.com
 media.netseer.com
-medianet-sync.go.sonobi.com
 medianet.sync.go.sonobi.com
+medianet-sync.go.sonobi.com
 media.orbee.co
 mediaplanner.uat.inmobi.com
 media.qoof.com
@@ -5257,10 +5277,12 @@ newacademy.webgains.com
 new.brainient.com
 newclicks.appsflyer.com
 new.eu-central-1.tracking.quality.awin.com
+newlam.yieldmo.com
 new.panadvert.com
 news.blis.com
 news.genapi.euwf.cbarsrv.com
 newsite.joystickinteractive.com
+newsite.yieldmo.com
 newsroom-qa.taboola.com
 newsroom-staging.taboola.com
 newsweek.theappgrader.com
@@ -5283,6 +5305,7 @@ nexus-test.ensighten.com
 nexus-us-east.ensighten.com
 nexus-us-west2.ensighten.com
 nexus-us-west.ensighten.com
+nexus.yieldmo.com
 nft.adsttc.com
 ngdp-staging.flurry.com
 n.gemini.yahoo.com
@@ -5512,6 +5535,7 @@ ns1.tribalfusion.com
 ns1.turn.com
 ns1.vergic.com
 ns1.viglink.com
+ns1.yext.com
 ns2.adtooxcloud.com
 ns2.eloqua.com
 ns2.footprintdns.com
@@ -5519,6 +5543,7 @@ ns2.nxtck.com
 ns2.silverpop.com
 ns2.vergic.com
 ns2.viglink.com
+ns2.yext.com
 ns3.adtooxcloud.com
 ns3.mediaplex.com
 ns3.silverpop.com
@@ -5824,6 +5849,7 @@ partners.pardot.com
 partnerssl.googleadservices.com
 partner-sync.newscgp.com
 pa.rxthdr.com
+passbolt.yieldlove.com
 passbook.xtify.com
 pastorchrislive.thirdpresence.com
 patrickcoffin.leadpages.co
@@ -6036,8 +6062,8 @@ pool.admedo.com
 pool-eu.creative-serving.com
 pool.ipm.adhese.com
 pool-orangegames.adhese.com
-pool.pebblemedia.adhese.com
 pool-pebblemedia.adhese.com
+pool.pebblemedia.adhese.com
 pool-roularta.adhese.com
 pool-use.creative-serving.com
 pool-usw.creative-serving.com
@@ -6091,6 +6117,7 @@ preprod-c.datadome.co
 preprod.spartoo.com
 preprod.tagcommander.com
 press.madmobile.com
+press.yext.com
 preview.joystickinteractive.com
 preview-mmgl.cd.serving-sys.com
 preview.prod.sizmek.com
@@ -6288,8 +6315,8 @@ pulse.stg.apester.com
 puma.vizu.com
 punchbowl.alcmpn.com
 purch.demand.go.sonobi.com
-purch.sync.go.sonobi.com
 purch-sync.go.sonobi.com
+purch.sync.go.sonobi.com
 pure.snippet-local.sandbox.getambassador.com
 purplebox-burst.flurry.com
 purplebox.flurry.com
@@ -6340,6 +6367,8 @@ q9dui85hintq1njc3mdgznlu0nwiacmaxudmaaaa.rfihub.com
 qa15.rlets.com
 qa1.app.api.jivox.com
 qa1.brb.api.jivox.com
+qa1-gtag.yieldoptimizer.com
+qa1-yoweb1.yieldoptimizer.com
 qa3.app.api.jivox.com
 qa3.brb.api.jivox.com
 qa3-link.apsalar.com
@@ -6468,6 +6497,7 @@ realtime-metrics.flurry.com
 reaper.pulse.inmobi.com
 rebtel-rebtel.bannerflow.com
 rec.api.so.com
+receipts.yext.com
 receive.inplay.scanscout.com
 rec.g.163.com
 reckittbenckiser.mmgl.cd.serving-sys.com
@@ -6761,6 +6791,9 @@ ruadcodedsp.rontar.com
 ru.ad.lgsmartad.com
 ru.adserver.yahoo.com
 rubicon-apac-bidder.manage.com
+rubicon-dc1.yieldoptimizer.com
+rubicon-dc2.yieldoptimizer.com
+rubicon-dc3.yieldoptimizer.com
 rubicon.dca.events.bidstalk.com
 rubicon-east2-bidder.manage.com
 rubicon-east-bidder.manage.com
@@ -6791,6 +6824,7 @@ r.video.adacado.com
 rwcvpn1.turn.com
 rwd1.sele.co
 rw.pardot.com
+rw.yieldmo.com
 ryobiridgidpower.mpeasylink.com
 rzr.tractionize.com
 s10.addthis.com
@@ -7018,6 +7052,7 @@ scout.us1.salesloft.com
 scout.us2.salesloft.com
 sc-p.alcmpn.com
 scr.dc-storm.com
+screensapi.yext.com
 screenshots.bugherd.com
 screenshot.visualwebsiteoptimizer.com
 scribe.logs.roku.com
@@ -7298,6 +7333,7 @@ sip.sizmek.com
 sip.sonobi.com
 sip.tradedoubler.com
 sip.undertone.com
+sip.yext.com
 sitemonitor.cn.miaozhen.com
 site-optimization-api.company-target.com
 sitestream.serving-sys.com
@@ -7623,6 +7659,7 @@ stanforduniproduction.mktoweb.com
 starcom-chi.mmgl.cd.serving-sys.com
 start.driftt.com
 start.pardot.com
+stash.office.yext.com
 stas.outbrain.com
 stat1.flashtalking.com
 stat240.flashtalking.com
@@ -7647,8 +7684,8 @@ static.cdn.adblade.com
 static-cdn.adblade.com
 static.criteo.com
 staticd.cdn.adblade.com
-static-devex.adblade.com
 static.devex.adblade.com
+static-devex.adblade.com
 static.doubleclick.com
 static.ecorebates.com
 static.eloqua.com
@@ -7861,8 +7898,8 @@ taboola-winners-us-east-1-rtb.adroll.com
 taboola-winners-us-west-2-rtb.adroll.com
 tacony.mktoweb.com
 tag.163.com
-tag-api.omnitagjs.com
 tag.api.omnitagjs.com
+tag-api.omnitagjs.com
 tag.bot-test.qa.bounceexchange.com
 tag.bounceexchange.com
 tag.bri.qa.bounceexchange.com
@@ -7875,8 +7912,8 @@ tag.crashing.qa.bounceexchange.com
 tag.crsspxl.com
 tag-dyn-asi01.omnitagjs.com
 tag-dyn-fra01.omnitagjs.com
-tag-dyn.omnitagjs.com
 tag.dyn.omnitagjs.com
+tag-dyn.omnitagjs.com
 tag-dyn-usa01.omnitagjs.com
 tag-dyn-usa02.omnitagjs.com
 tag-eu.loopmertb.com
@@ -8032,6 +8069,7 @@ tk.cloud.kargo.com
 tk.kargo.com
 tk-p.alcmpn.com
 tk.production.us-east-1.kops.kargo.com
+tkr.yieldmo.com
 tlg.mookie1.com
 tl-p.alcmpn.com
 t-metaps-biz.control.kochava.com
@@ -8265,6 +8303,7 @@ t.update.rose.pubmatic.com
 t.update.rubiconproject.com
 t.update.spotxchange.com
 t.update.stickyadstv.com
+t.update.tas.yieldmo.com
 t.update.tidaltv.com
 t.update.wo.gumgum.com
 t.update.wtag.adaptv.advertising.com
@@ -8285,6 +8324,7 @@ twsc57349362us3.cobrowse.oraclecloud.com
 tw-taipei-ad-track.aralego.com
 txa-rtb1.rfihub.com
 t.xlgmedia.com
+t.yieldmrm.com
 tyler.logs.roku.com
 ty.ts.vindicosuite.com
 tytx.m.cn.miaozhen.com
@@ -8406,6 +8446,7 @@ us-east-1.profile-api-dev.ads.linkedin.com
 us-east-1.target.aws.amazon.com
 us-east-1.tr.blismedia.com
 us-east-1-widget.lift.acquia.com
+us-east-1.world.rw.yieldmo.com
 us-east-adops.aralego.com
 us-east-ads.aralego.com
 us-east-ad-track.aralego.com
@@ -8417,8 +8458,8 @@ us-east-dsp.aralego.com
 us-east-google-rtb.quantserve.com
 useastmonitoring.livesegmentservice.com
 us-east-notify.bidswitch.rtb.quantserve.com
-us-east.pulsepoint.rtb.quantserve.com
 us-east-pulsepoint-rtb.quantserve.com
+us-east.pulsepoint.rtb.quantserve.com
 us-east-rtb.ak.quantserve.com
 us-east-rtb-new.ak.quantserve.com
 us-east-smart-ad-rtb.quantserve.com
@@ -8469,6 +8510,7 @@ us-west-2.imp2-dev.ads.linkedin.com
 us-west-2.profile-api.ads.linkedin.com
 us-west-2.profile-api-dev.ads.linkedin.com
 us-west-2.target.aws.amazon.com
+us-west-2.world.rw.yieldmo.com
 uswest.bfmio.com
 us-west-bidder.mathtag.com
 us-west.bidswitch.rtb.quantserve.com
