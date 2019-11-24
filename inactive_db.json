@@ -12258,9 +12258,6 @@
         "1572900655": {
             "int.docker.adsrvr.org": "INACTIVE"
         },
-        "1572900658": {
-            "integ.aws.xiti.com": "INACTIVE"
-        },
         "1572900661": {
             "integrate.112.2o7.net": "INACTIVE"
         },
@@ -17242,9 +17239,6 @@
         "1572931289": {
             "competec.demdex.net": "INACTIVE"
         },
-        "1572931299": {
-            "compta.xiti.com": "INACTIVE"
-        },
         "1572931300": {
             "computersciencescorp.tt.omtrdc.net": "INACTIVE"
         },
@@ -17479,9 +17473,6 @@
         },
         "1572931883": {
             "corpgate.fwmrm.net": "INACTIVE"
-        },
-        "1572931916": {
-            "corpoftp.xiti.com": "INACTIVE"
         },
         "1572931922": {
             "corpstaging.iris.tv": "INACTIVE"
@@ -18438,9 +18429,6 @@
         },
         "1572934934": {
             "dev.applicationinsights.io": "INACTIVE"
-        },
-        "1572934937": {
-            "dev.aws.xiti.com": "INACTIVE"
         },
         "1572934940": {
             "dev.bnc.lt": "INACTIVE"
@@ -27587,9 +27575,6 @@
         "1572971362": {
             "mtvnetworks.tt.omtrdc.net": "INACTIVE"
         },
-        "1572971363": {
-            "much.aws.xiti.com": "INACTIVE"
-        },
         "1572971370": {
             "muc.intelliad.de": "INACTIVE"
         },
@@ -30154,9 +30139,6 @@
         },
         "1573087055": {
             "premierfarnell.tt.omtrdc.net": "INACTIVE"
-        },
-        "1573087071": {
-            "preprod.aws.xiti.com": "INACTIVE"
         },
         "1573087075": {
             "preprod.criteo.net": "INACTIVE"
@@ -36040,19 +36022,6 @@
         "1573103916": {
             "testle.media.net": "INACTIVE"
         },
-        "1573103928": {
-            "testmitch1.aws.xiti.com": "INACTIVE"
-        },
-        "1573103929": {
-            "testmitch2.aws.xiti.com": "INACTIVE"
-        },
-        "1573103930": {
-            "testmitch.aws.xiti.com": "INACTIVE",
-            "testmitch3.aws.xiti.com": "INACTIVE"
-        },
-        "1573103931": {
-            "testmitchdc.aws.xiti.com": "INACTIVE"
-        },
         "1573103933": {
             "testnocookie.w55c.net": "INACTIVE"
         },
@@ -36062,9 +36031,6 @@
         },
         "1573103971": {
             "testserver.mp01.net": "INACTIVE"
-        },
-        "1573104105": {
-            "testssl.aws.xiti.com": "INACTIVE"
         },
         "1573104107": {
             "teststatic.mp01.net": "INACTIVE"
@@ -77302,6 +77268,29 @@
         },
         "1574566999": {
             "www.xapi.xfinity.com": "INACTIVE"
+        },
+        "1574569182": {
+            "dev.aws.xiti.com": "INACTIVE"
+        },
+        "1574569183": {
+            "integ.aws.xiti.com": "INACTIVE",
+            "much.aws.xiti.com": "INACTIVE"
+        },
+        "1574569184": {
+            "preprod.aws.xiti.com": "INACTIVE",
+            "testmitch.aws.xiti.com": "INACTIVE"
+        },
+        "1574569185": {
+            "testmitch1.aws.xiti.com": "INACTIVE",
+            "testmitch2.aws.xiti.com": "INACTIVE",
+            "testmitch3.aws.xiti.com": "INACTIVE"
+        },
+        "1574569186": {
+            "testmitchdc.aws.xiti.com": "INACTIVE",
+            "testssl.aws.xiti.com": "INACTIVE"
+        },
+        "1574569187": {
+            "compta.xiti.com": "INACTIVE"
         }
     }
 }

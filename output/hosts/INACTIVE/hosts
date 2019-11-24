@@ -1085,8 +1085,8 @@
 0.0.0.0 api.slo-review-tool.mediamath.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api.stage.justpremium.com
 0.0.0.0 api.staging.bounceexchange.com
 0.0.0.0 api.staging.connatix.com
@@ -1292,8 +1292,8 @@
 0.0.0.0 assets.github.exacttarget.com
 0.0.0.0 assets.quantcast.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-ue1.perf.pardot.com
 0.0.0.0 assist.itnow.netat1.listrakbi.com
 0.0.0.0 assist.skimresources.com
@@ -2357,6 +2357,7 @@
 0.0.0.0 compass.eloqua.com
 0.0.0.0 components.forter.com
 0.0.0.0 composer.segment.com
+0.0.0.0 compta.xiti.com
 0.0.0.0 com.vsassets.com
 0.0.0.0 conagra.links.channelintelligence.com
 0.0.0.0 conf.dco.advertising.com
@@ -2872,6 +2873,7 @@
 0.0.0.0 dev.applicationinsights.microsoft.com
 0.0.0.0 dev.ap-southeast-2.kops.kargo.com
 0.0.0.0 dev.avg.163.com
+0.0.0.0 dev.aws.xiti.com
 0.0.0.0 dev-backoffice.datadome.co
 0.0.0.0 dev.bladegame.midasplayer.com
 0.0.0.0 dev.brightedge.com
@@ -3945,8 +3947,8 @@
 0.0.0.0 global-pixel.sojern.com
 0.0.0.0 global-pixels.sojern.com
 0.0.0.0 global.qc.rtb.quantserve.com
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 glossy.adroll.com
 0.0.0.0 gls.rt.cquotient.com
 0.0.0.0 g.mbm.cn.miaozhen.com
@@ -4297,10 +4299,10 @@
 0.0.0.0 iekubedemo-prometheus.prometheus.staging-1.staging.leanplum.com
 0.0.0.0 iesolutions.7p.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -4438,8 +4440,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -4496,6 +4498,7 @@
 0.0.0.0 int.appdynamics.com
 0.0.0.0 int.data.drift.com
 0.0.0.0 int.drift.com
+0.0.0.0 integ.aws.xiti.com
 0.0.0.0 integ.cdn.emp.exelator.com
 0.0.0.0 integ.emp.exelator.com
 0.0.0.0 integralmkt-d3.openxenterprise.com
@@ -5733,6 +5736,7 @@
 0.0.0.0 mtm.adotube.com
 0.0.0.0 mt.pxl.ace.advertising.com
 0.0.0.0 mtss.sitescoutadserver.com
+0.0.0.0 much.aws.xiti.com
 0.0.0.0 mvapp.dev.lab.tune.com
 0.0.0.0 mvmtwatches.adlegend.com
 0.0.0.0 mvwterm02.acxiom.com
@@ -6855,6 +6859,7 @@
 0.0.0.0 prem.qa3.exacttarget.com
 0.0.0.0 prepaidreports.acxiom.com
 0.0.0.0 preprod.api.canarybay.innovation.abtasty.com
+0.0.0.0 preprod.aws.xiti.com
 0.0.0.0 preprod-backoffice.datadome.co
 0.0.0.0 preprod.criteo.com
 0.0.0.0 preprod-dashboard.datadome.co
@@ -7064,8 +7069,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
@@ -7631,8 +7636,8 @@
 0.0.0.0 s-09.optvdo.com
 0.0.0.0 s1073427956.m.en25.com
 0.0.0.0 s10.allinviews.com
-0.0.0.0 s10.optvdo.com
 0.0.0.0 s-10.optvdo.com
+0.0.0.0 s10.optvdo.com
 0.0.0.0 s1107488773.m.en25.com
 0.0.0.0 s1232257445.m.en25.com
 0.0.0.0 s-12.optvdo.com
@@ -8926,6 +8931,11 @@
 0.0.0.0 testlink.liverail.com
 0.0.0.0 test-login-k8s.dev-iad.amobee.com
 0.0.0.0 testmdc.gaeadata.com
+0.0.0.0 testmitch1.aws.xiti.com
+0.0.0.0 testmitch2.aws.xiti.com
+0.0.0.0 testmitch3.aws.xiti.com
+0.0.0.0 testmitch.aws.xiti.com
+0.0.0.0 testmitchdc.aws.xiti.com
 0.0.0.0 testoauth2.datadome.co
 0.0.0.0 testoauth.datadome.co
 0.0.0.0 test-oc-k8s.dev-iad.amobee.com
@@ -8933,6 +8943,7 @@
 0.0.0.0 test-oidc-k8s.dev-iad.amobee.com
 0.0.0.0 testr.rxthdr.com
 0.0.0.0 test-services.acxiom.com
+0.0.0.0 testssl.aws.xiti.com
 0.0.0.0 test-ssl.beeketing.com
 0.0.0.0 testsuite.adfarm1.adition.com
 0.0.0.0 testsuite.adition.com
@@ -9799,8 +9810,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vid.locsensads.com
 0.0.0.0 vid.pardot.com
 0.0.0.0 vidyorouter2.rubiconproject.com
