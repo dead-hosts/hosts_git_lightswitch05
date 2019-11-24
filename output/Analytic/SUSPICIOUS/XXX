@@ -1040,8 +1040,8 @@ adyoulike-api.dyn.omnitagjs.com
 adyoulike.api.omnitagjs.com
 adyoulike-api.omnitagjs.com
 adyoulike.apt.omnitagjs.com
-adyoulike-dyn.omnitagjs.com
 adyoulike.dyn.omnitagjs.com
+adyoulike-dyn.omnitagjs.com
 adyoulike.omnitagjs.com
 adyoulike-preview-09.api.omnitagjs.com
 adyoulike.ssp.omnitagjs.com
@@ -1488,6 +1488,7 @@ api-us-west-1.datadome.co
 api-us-west-1.petametrics.com
 api-us-west-2.datadome.co
 apiv2.effiliation.com
+api-vast-dc3.videoamp.com
 api.wazuh.53.localytics.com
 api.wazuh.sandbox53.localytics.com
 api.w.inmobi.cn
@@ -1809,6 +1810,8 @@ b-collector.liadm.com
 bconf.flurry.com
 b.ctnsnet.com
 bd26a49cddc2.rlets.com
+b-dc3-5360.videoamp.com
+b-dc3.videoamp.com
 b-dcr-production.liadm.com
 b.de.inmobi.com
 bdg-analytics.appspot.com
@@ -1871,6 +1874,7 @@ bidasia.mndtrk.com
 bidasia.solocpm.com
 bidc.mndtrk.com
 bidc.solocpm.com
+bid.dc3.videoamp.com
 bidderae.solocpm.com
 bidder.criteo.com
 bidder-east2.aaxads.com
@@ -1927,6 +1931,7 @@ bis-ssp.allinviews.com
 bis-ssp.beeviewd.com
 bis-ssp-ssl.allinviews.com
 bis-ssp-ssl.beeviewd.com
+bis.vidazoo.com
 bitenoble-voice.demo.apester.com
 bi.tune.com
 biz.appsflyer.com
@@ -2019,6 +2024,7 @@ bus.ctnsnet.com
 business.playbuzz.com
 business.reachlocal.com
 buttons.googlesyndication.com
+b.videoamp.com
 bwp.cbsi.com
 bw-useast-bidder.appd.inmobi.com
 bw-uswest-bidder.appd.inmobi.com
@@ -2371,8 +2377,8 @@ collector.lightstep.com
 collector-loadtest.lightstep.com
 collector-lyft-dev.lightstep.com
 collector-lyft-dev-no-grpc.lightstep.com
-collector.meta.lightstep.com
 collector-meta.lightstep.com
+collector.meta.lightstep.com
 collector.placelocal.com
 collector.prod.expedia.com
 collector.staging.lightstep.com
@@ -2389,6 +2395,7 @@ community-staging.optimizely.com
 communitytest.silverpop.com
 compliance.aralego.com
 compliance.dev.pardot.com
+concept.viewbix.com
 config20.adtilt.com
 config2-origin.mparticle.com
 config.ams1.appgw.inmobi.com
@@ -2560,6 +2567,7 @@ core-us-east-1.adotube.com
 core-us-west-1.adotube.com
 cor.installfarm.com
 corp1.sjc2.turn.com
+corp3.viewbix.com
 corp-assets.triplelift.com
 cor.placeyourview.com
 corp-login.openx.com
@@ -2689,6 +2697,7 @@ customer.api.driftt.com
 custom.serving-sys.com
 custom.supersonicads.com
 custom-tracking.salesloft.com
+c.videoamp.com
 cv.info.lgsmartad.com
 cwa.tradedoubler.com
 cws-app-eu-west-1.conviva.com
@@ -2841,8 +2850,9 @@ demo2.appdynamics.com
 demos.airpr.com
 demos.gumgum.com
 demos.logrocket.com
-den01.event.spotxchange.com
+demo-ui-notifications.videoamp.com
 den01-event.spotxchange.com
+den01.event.spotxchange.com
 den01.sync.search.spotxchange.com
 dent.unicast.com
 denver.reachlocal.com
@@ -3013,24 +3023,29 @@ downloads.salesloft.com
 downloads.sentry-cdn.com
 d-p-td-hkg1.turn.com
 d-p-td-sjc2.turn.com
-d.px.airpr.com
 dpx.airpr.com
+d.px.airpr.com
 dq.alcmpn.com
 d.r10.mopub.com
+drone-ci.videoamp.com
 dr.outbrain.com
 drts.contextweb.com
 druid-broker.flurry.com
 druid-test-master.extc.adswizz.com
 dsa.moatads.com
 ds.gumgum.com
+dsp-1-e.videostat.com
+dsp-1.videostat.com
 dsp2.ligatus.com
 dsp507.rontar.com
 dsp601.rontar.com
 dsp602.rontar.com
 dsp.adotmob.com
 dspcluster.adfarm1.adition.com
+dsp-e.videostat.com
 dsp.inmobi.com
 dsp-tracking.unityads.unity3d.com
+dsp.videostat.com
 ds.resonifi.com
 dt.adsafeprotected.com
 dt.fw.adsafeprotected.com
@@ -3137,6 +3152,8 @@ editorial.outbrain.com
 editor.staging2.crazyegg.com
 editor.stg.apester.com
 e.dlx.addthis.com
+e-dsp-e.videostat.com
+e-dsp.videostat.com
 eds.study.163.com
 eduesse-d3.openxenterprise.com
 ee.connextra.com
@@ -3173,6 +3190,7 @@ emailmarketing.silverpop.com
 email-reporting.staging-1.staging.leanplum.com
 emails.outbrain.com
 email-system.mc.pardot.com
+email.videoamp.com
 embed.bannerflow.com
 embedded.dev.pardot.com
 embedded-preview.dev.pardot.com
@@ -3403,6 +3421,7 @@ externalapi.qa.reachlocal.com
 externalapi.reachlocal.com
 external-opt-out-applications.mobfox.com
 ext-int.convertcart.com
+ext.videostat.com
 eye.celtra.com
 eyereports.eyereturn.com
 eyeviewdigitalvideo848395.moatads.com
@@ -3521,7 +3540,9 @@ fs.tidaltv.com
 fundingchoicesmessages.google.com
 fusionmediaprod.amobee.com
 futureusprod.amobee.com
+fw-b.videoamp.com
 fwias.adsafeprotected.com
+fw.videoamp.com
 fyber-east-bidder.manage.com
 fybervast.s2s.lfstmedia.com
 fyc.heyzap.com
@@ -3644,6 +3665,7 @@ go.skimresources.com
 go.sonobi.com
 gosp.aniview.com
 gosphero.com.pathful.com
+gpp.videostat.com
 grade-my-app.leanplum.com
 grafana.cost.prod-1.prod.leanplum.com
 grafana.cost.staging-1.staging.leanplum.com
@@ -3676,10 +3698,10 @@ grtb-central1a.tribalfusion.com
 grtb.central1a.tribalfusion.com
 grtb.central1b.tribalfusion.com
 grtb-central1b.tribalfusion.com
-grtb.central1f.tribalfusion.com
 grtb-central1f.tribalfusion.com
-grtb-europe-west1b.tribalfusion.com
+grtb.central1f.tribalfusion.com
 grtb.europe-west1b.tribalfusion.com
+grtb-europe-west1b.tribalfusion.com
 grupogodo-ams.gravityrd-services.com
 gs.serving-sys.com
 gstaticadssl.l.google.com
@@ -4435,8 +4457,8 @@ lookup.kargo.com
 losangeles.reachlocal.com
 lotame.segments.go.sonobi.com
 lotame-test.go.sonobi.com
-lotame-users.go.sonobi.com
 lotame.users.go.sonobi.com
+lotame-users.go.sonobi.com
 lotuscars.thirdpresence.com
 lp.dynamicyield.com
 lp.onaudience.com
@@ -4686,6 +4708,7 @@ microservice.hapyak.com
 midland.logs.roku.com
 m.igaworks.com
 miner.shareasale.com
+mint-istio.videoamp.com
 mintsurvey.api.intuit.com
 miq.silverpop.com
 missioncontrol.igodigital.com
@@ -5210,8 +5233,8 @@ o-o---preferred---sn-5uaezn7y---v24---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v23---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v24---cache.c.googlesyndication.com
 o-o---preferred---sn-5uaeznek---v8---cache.c.googlesyndication.com
-o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
 o-o.preferred.sn-5uu-vgqe.v18.cache.c.googlesyndication.com
+o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
 o-o---preferred---sn-5uu-vgqe---v9---cache.c.googlesyndication.com
 o-o---preferred---sn-5uu-vgql---v21---cache.c.googlesyndication.com
 o-o---preferred---sn-o097zne7---v10---cache.c.googlesyndication.com
@@ -5453,6 +5476,7 @@ petitioner.admanmedia.com
 pe-west.intentiq.com
 pf.levexis.com
 pfna.levexis.com
+pfsense.ops.videoamp.com
 pg.alcmpn.com
 pgp-us.turn.com
 phab.pixlee.com
@@ -5595,8 +5619,8 @@ pool.admedo.com
 pool-eu.creative-serving.com
 pool.ipm.adhese.com
 pool-orangegames.adhese.com
-pool.pebblemedia.adhese.com
 pool-pebblemedia.adhese.com
+pool.pebblemedia.adhese.com
 pool-roularta.adhese.com
 pool-use.creative-serving.com
 pool-usw.creative-serving.com
@@ -5702,8 +5726,8 @@ production-balancers-us-east-1.smadex.com
 production.pao-1.mathmon.mediamath.com
 productivity.alertmanager.staging-1.staging.leanplum.com
 productivity.grafana.staging-1.staging.leanplum.com
-productivity.locust2.staging-1.staging.leanplum.com
 productivity.locust-2.staging-1.staging.leanplum.com
+productivity.locust2.staging-1.staging.leanplum.com
 productivity.locust.staging-1.staging.leanplum.com
 productivity.prometheus.staging-1.staging.leanplum.com
 products.effiliation.com
@@ -5713,6 +5737,7 @@ product-tagging.pixlee.com
 product-tagging-staging.pixlee.com
 product-taggin.pixlee.com
 prod.ui.activate.ensighten.com
+prod-vast.videoamp.com
 profile-api.ads.linkedin.com
 profile-api-dev.ads.linkedin.com
 profile-api-prod-elb.53.localytics.com
@@ -5781,6 +5806,7 @@ pt.friendbuy.com
 pt.info.lgsmartad.com
 p-tky-ebs.adsymptotic.com
 pt-partner-api.transam.macromill.com
+ptp.videmob.com
 pt-research-api.transam.macromill.com
 p.tvpixel.com
 pub.admanmedia.com
@@ -5834,8 +5860,8 @@ pulsepoint.sync.go.sonobi.com
 pulse.stg.apester.com
 punchbowl.alcmpn.com
 purch.demand.go.sonobi.com
-purch-sync.go.sonobi.com
 purch.sync.go.sonobi.com
+purch-sync.go.sonobi.com
 pure.snippet-local.sandbox.getambassador.com
 purplebox-burst.flurry.com
 purplebox.flurry.com
@@ -6187,8 +6213,8 @@ rtb-facebook.mrs.nxtck.com
 rtb-google-gus.nxtck.com
 rtb-google-mia.nxtck.com
 rtb-google.mia.nxtck.com
-rtb-google.mrs.nxtck.com
 rtb-google-mrs.nxtck.com
+rtb-google.mrs.nxtck.com
 rtb.impresionesweb.com
 rtb-improve-geu.rd.linksynergy.com
 rtb-index-gas.rd.linksynergy.com
@@ -6215,8 +6241,8 @@ rtb-rubicon-gas.rd.linksynergy.com
 rtb-rubicon-geu.rd.linksynergy.com
 rtb-rubicon-gus.nxtck.com
 rtb.smadex.com
-rtb-srv.mrs.nxtck.com
 rtb-srv-mrs.nxtck.com
+rtb-srv.mrs.nxtck.com
 rtb-srv.nxtck.com
 rtbstaging.admaxim.com
 rtb-taboola-gus.rd.linksynergy.com
@@ -6239,6 +6265,7 @@ rtb-uswest.adventurefeeds.com
 rtb.vervemobile.com
 rtb-west.vervemobile.com
 rtb-yahoo-gus.nxtck.com
+rt-dc3.videoamp.com
 rtg014.solocpm.com
 rtg01.solocpm.com
 rtg028.solocpm.com
@@ -6259,6 +6286,7 @@ rt-pixel.mathtag.com
 rtp-static.marketo.com
 rtr.innovid.com
 rt-usa.applovin.com
+rt.videoamp.com
 rtx.alcmpn.com
 ruadcodedsp.rontar.com
 ru.ad.lgsmartad.com
@@ -6678,6 +6706,7 @@ server-ssl.bestcontentonline.com
 server-ssl.installfarm.com
 server-ssl.placeyourview.com
 server-v2.exposebox.com
+server.vidazoo.com
 serve-west.acuityplatform.com
 service-dev.sp.advertising.com
 service.dr.newrelic.com
@@ -7094,8 +7123,8 @@ static.cdn.adblade.com
 static-cdn.adblade.com
 static.criteo.com
 staticd.cdn.adblade.com
-static-devex.adblade.com
 static.devex.adblade.com
+static-devex.adblade.com
 static.doubleclick.com
 static.ecorebates.com
 static.eloqua.com
@@ -7299,8 +7328,8 @@ taboola-winners-us-east-1-rtb.adroll.com
 taboola-winners-us-west-2-rtb.adroll.com
 tacony.mktoweb.com
 tag.163.com
-tag-api.omnitagjs.com
 tag.api.omnitagjs.com
+tag-api.omnitagjs.com
 tag.bot-test.qa.bounceexchange.com
 tag.bounceexchange.com
 tag.bri.qa.bounceexchange.com
@@ -7817,8 +7846,8 @@ us-east-dsp.aralego.com
 us-east-google-rtb.quantserve.com
 useastmonitoring.livesegmentservice.com
 us-east-notify.bidswitch.rtb.quantserve.com
-us-east-pulsepoint-rtb.quantserve.com
 us-east.pulsepoint.rtb.quantserve.com
+us-east-pulsepoint-rtb.quantserve.com
 us-east-rtb.ak.quantserve.com
 us-east-rtb-new.ak.quantserve.com
 us-east.smart-ad.rtb.quantserve.com
@@ -7834,6 +7863,8 @@ userprofile.placed.com
 users.apester.com
 users.avidly.com
 users.stg.apester.com
+user-sync-dc3.videoamp.com
+usersync.videoamp.com
 us.event.cmp.advertising.com
 useweb03.solocpm.com
 useweb05.solocpm.com
@@ -7871,8 +7902,8 @@ us-west.bidswitch.rtb.quantserve.com
 us-west-google-rtb.quantserve.com
 uswestmonitoring.livesegmentservice.com
 us-west-notify.bidswitch.rtb.quantserve.com
-us-west.pulsepoint.rtb.quantserve.com
 us-west-pulsepoint-rtb.quantserve.com
+us-west.pulsepoint.rtb.quantserve.com
 us-west-rtb.ak.quantserve.com
 us.xs.mookie1.com
 utils.bounceexchange.com
@@ -7881,6 +7912,7 @@ utterson.veeseo.com
 ut-test.rd.linksynergy.com
 ut-usc.linksynergy.com
 ut-usc.rd.linksynergy.com
+u.videoamp.com
 uwrtb.onedigitalad.com
 ux-gateway.pursuanthealth.com
 ux-services.rubiconproject.com
@@ -7905,6 +7937,7 @@ vast.ladsp.com
 vastpixel2.adsafeprotected.com
 vastpixel.adsafeprotected.com
 vast.sekindo.com
+vast.videoamp.com
 vast.w.inmobi.cn
 vast.w.inmobi.com
 va.tag.clrstm.com
@@ -8262,6 +8295,7 @@ www.azure.omniconvert.com
 www.backend-staging.services.adx1.com
 www.balsamhill.com.pathful.com
 www.bdg-analytics.appspot.com
+www.beacon.vicinity-marketing.com
 www.beam.koddi.com
 www.bigfastblog.com.pathful.com
 www.bkrtx.com
