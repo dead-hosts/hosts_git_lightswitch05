@@ -1414,8 +1414,8 @@
 0.0.0.0 assets.github.exacttarget.com
 0.0.0.0 assets.quantcast.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-ue1.perf.pardot.com
 0.0.0.0 assist.itnow.netat1.listrakbi.com
 0.0.0.0 assist.skimresources.com
@@ -4251,8 +4251,8 @@
 0.0.0.0 global-pixel.sojern.com
 0.0.0.0 global-pixels.sojern.com
 0.0.0.0 global.qc.rtb.quantserve.com
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 glossy.adroll.com
 0.0.0.0 gls.rt.cquotient.com
 0.0.0.0 g.mbm.cn.miaozhen.com
@@ -4639,10 +4639,10 @@
 0.0.0.0 idrisktest.acxiom.com
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
-0.0.0.0 i-ds.ad.gt
-0.0.0.0 id.s.ad.gt
 0.0.0.0 id-s.ad.gt
+0.0.0.0 id.s.ad.gt
 0.0.0.0 i.ds.ad.gt
+0.0.0.0 i-ds.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
 0.0.0.0 idsq.ad.gt
@@ -4836,8 +4836,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -7138,8 +7138,8 @@
 0.0.0.0 paywall.marketingg2.com
 0.0.0.0 payweb01.acxiom.com
 0.0.0.0 pbbl.agkn.com
-0.0.0.0 pbmx.7p.com
 0.0.0.0 pbm-x.7p.com
+0.0.0.0 pbmx.7p.com
 0.0.0.0 pbr3-wn2.brightedge.com
 0.0.0.0 pbrowser-proxy22.brightedge.com
 0.0.0.0 pc1.mkto-b0065.com
@@ -7230,8 +7230,8 @@
 0.0.0.0 pingfed.openx.com
 0.0.0.0 pink.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pinpoint-dev.adready.com
-0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pinyou-cm.cn.miaozhen.com
+0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pi.stormiq.com
 0.0.0.0 pi-ue1-lb1.pardot.com
 0.0.0.0 pi-ue1-lb2.pardot.com
@@ -8262,8 +8262,8 @@
 0.0.0.0 s-10.optvdo.com
 0.0.0.0 s1107488773.m.en25.com
 0.0.0.0 s1232257445.m.en25.com
-0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.optvdo.com
+0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.urbaninsight.com
 0.0.0.0 s1364398973.m.en25.com
 0.0.0.0 s13.ayads.co
@@ -9874,8 +9874,8 @@
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking.photoyee.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.rce.veeseo.com
+0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -10531,8 +10531,8 @@
 0.0.0.0 vext.ligatus.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-prod.amobee.com
+0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -11611,6 +11611,7 @@
 0.0.0.0 www.go.salesloft.com
 0.0.0.0 www.go.sonobi.com
 0.0.0.0 www.go.taboola.com
+0.0.0.0 www.gotime.backtrace.io
 0.0.0.0 www.gpu4001.ds.ams1.inmobi.com
 0.0.0.0 www.gpu4001.ds.ev1.inmobi.com
 0.0.0.0 www.graylog.ops.ams1.inmobi.com

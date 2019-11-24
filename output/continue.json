@@ -45783,7 +45783,10 @@
             "connector.backtrace.io",
             "connector-test.backtrace.io",
             "create.backtrace.io",
-            "get.backtrace.io"
+            "get.backtrace.io",
+            "hello.backtrace.io",
+            "hooks-test.backtrace.io",
+            "hooks.backtrace.io"
         ],
         "INACTIVE": [
             "rt.ascend.ai",
@@ -58362,7 +58365,8 @@
             "storageanalytics.applicationinsights.io",
             "test1.applicationinsights.io",
             "usgovva-cds-encryption.applicationinsights.io",
-            "www.pics.avs.io"
+            "www.pics.avs.io",
+            "www.gotime.backtrace.io"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
