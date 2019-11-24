@@ -404,6 +404,7 @@ ads57-us-east.stickyadstv.com
 ads.adasiaholdings.com
 ads.adhsm.adhese.com
 ads.adlithium.com
+ads.admetrics.events
 ads-adsomenoise.adhese.com
 ads.aertb.com
 ads.afa.adhese.com
@@ -1242,6 +1243,7 @@ approvals.s50.exacttarget.com
 app.s1.exacttarget.com
 app.s1.qa2.exacttarget.com
 app.s2.qa2.exacttarget.com
+apps.admetrics.events
 apps.adtz.com
 app.scorecardresearch.com
 appscripts.webspectator.com
@@ -1357,8 +1359,8 @@ assets1.brightedge.com
 assets2.brightedge.com
 assets2.huluim.com
 assets3.brightedge.com
-assets-acceptance.sharethrough.com
 assets.acceptance.sharethrough.com
+assets-acceptance.sharethrough.com
 assets.adtechus.com
 assets.applvn.com
 assets.clevergirlscollective.com
@@ -1537,8 +1539,8 @@ azkaban.adwyze.com
 azure.appdynamics.com
 azure-res-provider.newrelic.com
 b136c9c4-4798-4d9e-b9dd-972e3ce64d75-078d9f6a6dc1.cdn.forter.com
-b-1473-k8s.dev-iad.amobee.com
 b1473-k8s.dev-iad.amobee.com
+b-1473-k8s.dev-iad.amobee.com
 b1-euc2.zemanta.com
 b1-lsw-apac1.zemanta.com
 b1-lsw-euc1.zemanta.com
@@ -3430,6 +3432,7 @@ ebsproddmz.cs.rubiconproject.com
 eb.tremorhub.com
 ec2-54-159-122-18.bidagent.xad.com
 ec2amaz-v34sjct.marketo.com
+ecads.mediasmart.es
 echo1.iubenda.com
 ecpm_api.propellerads.com
 ecs.blismedia.com
@@ -3954,6 +3957,7 @@ frontdoor-develrc-new.us-west.appbe.optimizely.com
 frontend1.innovid.com
 frontend5.innovid.com
 frontend6.innovid.com
+frontend.m6r.eu
 frontend-prd.svc.tapad.com
 frontend-preprod.weborama.com
 frontendqa.innovid.com
@@ -4171,6 +4175,7 @@ goog-gu3b.applovin.com
 googleads.g.doubleclick.com
 go.paradym.com
 go.pixlee.com
+gotthard.tunnel.dc19.m6r.eu
 goubunto.aniview.com
 gouwu.mediav.com
 gp65.mta.exacttarget.com
@@ -4196,8 +4201,10 @@ grafana.gae.qa-1.qa.leanplum.com
 grafana.gae.staging-1.staging.leanplum.com
 grafana.ie.prod-1.prod.leanplum.com
 grafana.isau.prod.leanplum.com
+grafana.k8s.cluster-001.s-euc-1.braze.eu
 grafana.k8s.cluster-001.s-use-1.braze.com
 grafana.k8s.region-001.s-use-1.braze.com
+grafana.k8s.stc-001.s-euc-1.braze.eu
 grafana.k8s.stc-001.s-use-1.braze.com
 grafana.k8s.test-001.d-usw-2.braze.com
 grafana.k8s-test.fiksu.com
@@ -4490,10 +4497,10 @@ iei.rlcdn.com
 iekubedemo-prometheus.prometheus.staging-1.staging.leanplum.com
 iesolutions.7p.com
 i.essads.com
-ifc2-vip-dfw1.inmobi.com
 ifc2.vip.dfw1.inmobi.com
-ifc2-vip-hkg1.inmobi.com
+ifc2-vip-dfw1.inmobi.com
 ifc2.vip.hkg1.inmobi.com
+ifc2-vip-hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -4924,17 +4931,24 @@ k7.macromill.com
 k8dev.adsrvr.cn
 k8prd.adsrvr.cn
 k8s.beeketing.com
+k8s.cluster-001.p-euc-1.braze.eu
 k8s.cluster-001.p-use-1.braze.com
+k8s.cluster-001.s-euc-1.braze.eu
 k8s.cluster-001.s-use-1.braze.com
 k8s-dashboard.propellerads.com
 k8s.dev.kargo.com
 k8s.infra-001.i-use-1.braze.com
 k8s.jenkins.infra-east-1.braze.com
+k8s.region-001.p-euc-1.braze.eu
 k8s.region-001.p-use-1.braze.com
+k8s.region-001.s-euc-1.braze.eu
 k8s.region-001.s-use-1.braze.com
 k8s.staging.kargo.com
+k8s.stc-001.p-euc-1.braze.eu
 k8s.stc-001.p-use-1.braze.com
+k8s.stc-001.s-euc-1.braze.eu
 k8s.stc-001.s-use-1.braze.com
+k8s.stc-002.p-euc-1.braze.eu
 k8s.stc-002.p-use-1.braze.com
 k8s.test-001.d-usw-2.braze.com
 k8s.test-001.s-usw-2.braze.com
@@ -6885,8 +6899,8 @@ payterm01.acxiom.com
 paywall.marketingg2.com
 payweb01.acxiom.com
 pbbl.agkn.com
-pbmx.7p.com
 pbm-x.7p.com
+pbmx.7p.com
 pbr3-wn2.brightedge.com
 pbrowser-proxy22.brightedge.com
 pc1.mkto-b0065.com
@@ -7448,7 +7462,9 @@ pubmatic-winners-ap-southeast-1-rtb.adroll.com
 pub.new.33across.com
 pubportal.advertising.com
 pub.pxl.ace.advertising.com
+pub-services.fra.braze.eu
 pub-services.iad.braze.com
+pub-services.staging.fra.braze.eu
 pub-services.staging.iad.braze.com
 pubs.smrtb.com
 pulse.7p.com
@@ -7994,8 +8010,8 @@ s-10.optvdo.com
 s10.optvdo.com
 s1107488773.m.en25.com
 s1232257445.m.en25.com
-s-12.optvdo.com
 s12.optvdo.com
+s-12.optvdo.com
 s12.urbaninsight.com
 s1364398973.m.en25.com
 s13.ayads.co
@@ -8390,6 +8406,7 @@ services.247realmedia.com
 services.acxiom.com
 services.cmp.advertising.com
 services.extremereach.com.extremereach.com
+services.fra.braze.eu
 services.iad.appboy.com
 services.iad.braze.com
 services.ividplayer.com
@@ -8991,8 +9008,8 @@ static.propellerads.com
 static.quarticon.com
 static-sio.hotjar.com
 static.sociomantic.com
-static.staging.sharethrough.com
 static-staging.sharethrough.com
+static.staging.sharethrough.com
 static.stg.yieldmo.com
 static.tagoo.cc
 static.tagoo.co
@@ -9576,12 +9593,13 @@ tracking.campaign-tracking-service.prod.paperg.com
 tracking.cp.ligatus.com
 tracking.downloadyeah.com
 tracking.downloadyee.com
+tracking.eu1.m6r.eu
 tracking.hyde.ligatus.com
 tracking.outriggermedia.com
 tracking.photoyee.com
 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-tracking.rce.veeseo.com
 tracking-rce.veeseo.com
+tracking.rce.veeseo.com
 tracking.servebom.com
 track.ligatus.com
 track.locsensads.com
@@ -9601,8 +9619,8 @@ trapgenie.sitescoutadserver.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel.productads.hlserve.com
 travel-productads.hlserve.com
+travel.productads.hlserve.com
 tr.bnmla.com
 trc-cc.taboola.com
 trello-callback.glance-internal.inmobi.com
@@ -10277,8 +10295,8 @@ videos-acceptance.sharethrough.com
 videos.acceptance.sharethrough.com
 videos.sharethrough.com
 videos.springserve.com
-videos.staging.sharethrough.com
 videos-staging.sharethrough.com
+videos.staging.sharethrough.com
 vid.locsensads.com
 vid.pardot.com
 vidyorouter2.rubiconproject.com
@@ -10807,6 +10825,7 @@ www.adshowroom.adcolony.com
 www.ads-imp.adhese.com
 www.ads.inmobi.com
 www.ads.innovativemetrics.com
+www.ads.mediasmart.es
 www.ads.propellerads.com
 www.ads.travelaudience.com
 www.ads-twitter.com
@@ -11009,6 +11028,7 @@ www.cdn.dynamicyield.com
 www.cdn.granify.com
 www.cdn.inmobi.com
 www.cdn.merklesearch.com
+www.cdn-network.medialead.eu
 www.cdn-preview.dynamicyield.com
 www.cdns.brsrvr.com
 www.cdn.springserve.com
@@ -11522,6 +11542,7 @@ www.nativesdks.mparticle.com
 www.nersertive.com
 www.nessus1.dfw2.lijit.com
 www.nessus2.lijit.com
+www.network.medialead.eu
 www.neweggstats.com
 www.newmail.socialannex.com
 www.newscgp.com

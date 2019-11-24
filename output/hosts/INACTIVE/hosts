@@ -404,6 +404,7 @@
 0.0.0.0 ads.adasiaholdings.com
 0.0.0.0 ads.adhsm.adhese.com
 0.0.0.0 ads.adlithium.com
+0.0.0.0 ads.admetrics.events
 0.0.0.0 ads-adsomenoise.adhese.com
 0.0.0.0 ads.aertb.com
 0.0.0.0 ads.afa.adhese.com
@@ -1242,6 +1243,7 @@
 0.0.0.0 app.s1.exacttarget.com
 0.0.0.0 app.s1.qa2.exacttarget.com
 0.0.0.0 app.s2.qa2.exacttarget.com
+0.0.0.0 apps.admetrics.events
 0.0.0.0 apps.adtz.com
 0.0.0.0 app.scorecardresearch.com
 0.0.0.0 appscripts.webspectator.com
@@ -1357,8 +1359,8 @@
 0.0.0.0 assets2.brightedge.com
 0.0.0.0 assets2.huluim.com
 0.0.0.0 assets3.brightedge.com
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.adtechus.com
 0.0.0.0 assets.applvn.com
 0.0.0.0 assets.clevergirlscollective.com
@@ -1537,8 +1539,8 @@
 0.0.0.0 azure.appdynamics.com
 0.0.0.0 azure-res-provider.newrelic.com
 0.0.0.0 b136c9c4-4798-4d9e-b9dd-972e3ce64d75-078d9f6a6dc1.cdn.forter.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-euc2.zemanta.com
 0.0.0.0 b1-lsw-apac1.zemanta.com
 0.0.0.0 b1-lsw-euc1.zemanta.com
@@ -3430,6 +3432,7 @@
 0.0.0.0 eb.tremorhub.com
 0.0.0.0 ec2-54-159-122-18.bidagent.xad.com
 0.0.0.0 ec2amaz-v34sjct.marketo.com
+0.0.0.0 ecads.mediasmart.es
 0.0.0.0 echo1.iubenda.com
 0.0.0.0 ecpm_api.propellerads.com
 0.0.0.0 ecs.blismedia.com
@@ -3954,6 +3957,7 @@
 0.0.0.0 frontend1.innovid.com
 0.0.0.0 frontend5.innovid.com
 0.0.0.0 frontend6.innovid.com
+0.0.0.0 frontend.m6r.eu
 0.0.0.0 frontend-prd.svc.tapad.com
 0.0.0.0 frontend-preprod.weborama.com
 0.0.0.0 frontendqa.innovid.com
@@ -4128,8 +4132,8 @@
 0.0.0.0 global-pixel.sojern.com
 0.0.0.0 global-pixels.sojern.com
 0.0.0.0 global.qc.rtb.quantserve.com
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 glossy.adroll.com
 0.0.0.0 gls.rt.cquotient.com
 0.0.0.0 g.mbm.cn.miaozhen.com
@@ -4171,6 +4175,7 @@
 0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 go.paradym.com
 0.0.0.0 go.pixlee.com
+0.0.0.0 gotthard.tunnel.dc19.m6r.eu
 0.0.0.0 goubunto.aniview.com
 0.0.0.0 gouwu.mediav.com
 0.0.0.0 gp65.mta.exacttarget.com
@@ -4196,8 +4201,10 @@
 0.0.0.0 grafana.gae.staging-1.staging.leanplum.com
 0.0.0.0 grafana.ie.prod-1.prod.leanplum.com
 0.0.0.0 grafana.isau.prod.leanplum.com
+0.0.0.0 grafana.k8s.cluster-001.s-euc-1.braze.eu
 0.0.0.0 grafana.k8s.cluster-001.s-use-1.braze.com
 0.0.0.0 grafana.k8s.region-001.s-use-1.braze.com
+0.0.0.0 grafana.k8s.stc-001.s-euc-1.braze.eu
 0.0.0.0 grafana.k8s.stc-001.s-use-1.braze.com
 0.0.0.0 grafana.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 grafana.k8s-test.fiksu.com
@@ -4490,8 +4497,8 @@
 0.0.0.0 iekubedemo-prometheus.prometheus.staging-1.staging.leanplum.com
 0.0.0.0 iesolutions.7p.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -4646,8 +4653,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -4924,17 +4931,24 @@
 0.0.0.0 k8dev.adsrvr.cn
 0.0.0.0 k8prd.adsrvr.cn
 0.0.0.0 k8s.beeketing.com
+0.0.0.0 k8s.cluster-001.p-euc-1.braze.eu
 0.0.0.0 k8s.cluster-001.p-use-1.braze.com
+0.0.0.0 k8s.cluster-001.s-euc-1.braze.eu
 0.0.0.0 k8s.cluster-001.s-use-1.braze.com
 0.0.0.0 k8s-dashboard.propellerads.com
 0.0.0.0 k8s.dev.kargo.com
 0.0.0.0 k8s.infra-001.i-use-1.braze.com
 0.0.0.0 k8s.jenkins.infra-east-1.braze.com
+0.0.0.0 k8s.region-001.p-euc-1.braze.eu
 0.0.0.0 k8s.region-001.p-use-1.braze.com
+0.0.0.0 k8s.region-001.s-euc-1.braze.eu
 0.0.0.0 k8s.region-001.s-use-1.braze.com
 0.0.0.0 k8s.staging.kargo.com
+0.0.0.0 k8s.stc-001.p-euc-1.braze.eu
 0.0.0.0 k8s.stc-001.p-use-1.braze.com
+0.0.0.0 k8s.stc-001.s-euc-1.braze.eu
 0.0.0.0 k8s.stc-001.s-use-1.braze.com
+0.0.0.0 k8s.stc-002.p-euc-1.braze.eu
 0.0.0.0 k8s.stc-002.p-use-1.braze.com
 0.0.0.0 k8s.test-001.d-usw-2.braze.com
 0.0.0.0 k8s.test-001.s-usw-2.braze.com
@@ -6885,8 +6899,8 @@
 0.0.0.0 paywall.marketingg2.com
 0.0.0.0 payweb01.acxiom.com
 0.0.0.0 pbbl.agkn.com
-0.0.0.0 pbmx.7p.com
 0.0.0.0 pbm-x.7p.com
+0.0.0.0 pbmx.7p.com
 0.0.0.0 pbr3-wn2.brightedge.com
 0.0.0.0 pbrowser-proxy22.brightedge.com
 0.0.0.0 pc1.mkto-b0065.com
@@ -6976,8 +6990,8 @@
 0.0.0.0 pingfed.openx.com
 0.0.0.0 pink.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pinpoint-dev.adready.com
-0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pinyou-cm.cn.miaozhen.com
+0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pi.stormiq.com
 0.0.0.0 pi-ue1-lb1.pardot.com
 0.0.0.0 pi-ue1-lb2.pardot.com
@@ -7123,8 +7137,8 @@
 0.0.0.0 pool.telenet.be.adhese.com
 0.0.0.0 pool-trf.adhese.com
 0.0.0.0 pool-uatrmb.adhese.com
-0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pool-vrt.adhese.com
+0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pop3.qiye.163.com
 0.0.0.0 pop.adrcdn.com
 0.0.0.0 pop.adverline.com
@@ -7377,8 +7391,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
@@ -7448,7 +7462,9 @@
 0.0.0.0 pub.new.33across.com
 0.0.0.0 pubportal.advertising.com
 0.0.0.0 pub.pxl.ace.advertising.com
+0.0.0.0 pub-services.fra.braze.eu
 0.0.0.0 pub-services.iad.braze.com
+0.0.0.0 pub-services.staging.fra.braze.eu
 0.0.0.0 pub-services.staging.iad.braze.com
 0.0.0.0 pubs.smrtb.com
 0.0.0.0 pulse.7p.com
@@ -7994,8 +8010,8 @@
 0.0.0.0 s10.optvdo.com
 0.0.0.0 s1107488773.m.en25.com
 0.0.0.0 s1232257445.m.en25.com
-0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.optvdo.com
+0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.urbaninsight.com
 0.0.0.0 s1364398973.m.en25.com
 0.0.0.0 s13.ayads.co
@@ -8390,6 +8406,7 @@
 0.0.0.0 services.acxiom.com
 0.0.0.0 services.cmp.advertising.com
 0.0.0.0 services.extremereach.com.extremereach.com
+0.0.0.0 services.fra.braze.eu
 0.0.0.0 services.iad.appboy.com
 0.0.0.0 services.iad.braze.com
 0.0.0.0 services.ividplayer.com
@@ -9576,12 +9593,13 @@
 0.0.0.0 tracking.cp.ligatus.com
 0.0.0.0 tracking.downloadyeah.com
 0.0.0.0 tracking.downloadyee.com
+0.0.0.0 tracking.eu1.m6r.eu
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking.photoyee.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.rce.veeseo.com
+0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -9601,8 +9619,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 trello-callback.glance-internal.inmobi.com
@@ -10273,8 +10291,8 @@
 0.0.0.0 videomax.neodatagroup.com
 0.0.0.0 video.mediamind.com
 0.0.0.0 video.revcontent.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
 0.0.0.0 videos-staging.sharethrough.com
@@ -10807,6 +10825,7 @@
 0.0.0.0 www.ads-imp.adhese.com
 0.0.0.0 www.ads.inmobi.com
 0.0.0.0 www.ads.innovativemetrics.com
+0.0.0.0 www.ads.mediasmart.es
 0.0.0.0 www.ads.propellerads.com
 0.0.0.0 www.ads.travelaudience.com
 0.0.0.0 www.ads-twitter.com
@@ -11009,6 +11028,7 @@
 0.0.0.0 www.cdn.granify.com
 0.0.0.0 www.cdn.inmobi.com
 0.0.0.0 www.cdn.merklesearch.com
+0.0.0.0 www.cdn-network.medialead.eu
 0.0.0.0 www.cdn-preview.dynamicyield.com
 0.0.0.0 www.cdns.brsrvr.com
 0.0.0.0 www.cdn.springserve.com
@@ -11522,6 +11542,7 @@
 0.0.0.0 www.nersertive.com
 0.0.0.0 www.nessus1.dfw2.lijit.com
 0.0.0.0 www.nessus2.lijit.com
+0.0.0.0 www.network.medialead.eu
 0.0.0.0 www.neweggstats.com
 0.0.0.0 www.newmail.socialannex.com
 0.0.0.0 www.newscgp.com
