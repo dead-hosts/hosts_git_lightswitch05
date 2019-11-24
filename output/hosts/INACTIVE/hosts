@@ -74,6 +74,7 @@
 0.0.0.0 193594.engine.mobileapptracking.com
 0.0.0.0 194985.engine.mobileapptracking.com
 0.0.0.0 195204.engine.mobileapptracking.com
+0.0.0.0 1ds.ad.gt
 0.0.0.0 1faax-us-east.amazon-adsystem.com
 0.0.0.0 1picture.7p.com
 0.0.0.0 20272.engine.mobileapptracking.com
@@ -101,6 +102,7 @@
 0.0.0.0 29.creativecdn.com
 0.0.0.0 2.beeg.com
 0.0.0.0 2cimple.sitescoutadserver.com
+0.0.0.0 2fids.ad.gt
 0.0.0.0 2fidsync.rlcdn.com
 0.0.0.0 2.f.ix.de
 0.0.0.0 2open.facebook-ads.adtz.com
@@ -196,10 +198,12 @@
 0.0.0.0 88008006-prod.rfksrv.com
 0.0.0.0 881.engine.mobileapptracking.com
 0.0.0.0 883.engine.mobileapptracking.com
+0.0.0.0 8ds.ad.gt
 0.0.0.0 937.engine.mobileapptracking.com
 0.0.0.0 941grp.sitescoutadserver.com
 0.0.0.0 943.engine.mobileapptracking.com
 0.0.0.0 94d45.admaster.com.cn
+0.0.0.0 9ds.ad.gt
 0.0.0.0 a0.fanbread.com
 0.0.0.0 a1406.casalemedia.com
 0.0.0.0 a1497.casalemedia.com
@@ -403,6 +407,7 @@
 0.0.0.0 ads-4entertainment.adhese.com
 0.0.0.0 ads57-us-east.stickyadstv.com
 0.0.0.0 ads.adasiaholdings.com
+0.0.0.0 ads.ad.gt
 0.0.0.0 ads.adhsm.adhese.com
 0.0.0.0 ads.adlithium.com
 0.0.0.0 ads.admetrics.events
@@ -1206,6 +1211,7 @@
 0.0.0.0 ap-jet-01.sociomantic.com
 0.0.0.0 ap-jet-02.sociomantic.com
 0.0.0.0 ap.ligatus.com
+0.0.0.0 apngetuid.dev.ad.gt
 0.0.0.0 app2.videostat.com
 0.0.0.0 app3.autopilothq.com
 0.0.0.0 app3.mashero.com
@@ -2147,6 +2153,7 @@
 0.0.0.0 cdnc.nathan.pushspring.com
 0.0.0.0 cdn.coadvertise.com
 0.0.0.0 cdn.cp.ligatus.com
+0.0.0.0 cdn.d.ad.gt
 0.0.0.0 cdn-dev.advanseads.com
 0.0.0.0 cdn.dtzads.com
 0.0.0.0 cdn-eb.syndication.twitter.com
@@ -3023,6 +3030,7 @@
 0.0.0.0 dev8.supersonicads.com
 0.0.0.0 dev.adasiaholdings.com
 0.0.0.0 dev.adbuilder.gumgum.com
+0.0.0.0 dev.ad.gt
 0.0.0.0 dev.adlightning.com
 0.0.0.0 dev.admin.dianomi.com
 0.0.0.0 dev.adpushup.com
@@ -3030,6 +3038,7 @@
 0.0.0.0 dev.ads.fuel451.com
 0.0.0.0 dev.adsymptotic.com
 0.0.0.0 dev.adthrive.com
+0.0.0.0 dev-airflow.drawbrid.ge
 0.0.0.0 dev.amplitude.com
 0.0.0.0 dev.aniview.com
 0.0.0.0 dev.api.drift.com
@@ -4166,8 +4175,8 @@
 0.0.0.0 global-pixel.sojern.com
 0.0.0.0 global-pixels.sojern.com
 0.0.0.0 global.qc.rtb.quantserve.com
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 glossy.adroll.com
 0.0.0.0 gls.rt.cquotient.com
 0.0.0.0 g.mbm.cn.miaozhen.com
@@ -4325,6 +4334,7 @@
 0.0.0.0 haproxy01-west-bidder.manage.com
 0.0.0.0 haproxy-dmp-euprodfr.sizmdx.com
 0.0.0.0 haproxy.ewr1.exelator.com
+0.0.0.0 hardhat.drawbrid.ge
 0.0.0.0 haroldcdn.hlserve.com
 0.0.0.0 hartz.links.channelintelligence.com
 0.0.0.0 has1.midasplayer.com
@@ -4497,6 +4507,7 @@
 0.0.0.0 i.c.ping-origin-prd.jwpltx.com
 0.0.0.0 icsdirect.acxiom.com
 0.0.0.0 id.beeketing.com
+0.0.0.0 id.dev.ad.gt
 0.0.0.0 ideas.viglink.com
 0.0.0.0 identifier.granify.com
 0.0.0.0 identify.api.drift.com
@@ -4532,8 +4543,8 @@
 0.0.0.0 iekubedemo-prometheus.prometheus.staging-1.staging.leanplum.com
 0.0.0.0 iesolutions.7p.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -4688,8 +4699,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -5012,6 +5023,7 @@
 0.0.0.0 kb2.mediamath.com
 0.0.0.0 kb.criteo.com
 0.0.0.0 kb.pardot.com
+0.0.0.0 k.clean.gg
 0.0.0.0 kds-pixel-dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 keen.sp1.convertro.com
 0.0.0.0 keeza.dev-iad.amobee.com
@@ -5510,6 +5522,7 @@
 0.0.0.0 marketplace.analyticson.com
 0.0.0.0 marketplace-dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 marketplace-dev.svc.kargo.com
+0.0.0.0 marketplace.drawbrid.ge
 0.0.0.0 marketselect.acxiom.com
 0.0.0.0 marksandspencer.sp1.convertro.com
 0.0.0.0 mark.skyrocket.adtdp.com
@@ -6948,8 +6961,8 @@
 0.0.0.0 paywall.marketingg2.com
 0.0.0.0 payweb01.acxiom.com
 0.0.0.0 pbbl.agkn.com
-0.0.0.0 pbmx.7p.com
 0.0.0.0 pbm-x.7p.com
+0.0.0.0 pbmx.7p.com
 0.0.0.0 pbr3-wn2.brightedge.com
 0.0.0.0 pbrowser-proxy22.brightedge.com
 0.0.0.0 pc1.mkto-b0065.com
@@ -7187,8 +7200,8 @@
 0.0.0.0 pool.telenet.be.adhese.com
 0.0.0.0 pool-trf.adhese.com
 0.0.0.0 pool-uatrmb.adhese.com
-0.0.0.0 pool-vrt.adhese.com
 0.0.0.0 pool.vrt.adhese.com
+0.0.0.0 pool-vrt.adhese.com
 0.0.0.0 pop3.qiye.163.com
 0.0.0.0 pop.adrcdn.com
 0.0.0.0 pop.adverline.com
@@ -7210,6 +7223,7 @@
 0.0.0.0 pp.adotube.com
 0.0.0.0 ppe.applicationinsights.microsoft.com
 0.0.0.0 ppgw03.midasplayer.com
+0.0.0.0 pq.dev.ad.gt
 0.0.0.0 pr-a.adtech.de
 0.0.0.0 pr-a.adtechus.com
 0.0.0.0 practicingperfection.7p.com
@@ -7276,6 +7290,7 @@
 0.0.0.0 prod3.autopilothq.com
 0.0.0.0 prod.adlightning.com
 0.0.0.0 prod.adotmob.com
+0.0.0.0 prod-airflow.drawbrid.ge
 0.0.0.0 proda-ju3b.applovin.com
 0.0.0.0 proda-ju3b.applvn.com
 0.0.0.0 prod.ap-southeast-2.kops.kargo.com
@@ -8060,8 +8075,8 @@
 0.0.0.0 s-09.optvdo.com
 0.0.0.0 s1073427956.m.en25.com
 0.0.0.0 s10.allinviews.com
-0.0.0.0 s10.optvdo.com
 0.0.0.0 s-10.optvdo.com
+0.0.0.0 s10.optvdo.com
 0.0.0.0 s1107488773.m.en25.com
 0.0.0.0 s1232257445.m.en25.com
 0.0.0.0 s-12.optvdo.com
@@ -8165,8 +8180,8 @@
 0.0.0.0 s-50.algovid.com
 0.0.0.0 s-50.optvdo.com
 0.0.0.0 s-51.algovid.com
-0.0.0.0 s51.optvdo.com
 0.0.0.0 s-51.optvdo.com
+0.0.0.0 s51.optvdo.com
 0.0.0.0 s-52.algovid.com
 0.0.0.0 s-52.optvdo.com
 0.0.0.0 s-53.algovid.com
@@ -9046,8 +9061,8 @@
 0.0.0.0 static-2.3lift.com
 0.0.0.0 static2.sharethrough.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adlithium.com
 0.0.0.0 static.admailtiser.com
 0.0.0.0 static.adpushup.com
@@ -9073,8 +9088,8 @@
 0.0.0.0 static.simpli.fi
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static.sociomantic.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.stg.yieldmo.com
 0.0.0.0 static.tagoo.cc
 0.0.0.0 static.tagoo.co
@@ -9436,6 +9451,7 @@
 0.0.0.0 teste.teste.aunica.com
 0.0.0.0 test-foo.dev-iad.amobee.com
 0.0.0.0 testhg.solocpm.com
+0.0.0.0 testhw.dev.ad.gt
 0.0.0.0 testing.avg.163.com
 0.0.0.0 testing.fullstack.api.optimizely.com
 0.0.0.0 testings.playbuzz.com
@@ -9665,8 +9681,8 @@
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking.photoyee.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking-rce.veeseo.com
+0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -10359,8 +10375,8 @@
 0.0.0.0 videomax.neodatagroup.com
 0.0.0.0 video.mediamind.com
 0.0.0.0 video.revcontent.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
 0.0.0.0 videos-staging.sharethrough.com
@@ -10829,6 +10845,7 @@
 0.0.0.0 www.85819-19.chat.api.drift.com
 0.0.0.0 www.90822-22.live.api.drift.com
 0.0.0.0 www.9850.engine.mobileapptracking.com
+0.0.0.0 www.a.ad.gt
 0.0.0.0 www.abm-certification.demandbase.com
 0.0.0.0 www.ab.mopub.com
 0.0.0.0 www.academia.trendmd.com
@@ -10859,6 +10876,7 @@
 0.0.0.0 www.addragon.com
 0.0.0.0 www.a.deadlinefunnel.com
 0.0.0.0 www.adentifi.com
+0.0.0.0 www.a.dev.ad.gt
 0.0.0.0 www.adex.admailtiser.com
 0.0.0.0 www.adexchange.analyticson.com
 0.0.0.0 www.adkmob.com
@@ -11420,6 +11438,7 @@
 0.0.0.0 www.identity.mparticle.com
 0.0.0.0 www.identity-staging.appdynamics.com
 0.0.0.0 www.idp.ops.inmobi.com
+0.0.0.0 www.ids.dev.ad.gt
 0.0.0.0 www.ifc3.inmobi.com
 0.0.0.0 www.ifc.auth.inmobi.com
 0.0.0.0 www.ifc-ep.inmobi.com
@@ -12064,6 +12083,7 @@
 0.0.0.0 www.uat.opinion.inmobi.com
 0.0.0.0 www.uat.opinions.inmobi.com
 0.0.0.0 www.uat.pulse.inmobi.com
+0.0.0.0 www.u.dev.ad.gt
 0.0.0.0 www.uffa.sizmek.com
 0.0.0.0 www.ui.cp.tune.com
 0.0.0.0 www.ui-idx.inmobi.com
