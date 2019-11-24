@@ -45697,7 +45697,9 @@
             "ade.applicationinsights.io",
             "aibillingblackforest.applicationinsights.io",
             "aibillingfairfax.applicationinsights.io",
-            "aibillingmooncake.applicationinsights.io"
+            "aibillingmooncake.applicationinsights.io",
+            "aimc.aimon.applicationinsights.io",
+            "almintegration.aimon.applicationinsights.io"
         ],
         "INACTIVE": [
             "rt.ascend.ai",
@@ -58176,7 +58178,13 @@
             "aimc-aimon-encryption.applicationinsights.io",
             "aimcapi.applicationinsights.io",
             "aimon.applicationinsights.io",
-            "aad.aimon.applicationinsights.io"
+            "aad.aimon.applicationinsights.io",
+            "aimc-aimon-mdm.aimon.applicationinsights.io",
+            "alm-wcus-01-githuboauth.aimon.applicationinsights.io",
+            "alm-wcus-01-githuboauthsecondary.aimon.applicationinsights.io",
+            "alm-wcus-01-vstsoauth-encryption.aimon.applicationinsights.io",
+            "alm-wcus-01-mdm.aimon.applicationinsights.io",
+            "alm-wcus-01-vstsoauthsecondary.aimon.applicationinsights.io"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
