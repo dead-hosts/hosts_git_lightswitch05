@@ -974,8 +974,8 @@
 0.0.0.0 api.slo-review-tool.mediamath.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.stage.justpremium.com
 0.0.0.0 api.staging.bounceexchange.com
 0.0.0.0 api.staging.connatix.com
@@ -4040,8 +4040,8 @@
 0.0.0.0 i.essads.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -5564,6 +5564,7 @@
 0.0.0.0 n.eu.dynstc.com
 0.0.0.0 n.eu.dyntrk.com
 0.0.0.0 new-adm.hotjar.com
+0.0.0.0 new.ads.travelaudience.com
 0.0.0.0 new.flurry.com
 0.0.0.0 new.hotjar.com
 0.0.0.0 new-iq.adtechus.com
@@ -7148,6 +7149,7 @@
 0.0.0.0 rtb24.impresionesweb.com
 0.0.0.0 rtb26.impresionesweb.com
 0.0.0.0 rtb.adlithium.com
+0.0.0.0 rtb.ads.travelaudience.com
 0.0.0.0 rtb-apac.adsymptotic.com
 0.0.0.0 rtb-appnexus.admaxim.com
 0.0.0.0 rtb-ca1.tapad.com
@@ -7166,6 +7168,7 @@
 0.0.0.0 rtb.monarchads.com
 0.0.0.0 rtb.nexage.com
 0.0.0.0 rtb-pm1.eyereturn.com
+0.0.0.0 rtbproxy.trafmag.com
 0.0.0.0 rtb-quantum-geu.nxtck.com
 0.0.0.0 rtb-rubicon.hk.cn.criteo.com
 0.0.0.0 rtb.serverbid.com
@@ -7236,8 +7239,8 @@
 0.0.0.0 s10.optvdo.com
 0.0.0.0 s1107488773.m.en25.com
 0.0.0.0 s1232257445.m.en25.com
-0.0.0.0 s12.optvdo.com
 0.0.0.0 s-12.optvdo.com
+0.0.0.0 s12.optvdo.com
 0.0.0.0 s1364398973.m.en25.com
 0.0.0.0 s13.ayads.co
 0.0.0.0 s13.optvdo.com
@@ -7335,8 +7338,8 @@
 0.0.0.0 s-50.algovid.com
 0.0.0.0 s-50.optvdo.com
 0.0.0.0 s-51.algovid.com
-0.0.0.0 s-51.optvdo.com
 0.0.0.0 s51.optvdo.com
+0.0.0.0 s-51.optvdo.com
 0.0.0.0 s-52.algovid.com
 0.0.0.0 s-52.optvdo.com
 0.0.0.0 s-53.algovid.com
@@ -8139,8 +8142,8 @@
 0.0.0.0 static-2.3lift.com
 0.0.0.0 static2.sharethrough.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.acceptance.sharethrough.com
+0.0.0.0 static-acceptance.sharethrough.com
 0.0.0.0 static.adlithium.com
 0.0.0.0 static.admailtiser.com
 0.0.0.0 static.adpushup.com
@@ -8702,8 +8705,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 trello-callback.glance-internal.inmobi.com
@@ -9119,12 +9122,12 @@
 0.0.0.0 videomax.neodatagroup.com
 0.0.0.0 video.mediamind.com
 0.0.0.0 video.revcontent.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vid.locsensads.com
 0.0.0.0 vid.pardot.com
 0.0.0.0 vidyorouter2.rubiconproject.com
@@ -9600,6 +9603,7 @@
 0.0.0.0 www.ads.inmobi.com
 0.0.0.0 www.ads.innovativemetrics.com
 0.0.0.0 www.ads.propellerads.com
+0.0.0.0 www.ads.travelaudience.com
 0.0.0.0 www.ads-twitter.com
 0.0.0.0 www.adsx-admin.greystripe.com
 0.0.0.0 www.adtracker.inmobi.com
@@ -9870,6 +9874,7 @@
 0.0.0.0 www.crm-preview.dynamicyield.com
 0.0.0.0 www.crowd.rubiconproject.com
 0.0.0.0 www.crux.cloud.inmobi.com
+0.0.0.0 www.cs77.trafmag.com
 0.0.0.0 www.cs.rubiconproject.com
 0.0.0.0 www.ctasnet.com
 0.0.0.0 www.custombi.sizmek.com
@@ -9951,6 +9956,7 @@
 0.0.0.0 www.eb.3lift.com
 0.0.0.0 www.ebdr8.com
 0.0.0.0 www.ebm.e.redbox.com
+0.0.0.0 www.eb.trbas.com
 0.0.0.0 www.ebuzzing.com
 0.0.0.0 www.ebuzzingvideo.com
 0.0.0.0 www.ec2amaz-v34sjct.marketo.com
@@ -10326,6 +10332,7 @@
 0.0.0.0 www.pixel.netseer.com
 0.0.0.0 www.pixel.surpasshosting.com
 0.0.0.0 www.pixel-test.parsely.com
+0.0.0.0 www.pixel.traffiliate.com
 0.0.0.0 www.pix.impdesk.com
 0.0.0.0 www.pix.silverpush.co
 0.0.0.0 www.platform.amobee.com
@@ -10533,6 +10540,7 @@
 0.0.0.0 www-stage.demandbase.com
 0.0.0.0 www.stage.surf.nbcuni.com
 0.0.0.0 www.stage.tracker.springserve.com
+0.0.0.0 www.stage.traffiliate.com
 0.0.0.0 www.staging5.dev.tapjoy.com
 0.0.0.0 www-staging.bounceexchange.com
 0.0.0.0 www.staging.brightedge.com
@@ -10718,6 +10726,7 @@
 0.0.0.0 www.webshotcdn.dynamicyield.com
 0.0.0.0 www.webshotcdn-eu.dynamicyield.com
 0.0.0.0 www.webshot.dynamicyield.com
+0.0.0.0 www.widgets.tree.com
 0.0.0.0 www.wifi.amobee.com
 0.0.0.0 www.wifiquiz.smedia.ca
 0.0.0.0 www.windc01.foreseeresults.com
