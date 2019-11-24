@@ -566,6 +566,7 @@ ads-test.adhese.com
 ads.test.adthrive.com
 ad.stg.auditude.com
 ads.tidaltv.com
+ad-stinger.prod.bidr.io
 ads-tmg.adhese.com
 ads-trf.adhese.com
 ads.trigr.co
@@ -1075,6 +1076,7 @@ api-bg.web.analytics.yahoo.com
 api.bidder10.mookie1.com
 api.bidder7.mookie1.com
 api.bidder9.mookie1.com
+api.bidr.io
 api.bizographics.com
 api.boa.exacttarget.com
 api-b.so.lianmeng.360.cn
@@ -1193,8 +1195,8 @@ api.simpli.fi
 api.slo-review-tool.mediamath.com
 apis.sharethrough.com
 api-ssl.demandbase.com
-apis-staging.sharethrough.com
 apis.staging.sharethrough.com
+apis-staging.sharethrough.com
 api.stage.justpremium.com
 api.staging.bounceexchange.com
 api.staging.connatix.com
@@ -1414,8 +1416,8 @@ assets.ebuzzing.com
 assets.github.exacttarget.com
 assets.quantcast.com
 assets.sharethrough.com
-assets.staging.sharethrough.com
 assets-staging.sharethrough.com
+assets.staging.sharethrough.com
 assets-ue1.perf.pardot.com
 assist.itnow.netat1.listrakbi.com
 assist.skimresources.com
@@ -2529,6 +2531,7 @@ cn-static.sociomantic.com
 cn.support.appsflyer.com
 cnt.adgibbon.com
 cntr.adrime.com
+cnv.event-canary.prod.bidr.io
 co1aqu.atdmt.com
 co2aqu.atdmt.com
 codecoverage.staging-1.staging.leanplum.com
@@ -2990,6 +2993,7 @@ de3gslb1.coremetrics.com
 de3pubdns1.coremetrics.com
 de55.mta.exacttarget.com
 deadpool.ops.ir1.inmobi.com
+dealerx.prod.bidr.io
 dealmanager.ligatus.com
 dean.dev.dig.cbsi.com
 debra.navegg.com
@@ -3781,12 +3785,14 @@ ev2extensiontest.applicationinsights.io
 evenmore.nexage.com
 event.api.cp.tune.com
 event.bidstalk.com
+event-canary.prod.bidr.io
 event.cmp.advertising.com
 event-deletion.staging-1.staging.leanplum.com
 event-dev.api.driftt.com
 event-management.leanplum.com
 event-management-shadow.leanplum.com
 event.mediav.com
+event.prod.bidr.io
 eventqueries.bluekai.com
 eventqueries-int.bluekai.com
 events20.adcolony.com
@@ -3799,6 +3805,7 @@ events.intuit.launchdarkly.com
 events.lb.foreseeresults.com
 events.mapbox.com
 events.onedigitalad.com
+events.prod.bidr.io
 events.ubembed.com
 events.unityads.unity3d.com
 events.youbora.com
@@ -3837,8 +3844,8 @@ expn.agkn.com
 expo9.exponential.com
 exportdata.appsflyer.com
 exporthtml5.bannersnack.com
-export-int.applicationinsights.io
 export.int.applicationinsights.io
+export-int.applicationinsights.io
 export.swrve.com
 express-p.shopcurbside.com
 express.shopcurbside.com
@@ -4251,8 +4258,8 @@ globalnow.macromill.com
 global-pixel.sojern.com
 global-pixels.sojern.com
 global.qc.rtb.quantserve.com
-globeprod.amobee.com
 globe-prod.amobee.com
+globeprod.amobee.com
 glossy.adroll.com
 gls.rt.cquotient.com
 g.mbm.cn.miaozhen.com
@@ -4640,8 +4647,8 @@ idrisktest.acxiom.com
 idrs.ad.gt
 idsa.ad.gt
 id.s.ad.gt
-i.ds.ad.gt
 i-ds.ad.gt
+i.ds.ad.gt
 id-s.ad.gt
 idsd.ad.gt
 idse.ad.gt
@@ -4836,8 +4843,8 @@ initjs-prod.gcp.rfksrv.com
 initjs-staging.gcp.rfksrv.com
 initjs-test.gcp.rfksrv.com
 init-latency-test.supersonicads.com
-in.jwpltx.com
 i.n.jwpltx.com
+in.jwpltx.com
 inline.sharethis.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
@@ -5445,6 +5452,7 @@ logging.glogging.ar.atwola.com
 logging.newstags.stag.bounceexchange.com
 logging.vungle.com
 logging.webspectator.com
+loghost.in.backtrace.io
 logicithu.yusp.com
 login-apps.eloqua.com
 logincrc.doubleclick.com
@@ -6508,6 +6516,7 @@ np.adproxy.ndmdhs.com
 npc.adotube.com
 npm.corp.inmobi.com
 npm.districtm.ca
+npm-registry.backtrace.io
 nrtpd-shield.aimon.applicationinsights.io
 nrtpd-shield.applicationinsights.io
 ns01.3cinteractive.com
@@ -6662,6 +6671,10 @@ ns8.wtp101.com
 ns9.linksynergy.com
 ns9.mediav.com
 nsa.conviva.com
+nsandru1.test.backtrace.io
+nsandru2.test.backtrace.io
+nsandru3.test.backtrace.io
+nsandru.test.backtrace.io
 nsb.conviva.com
 nsc.conviva.com
 nsd.conviva.com
@@ -7475,6 +7488,7 @@ proda-ju3b.applovin.com
 proda-ju3b.applvn.com
 prod.ap-southeast-2.kops.kargo.com
 prod-aso-lb-v1.us-east-1d.kube.fiksu.com
+prod.bidr.io
 prod.c1111.ileads.acxiom.com
 prod.c1112.ileads.acxiom.com
 prod.conviva.com
@@ -7636,8 +7650,8 @@ prospector-cdn.salesloft.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway-production.browsiprod.com
 provider-gateway.production.browsiprod.com
+provider-gateway-production.browsiprod.com
 pro.vsassets.com
 pro.weborama.fr
 proximiter-stg.joystickinteractive.com
@@ -7650,6 +7664,7 @@ proxy-ssl.beeviewd.com
 proxy-ssl.bestcontentonline.com
 proxy-ssl.installfarm.com
 proxy-ssl.placeyourview.com
+proxytest1.sptest.backtrace.io
 proxy.us-west-2.world.rw.yieldmo.com
 prs1.midasplayer.com
 ps2013.wdc.bluekai.com
@@ -8414,6 +8429,8 @@ salemwebnetworks-d3.openxenterprise.com
 sales-live-events1.use.dynamicyield.com
 salesthumbs.zemanta.com
 salon-tagan.adlightning.com
+saml00.backtrace.io
+saml-2.backtrace.io
 sam.sitescout.com
 samsonite-cdn.madmobile.com
 samsonite.madmobile.com
@@ -9008,6 +9025,7 @@ sparda-tracking.adtelligence.de
 spark-cluster.svc.kargo.com
 sparkflow.netcloud-video.unrulymedia.com
 sparkpeople-d3.openxenterprise.com
+sp.backtrace.io
 spd.atdmt.com
 spdr-benefit.wsoddata.com
 spdy-lb11.adsymptotic.com
@@ -9277,8 +9295,8 @@ static.quarticon.com
 static.simpli.fi
 static-sio.hotjar.com
 static.sociomantic.com
-static-staging.sharethrough.com
 static.staging.sharethrough.com
+static-staging.sharethrough.com
 static.stg.yieldmo.com
 static.tagoo.cc
 static.tagoo.co
@@ -9337,6 +9355,7 @@ stg.iubenda.com
 stg-j-serval.adtdp.com
 stg.reachlocal.com
 stg.wh.reachlocal.com
+stinger-ad.bidr.io
 stirlingmatheson.fanbread.com
 st.iubenda.com
 stmllc.sitescoutadserver.com
@@ -10310,6 +10329,7 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
+us-east-1.segment-asg.bidr.io
 us-east-2.tracking.emerse.com
 us-east-3.tracking.emerse.com
 us-east-dmp-web-pixel.adblade.com
@@ -10580,8 +10600,8 @@ videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
 videos.sharethrough.com
 videos.springserve.com
-videos-staging.sharethrough.com
 videos.staging.sharethrough.com
+videos-staging.sharethrough.com
 vid.locsensads.com
 vid.pardot.com
 vidyorouter2.rubiconproject.com
@@ -12297,6 +12317,7 @@ www.trk.clinch.co
 www.trk.tidaltv.com
 www.tr.silverpush.co
 www.try.appboy.com
+www.try.backtrace.io
 www.try.bannerflow.com
 www.try.metrilo.com
 www.try.rollbar.com
