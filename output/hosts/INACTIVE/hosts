@@ -1036,6 +1036,7 @@
 0.0.0.0 api2044.d41.co
 0.0.0.0 api2.autopilothq.com
 0.0.0.0 api2.playhaven.com
+0.0.0.0 api2.segment.io
 0.0.0.0 api2-ssl.playhaven.com
 0.0.0.0 api3003.d41.co
 0.0.0.0 api3319.d41.co
@@ -1213,8 +1214,8 @@
 0.0.0.0 api.slo-review-tool.mediamath.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api.stage.justpremium.com
 0.0.0.0 api.staging.bounceexchange.com
 0.0.0.0 api.staging.connatix.com
@@ -1618,8 +1619,8 @@
 0.0.0.0 azure.appdynamics.com
 0.0.0.0 azure-res-provider.newrelic.com
 0.0.0.0 b136c9c4-4798-4d9e-b9dd-972e3ce64d75-078d9f6a6dc1.cdn.forter.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-euc2.zemanta.com
 0.0.0.0 b1-lsw-apac1.zemanta.com
 0.0.0.0 b1-lsw-euc1.zemanta.com
@@ -3232,6 +3233,7 @@
 0.0.0.0 dev.redirection.adtz.com
 0.0.0.0 dev.rfksrv.com
 0.0.0.0 dev-rtbkit.adlithium.com
+0.0.0.0 dev.s4m.io
 0.0.0.0 dev.saastest.appdynamics.com
 0.0.0.0 dev.scvapi.eu.acxiom.com
 0.0.0.0 dev.sftp.extremereach.com
@@ -4077,6 +4079,7 @@
 0.0.0.0 foreign.alcmpn.com
 0.0.0.0 foreman01.sto.midasplayer.com
 0.0.0.0 foreman.amobee.com
+0.0.0.0 forge.sentry.io
 0.0.0.0 formats.playbuzz.com
 0.0.0.0 forth-stag-api.newstags.stag.bounceexchange.com
 0.0.0.0 forth-stag.newstags.stag.bounceexchange.com
@@ -4535,8 +4538,8 @@
 0.0.0.0 haggler-mopub776-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub777-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub788.us-e.ec2.liftoff.io
-0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub791.us-e.ec2.liftoff.io
+0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub794.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub797.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub800.us-e.ec2.liftoff.io
@@ -4608,6 +4611,7 @@
 0.0.0.0 hellsgate.aws.infra.mediamath.com
 0.0.0.0 helpinghandscm.7p.com
 0.0.0.0 hertz.adlegend.com
+0.0.0.0 hexagram.rtk.io
 0.0.0.0 hiddenvalley.madmobile.com
 0.0.0.0 high5.sitescoutadserver.com
 0.0.0.0 highcdn.brainient.com
@@ -4805,10 +4809,10 @@
 0.0.0.0 idrisktest.acxiom.com
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
-0.0.0.0 id.s.ad.gt
-0.0.0.0 i.ds.ad.gt
-0.0.0.0 i-ds.ad.gt
 0.0.0.0 id-s.ad.gt
+0.0.0.0 i-ds.ad.gt
+0.0.0.0 i.ds.ad.gt
+0.0.0.0 id.s.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
 0.0.0.0 idsq.ad.gt
@@ -5003,8 +5007,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -5977,6 +5981,7 @@
 0.0.0.0 media.playhaven.com
 0.0.0.0 media.propellerads.com
 0.0.0.0 media.quantserve.com
+0.0.0.0 media.rtk.io
 0.0.0.0 medias.analyticson.com
 0.0.0.0 mediasetr.neodatagroup.com
 0.0.0.0 media-sj2.msg.dotomi.com
@@ -6652,6 +6657,7 @@
 0.0.0.0 nj.amobee.com
 0.0.0.0 njerho.sitelabweb.com
 0.0.0.0 njexp001.exelator.com
+0.0.0.0 nj.thor.rtk.io
 0.0.0.0 n.jwpltx.com
 0.0.0.0 nl1.mobpro.com
 0.0.0.0 nlad.zanox.com
@@ -7350,8 +7356,8 @@
 0.0.0.0 paywall.marketingg2.com
 0.0.0.0 payweb01.acxiom.com
 0.0.0.0 pbbl.agkn.com
-0.0.0.0 pbmx.7p.com
 0.0.0.0 pbm-x.7p.com
+0.0.0.0 pbmx.7p.com
 0.0.0.0 pbr3-wn2.brightedge.com
 0.0.0.0 pbrowser-proxy22.brightedge.com
 0.0.0.0 pc1.mkto-b0065.com
@@ -7594,8 +7600,8 @@
 0.0.0.0 pool.telenet.be.adhese.com
 0.0.0.0 pool-trf.adhese.com
 0.0.0.0 pool-uatrmb.adhese.com
-0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pool-vrt.adhese.com
+0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pop3.qiye.163.com
 0.0.0.0 pop.adrcdn.com
 0.0.0.0 pop.adverline.com
@@ -7855,8 +7861,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 pro.weborama.fr
 0.0.0.0 proximiter-stg.joystickinteractive.com
@@ -8484,8 +8490,8 @@
 0.0.0.0 s-09.optvdo.com
 0.0.0.0 s1073427956.m.en25.com
 0.0.0.0 s10.allinviews.com
-0.0.0.0 s-10.optvdo.com
 0.0.0.0 s10.optvdo.com
+0.0.0.0 s-10.optvdo.com
 0.0.0.0 s1107488773.m.en25.com
 0.0.0.0 s1232257445.m.en25.com
 0.0.0.0 s-12.optvdo.com
@@ -8589,8 +8595,8 @@
 0.0.0.0 s-50.algovid.com
 0.0.0.0 s-50.optvdo.com
 0.0.0.0 s-51.algovid.com
-0.0.0.0 s51.optvdo.com
 0.0.0.0 s-51.optvdo.com
+0.0.0.0 s51.optvdo.com
 0.0.0.0 s-52.algovid.com
 0.0.0.0 s-52.optvdo.com
 0.0.0.0 s-53.algovid.com
@@ -9512,8 +9518,8 @@
 0.0.0.0 static.simpli.fi
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static.sociomantic.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.stg.yieldmo.com
 0.0.0.0 static.tagoo.cc
 0.0.0.0 static.tagoo.co
@@ -10271,9 +10277,11 @@
 0.0.0.0 ui.staging-api-docs.fyber.com
 0.0.0.0 ui.weborama.com
 0.0.0.0 u.joystickinteractive.com
+0.0.0.0 uk2.thor.rtk.io
 0.0.0.0 uk2.thunderhead.com
 0.0.0.0 uk.acxiom.com
 0.0.0.0 uk.adlearnop.advertising.com
+0.0.0.0 uk.thor.rtk.io
 0.0.0.0 uk.thunderhead.com
 0.0.0.0 ukvpn2.thunderhead.com
 0.0.0.0 ukvpn.thunderhead.com
@@ -10527,6 +10535,7 @@
 0.0.0.0 uploads.github.exacttarget.com
 0.0.0.0 up.qa.midasplayer.com
 0.0.0.0 upsource.internal.connatix.com
+0.0.0.0 ur93pklmrzha.sentry.io
 0.0.0.0 url.apester.com
 0.0.0.0 urlfetcher2.conviva.com
 0.0.0.0 urs.adapf.com
@@ -10789,8 +10798,8 @@
 0.0.0.0 vext.ligatus.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfesprod.amobee.com
+0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -10838,8 +10847,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vid.locsensads.com
 0.0.0.0 vid.pardot.com
 0.0.0.0 vidyorouter2.rubiconproject.com
@@ -12618,6 +12627,7 @@
 0.0.0.0 www.upgradedltypeliteflash.icu
 0.0.0.0 www.urbn-live-stream-feeds.dynamicyield.com
 0.0.0.0 www.u.scupio.com
+0.0.0.0 www.use.raygun.io
 0.0.0.0 www.usermatix.corp.inmobi.com
 0.0.0.0 www.ushqlyncpool.foresee.com
 0.0.0.0 www.ussip.mediamind.com
