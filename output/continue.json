@@ -48806,7 +48806,24 @@
             "ia-test03.inner-active.mobi",
             "ia-test05.inner-active.mobi",
             "ia-vast.inner-active.mobi",
-            "m2m1.inner-active.mobi"
+            "m2m1.inner-active.mobi",
+            "retargeting.inner-active.mobi",
+            "register.inner-active.mobi",
+            "sdk-events.inner-active.mobi",
+            "sdk-analytics.inner-active.mobi",
+            "staging.inner-active.mobi",
+            "vast-events.inner-active.mobi",
+            "video.inner-active.mobi",
+            "vast-events-staging.inner-active.mobi",
+            "wv.inner-active.mobi",
+            "www.inner-active.mobi",
+            "mmnetwork.mobi",
+            "b.mmnetwork.mobi",
+            "www.mmnetwork.mobi",
+            "www1.mmnetwork.mobi",
+            "vserv.mobi",
+            "a.vserv.mobi",
+            "stg.admin.vserv.mobi"
         ],
         "INACTIVE": [
             "rt.ascend.ai",
@@ -61903,7 +61920,10 @@
             "metrics.marketing365.mk",
             "mk.marketing365.mk",
             "www.metrics.marketing365.mk",
-            "www.mk.marketing365.mk"
+            "www.mk.marketing365.mk",
+            "imptrk.mmnetwork.mobi",
+            "www.b.mmnetwork.mobi",
+            "www.www1.mmnetwork.mobi"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
