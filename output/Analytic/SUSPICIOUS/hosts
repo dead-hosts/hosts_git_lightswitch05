@@ -1181,8 +1181,8 @@
 0.0.0.0 adyoulike.api.omnitagjs.com
 0.0.0.0 adyoulike-api.omnitagjs.com
 0.0.0.0 adyoulike.apt.omnitagjs.com
-0.0.0.0 adyoulike-dyn.omnitagjs.com
 0.0.0.0 adyoulike.dyn.omnitagjs.com
+0.0.0.0 adyoulike-dyn.omnitagjs.com
 0.0.0.0 adyoulike.omnitagjs.com
 0.0.0.0 adyoulike-preview-09.api.omnitagjs.com
 0.0.0.0 adyoulike.ssp.omnitagjs.com
@@ -1302,7 +1302,9 @@
 0.0.0.0 allday-d3.openxenterprise.com
 0.0.0.0 alldcs.outbrain.com
 0.0.0.0 allegro-allegro.bannerflow.com
+0.0.0.0 allfail-east.adadvisor.net
 0.0.0.0 allfail-www.all.adadvisor.net
+0.0.0.0 allfail-www.east.adadvisor.net
 0.0.0.0 all.fc.yahoo.com
 0.0.0.0 all-rdr.adadvisor.net
 0.0.0.0 allscripts.mktoweb.com
@@ -1341,8 +1343,8 @@
 0.0.0.0 amp.localytics.com
 0.0.0.0 amp.locations.yext.com
 0.0.0.0 amp.mdotlabs.com
-0.0.0.0 ams01.event.spotxchange.com
 0.0.0.0 ams01-event.spotxchange.com
+0.0.0.0 ams01.event.spotxchange.com
 0.0.0.0 ams01.sync.search.spotxchange.com
 0.0.0.0 ams-1-apex.go.sonobi.com
 0.0.0.0 ams-1.go.sonobi.com
@@ -2568,6 +2570,7 @@
 0.0.0.0 c.df-srv.de
 0.0.0.0 cdn-102.statdynamic.com
 0.0.0.0 cdn-103.statdynamic.com
+0.0.0.0 cdn1.adadvisor.net
 0.0.0.0 cdn1.mashero.com
 0.0.0.0 cdn1-preprod.stickyadstv.com
 0.0.0.0 cdn1.smartadserver.com
@@ -2924,12 +2927,12 @@
 0.0.0.0 collector-loadtest.lightstep.com
 0.0.0.0 collector-lyft-dev.lightstep.com
 0.0.0.0 collector-lyft-dev-no-grpc.lightstep.com
-0.0.0.0 collector-meta.lightstep.com
 0.0.0.0 collector.meta.lightstep.com
+0.0.0.0 collector-meta.lightstep.com
 0.0.0.0 collector.placelocal.com
 0.0.0.0 collector.prod.expedia.com
-0.0.0.0 collector.staging.lightstep.com
 0.0.0.0 collector-staging.lightstep.com
+0.0.0.0 collector.staging.lightstep.com
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 comcast.cdn.auditude.com
 0.0.0.0 comeon-comeon.bannerflow.com
@@ -3496,8 +3499,8 @@
 0.0.0.0 demos.gumgum.com
 0.0.0.0 demos.logrocket.com
 0.0.0.0 demo-ui-notifications.videoamp.com
-0.0.0.0 den01-event.spotxchange.com
 0.0.0.0 den01.event.spotxchange.com
+0.0.0.0 den01-event.spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
 0.0.0.0 dent.unicast.com
 0.0.0.0 denver.reachlocal.com
@@ -3766,6 +3769,7 @@
 0.0.0.0 dummy-api.staging.usabilla.com
 0.0.0.0 dunelondoncom.mpeasylink.com
 0.0.0.0 duo-spinnaker.dz.optimizely.com
+0.0.0.0 dv.adadvisor.net
 0.0.0.0 dw.cbsi.com
 0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 dw.qa.cbsi.com
@@ -3801,8 +3805,8 @@
 0.0.0.0 e1.rocketadv.com
 0.0.0.0 e2ecredentials.dev.pardot.com
 0.0.0.0 e2-locust.locust.staging-1.staging.leanplum.com
-0.0.0.0 e2.locust.staging-1.staging.leanplum.com
 0.0.0.0 e2-locust.staging-1.staging.leanplum.com
+0.0.0.0 e2.locust.staging-1.staging.leanplum.com
 0.0.0.0 e2.thirdpresence.com
 0.0.0.0 e3.adpushup.com
 0.0.0.0 e3.thirdpresence.com
@@ -4123,8 +4127,8 @@
 0.0.0.0 eu-pn4.adserver.yahoo.com
 0.0.0.0 eu-pool.a.company-target.com
 0.0.0.0 eu-pool.d.company-target.com
-0.0.0.0 eu.pulsepoint.rtb.quantserve.com
 0.0.0.0 eu-pulsepoint-rtb.quantserve.com
+0.0.0.0 eu.pulsepoint.rtb.quantserve.com
 0.0.0.0 eu-qa-log.swrve.com
 0.0.0.0 eur.i.simpli.fi
 0.0.0.0 europe.adserver.yahoo.com
@@ -4638,14 +4642,14 @@
 0.0.0.0 grp.int.applicationinsights.io
 0.0.0.0 grtb-asia-east1a.tribalfusion.com
 0.0.0.0 grtb.asia-east1a.tribalfusion.com
-0.0.0.0 grtb-central1a.tribalfusion.com
 0.0.0.0 grtb.central1a.tribalfusion.com
-0.0.0.0 grtb-central1b.tribalfusion.com
+0.0.0.0 grtb-central1a.tribalfusion.com
 0.0.0.0 grtb.central1b.tribalfusion.com
+0.0.0.0 grtb-central1b.tribalfusion.com
 0.0.0.0 grtb-central1f.tribalfusion.com
 0.0.0.0 grtb.central1f.tribalfusion.com
-0.0.0.0 grtb-europe-west1b.tribalfusion.com
 0.0.0.0 grtb.europe-west1b.tribalfusion.com
+0.0.0.0 grtb-europe-west1b.tribalfusion.com
 0.0.0.0 grupogodo-ams.gravityrd-services.com
 0.0.0.0 grupogodo.worldgravity.com
 0.0.0.0 gsm.aimon.applicationinsights.io
@@ -5637,8 +5641,8 @@
 0.0.0.0 losangeles.reachlocal.com
 0.0.0.0 lotame.segments.go.sonobi.com
 0.0.0.0 lotame-test.go.sonobi.com
-0.0.0.0 lotame-users.go.sonobi.com
 0.0.0.0 lotame.users.go.sonobi.com
+0.0.0.0 lotame-users.go.sonobi.com
 0.0.0.0 lotuscars.thirdpresence.com
 0.0.0.0 louisville.nui.media
 0.0.0.0 lp.dynamicyield.com
@@ -6518,6 +6522,7 @@
 0.0.0.0 nuqstage-rtbwin.applovin.com
 0.0.0.0 nvaxcb.spartoo.com
 0.0.0.0 nvidiab2c.mktoweb.com
+0.0.0.0 ny.adadvisor.net
 0.0.0.0 nyblog.gameanalytics.com
 0.0.0.0 nychi2.outbrain.com
 0.0.0.0 nyidt.adsafeprotected.com
@@ -6614,8 +6619,8 @@
 0.0.0.0 o-o---preferred---sn-5uaeznek---v23---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uaeznek---v24---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uaeznek---v8---cache.c.googlesyndication.com
-0.0.0.0 o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
 0.0.0.0 o-o.preferred.sn-5uu-vgqe.v18.cache.c.googlesyndication.com
+0.0.0.0 o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uu-vgqe---v9---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uu-vgql---v21---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-o097zne7---v10---cache.c.googlesyndication.com
@@ -6794,6 +6799,7 @@
 0.0.0.0 pa1.altitude-arena.com
 0.0.0.0 pa2.altitude-arena.com
 0.0.0.0 pa3.b.audiencetag.com
+0.0.0.0 pa.adadvisor.net
 0.0.0.0 paceindustries.mpeasylink.com
 0.0.0.0 package-repository.instana.io
 0.0.0.0 p.addthis.com
@@ -7185,8 +7191,8 @@
 0.0.0.0 production.pao-1.mathmon.mediamath.com
 0.0.0.0 productivity.alertmanager.staging-1.staging.leanplum.com
 0.0.0.0 productivity.grafana.staging-1.staging.leanplum.com
-0.0.0.0 productivity.locust-2.staging-1.staging.leanplum.com
 0.0.0.0 productivity.locust2.staging-1.staging.leanplum.com
+0.0.0.0 productivity.locust-2.staging-1.staging.leanplum.com
 0.0.0.0 productivity.locust.staging-1.staging.leanplum.com
 0.0.0.0 productivity.prometheus.staging-1.staging.leanplum.com
 0.0.0.0 products.app.link
@@ -7447,8 +7453,8 @@
 0.0.0.0 query-r8klqv4fq0bp9ued.petametrics.com
 0.0.0.0 query-us-east1.petametrics.com
 0.0.0.0 query-us.petametrics.com
-0.0.0.0 query-us-west-1.petametrics.com
 0.0.0.0 query-us-west1.petametrics.com
+0.0.0.0 query-us-west-1.petametrics.com
 0.0.0.0 questex.mktoweb.com
 0.0.0.0 quickpulse.aimon.applicationinsights.io
 0.0.0.0 quirk.nui.media
@@ -7528,6 +7534,7 @@
 0.0.0.0 rd.frontend.weborama.fr
 0.0.0.0 r.dlx.addthis.com
 0.0.0.0 rdpnextmms-qa.mow.wavesecure.com
+0.0.0.0 rdr.adadvisor.net
 0.0.0.0 rdrs.ad-score.com
 0.0.0.0 rd.surveywall-api.survata.com
 0.0.0.0 rdy-p.alcmpn.com
@@ -7781,10 +7788,10 @@
 0.0.0.0 rtb-facebook.mia.nxtck.com
 0.0.0.0 rtb-facebook.mrs.nxtck.com
 0.0.0.0 rtb-google-gus.nxtck.com
-0.0.0.0 rtb-google-mia.nxtck.com
 0.0.0.0 rtb-google.mia.nxtck.com
-0.0.0.0 rtb-google.mrs.nxtck.com
+0.0.0.0 rtb-google-mia.nxtck.com
 0.0.0.0 rtb-google-mrs.nxtck.com
+0.0.0.0 rtb-google.mrs.nxtck.com
 0.0.0.0 rtb-ids-e.vindicosuite.com
 0.0.0.0 rtb-ids-w.vindicosuite.com
 0.0.0.0 rtb.impresionesweb.com
@@ -8187,6 +8194,7 @@
 0.0.0.0 scripts-staging.mediavine.com
 0.0.0.0 script-staging.hotjar.com
 0.0.0.0 s-cs.rd.linksynergy.com
+0.0.0.0 sd.adadvisor.net
 0.0.0.0 sdk1.ibm.xtify.com
 0.0.0.0 sdk3.ibm.xtify.com
 0.0.0.0 sdk6.ibm.xtify.com
@@ -8463,8 +8471,8 @@
 0.0.0.0 simpletechnology1.mktoweb.com
 0.0.0.0 simpleview.adready.com
 0.0.0.0 simulator.engagefront.com
-0.0.0.0 sin01.event.spotxchange.com
 0.0.0.0 sin01-event.spotxchange.com
+0.0.0.0 sin01.event.spotxchange.com
 0.0.0.0 sin01.sync.search.spotxchange.com
 0.0.0.0 sina.mediav.com
 0.0.0.0 singular1.apsalar.com
@@ -9101,6 +9109,7 @@
 0.0.0.0 survey.survicate.com
 0.0.0.0 s-v6exp1-ds.metric.gstatic.com
 0.0.0.0 s-v6exp1-v4.metric.gstatic.com
+0.0.0.0 sv.adadvisor.net
 0.0.0.0 sv-p.alcmpn.com
 0.0.0.0 svr.admailtiser.com
 0.0.0.0 s.vserv.mobi
@@ -9176,8 +9185,8 @@
 0.0.0.0 taboola-winners-us-west-2-rtb.adroll.com
 0.0.0.0 tacony.mktoweb.com
 0.0.0.0 tag.163.com
-0.0.0.0 tag.api.omnitagjs.com
 0.0.0.0 tag-api.omnitagjs.com
+0.0.0.0 tag.api.omnitagjs.com
 0.0.0.0 tag.bot-test.qa.bounceexchange.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.bri.qa.bounceexchange.com
@@ -9190,8 +9199,8 @@
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 tag-dyn-asi01.omnitagjs.com
 0.0.0.0 tag-dyn-fra01.omnitagjs.com
-0.0.0.0 tag-dyn.omnitagjs.com
 0.0.0.0 tag.dyn.omnitagjs.com
+0.0.0.0 tag-dyn.omnitagjs.com
 0.0.0.0 tag-dyn-usa01.omnitagjs.com
 0.0.0.0 tag-dyn-usa02.omnitagjs.com
 0.0.0.0 tag-eu.loopmertb.com
@@ -9301,6 +9310,7 @@
 0.0.0.0 tersertude.amobee.com
 0.0.0.0 tersertude.thirdpresence.com
 0.0.0.0 test11.solocpm.com
+0.0.0.0 test2.adadvisor.net
 0.0.0.0 test2.nqs.nice264.com
 0.0.0.0 test5.newrelic.com
 0.0.0.0 test66.firstpromoter.com
@@ -9818,8 +9828,8 @@
 0.0.0.0 us-east.pulsepoint.rtb.quantserve.com
 0.0.0.0 us-east-rtb.ak.quantserve.com
 0.0.0.0 us-east-rtb-new.ak.quantserve.com
-0.0.0.0 us-east.smart-ad.rtb.quantserve.com
 0.0.0.0 us-east-smart-ad-rtb.quantserve.com
+0.0.0.0 us-east.smart-ad.rtb.quantserve.com
 0.0.0.0 us-east-ssp.aralego.com
 0.0.0.0 us-east-win.s4mdsp.com
 0.0.0.0 userapi.bluekai.com
@@ -9953,6 +9963,8 @@
 0.0.0.0 veeam.mktoweb.com
 0.0.0.0 venkman.flurry.com
 0.0.0.0 ver-adt-cm.vindicosuite.com
+0.0.0.0 verify.alphalab.adadvisor.net
+0.0.0.0 verify.omegalab.adadvisor.net
 0.0.0.0 veritas.nui.media
 0.0.0.0 verity-api.gumgum.com
 0.0.0.0 verivox-service.adtelligence.de
