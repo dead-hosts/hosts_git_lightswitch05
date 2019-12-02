@@ -1119,8 +1119,8 @@
 0.0.0.0 ads.solocpm.com
 0.0.0.0 ads.stage-one.heyzap.com
 0.0.0.0 ads-stats-limiter-shadow.snapads.com
-0.0.0.0 ads-stg.yieldmo.com
 0.0.0.0 ads.stg.yieldmo.com
+0.0.0.0 ads-stg.yieldmo.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 adstaging.admaxim.com
 0.0.0.0 adstats-shadow.snapads.com
@@ -1179,8 +1179,8 @@
 0.0.0.0 adx-winners-us-west-2-rtb.adroll.com
 0.0.0.0 adyoulike-api.api.omnitagjs.com
 0.0.0.0 adyoulike-api.dyn.omnitagjs.com
-0.0.0.0 adyoulike-api.omnitagjs.com
 0.0.0.0 adyoulike.api.omnitagjs.com
+0.0.0.0 adyoulike-api.omnitagjs.com
 0.0.0.0 adyoulike.apt.omnitagjs.com
 0.0.0.0 adyoulike-dyn.omnitagjs.com
 0.0.0.0 adyoulike.dyn.omnitagjs.com
@@ -2507,6 +2507,7 @@
 0.0.0.0 campaign-push.bluekai.com
 0.0.0.0 campaigns.24-ads.adaos-ads.net
 0.0.0.0 campaign-scheduler.staging-1.staging.leanplum.com
+0.0.0.0 campaigns.de.euserv.adaos-ads.net
 0.0.0.0 campaigns.staging-1.staging.leanplum.com
 0.0.0.0 campaign.stg.apester.com
 0.0.0.0 campaigns.thirdpresence.com
@@ -2826,8 +2827,8 @@
 0.0.0.0 clicks.fiksu.com
 0.0.0.0 clicks-orangegames.adhese.com
 0.0.0.0 clicks-pebblemedia.adhese.com
-0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clicks-roularta.adhese.com
+0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
@@ -2934,8 +2935,8 @@
 0.0.0.0 collector-meta.lightstep.com
 0.0.0.0 collector.placelocal.com
 0.0.0.0 collector.prod.expedia.com
-0.0.0.0 collector.staging.lightstep.com
 0.0.0.0 collector-staging.lightstep.com
+0.0.0.0 collector.staging.lightstep.com
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 comcast.cdn.auditude.com
 0.0.0.0 comeon-comeon.bannerflow.com
@@ -3167,6 +3168,8 @@
 0.0.0.0 cp-tracking.veeseo.com
 0.0.0.0 cpxiasia.adready.com
 0.0.0.0 cpx.v1.24-ads.adaos-ads.net
+0.0.0.0 cpx.v1.de.euserv.adaos-ads.net
+0.0.0.0 cpx.v1.de.euserv.adm.adaos-ads.net
 0.0.0.0 cq5z1f8j-android-1-1-0-6-6-1.mobile-sdk-api.intercom.io
 0.0.0.0 cqlonl.spartoo.cz
 0.0.0.0 c.r10.mopub.com
@@ -3472,7 +3475,9 @@
 0.0.0.0 decision.docs.canarybay.innovation.abtasty.com
 0.0.0.0 decisions.doc.canarybay.innovation.abtasty.com
 0.0.0.0 de.euserv.accomm.adaos-ads.net
+0.0.0.0 de.euserv.adaos-ads.net
 0.0.0.0 de.euserv.adm.adaos-ads.net
+0.0.0.0 de.eutrack.adaos-ads.net
 0.0.0.0 default.app.link
 0.0.0.0 de.haloapps.com
 0.0.0.0 de.info.lgsmartad.com
@@ -3505,8 +3510,8 @@
 0.0.0.0 demos.gumgum.com
 0.0.0.0 demos.logrocket.com
 0.0.0.0 demo-ui-notifications.videoamp.com
-0.0.0.0 den01.event.spotxchange.com
 0.0.0.0 den01-event.spotxchange.com
+0.0.0.0 den01.event.spotxchange.com
 0.0.0.0 den01.sync.search.spotxchange.com
 0.0.0.0 dent.unicast.com
 0.0.0.0 denver.reachlocal.com
@@ -3725,8 +3730,8 @@
 0.0.0.0 downloads.sentry-cdn.com
 0.0.0.0 d-p-td-hkg1.turn.com
 0.0.0.0 d-p-td-sjc2.turn.com
-0.0.0.0 dpx.airpr.com
 0.0.0.0 d.px.airpr.com
+0.0.0.0 dpx.airpr.com
 0.0.0.0 dq.alcmpn.com
 0.0.0.0 d.r10.mopub.com
 0.0.0.0 drone-ci.videoamp.com
@@ -4649,12 +4654,12 @@
 0.0.0.0 grp.int.applicationinsights.io
 0.0.0.0 grtb.asia-east1a.tribalfusion.com
 0.0.0.0 grtb-asia-east1a.tribalfusion.com
-0.0.0.0 grtb-central1a.tribalfusion.com
 0.0.0.0 grtb.central1a.tribalfusion.com
+0.0.0.0 grtb-central1a.tribalfusion.com
 0.0.0.0 grtb-central1b.tribalfusion.com
 0.0.0.0 grtb.central1b.tribalfusion.com
-0.0.0.0 grtb-central1f.tribalfusion.com
 0.0.0.0 grtb.central1f.tribalfusion.com
+0.0.0.0 grtb-central1f.tribalfusion.com
 0.0.0.0 grtb.europe-west1b.tribalfusion.com
 0.0.0.0 grtb-europe-west1b.tribalfusion.com
 0.0.0.0 grupogodo-ams.gravityrd-services.com
@@ -5333,6 +5338,8 @@
 0.0.0.0 jss.midasplayer.com
 0.0.0.0 js.taplytics.com
 0.0.0.0 js.v1.24-ads.adaos-ads.net
+0.0.0.0 js.v1.de.euserv.adaos-ads.net
+0.0.0.0 js.v1.de.euserv.adm.adaos-ads.net
 0.0.0.0 js.w.inmobi.cn
 0.0.0.0 js.w.inmobi.com
 0.0.0.0 jula-product-images.bannerflow.com
@@ -5868,8 +5875,8 @@
 0.0.0.0 media.minutemediacdn.com
 0.0.0.0 media.mobileapptracking.com
 0.0.0.0 media.netseer.com
-0.0.0.0 medianet.sync.go.sonobi.com
 0.0.0.0 medianet-sync.go.sonobi.com
+0.0.0.0 medianet.sync.go.sonobi.com
 0.0.0.0 media.orbee.co
 0.0.0.0 mediaplanner.uat.inmobi.com
 0.0.0.0 media.qoof.com
@@ -7461,8 +7468,8 @@
 0.0.0.0 query-r8klqv4fq0bp9ued.petametrics.com
 0.0.0.0 query-us-east1.petametrics.com
 0.0.0.0 query-us.petametrics.com
-0.0.0.0 query-us-west-1.petametrics.com
 0.0.0.0 query-us-west1.petametrics.com
+0.0.0.0 query-us-west-1.petametrics.com
 0.0.0.0 questex.mktoweb.com
 0.0.0.0 quickpulse.aimon.applicationinsights.io
 0.0.0.0 quirk.nui.media
@@ -7796,10 +7803,10 @@
 0.0.0.0 rtb-facebook.mia.nxtck.com
 0.0.0.0 rtb-facebook.mrs.nxtck.com
 0.0.0.0 rtb-google-gus.nxtck.com
-0.0.0.0 rtb-google-mia.nxtck.com
 0.0.0.0 rtb-google.mia.nxtck.com
-0.0.0.0 rtb-google-mrs.nxtck.com
+0.0.0.0 rtb-google-mia.nxtck.com
 0.0.0.0 rtb-google.mrs.nxtck.com
+0.0.0.0 rtb-google-mrs.nxtck.com
 0.0.0.0 rtb-ids-e.vindicosuite.com
 0.0.0.0 rtb-ids-w.vindicosuite.com
 0.0.0.0 rtb.impresionesweb.com
@@ -7926,6 +7933,7 @@
 0.0.0.0 rush.nui.media
 0.0.0.0 r.us-west-2.awstrack.me
 0.0.0.0 ruutumobilea.thirdpresence.com
+0.0.0.0 rv.adcpx.v1.de.eusem.adaos-ads.net
 0.0.0.0 rva.outbrain.com
 0.0.0.0 r.video.adacado.com
 0.0.0.0 rwcvpn1.turn.com
@@ -8947,8 +8955,9 @@
 0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static.criteo.com
 0.0.0.0 staticd.cdn.adblade.com
-0.0.0.0 static.devex.adblade.com
+0.0.0.0 static.de.euserv.adaos-ads.net
 0.0.0.0 static-devex.adblade.com
+0.0.0.0 static.devex.adblade.com
 0.0.0.0 static.doubleclick.com
 0.0.0.0 static.ecorebates.com
 0.0.0.0 static.eloqua.com
@@ -9195,8 +9204,8 @@
 0.0.0.0 taboola-winners-us-west-2-rtb.adroll.com
 0.0.0.0 tacony.mktoweb.com
 0.0.0.0 tag.163.com
-0.0.0.0 tag-api.omnitagjs.com
 0.0.0.0 tag.api.omnitagjs.com
+0.0.0.0 tag-api.omnitagjs.com
 0.0.0.0 tag.bot-test.qa.bounceexchange.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.bri.qa.bounceexchange.com
@@ -9839,8 +9848,8 @@
 0.0.0.0 us-east.pulsepoint.rtb.quantserve.com
 0.0.0.0 us-east-rtb.ak.quantserve.com
 0.0.0.0 us-east-rtb-new.ak.quantserve.com
-0.0.0.0 us-east-smart-ad-rtb.quantserve.com
 0.0.0.0 us-east.smart-ad.rtb.quantserve.com
+0.0.0.0 us-east-smart-ad-rtb.quantserve.com
 0.0.0.0 us-east-ssp.aralego.com
 0.0.0.0 us-east-win.s4mdsp.com
 0.0.0.0 userapi.bluekai.com
@@ -9914,6 +9923,7 @@
 0.0.0.0 ux-gateway.pursuanthealth.com
 0.0.0.0 ux-services.rubiconproject.com
 0.0.0.0 v1.24-ads.adaos-ads.net
+0.0.0.0 v1.de.euserv.adm.adaos-ads.net
 0.0.0.0 v1-tr.ams.contextweb.com
 0.0.0.0 v1-tr.lga.contextweb.com
 0.0.0.0 v1-tr.sjc.contextweb.com
