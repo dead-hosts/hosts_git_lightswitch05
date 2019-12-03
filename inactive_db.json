@@ -11857,12 +11857,6 @@
         "1572900392": {
             "infrastructure.k8s.tst.returnpath.net": "INACTIVE"
         },
-        "1572900393": {
-            "infra-test2.click.appier.net": "INACTIVE"
-        },
-        "1572900394": {
-            "infra-test3.click.appier.net": "INACTIVE"
-        },
         "1572900396": {
             "ingbankslaski.demdex.net": "INACTIVE"
         },
@@ -14525,9 +14519,6 @@
         "1572929191": {
             "charter.demdex.net": "INACTIVE"
         },
-        "1572929209": {
-            "chatbot.appier.net": "INACTIVE"
-        },
         "1572929226": {
             "cheapcaribbeancom.tt.omtrdc.net": "INACTIVE"
         },
@@ -15635,9 +15626,6 @@
         "1572932236": {
             "createid.rutarget.ru": "INACTIVE"
         },
-        "1572932257": {
-            "creative.appier.net": "INACTIVE"
-        },
         "1572932290": {
             "creative.smartclip.net": "INACTIVE"
         },
@@ -15919,9 +15907,6 @@
         },
         "1572933485": {
             "dashboard-origin.ophan.co.uk": "INACTIVE"
-        },
-        "1572933493": {
-            "dashboard-test.appier.net": "INACTIVE"
         },
         "1572933509": {
             "dashportal.internal.intentmedia.net": "INACTIVE"
@@ -19702,8 +19687,7 @@
             "frj4.adj.st": "INACTIVE"
         },
         "1572944358": {
-            "fr.labs.teads.tv": "INACTIVE",
-            "frl.c.appier.net": "INACTIVE"
+            "fr.labs.teads.tv": "INACTIVE"
         },
         "1572944397": {
             "frontiercomm.demdex.net": "INACTIVE"
@@ -25893,12 +25877,6 @@
         "1573092192": {
             "rtb-ca.openx.net": "INACTIVE"
         },
-        "1573092212": {
-            "rtb-datahub.c.appier.net": "INACTIVE"
-        },
-        "1573092213": {
-            "rtb-datahub-dev.c.appier.net": "INACTIVE"
-        },
         "1573092221": {
             "rtb-europe.g.doubleclick.net": "INACTIVE"
         },
@@ -26976,24 +26954,6 @@
         },
         "1573096680": {
             "shopping.yahoo.deqwas.net": "INACTIVE"
-        },
-        "1573096748": {
-            "show-sg12.c.appier.net": "INACTIVE"
-        },
-        "1573096749": {
-            "show-sg13.c.appier.net": "INACTIVE"
-        },
-        "1573096750": {
-            "show-sg14.c.appier.net": "INACTIVE"
-        },
-        "1573096751": {
-            "show-sg15.c.appier.net": "INACTIVE"
-        },
-        "1573096752": {
-            "show-sg16.c.appier.net": "INACTIVE"
-        },
-        "1573096753": {
-            "show-sg17.c.appier.net": "INACTIVE"
         },
         "1573096784": {
             "shutterfly.demdex.net": "INACTIVE",
@@ -28272,15 +28232,6 @@
         },
         "1573102769": {
             "t01.myvisualiq.net": "INACTIVE"
-        },
-        "1573102771": {
-            "t0.c.appier.net": "INACTIVE"
-        },
-        "1573102773": {
-            "t1.c.appier.net": "INACTIVE"
-        },
-        "1573102801": {
-            "t2.c.appier.net": "INACTIVE"
         },
         "1573102829": {
             "t445.adj.st": "INACTIVE"
@@ -32417,9 +32368,6 @@
         "1573118195": {
             "xxas.adj.st": "INACTIVE",
             "xxaws.adj.st": "INACTIVE"
-        },
-        "1573118196": {
-            "xx.c.appier.net": "INACTIVE"
         },
         "1573118197": {
             "xxcws.adj.st": "INACTIVE"
@@ -70363,6 +70311,20 @@
         },
         "1575372502": {
             "clk-sg9.c.appier.net": "INACTIVE"
+        },
+        "1575384427": {
+            "frl.c.appier.net": "INACTIVE"
+        },
+        "1575384431": {
+            "chatbot.appier.net": "INACTIVE",
+            "t2.c.appier.net": "INACTIVE"
+        },
+        "1575384432": {
+            "infra-test2.click.appier.net": "INACTIVE",
+            "infra-test3.click.appier.net": "INACTIVE"
+        },
+        "1575384433": {
+            "dashboard-test.appier.net": "INACTIVE"
         }
     }
 }

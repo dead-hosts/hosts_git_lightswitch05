@@ -1491,8 +1491,8 @@
 0.0.0.0 assets2.huluim.com
 0.0.0.0 assets3.brightedge.com
 0.0.0.0 assets.5rocks.io
-0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.acceptance.sharethrough.com
+0.0.0.0 assets-acceptance.sharethrough.com
 0.0.0.0 assets.adtechus.com
 0.0.0.0 assets.applvn.com
 0.0.0.0 assets.clevergirlscollective.com
@@ -1500,8 +1500,8 @@
 0.0.0.0 assets.github.exacttarget.com
 0.0.0.0 assets.quantcast.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets.staging.sharethrough.com
+0.0.0.0 assets-staging.sharethrough.com
 0.0.0.0 assets-ue1.perf.pardot.com
 0.0.0.0 assist.itnow.netat1.listrakbi.com
 0.0.0.0 assist.skimresources.com
@@ -1681,8 +1681,8 @@
 0.0.0.0 azure.appdynamics.com
 0.0.0.0 azure-res-provider.newrelic.com
 0.0.0.0 b136c9c4-4798-4d9e-b9dd-972e3ce64d75-078d9f6a6dc1.cdn.forter.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-euc2.zemanta.com
 0.0.0.0 b1-lsw-apac1.zemanta.com
 0.0.0.0 b1-lsw-euc1.zemanta.com
@@ -2444,6 +2444,7 @@
 0.0.0.0 chat.api.chatid.com
 0.0.0.0 chat.api.drift.com
 0.0.0.0 chat.boldchat.com
+0.0.0.0 chatbot.appier.net
 0.0.0.0 chatbot.nie.163.com
 0.0.0.0 chat.clearbit.com
 0.0.0.0 chat.instartlogic.com
@@ -2978,6 +2979,7 @@
 0.0.0.0 dashboard-api.demandbase.com
 0.0.0.0 dashboard-api.production.virginia.demandbase.com
 0.0.0.0 dashboard-staging.bytegain.com
+0.0.0.0 dashboard-test.appier.net
 0.0.0.0 dashboardtest.appsflyer.com
 0.0.0.0 dashcache-phx.addthis.com
 0.0.0.0 data3.bluekai.com
@@ -4046,8 +4048,8 @@
 0.0.0.0 expo9.exponential.com
 0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 exporthtml5.bannersnack.com
-0.0.0.0 export-int.applicationinsights.io
 0.0.0.0 export.int.applicationinsights.io
+0.0.0.0 export-int.applicationinsights.io
 0.0.0.0 export.swrve.com
 0.0.0.0 express-p.shopcurbside.com
 0.0.0.0 express.shopcurbside.com
@@ -4277,6 +4279,7 @@
 0.0.0.0 freud.links.channelintelligence.com
 0.0.0.0 fr.eu.preprod.criteo.com
 0.0.0.0 fr.fc.yahoo.com
+0.0.0.0 frl.c.appier.net
 0.0.0.0 fr.np.adproxy.ndmdhs.com
 0.0.0.0 frontbeta.localytics.com
 0.0.0.0 frontdoor-develrc.appbe.optimizely.com
@@ -4688,8 +4691,8 @@
 0.0.0.0 haggler-mopub776-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub777-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub788.us-e.ec2.liftoff.io
-0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub791.us-e.ec2.liftoff.io
+0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub794.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub797.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub800.us-e.ec2.liftoff.io
@@ -4965,9 +4968,9 @@
 0.0.0.0 idrisktest.acxiom.com
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
+0.0.0.0 i-ds.ad.gt
 0.0.0.0 i.ds.ad.gt
 0.0.0.0 id.s.ad.gt
-0.0.0.0 i-ds.ad.gt
 0.0.0.0 id-s.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
@@ -5002,10 +5005,10 @@
 0.0.0.0 ies.ad.gt
 0.0.0.0 iesolutions.7p.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -5151,6 +5154,8 @@
 0.0.0.0 infosec.thunderhead.com
 0.0.0.0 info.vsassets.com
 0.0.0.0 infra.igodigital.com
+0.0.0.0 infra-test2.click.appier.net
+0.0.0.0 infra-test3.click.appier.net
 0.0.0.0 ingest.advertising.com
 0.0.0.0 ingest.at.atwola.com
 0.0.0.0 ingestion-service.dp.qa-1.qa.leanplum.com
@@ -5169,8 +5174,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -7678,8 +7683,8 @@
 0.0.0.0 pink.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pinpoint-dev.adready.com
 0.0.0.0 pinsight.rtb.loopme.me
-0.0.0.0 pinyou-cm.cn.miaozhen.com
 0.0.0.0 pinyou.cm.cn.miaozhen.com
+0.0.0.0 pinyou-cm.cn.miaozhen.com
 0.0.0.0 pi.stormiq.com
 0.0.0.0 pi-ue1-lb1.pardot.com
 0.0.0.0 pi-ue1-lb2.pardot.com
@@ -7830,8 +7835,8 @@
 0.0.0.0 pool.telenet.be.adhese.com
 0.0.0.0 pool-trf.adhese.com
 0.0.0.0 pool-uatrmb.adhese.com
-0.0.0.0 pool-vrt.adhese.com
 0.0.0.0 pool.vrt.adhese.com
+0.0.0.0 pool-vrt.adhese.com
 0.0.0.0 pop3.qiye.163.com
 0.0.0.0 pop.adrcdn.com
 0.0.0.0 pop.adverline.com
@@ -8747,8 +8752,8 @@
 0.0.0.0 s-09.optvdo.com
 0.0.0.0 s1073427956.m.en25.com
 0.0.0.0 s10.allinviews.com
-0.0.0.0 s-10.optvdo.com
 0.0.0.0 s10.optvdo.com
+0.0.0.0 s-10.optvdo.com
 0.0.0.0 s1107488773.m.en25.com
 0.0.0.0 s1232257445.m.en25.com
 0.0.0.0 s-12.optvdo.com
@@ -10027,6 +10032,7 @@
 0.0.0.0 t1.midasplayer.com
 0.0.0.0 t1.stormiq.com
 0.0.0.0 t2.adserver01.de
+0.0.0.0 t2.c.appier.net
 0.0.0.0 t2.stormiq.com
 0.0.0.0 t4geo.liverail.com
 0.0.0.0 t4.liverail.com
@@ -10454,8 +10460,8 @@
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking.photoyee.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.rce.veeseo.com
+0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -10476,8 +10482,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 tr.count.ly
@@ -11193,8 +11199,8 @@
 0.0.0.0 videomax.neodatagroup.com
 0.0.0.0 video.mediamind.com
 0.0.0.0 video.revcontent.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
 0.0.0.0 videos-staging.sharethrough.com
