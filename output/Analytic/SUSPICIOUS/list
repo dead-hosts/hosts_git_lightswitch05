@@ -1402,6 +1402,7 @@ analytics.permutive.com
 analytics-ppe.applicationinsights.io
 analytics-read.spot.im
 analytics.robinhood.com
+analytics-service.us-east-1.prod.public.atl-paas.net
 analytics.spongecell.com
 analytics.staging.airfind.com
 analytics.tapad.com
@@ -1449,9 +1450,11 @@ apac.bfmio.com
 apac-bidder.mathtag.com
 apac.ctnsnet.com
 apac-hk-adops.aralego.com
+apac-hk-ads.aralego.net
 apac-hk-ad-track.aralego.com
 apac-hk-dsp.aralego.com
 apac-tw-adops.aralego.com
+apac-tw-ads.aralego.net
 apac-tw-ad-track.aralego.com
 apac-tw-ssp.aralego.com
 apads.mediasmart.io
@@ -1462,6 +1465,7 @@ apex.adpushup.com
 apex.cbsi.com
 apex.go.sonobi.com
 apgb2b-reachcodeandproxy.gannettdigital.com
+aphrodite.rtb.appier.net
 api10.applicationinsights.io
 api10.ppe.applicationinsights.io
 api1947.d41.co
@@ -1533,8 +1537,8 @@ api9761.d41.co
 api9931.d41.co
 api9.applicationinsights.io
 api9.ppe.applicationinsights.io
-api.ab4c.ad-brix.com
 apiab4c.ad-brix.com
+api.ab4c.ad-brix.com
 api.accuweather.comwf.cbarsrv.com
 api.addthis.com
 api.adnxs.com
@@ -2392,6 +2396,7 @@ b.ns.rkdms.com
 boldhloomcom.mpeasylink.com
 bongo.oribi.io
 bonomate.xml.ak-is.net
+books-analytics-events.news.apple-dns.net
 bo.promotions.skype.com
 borg-alfa.brainient.com
 borg-beta.brainient.com
@@ -2976,12 +2981,12 @@ collector.lightstep.com
 collector-loadtest.lightstep.com
 collector-lyft-dev.lightstep.com
 collector-lyft-dev-no-grpc.lightstep.com
-collector-meta.lightstep.com
 collector.meta.lightstep.com
+collector-meta.lightstep.com
 collector.placelocal.com
 collector.prod.expedia.com
-collector-staging.lightstep.com
 collector.staging.lightstep.com
+collector-staging.lightstep.com
 combine.urbanairship.com
 comcast.cdn.auditude.com
 comeon-comeon.bannerflow.com
@@ -3027,6 +3032,7 @@ connect.signifyd.com
 connect-testing.urbanairship.com
 connect.uat.tradedoubler.com
 connect.urbanairship.com
+connext-cdn.ec.azureedge.net
 conns.mpeasylink.com
 consent.iubenda.com
 console-api.ucg.smart-dmp.com
@@ -3564,8 +3570,8 @@ demos.airpr.com
 demos.gumgum.com
 demos.logrocket.com
 demo-ui-notifications.videoamp.com
-den01.event.spotxchange.com
 den01-event.spotxchange.com
+den01.event.spotxchange.com
 den01.sync.search.spotxchange.com
 dent.unicast.com
 denver.reachlocal.com
@@ -3789,8 +3795,8 @@ downloads.salesloft.com
 downloads.sentry-cdn.com
 d-p-td-hkg1.turn.com
 d-p-td-sjc2.turn.com
-dpx.airpr.com
 d.px.airpr.com
+dpx.airpr.com
 dq.alcmpn.com
 d.r10.mopub.com
 drone-ci.videoamp.com
@@ -3927,8 +3933,8 @@ e-2796.adzerk.net
 e-2796-us-east-1.adzerk.net
 e2ecredentials.dev.pardot.com
 e2-locust.locust.staging-1.staging.leanplum.com
-e2-locust.staging-1.staging.leanplum.com
 e2.locust.staging-1.staging.leanplum.com
+e2-locust.staging-1.staging.leanplum.com
 e2.thirdpresence.com
 e-3193.adzerk.net
 e-3193-us-east-1.adzerk.net
@@ -4255,6 +4261,7 @@ em-www.dynamicyield.com
 emxhb.emxdgt.com
 encompasscu.ca.102.112.2o7.net
 encuesta.weborama.com
+endcb.rtb.appier.net
 engage2.vizury.com
 engagebdr-east.mobileadtrading.com
 engagebdr.sync.go.sonobi.com
@@ -4308,6 +4315,7 @@ eqv-502.eqv-rtb1.rfihub.com
 eqv-513.eqv-rtb1.rfihub.com
 eqv-517.eqv-rtb1.rfihub.com
 eqv-ad-lb6.rfihub.com
+er.audienceinsights.net
 e-release-01.ame.admarketplace.net
 e-reportingdb-vip.ame.admarketplace.net
 ereturn.mpnrs.com
@@ -4583,6 +4591,7 @@ feedback-au.kampyle.com
 feedback.impact-ad.jp
 feedback.wavesecure.com
 feedcache.vizury.com
+feed-exporter.appier.net
 feed.playbuzz.com
 feeds.provenpixel.com
 feeds.sandbox.auditude.com
@@ -4626,6 +4635,7 @@ flash-ads.adsorb.com
 flash.undertone.com
 fleet.infra.apester.com
 fl.imgsniper.com
+flittz-cdn.azureedge.net
 flower.airflow-bb.etl.us-east-1.kops.kargo.com
 fl.reg.163.com
 flurry-east-bidder.manage.com
@@ -4650,8 +4660,8 @@ formula-api.adtech.de
 formula-api.adtechus.com
 fo-ssp-asi01.omnitagjs.com
 fo-ssp-fra01.omnitagjs.com
-fo-ssp.omnitagjs.com
 fossp.omnitagjs.com
+fo-ssp.omnitagjs.com
 fo-ssp-usa01.omnitagjs.com
 fo-ssp-usa02.omnitagjs.com
 fo-static-usa01.omnitagjs.com
@@ -4917,10 +4927,10 @@ groups.vip.126.com
 growthfusion.mktoweb.com
 grp.dynamicyield.com
 grp.int.applicationinsights.io
-grtb-asia-east1a.tribalfusion.com
 grtb.asia-east1a.tribalfusion.com
-grtb.central1a.tribalfusion.com
+grtb-asia-east1a.tribalfusion.com
 grtb-central1a.tribalfusion.com
+grtb.central1a.tribalfusion.com
 grtb-central1b.tribalfusion.com
 grtb.central1b.tribalfusion.com
 grtb.central1f.tribalfusion.com
@@ -5047,13 +5057,13 @@ hiro-sdk.demo.apester.com
 hits-i.iubenda.com
 hk.adserver.yahoo.com
 hkadxrtb.lfstmedia.com
-hk-astg.widerplanet.com
 hk.astg.widerplanet.com
+hk-astg.widerplanet.com
 hkg01.sync.search.spotxchange.com
 hkgstage-rtbwin.applovin.com
 hk.info.lgsmartad.com
-hk-rtb.widerplanet.com
 hk.rtb.widerplanet.com
+hk-rtb.widerplanet.com
 hk-vpn.turn.com
 hls-beacons.xumo.com
 hlsmaster1.adswizz.com
@@ -5180,6 +5190,8 @@ icsavings.ca.102.112.2o7.net
 i.ctnsnet.com
 id.adserver.yahoo.com
 idapi.visualdna.com
+idash.appier.net
+idash-perf.appier.net
 id-au.vserv.mobi
 id.ebis.ne.jp
 identity.ae1.mparticle.com
@@ -6220,6 +6232,7 @@ metrics.creditreport.com
 metrics.data.districtm.io
 metrics.daveandbusters.com
 metrics.dmx.districtm.io
+metrics.fe.apple-dns.net
 metrics.freecreditscore.com
 metrics-logger.spot.im
 metrics.protectmyid.com
@@ -7277,6 +7290,7 @@ pixel.adrizer.com
 pixel.advertising.com
 pixel.app-cast.com
 pixel.aspirei.com
+pixel.audienceinsights.net
 pixel.awal.buzzdeck.com
 pixel-bid.tribalfusion.com
 pixel.buzzdeck.com
@@ -7388,8 +7402,8 @@ pool.admedo.com
 pool-eu.creative-serving.com
 pool.ipm.adhese.com
 pool-orangegames.adhese.com
-pool.pebblemedia.adhese.com
 pool-pebblemedia.adhese.com
+pool.pebblemedia.adhese.com
 pool-roularta.adhese.com
 pool-use.creative-serving.com
 pool-usw.creative-serving.com
@@ -7403,6 +7417,7 @@ portalc.forter.com
 portal-jenkins.saastest.appdynamics.com
 port.traefik.df-srv.de
 positexte.weborama.com
+post0.track.appier.net
 postback.supersonicads.com
 postback.unityads.unity3d.com
 postoffice.shareasale.com
@@ -7516,8 +7531,8 @@ production-balancers-us-east-1.smadex.com
 production.pao-1.mathmon.mediamath.com
 productivity.alertmanager.staging-1.staging.leanplum.com
 productivity.grafana.staging-1.staging.leanplum.com
-productivity.locust-2.staging-1.staging.leanplum.com
 productivity.locust2.staging-1.staging.leanplum.com
+productivity.locust-2.staging-1.staging.leanplum.com
 productivity.locust.staging-1.staging.leanplum.com
 productivity.prometheus.staging-1.staging.leanplum.com
 products.app.link
@@ -7552,6 +7567,7 @@ prom.k8s-hetzner-test.lifestreet.com
 prom-kube-monitoring.infra.voodoo-ads.io
 promo.propellerads.com
 promotable.crazyegg.com
+prom-rtb-traffic.appier.net
 propellerads.xml.ak-is.net
 prophet.heise.de
 proserve-stag.urbanairship.com
@@ -7673,8 +7689,8 @@ puma.vizu.com
 punchbowl.alcmpn.com
 puoy5.app.link
 purch.demand.go.sonobi.com
-purch-sync.go.sonobi.com
 purch.sync.go.sonobi.com
+purch-sync.go.sonobi.com
 pure.snippet-local.sandbox.getambassador.com
 purplebox-burst.flurry.com
 purplebox.flurry.com
@@ -7944,6 +7960,7 @@ reply.communications.silverpop.com
 repo.livesegmentservice.com
 report.adtech.de
 report-adyoulike.api.omnitagjs.com
+report-api.appier.net
 report.api.vungle.com
 report.boldchat.com
 report.cdp.df-srv.de
@@ -8130,10 +8147,10 @@ rtb-facebook.mia.nxtck.com
 rtb-facebook.mrs.nxtck.com
 rtbfactory.xml.ak-is.net
 rtb-google-gus.nxtck.com
-rtb-google-mia.nxtck.com
 rtb-google.mia.nxtck.com
-rtb-google-mrs.nxtck.com
+rtb-google-mia.nxtck.com
 rtb-google.mrs.nxtck.com
+rtb-google-mrs.nxtck.com
 rtb-ids-e.vindicosuite.com
 rtb-ids-w.vindicosuite.com
 rtb.impresionesweb.com
@@ -8177,6 +8194,7 @@ rtb-taboola-gus.rd.linksynergy.com
 rtbtest.send.microad.jp
 rtbtrack-fr.admaxim.com
 rtbtrack-uk.admaxim.com
+rtb-traffic.appier.net
 rtb-triplelift-geu.rd.linksynergy.com
 rtb-triplelift-gus.rd.linksynergy.com
 rtb-us11.impresionesweb.com
@@ -9306,16 +9324,17 @@ static2.mediamath.com
 static3.creative-serving.com
 static.adblade.com
 static.atgsvcs.com
+static.audienceinsights.net
 static.blog.chartbeat.com
 static.bounceexchange.com
 staticc.adacado.com
-static.cdn.adblade.com
 static-cdn.adblade.com
+static.cdn.adblade.com
 static.criteo.com
 staticd.cdn.adblade.com
 static.de.euserv.adaos-ads.net
-static-devex.adblade.com
 static.devex.adblade.com
+static-devex.adblade.com
 static.doubleclick.com
 static.ecorebates.com
 static.eloqua.com
@@ -9354,6 +9373,7 @@ stats.appsflyer.com
 stats.bannersnack.com
 stats.gc.apple.com
 stats.gc-apple.com.akadns.net
+stats.gc.fe.apple-dns.net
 statsgoogle.appsflyer.com
 stats.palebrook.wbinsights.com
 stats-reporting-server-prod.snapads.com
@@ -9405,6 +9425,7 @@ stiriprotv.2cnt.net
 stm5-collect.cn.miaozhen.com
 st.music.163.com
 stock.163.com
+stocks-analytics-events.news.apple-dns.net
 storage1.admixer.net
 storage.outbrain.com
 storage.userreport.com
@@ -9569,8 +9590,8 @@ taboola-winners-us-east-1-rtb.adroll.com
 taboola-winners-us-west-2-rtb.adroll.com
 tacony.mktoweb.com
 tag.163.com
-tag.api.omnitagjs.com
 tag-api.omnitagjs.com
+tag.api.omnitagjs.com
 tag.bot-test.qa.bounceexchange.com
 tag.bounceexchange.com
 tag.bri.qa.bounceexchange.com
@@ -10322,8 +10343,8 @@ us-west.bidswitch.rtb.quantserve.com
 us-west-google-rtb.quantserve.com
 uswestmonitoring.livesegmentservice.com
 us-west-notify.bidswitch.rtb.quantserve.com
-us-west-pulsepoint-rtb.quantserve.com
 us-west.pulsepoint.rtb.quantserve.com
+us-west-pulsepoint-rtb.quantserve.com
 us-west-rtb.ak.quantserve.com
 us.xs.mookie1.com
 utils.bounceexchange.com
@@ -10626,6 +10647,9 @@ weave.infra.apester.com
 web01.lin.aws.tbe.host
 web01.socialannex.com
 web02.lin.aws.tbe.host
+web0c-proxy.track.appier.net
+web0.track.appier.net
+web1c-proxy.track.appier.net
 web-ab.marketo.com
 web.adotube.com
 web-ads.adsorb.com
