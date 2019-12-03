@@ -403,6 +403,7 @@
 0.0.0.0 admin-stg.revcontent.com
 0.0.0.0 adm.intel-intg.dynamicyield.com
 0.0.0.0 adm.intel-stage.dynamicyield.com
+0.0.0.0 adminx.bandwidthx.net
 0.0.0.0 admnew.dynamicyield.com
 0.0.0.0 ad.mobpro.com
 0.0.0.0 adobe-d3.openxenterprise.com
@@ -1060,6 +1061,7 @@
 0.0.0.0 ap.33across.com
 0.0.0.0 apac.analytics.yahoo.com
 0.0.0.0 apache.adwyze.com
+0.0.0.0 apac-sg.bidswitch.net
 0.0.0.0 apalya.vserv.mobi
 0.0.0.0 ap.api.33across.com
 0.0.0.0 ap.cdn.33across.com
@@ -1187,6 +1189,7 @@
 0.0.0.0 api-grpc.lightstep.com
 0.0.0.0 api-grpc.meta.lightstep.com
 0.0.0.0 api.g-us-v3.conductrics.com
+0.0.0.0 api-iad.bandwidthx.net
 0.0.0.0 api.int.drift.com
 0.0.0.0 api.intel.dynamicyield.com
 0.0.0.0 api.ios.tenjin.com
@@ -1255,8 +1258,8 @@
 0.0.0.0 api.slo-review-tool.mediamath.com
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api.stage.justpremium.com
 0.0.0.0 api.staging.bounceexchange.com
 0.0.0.0 api.staging.connatix.com
@@ -1297,6 +1300,7 @@
 0.0.0.0 apiw.ensighten.com
 0.0.0.0 apiw-test.ensighten.com
 0.0.0.0 api.wzrkt.com
+0.0.0.0 apix.bandwidthx.net
 0.0.0.0 api.xtify.com
 0.0.0.0 apix.web.analytics.yahoo.com
 0.0.0.0 api.ysamlan-initial-test.env.sandbox53.localytics.com
@@ -3538,6 +3542,7 @@
 0.0.0.0 docs-ra.newrelic.com
 0.0.0.0 doc.talent.extremereach.com
 0.0.0.0 dod.appsflyer.com
+0.0.0.0 dogfood.bandwidthx.net
 0.0.0.0 dokriani.branch.io
 0.0.0.0 dollar.adlegend.com
 0.0.0.0 domainoptions.cdn.adglare.net
@@ -4053,8 +4058,8 @@
 0.0.0.0 expo9.exponential.com
 0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 exporthtml5.bannersnack.com
-0.0.0.0 export.int.applicationinsights.io
 0.0.0.0 export-int.applicationinsights.io
+0.0.0.0 export.int.applicationinsights.io
 0.0.0.0 export.swrve.com
 0.0.0.0 express-p.shopcurbside.com
 0.0.0.0 express.shopcurbside.com
@@ -4076,6 +4081,7 @@
 0.0.0.0 ext.mediav.com
 0.0.0.0 extole-creatives.qa.extole.io
 0.0.0.0 extole-invite.qa.extole.io
+0.0.0.0 extranet.bandwidthx.net
 0.0.0.0 extranet.criteo.com
 0.0.0.0 extranet.dotomi.com
 0.0.0.0 eyepatch.zemanta.com
@@ -4133,6 +4139,8 @@
 0.0.0.0 fc-lb1.iad2.adsymptotic.com
 0.0.0.0 fc-lb2.iad2.adsymptotic.com
 0.0.0.0 fc-lb2-vip0.eu.adsymptotic.com
+0.0.0.0 fd-01-oma-ingress.bandwidthx.net
+0.0.0.0 fd-01-prod-oma-ingress.bandwidthx.net
 0.0.0.0 fdc-ny2.tapjoy.com
 0.0.0.0 fdc.tapjoy.com
 0.0.0.0 featurestack136-mitm-api.swrve.com
@@ -4292,6 +4300,7 @@
 0.0.0.0 frontdoor-develrc-new.us-east.appbe.optimizely.com
 0.0.0.0 frontdoor-develrc-new.us-west-2.appbe.optimizely.com
 0.0.0.0 frontdoor-develrc-new.us-west.appbe.optimizely.com
+0.0.0.0 frontdoor-x.bandwidthx.net
 0.0.0.0 frontend1.innovid.com
 0.0.0.0 frontend5.innovid.com
 0.0.0.0 frontend6.innovid.com
@@ -4698,8 +4707,8 @@
 0.0.0.0 haggler-mopub776-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub777-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub788.us-e.ec2.liftoff.io
-0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub791.us-e.ec2.liftoff.io
+0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub794.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub797.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub800.us-e.ec2.liftoff.io
@@ -4977,8 +4986,8 @@
 0.0.0.0 idsa.ad.gt
 0.0.0.0 id-s.ad.gt
 0.0.0.0 i.ds.ad.gt
-0.0.0.0 id.s.ad.gt
 0.0.0.0 i-ds.ad.gt
+0.0.0.0 id.s.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
 0.0.0.0 idsq.ad.gt
@@ -5014,8 +5023,8 @@
 0.0.0.0 i.essads.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -5343,6 +5352,7 @@
 0.0.0.0 iponhu.yusp.com
 0.0.0.0 iportal.coremetrics.com
 0.0.0.0 i.prod.ping-origin-prd.jwpltx.com
+0.0.0.0 iprofile.bandwidthx.net
 0.0.0.0 ipv6.device-metrics-us.amazon.com
 0.0.0.0 iq.doubleverify.com
 0.0.0.0 iqreport.adtech.de
@@ -7608,8 +7618,8 @@
 0.0.0.0 paywall.marketingg2.com
 0.0.0.0 payweb01.acxiom.com
 0.0.0.0 pbbl.agkn.com
-0.0.0.0 pbm-x.7p.com
 0.0.0.0 pbmx.7p.com
+0.0.0.0 pbm-x.7p.com
 0.0.0.0 pbr3-wn2.brightedge.com
 0.0.0.0 pbrowser-proxy22.brightedge.com
 0.0.0.0 pc1.mkto-b0065.com
@@ -7704,8 +7714,8 @@
 0.0.0.0 pink.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pinpoint-dev.adready.com
 0.0.0.0 pinsight.rtb.loopme.me
-0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pinyou-cm.cn.miaozhen.com
+0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pi.stormiq.com
 0.0.0.0 pi-ue1-lb1.pardot.com
 0.0.0.0 pi-ue1-lb2.pardot.com
@@ -7856,8 +7866,8 @@
 0.0.0.0 pool.telenet.be.adhese.com
 0.0.0.0 pool-trf.adhese.com
 0.0.0.0 pool-uatrmb.adhese.com
-0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pool-vrt.adhese.com
+0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pop3.qiye.163.com
 0.0.0.0 pop.adrcdn.com
 0.0.0.0 pop.adverline.com
@@ -7873,8 +7883,10 @@
 0.0.0.0 portus.microad.jp
 0.0.0.0 post.7p.com
 0.0.0.0 post.advidi.com
+0.0.0.0 post-diagnostics.bandwidthx.net
 0.0.0.0 postlog.supersonic.com
 0.0.0.0 postrelease.com.akadns.net
+0.0.0.0 post-scans.bandwidthx.net
 0.0.0.0 post.update.criteo.com
 0.0.0.0 post.update.suite6ixty6ix.com
 0.0.0.0 post.update.zemanta.com
@@ -8123,8 +8135,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 pro.weborama.fr
 0.0.0.0 proximiter-stg.joystickinteractive.com
@@ -8284,6 +8296,7 @@
 0.0.0.0 qualys.resonate.com
 0.0.0.0 quant.fa.163.com
 0.0.0.0 quantify.dev.paperg.com
+0.0.0.0 query-captives.bandwidthx.net
 0.0.0.0 queryless.secure.cbsi.com
 0.0.0.0 query-us-east-1.petametrics.com
 0.0.0.0 queuer-elb.sandbox53.localytics.com
@@ -8881,8 +8894,8 @@
 0.0.0.0 s-50.algovid.com
 0.0.0.0 s-50.optvdo.com
 0.0.0.0 s-51.algovid.com
-0.0.0.0 s51.optvdo.com
 0.0.0.0 s-51.optvdo.com
+0.0.0.0 s51.optvdo.com
 0.0.0.0 s-52.algovid.com
 0.0.0.0 s-52.optvdo.com
 0.0.0.0 s-53.algovid.com
@@ -9852,8 +9865,8 @@
 0.0.0.0 static.simpli.fi
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static.sociomantic.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.stg.yieldmo.com
 0.0.0.0 static.tagoo.cc
 0.0.0.0 static.tagoo.co
@@ -10487,8 +10500,8 @@
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking.photoyee.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking-rce.veeseo.com
+0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -10509,8 +10522,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 tr.count.ly
@@ -10602,6 +10615,7 @@
 0.0.0.0 tvsohu-cm.cn.miaozhen.com
 0.0.0.0 tw.appier.net
 0.0.0.0 tw.fiksu.com
+0.0.0.0 twilio-callback-oma.bandwidthx.net
 0.0.0.0 twitter-srv.buysellads.com
 0.0.0.0 tw.miaozhen.com
 0.0.0.0 tw.np.adproxy.ndmdhs.com
@@ -11230,12 +11244,12 @@
 0.0.0.0 videomax.neodatagroup.com
 0.0.0.0 video.mediamind.com
 0.0.0.0 video.revcontent.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
-0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 videos.staging.sharethrough.com
+0.0.0.0 videos-staging.sharethrough.com
 0.0.0.0 vid.locsensads.com
 0.0.0.0 vid.pardot.com
 0.0.0.0 vidyorouter2.rubiconproject.com
@@ -12012,6 +12026,7 @@
 0.0.0.0 www.cbp.forter.com
 0.0.0.0 www.ccde.events.marketo.com
 0.0.0.0 www.ccinext.count.ly
+0.0.0.0 www.cdn01.basis.net
 0.0.0.0 www.cdn0.usw.forter.com
 0.0.0.0 www.cdn2.planetapes.de
 0.0.0.0 www.cdn3.usw.forter.com
@@ -12212,6 +12227,7 @@
 0.0.0.0 www.dope.ops.inmobi.com
 0.0.0.0 www.doppler.hulu.com
 0.0.0.0 www.do.whoisvisiting.com
+0.0.0.0 www.dp.bidswitch.net
 0.0.0.0 www.dreamville.lisnr.com
 0.0.0.0 www.dropbox.scarabresearch.com
 0.0.0.0 www.dsp.analyticson.com
