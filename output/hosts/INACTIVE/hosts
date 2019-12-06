@@ -1512,8 +1512,8 @@
 0.0.0.0 assets.github.exacttarget.com
 0.0.0.0 assets.quantcast.com
 0.0.0.0 assets.sharethrough.com
-0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-staging.sharethrough.com
+0.0.0.0 assets.staging.sharethrough.com
 0.0.0.0 assets-ue1.perf.pardot.com
 0.0.0.0 assist.itnow.netat1.listrakbi.com
 0.0.0.0 assist.skimresources.com
@@ -1694,8 +1694,8 @@
 0.0.0.0 azure.appdynamics.com
 0.0.0.0 azure-res-provider.newrelic.com
 0.0.0.0 b136c9c4-4798-4d9e-b9dd-972e3ce64d75-078d9f6a6dc1.cdn.forter.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-euc2.zemanta.com
 0.0.0.0 b1-lsw-apac1.zemanta.com
 0.0.0.0 b1-lsw-euc1.zemanta.com
@@ -2399,6 +2399,7 @@
 0.0.0.0 cdn-video.amgvgt.com
 0.0.0.0 cdn.vip.atl.3cinteractive.com
 0.0.0.0 cdn.vungle.com
+0.0.0.0 cdn.west.sa.criteo.net
 0.0.0.0 cdn.wtp101.com
 0.0.0.0 cdn.xtify.com
 0.0.0.0 cdn-z.amazon-adsystem.com
@@ -2885,6 +2886,7 @@
 0.0.0.0 cs.iubenda.com
 0.0.0.0 csivr.vip.bos.3cinteractive.com
 0.0.0.0 csm.ny.us.criteo.com
+0.0.0.0 csm.ny.us.criteo.net
 0.0.0.0 csm.sh.cn.criteo.net
 0.0.0.0 csm.sv.us.criteo.com
 0.0.0.0 csp.criteo.com
@@ -3053,6 +3055,7 @@
 0.0.0.0 data-viz-challenge.localytics.com
 0.0.0.0 daud.7p.com
 0.0.0.0 da.us.criteo.com
+0.0.0.0 da.us.criteo.net
 0.0.0.0 da-v-eu.amazon-adsystem.com
 0.0.0.0 da-v-fe.amazon-adsystem.com
 0.0.0.0 da-v-na.amazon-adsystem.com
@@ -3991,6 +3994,7 @@
 0.0.0.0 eu-mymedia.sam4m.com
 0.0.0.0 eu-premiumanalytics.swrve.com
 0.0.0.0 eu.preprod.criteo.com
+0.0.0.0 eu.preprod.criteo.net
 0.0.0.0 eu-propulsor-02.sociomantic.com
 0.0.0.0 eu-rec4.scarabresearch.com
 0.0.0.0 eurogamer.monetizer101.com
@@ -4321,6 +4325,7 @@
 0.0.0.0 fr.eu.criteo.net
 0.0.0.0 freud.links.channelintelligence.com
 0.0.0.0 fr.eu.preprod.criteo.com
+0.0.0.0 fr.eu.preprod.criteo.net
 0.0.0.0 fr.fc.yahoo.com
 0.0.0.0 frl.c.appier.net
 0.0.0.0 fr.np.adproxy.ndmdhs.com
@@ -4532,8 +4537,8 @@
 0.0.0.0 global-pixel.sojern.com
 0.0.0.0 global-pixels.sojern.com
 0.0.0.0 global.qc.rtb.quantserve.com
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 glossy.adroll.com
 0.0.0.0 gls.rt.cquotient.com
 0.0.0.0 gmailtest.engine.adglare.net
@@ -4737,8 +4742,8 @@
 0.0.0.0 haggler-mopub776-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub777-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub788.us-e.ec2.liftoff.io
-0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub791.us-e.ec2.liftoff.io
+0.0.0.0 haggler-mopub791-us-e-ec2.liftoff.io
 0.0.0.0 haggler-mopub794.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub797.us-e.ec2.liftoff.io
 0.0.0.0 haggler-mopub800.us-e.ec2.liftoff.io
@@ -5017,8 +5022,8 @@
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
 0.0.0.0 i.ds.ad.gt
-0.0.0.0 id.s.ad.gt
 0.0.0.0 id-s.ad.gt
+0.0.0.0 id.s.ad.gt
 0.0.0.0 i-ds.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
@@ -5115,9 +5120,11 @@
 0.0.0.0 images.mediavine.com
 0.0.0.0 images.midasplayer.com
 0.0.0.0 images.nl.eu.criteo.net
+0.0.0.0 images.ny.us.criteo.net
 0.0.0.0 images.propellerads.com
 0.0.0.0 images.s50.exacttarget.com
 0.0.0.0 images.sh.cn.criteo.net
+0.0.0.0 images.sv.us.criteo.net
 0.0.0.0 images.webspectator.com
 0.0.0.0 images.zemanta.com
 0.0.0.0 imaphm.qiye.163.com
@@ -7787,6 +7794,7 @@
 0.0.0.0 pixel-api.bridgewell.com
 0.0.0.0 pixel.audiensis.com
 0.0.0.0 pixel.buypixelads.com
+0.0.0.0 pixel.criteo.net
 0.0.0.0 pixel.dsp.linksynergy.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 pixel.jumptap.com
@@ -7805,6 +7813,7 @@
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 pixie.fyber.com
 0.0.0.0 piximedia.eu-west-1.stinger-ad.bidr.io
+0.0.0.0 pix.ny.us.criteo.net
 0.0.0.0 pix-rc.impdesk.com
 0.0.0.0 pix.sh.cn.criteo.net
 0.0.0.0 pk.t4ft.de
@@ -7921,8 +7930,8 @@
 0.0.0.0 pool.telenet.be.adhese.com
 0.0.0.0 pool-trf.adhese.com
 0.0.0.0 pool-uatrmb.adhese.com
-0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pool-vrt.adhese.com
+0.0.0.0 pool.vrt.adhese.com
 0.0.0.0 pop3.qiye.163.com
 0.0.0.0 pop.adrcdn.com
 0.0.0.0 pop.adverline.com
@@ -7977,6 +7986,7 @@
 0.0.0.0 preprod.aws.xiti.com
 0.0.0.0 preprod-backoffice.datadome.co
 0.0.0.0 preprod.criteo.com
+0.0.0.0 preprod.criteo.net
 0.0.0.0 preprod-dashboard.datadome.co
 0.0.0.0 preprod-dashboard-rest-api.datadome.co
 0.0.0.0 preprod-sso.leanplum.com
@@ -8190,8 +8200,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 pro.weborama.fr
 0.0.0.0 proximiter-stg.joystickinteractive.com
@@ -8851,12 +8861,12 @@
 0.0.0.0 s-09.optvdo.com
 0.0.0.0 s1073427956.m.en25.com
 0.0.0.0 s10.allinviews.com
-0.0.0.0 s-10.optvdo.com
 0.0.0.0 s10.optvdo.com
+0.0.0.0 s-10.optvdo.com
 0.0.0.0 s1107488773.m.en25.com
 0.0.0.0 s1232257445.m.en25.com
-0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.optvdo.com
+0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.urbaninsight.com
 0.0.0.0 s1364398973.m.en25.com
 0.0.0.0 s13.ayads.co
@@ -8959,8 +8969,8 @@
 0.0.0.0 s-50.algovid.com
 0.0.0.0 s-50.optvdo.com
 0.0.0.0 s-51.algovid.com
-0.0.0.0 s51.optvdo.com
 0.0.0.0 s-51.optvdo.com
+0.0.0.0 s51.optvdo.com
 0.0.0.0 s-52.algovid.com
 0.0.0.0 s-52.optvdo.com
 0.0.0.0 s-53.algovid.com
@@ -9918,8 +9928,8 @@
 0.0.0.0 static-2.3lift.com
 0.0.0.0 static2.sharethrough.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adlithium.com
 0.0.0.0 static.admailtiser.com
 0.0.0.0 static.adpushup.com
@@ -9940,14 +9950,15 @@
 0.0.0.0 static.kochava.com
 0.0.0.0 static.liverail.com
 0.0.0.0 static-lon1.dynamicyield.com
+0.0.0.0 static.ny.us.criteo.net
 0.0.0.0 static.playhaven.com
 0.0.0.0 static.propellerads.com
 0.0.0.0 static.quarticon.com
 0.0.0.0 static.simpli.fi
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static.sociomantic.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.stg.yieldmo.com
 0.0.0.0 static.tagoo.cc
 0.0.0.0 static.tagoo.co
@@ -10100,6 +10111,7 @@
 0.0.0.0 svr2.east.cloud.ftp.extremereach.com
 0.0.0.0 svr2.west.cloud.ftp.extremereach.com
 0.0.0.0 sv.us.criteo.com
+0.0.0.0 sv.us.criteo.net
 0.0.0.0 swaggerapi.friendbuy.com
 0.0.0.0 swang.conviva.com
 0.0.0.0 swappit.tapad.com
@@ -10583,8 +10595,8 @@
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking.photoyee.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.rce.veeseo.com
+0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -11034,6 +11046,7 @@
 0.0.0.0 us.content.cmp.advertising.com
 0.0.0.0 usc-ppa-dev.urbaninsight.com
 0.0.0.0 us.criteo.com
+0.0.0.0 us.criteo.net
 0.0.0.0 usdialin.mediamind.com
 0.0.0.0 us.e1-np.adproxy.ndmdhs.com
 0.0.0.0 use.1rx.io
@@ -11262,6 +11275,7 @@
 0.0.0.0 vault-ui.mgmt.us-east-1.kops.kargo.com
 0.0.0.0 vault-ui.private.linksynergy.com
 0.0.0.0 va.us.criteo.com
+0.0.0.0 va.us.criteo.net
 0.0.0.0 vbp1den1.lijit.com
 0.0.0.0 vc.bnmla.com
 0.0.0.0 vcenter.corp.appdynamics.com
@@ -11285,8 +11299,8 @@
 0.0.0.0 vext.ligatus.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfesprod.amobee.com
+0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -11334,8 +11348,8 @@
 0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vid.locsensads.com
 0.0.0.0 vid.pardot.com
 0.0.0.0 vidstatb.taboola.com.cdn.cloudflare.net
@@ -12236,6 +12250,7 @@
 0.0.0.0 www.creatives.smadex.com
 0.0.0.0 www.creative.xtendmedia.com
 0.0.0.0 www.creativezone.mediamind.com
+0.0.0.0 www.criteo.net
 0.0.0.0 www.crmapi.idsp.inmobi.com
 0.0.0.0 www.crm-preview.dynamicyield.com
 0.0.0.0 www.crowd.rubiconproject.com
@@ -12785,6 +12800,7 @@
 0.0.0.0 www.pixel.audienceinsights.net
 0.0.0.0 www.pixel.audiensis.com
 0.0.0.0 www.pixel.buypixelads.com
+0.0.0.0 www.pixel.criteo.net
 0.0.0.0 www.pixel.netseer.com
 0.0.0.0 www.pixel.surpasshosting.com
 0.0.0.0 www.pixel-test.parsely.com

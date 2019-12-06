@@ -1132,8 +1132,8 @@ ads.rocketadv.com
 ads.solocpm.com
 ads.stage-one.heyzap.com
 ads-stats-limiter-shadow.snapads.com
-ads-stg.yieldmo.com
 ads.stg.yieldmo.com
+ads-stg.yieldmo.com
 ads.stickyadstv.com
 adstaging.admaxim.com
 adstats-shadow.snapads.com
@@ -1192,11 +1192,11 @@ adx-winners-us-east-1-rtb.adroll.com
 adx-winners-us-west-2-rtb.adroll.com
 adyoulike-api.api.omnitagjs.com
 adyoulike-api.dyn.omnitagjs.com
-adyoulike.api.omnitagjs.com
 adyoulike-api.omnitagjs.com
+adyoulike.api.omnitagjs.com
 adyoulike.apt.omnitagjs.com
-adyoulike.dyn.omnitagjs.com
 adyoulike-dyn.omnitagjs.com
+adyoulike.dyn.omnitagjs.com
 adyoulike.omnitagjs.com
 adyoulike-preview-09.api.omnitagjs.com
 adyoulike.ssp.omnitagjs.com
@@ -3021,8 +3021,8 @@ collector-meta.lightstep.com
 collector.meta.lightstep.com
 collector.placelocal.com
 collector.prod.expedia.com
-collector-staging.lightstep.com
 collector.staging.lightstep.com
+collector-staging.lightstep.com
 combine.urbanairship.com
 comcast.cdn.auditude.com
 comeon-comeon.bannerflow.com
@@ -3147,6 +3147,7 @@ coordinator-stg.svc.tapad.com
 cor.allinviews.com
 cor.beeviewd.com
 cor.bestcontentonline.com
+core01-sv6-te3-3.us.criteo.net
 core02-ot1.as.criteo.net
 core.alex-test.qa.bounceexchange.com
 core-api.alex-test.qa.bounceexchange.com
@@ -3362,6 +3363,8 @@ csm.fr.eu.criteo.net
 csm.hk.as.criteo.net
 csm.jp.as.criteo.net
 csm.nl.eu.criteo.net
+csm.sv.us.criteo.net
+csm.va.us.criteo.net
 cs.netseer.com
 cs.nui.media
 cs-p.alcmpn.com
@@ -3844,8 +3847,8 @@ dp-eu.bidswitch.net
 d-p-td-hkg1.turn.com
 d-p-td-sjc2.turn.com
 dp-us-west.bidswitch.net
-dpx.airpr.com
 d.px.airpr.com
+dpx.airpr.com
 dq.alcmpn.com
 d.r10.mopub.com
 drone-ci.videoamp.com
@@ -4715,8 +4718,8 @@ formula-api.adtech.de
 formula-api.adtechus.com
 fo-ssp-asi01.omnitagjs.com
 fo-ssp-fra01.omnitagjs.com
-fossp.omnitagjs.com
 fo-ssp.omnitagjs.com
+fossp.omnitagjs.com
 fo-ssp-usa01.omnitagjs.com
 fo-ssp-usa02.omnitagjs.com
 fo-static-usa01.omnitagjs.com
@@ -4993,12 +4996,12 @@ grtb.asia-east1a.tribalfusion.com
 grtb-asia-east1a.tribalfusion.com
 grtb.central1a.tribalfusion.com
 grtb-central1a.tribalfusion.com
-grtb.central1b.tribalfusion.com
 grtb-central1b.tribalfusion.com
-grtb.central1f.tribalfusion.com
+grtb.central1b.tribalfusion.com
 grtb-central1f.tribalfusion.com
-grtb-europe-west1b.tribalfusion.com
+grtb.central1f.tribalfusion.com
 grtb.europe-west1b.tribalfusion.com
+grtb-europe-west1b.tribalfusion.com
 grupogodo-ams.gravityrd-services.com
 grupogodo.worldgravity.com
 gsm.aimon.applicationinsights.io
@@ -5119,13 +5122,13 @@ hiro-sdk.demo.apester.com
 hits-i.iubenda.com
 hk.adserver.yahoo.com
 hkadxrtb.lfstmedia.com
-hk.astg.widerplanet.com
 hk-astg.widerplanet.com
+hk.astg.widerplanet.com
 hkg01.sync.search.spotxchange.com
 hkgstage-rtbwin.applovin.com
 hk.info.lgsmartad.com
-hk.rtb.widerplanet.com
 hk-rtb.widerplanet.com
+hk.rtb.widerplanet.com
 hk-vpn.turn.com
 hls-beacons.xumo.com
 hlsmaster1.adswizz.com
@@ -6014,8 +6017,8 @@ lookup.kargo.com
 losangeles.reachlocal.com
 lotame.segments.go.sonobi.com
 lotame-test.go.sonobi.com
-lotame-users.go.sonobi.com
 lotame.users.go.sonobi.com
+lotame-users.go.sonobi.com
 lotuscars.thirdpresence.com
 louisville.nui.media
 lp.dynamicyield.com
@@ -6548,6 +6551,7 @@ n.254a.com
 n3exvq9z-android.mobile-sdk-api.intercom.io
 n3exvq9z-ios.mobile-sdk-api.intercom.io
 n7k02-inet-hk5-eth4-14.as.criteo.net
+n7k02-inet-ny8-v231.us.criteo.net
 n7k02-inet-ty5-v306.as.criteo.net
 n8cwd.app.link
 n90sjv2r-android.mobile-sdk-api.intercom.io
@@ -6940,6 +6944,7 @@ ny-only.outbrain.com
 ny.outbrain.com
 nytimes.adready.com
 nytimes.visualdna.com
+ny.us.criteo.net
 nz.adserver.yahoo.com
 o1.corpout.returnpath.com
 o1.delivery.sdr.salesloft.com
@@ -7245,6 +7250,7 @@ paolo.logs.roku.com
 papajohns.webservices.exacttarget.com
 parenting.vizury.com
 parrable.adacado.com
+par.service.criteo.net
 particle.appdynamics.com
 partner.api.getadmiral.com
 partner-api.transam.macromill.com
@@ -7369,6 +7375,7 @@ pi-phx.t.pardot.com
 piq.imrworldwide.com
 pi.srs.doubleverify.com
 pix.as.criteo.net
+pix.criteo.net
 pixel2.realclever.com
 pixel.adpredictive.com
 pixel.adrd.co
@@ -7416,6 +7423,9 @@ pix.jp.as.criteo.net
 pix.nbcuni.com
 pix.nl.eu.criteo.net
 pix.spot.im
+pix.sv.us.criteo.net
+pix.us.criteo.net
+pix.va.us.criteo.net
 pk4qeoo9-android.mobile-sdk-api.intercom.io
 pkqvn-alternate.app.link
 placements.tapjoy.com
@@ -7624,8 +7634,8 @@ production-balancers-us-east-1.smadex.com
 production.pao-1.mathmon.mediamath.com
 productivity.alertmanager.staging-1.staging.leanplum.com
 productivity.grafana.staging-1.staging.leanplum.com
-productivity.locust2.staging-1.staging.leanplum.com
 productivity.locust-2.staging-1.staging.leanplum.com
+productivity.locust2.staging-1.staging.leanplum.com
 productivity.locust.staging-1.staging.leanplum.com
 productivity.prometheus.staging-1.staging.leanplum.com
 products.app.link
@@ -7895,8 +7905,8 @@ query.petametrics.com
 query-r8klqv4fq0bp9ued.petametrics.com
 query-us-east1.petametrics.com
 query-us.petametrics.com
-query-us-west1.petametrics.com
 query-us-west-1.petametrics.com
+query-us-west1.petametrics.com
 questex.mktoweb.com
 quickpulse.aimon.applicationinsights.io
 quirk.nui.media
@@ -8250,8 +8260,8 @@ rtbfactory.xml.ak-is.net
 rtb-google-gus.nxtck.com
 rtb-google-mia.nxtck.com
 rtb-google.mia.nxtck.com
-rtb-google-mrs.nxtck.com
 rtb-google.mrs.nxtck.com
+rtb-google-mrs.nxtck.com
 rtbid.chitika.net
 rtb-ids-e.vindicosuite.com
 rtb-ids-w.vindicosuite.com
@@ -8288,8 +8298,8 @@ rtb-rubicon-geu.rd.linksynergy.com
 rtb-rubicon-gus.nxtck.com
 rtb-rub-w.vindicosuite.com
 rtb.smadex.com
-rtb-srv-mrs.nxtck.com
 rtb-srv.mrs.nxtck.com
+rtb-srv-mrs.nxtck.com
 rtb-srv.nxtck.com
 rtbstaging.admaxim.com
 rtb-taboola-gus.rd.linksynergy.com
@@ -8968,8 +8978,8 @@ simpleadstr.adspirit.net
 simpletechnology1.mktoweb.com
 simpleview.adready.com
 simulator.engagefront.com
-sin01-event.spotxchange.com
 sin01.event.spotxchange.com
+sin01-event.spotxchange.com
 sin01.sync.search.spotxchange.com
 sina.mediav.com
 singular1.apsalar.com
@@ -9448,10 +9458,11 @@ staticc.adacado.com
 static-cdn.adblade.com
 static.cdn.adblade.com
 static.criteo.com
+static.criteo.net
 staticd.cdn.adblade.com
 static.de.euserv.adaos-ads.net
-static-devex.adblade.com
 static.devex.adblade.com
+static-devex.adblade.com
 static.doubleclick.com
 static.ecorebates.com
 static.eloqua.com
@@ -9471,6 +9482,7 @@ static.solocpm.com
 static.staging.bounceexchange.com
 static-staging.hotjar.com
 static.stg.apester.com
+static.sv.us.criteo.net
 static-tagr.gd1.mookie1.com
 statict.innovid.com
 staticw2.yotpo.com
@@ -9728,8 +9740,8 @@ tag.crashing.qa.bounceexchange.com
 tag.crsspxl.com
 tag-dyn-asi01.omnitagjs.com
 tag-dyn-fra01.omnitagjs.com
-tag.dyn.omnitagjs.com
 tag-dyn.omnitagjs.com
+tag.dyn.omnitagjs.com
 tag-dyn-usa01.omnitagjs.com
 tag-dyn-usa02.omnitagjs.com
 tag-eu.loopmertb.com
@@ -10391,8 +10403,8 @@ us-east-pulsepoint-rtb.quantserve.com
 us-east.pulsepoint.rtb.quantserve.com
 us-east-rtb.ak.quantserve.com
 us-east-rtb-new.ak.quantserve.com
-us-east.smart-ad.rtb.quantserve.com
 us-east-smart-ad-rtb.quantserve.com
+us-east.smart-ad.rtb.quantserve.com
 us-east-ssp.aralego.com
 us-east-sync.bidswitch.net
 us-east-user.bidswitch.net
@@ -10479,8 +10491,8 @@ us-west.bidswitch.rtb.quantserve.com
 us-west-google-rtb.quantserve.com
 uswestmonitoring.livesegmentservice.com
 us-west-notify.bidswitch.rtb.quantserve.com
-us-west-pulsepoint-rtb.quantserve.com
 us-west.pulsepoint.rtb.quantserve.com
+us-west-pulsepoint-rtb.quantserve.com
 us-west-rtb.ak.quantserve.com
 us-west-sync.bidswitch.net
 us-west-user.bidswitch.net
@@ -10681,7 +10693,9 @@ visualize.activate.manage.ensighten.com
 visualize.activate.stage.app.manage.ensighten.com
 viumbeprod.amobee.com
 vix.as.criteo.net
+vix.criteo.net
 vix.eu.criteo.net
+vix.us.criteo.net
 vls.vrvm.com
 v.mdotlabs.com
 vmp-beta.boldchat.com
