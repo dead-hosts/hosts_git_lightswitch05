@@ -1132,8 +1132,8 @@
 0.0.0.0 ads.solocpm.com
 0.0.0.0 ads.stage-one.heyzap.com
 0.0.0.0 ads-stats-limiter-shadow.snapads.com
-0.0.0.0 ads-stg.yieldmo.com
 0.0.0.0 ads.stg.yieldmo.com
+0.0.0.0 ads-stg.yieldmo.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 adstaging.admaxim.com
 0.0.0.0 adstats-shadow.snapads.com
@@ -1192,8 +1192,8 @@
 0.0.0.0 adx-winners-us-west-2-rtb.adroll.com
 0.0.0.0 adyoulike-api.api.omnitagjs.com
 0.0.0.0 adyoulike-api.dyn.omnitagjs.com
-0.0.0.0 adyoulike.api.omnitagjs.com
 0.0.0.0 adyoulike-api.omnitagjs.com
+0.0.0.0 adyoulike.api.omnitagjs.com
 0.0.0.0 adyoulike.apt.omnitagjs.com
 0.0.0.0 adyoulike-dyn.omnitagjs.com
 0.0.0.0 adyoulike.dyn.omnitagjs.com
@@ -2154,6 +2154,8 @@
 0.0.0.0 ax-rtb-fkb.connexity.net
 0.0.0.0 azadt.adsafeprotected.com
 0.0.0.0 azastatic.adsafeprotected.com
+0.0.0.0 azcdn.criteo.net
+0.0.0.0 azcdn-preprod.criteo.net
 0.0.0.0 az.info.lgsmartad.com
 0.0.0.0 azjdt.adsafeprotected.com
 0.0.0.0 az-nirror.abtasty.com
@@ -2547,6 +2549,7 @@
 0.0.0.0 c4dotcomtest.2cnt.net
 0.0.0.0 c4e8vikr-android.mobile-sdk-api.intercom.io
 0.0.0.0 c4iostest.2cnt.net
+0.0.0.0 c4k01-ot1.as.criteo.net
 0.0.0.0 c5android.2cnt.net
 0.0.0.0 c5androidtest.2cnt.net
 0.0.0.0 c5bj.mail.163.com
@@ -2900,8 +2903,8 @@
 0.0.0.0 clicks.fiksu.com
 0.0.0.0 clicks-orangegames.adhese.com
 0.0.0.0 clicks-pebblemedia.adhese.com
-0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clicks-roularta.adhese.com
+0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clickstream-killswitch-api.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-killswitch.hd-personalization-prod.gcp.homedepot.com
 0.0.0.0 clickstream-producer-api.hd-personalization-prod.gcp.homedepot.com
@@ -3144,6 +3147,7 @@
 0.0.0.0 cor.allinviews.com
 0.0.0.0 cor.beeviewd.com
 0.0.0.0 cor.bestcontentonline.com
+0.0.0.0 core02-ot1.as.criteo.net
 0.0.0.0 core.alex-test.qa.bounceexchange.com
 0.0.0.0 core-api.alex-test.qa.bounceexchange.com
 0.0.0.0 core-api.bot-test2.qa.bounceexchange.com
@@ -3354,6 +3358,8 @@
 0.0.0.0 csimon.adotube.com
 0.0.0.0 csivr.3cinteractive.com
 0.0.0.0 cs.marinsm.com
+0.0.0.0 csm.hk.as.criteo.net
+0.0.0.0 csm.jp.as.criteo.net
 0.0.0.0 cs.netseer.com
 0.0.0.0 cs.nui.media
 0.0.0.0 cs-p.alcmpn.com
@@ -3431,6 +3437,7 @@
 0.0.0.0 cxi-api-demo.wootric.com
 0.0.0.0 cxi-api-staging.wootric.com
 0.0.0.0 cxi-api.wootric.com
+0.0.0.0 cxlaxexprswy02.smo.connexity.net
 0.0.0.0 cx.scupio.com
 0.0.0.0 cyythcss-ios.mobile-sdk-api.intercom.io
 0.0.0.0 cz.info.lgsmartad.com
@@ -3567,6 +3574,7 @@
 0.0.0.0 decision.doccanarybay.innovation.abtasty.com
 0.0.0.0 decision.docs.canarybay.innovation.abtasty.com
 0.0.0.0 decisions.doc.canarybay.innovation.abtasty.com
+0.0.0.0 de-cix.eu.criteo.net
 0.0.0.0 de.euserv.accomm.adaos-ads.net
 0.0.0.0 de.euserv.adaos-ads.net
 0.0.0.0 de.euserv.adm.adaos-ads.net
@@ -3834,8 +3842,8 @@
 0.0.0.0 d-p-td-hkg1.turn.com
 0.0.0.0 d-p-td-sjc2.turn.com
 0.0.0.0 dp-us-west.bidswitch.net
-0.0.0.0 dpx.airpr.com
 0.0.0.0 d.px.airpr.com
+0.0.0.0 dpx.airpr.com
 0.0.0.0 dq.alcmpn.com
 0.0.0.0 d.r10.mopub.com
 0.0.0.0 drone-ci.videoamp.com
@@ -4705,8 +4713,8 @@
 0.0.0.0 formula-api.adtechus.com
 0.0.0.0 fo-ssp-asi01.omnitagjs.com
 0.0.0.0 fo-ssp-fra01.omnitagjs.com
-0.0.0.0 fossp.omnitagjs.com
 0.0.0.0 fo-ssp.omnitagjs.com
+0.0.0.0 fossp.omnitagjs.com
 0.0.0.0 fo-ssp-usa01.omnitagjs.com
 0.0.0.0 fo-ssp-usa02.omnitagjs.com
 0.0.0.0 fo-static-usa01.omnitagjs.com
@@ -4985,8 +4993,8 @@
 0.0.0.0 grtb.central1a.tribalfusion.com
 0.0.0.0 grtb-central1b.tribalfusion.com
 0.0.0.0 grtb.central1b.tribalfusion.com
-0.0.0.0 grtb-central1f.tribalfusion.com
 0.0.0.0 grtb.central1f.tribalfusion.com
+0.0.0.0 grtb-central1f.tribalfusion.com
 0.0.0.0 grtb.europe-west1b.tribalfusion.com
 0.0.0.0 grtb-europe-west1b.tribalfusion.com
 0.0.0.0 grupogodo-ams.gravityrd-services.com
@@ -5832,6 +5840,8 @@
 0.0.0.0 lax-2-apex.go.sonobi.com
 0.0.0.0 lax-2-xcp.go.sonobi.com
 0.0.0.0 lazygames.vizury.com
+0.0.0.0 lb03-hk5-vlan-common-external.as.criteo.net
+0.0.0.0 lb04-ty5-vlan-common-external.as.criteo.net
 0.0.0.0 lb2.aaxads.com
 0.0.0.0 lb.aaxads.com
 0.0.0.0 lb-delivery.us-east-1.applifier.info
@@ -6001,8 +6011,8 @@
 0.0.0.0 losangeles.reachlocal.com
 0.0.0.0 lotame.segments.go.sonobi.com
 0.0.0.0 lotame-test.go.sonobi.com
-0.0.0.0 lotame-users.go.sonobi.com
 0.0.0.0 lotame.users.go.sonobi.com
+0.0.0.0 lotame-users.go.sonobi.com
 0.0.0.0 lotuscars.thirdpresence.com
 0.0.0.0 louisville.nui.media
 0.0.0.0 lp.dynamicyield.com
@@ -6528,6 +6538,8 @@
 0.0.0.0 n.254a.com
 0.0.0.0 n3exvq9z-android.mobile-sdk-api.intercom.io
 0.0.0.0 n3exvq9z-ios.mobile-sdk-api.intercom.io
+0.0.0.0 n7k02-inet-hk5-eth4-14.as.criteo.net
+0.0.0.0 n7k02-inet-ty5-v306.as.criteo.net
 0.0.0.0 n8cwd.app.link
 0.0.0.0 n90sjv2r-android.mobile-sdk-api.intercom.io
 0.0.0.0 n95ka.app.link
@@ -7344,6 +7356,7 @@
 0.0.0.0 pi-phx.t.pardot.com
 0.0.0.0 piq.imrworldwide.com
 0.0.0.0 pi.srs.doubleverify.com
+0.0.0.0 pix.as.criteo.net
 0.0.0.0 pixel2.realclever.com
 0.0.0.0 pixel.adpredictive.com
 0.0.0.0 pixel.adrd.co
@@ -7384,6 +7397,8 @@
 0.0.0.0 pixel.warner.buzzdeck.com
 0.0.0.0 pixel.westpac.quantserve.com
 0.0.0.0 pixfuture-d3.openxenterprise.com
+0.0.0.0 pix.hk.as.criteo.net
+0.0.0.0 pix.jp.as.criteo.net
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 pix.spot.im
 0.0.0.0 pk4qeoo9-android.mobile-sdk-api.intercom.io
@@ -7465,8 +7480,8 @@
 0.0.0.0 pool.grid-data.bidswitch.net
 0.0.0.0 pool.ipm.adhese.com
 0.0.0.0 pool-orangegames.adhese.com
-0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool-pebblemedia.adhese.com
+0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 pool-use.creative-serving.com
 0.0.0.0 pool-usw.creative-serving.com
@@ -7594,8 +7609,8 @@
 0.0.0.0 production.pao-1.mathmon.mediamath.com
 0.0.0.0 productivity.alertmanager.staging-1.staging.leanplum.com
 0.0.0.0 productivity.grafana.staging-1.staging.leanplum.com
-0.0.0.0 productivity.locust-2.staging-1.staging.leanplum.com
 0.0.0.0 productivity.locust2.staging-1.staging.leanplum.com
+0.0.0.0 productivity.locust-2.staging-1.staging.leanplum.com
 0.0.0.0 productivity.locust.staging-1.staging.leanplum.com
 0.0.0.0 productivity.prometheus.staging-1.staging.leanplum.com
 0.0.0.0 products.app.link
@@ -7753,13 +7768,14 @@
 0.0.0.0 punchbowl.alcmpn.com
 0.0.0.0 puoy5.app.link
 0.0.0.0 purch.demand.go.sonobi.com
-0.0.0.0 purch.sync.go.sonobi.com
 0.0.0.0 purch-sync.go.sonobi.com
+0.0.0.0 purch.sync.go.sonobi.com
 0.0.0.0 pure.snippet-local.sandbox.getambassador.com
 0.0.0.0 purplebox-burst.flurry.com
 0.0.0.0 purplebox.flurry.com
 0.0.0.0 push.advance.net
 0.0.0.0 push.adventurefeeds.com
+0.0.0.0 pushapi.content-ad.net
 0.0.0.0 push.bitdefender.netwf.cbarsrv.com
 0.0.0.0 push.bluekai.com
 0.0.0.0 push.dev.pardot.com
@@ -8217,10 +8233,10 @@
 0.0.0.0 rtb-facebook.mrs.nxtck.com
 0.0.0.0 rtbfactory.xml.ak-is.net
 0.0.0.0 rtb-google-gus.nxtck.com
-0.0.0.0 rtb-google.mia.nxtck.com
 0.0.0.0 rtb-google-mia.nxtck.com
-0.0.0.0 rtb-google.mrs.nxtck.com
+0.0.0.0 rtb-google.mia.nxtck.com
 0.0.0.0 rtb-google-mrs.nxtck.com
+0.0.0.0 rtb-google.mrs.nxtck.com
 0.0.0.0 rtbid.chitika.net
 0.0.0.0 rtb-ids-e.vindicosuite.com
 0.0.0.0 rtb-ids-w.vindicosuite.com
@@ -8257,8 +8273,8 @@
 0.0.0.0 rtb-rubicon-gus.nxtck.com
 0.0.0.0 rtb-rub-w.vindicosuite.com
 0.0.0.0 rtb.smadex.com
-0.0.0.0 rtb-srv.mrs.nxtck.com
 0.0.0.0 rtb-srv-mrs.nxtck.com
+0.0.0.0 rtb-srv.mrs.nxtck.com
 0.0.0.0 rtb-srv.nxtck.com
 0.0.0.0 rtbstaging.admaxim.com
 0.0.0.0 rtb-taboola-gus.rd.linksynergy.com
@@ -9414,13 +9430,13 @@
 0.0.0.0 static.blog.chartbeat.com
 0.0.0.0 static.bounceexchange.com
 0.0.0.0 staticc.adacado.com
-0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static.cdn.adblade.com
+0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static.criteo.com
 0.0.0.0 staticd.cdn.adblade.com
 0.0.0.0 static.de.euserv.adaos-ads.net
-0.0.0.0 static-devex.adblade.com
 0.0.0.0 static.devex.adblade.com
+0.0.0.0 static-devex.adblade.com
 0.0.0.0 static.doubleclick.com
 0.0.0.0 static.ecorebates.com
 0.0.0.0 static.eloqua.com
@@ -9428,6 +9444,7 @@
 0.0.0.0 static.green.erne.co
 0.0.0.0 static.hotjar.com
 0.0.0.0 static-infra-api.newrelic.com
+0.0.0.0 static.jp.as.criteo.net
 0.0.0.0 static.m12n.servebom.com
 0.0.0.0 static.nirror.abtasty.com
 0.0.0.0 static.outbrain.com
@@ -9681,8 +9698,8 @@
 0.0.0.0 taboola-winners-us-west-2-rtb.adroll.com
 0.0.0.0 tacony.mktoweb.com
 0.0.0.0 tag.163.com
-0.0.0.0 tag-api.omnitagjs.com
 0.0.0.0 tag.api.omnitagjs.com
+0.0.0.0 tag-api.omnitagjs.com
 0.0.0.0 tag.bot-test.qa.bounceexchange.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.bri.qa.bounceexchange.com
@@ -10354,12 +10371,12 @@
 0.0.0.0 us-east-google-rtb.quantserve.com
 0.0.0.0 useastmonitoring.livesegmentservice.com
 0.0.0.0 us-east-notify.bidswitch.rtb.quantserve.com
-0.0.0.0 us-east-pulsepoint-rtb.quantserve.com
 0.0.0.0 us-east.pulsepoint.rtb.quantserve.com
+0.0.0.0 us-east-pulsepoint-rtb.quantserve.com
 0.0.0.0 us-east-rtb.ak.quantserve.com
 0.0.0.0 us-east-rtb-new.ak.quantserve.com
-0.0.0.0 us-east-smart-ad-rtb.quantserve.com
 0.0.0.0 us-east.smart-ad.rtb.quantserve.com
+0.0.0.0 us-east-smart-ad-rtb.quantserve.com
 0.0.0.0 us-east-ssp.aralego.com
 0.0.0.0 us-east-sync.bidswitch.net
 0.0.0.0 us-east-user.bidswitch.net
@@ -10647,6 +10664,7 @@
 0.0.0.0 visualize.activate.manage.ensighten.com
 0.0.0.0 visualize.activate.stage.app.manage.ensighten.com
 0.0.0.0 viumbeprod.amobee.com
+0.0.0.0 vix.as.criteo.net
 0.0.0.0 vls.vrvm.com
 0.0.0.0 v.mdotlabs.com
 0.0.0.0 vmp-beta.boldchat.com
@@ -11235,6 +11253,7 @@
 0.0.0.0 yahoo.serving-sys.com
 0.0.0.0 yal.mmgl.cd.serving-sys.com
 0.0.0.0 yampui-staging.flurry.com
+0.0.0.0 yax-rtb-fkb.connexity.net
 0.0.0.0 yax-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 yax-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 yax-winners-us-east-1-rtb.adroll.com

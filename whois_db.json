@@ -2155,12 +2155,12 @@
         "state": "future"
     },
     "content-ad.net": {
-        "epoch": "1797292800",
+        "epoch": 1797292800.0,
         "expiration_date": "15-dec-2026",
         "state": "future"
     },
     "content-recommendation.net": {
-        "epoch": 1581724800,
+        "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
         "state": "future"
     },
@@ -2265,7 +2265,7 @@
         "state": "future"
     },
     "criteo.net": {
-        "epoch": 1592352000,
+        "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
         "state": "future"
     },
