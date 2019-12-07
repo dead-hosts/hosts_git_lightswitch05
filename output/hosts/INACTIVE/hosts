@@ -5,7 +5,9 @@
 0.0.0.0 t.update.ib.adnxs.com
 0.0.0.0 1-10-k8s.dev-iad.amobee.com
 0.0.0.0 1faax-us-east.amazon-adsystem.com
+0.0.0.0 2.beeg.com
 0.0.0.0 2open.facebook-ads.adtz.com
+0.0.0.0 a2.beeg.com
 0.0.0.0 aan.amazon-adsystem.com
 0.0.0.0 aax.amazon.amazon-adsystem.com
 0.0.0.0 aax-eu-test2.amazon-adsystem.com
@@ -24,14 +26,17 @@
 0.0.0.0 ad.adpredictive.com
 0.0.0.0 ad.aggregateknowledge.com
 0.0.0.0 ad.agkn.com
+0.0.0.0 ad.bannerflow.com
 0.0.0.0 addesk.advertising.com
 0.0.0.0 adgui.ace.advertising.com
 0.0.0.0 ad.ish.atdmt.com
 0.0.0.0 adlearnop.advertising.com
 0.0.0.0 admarvel.mads.advertising.com
+0.0.0.0 admin-cms.awin.com
 0.0.0.0 adportal.advertising.com
 0.0.0.0 ads.aertb.com
 0.0.0.0 adsaprotected.com
+0.0.0.0 ads.beeketing.com
 0.0.0.0 ads-direct-wc.adaptv.advertising.com
 0.0.0.0 ads-east-colo.adsymptotic.com
 0.0.0.0 adserv.adpredictive.com
@@ -93,6 +98,7 @@
 0.0.0.0 api.adyoulike.com
 0.0.0.0 api.appdynamics.com
 0.0.0.0 api-doc.adtechus.com
+0.0.0.0 api.productdata.awin.com
 0.0.0.0 api.reports.advertising.com
 0.0.0.0 apis.adsymptotic.com
 0.0.0.0 api.shannon.test.appsee.com
@@ -168,11 +174,13 @@
 0.0.0.0 bis5-ssl.allinviews.com
 0.0.0.0 bitemp.allinviews.com
 0.0.0.0 biz.appsflyer.com
+0.0.0.0 bkflycdn.beeketing.com
 0.0.0.0 blkrad.rad.atdmt.com
 0.0.0.0 blog-test.autopilothq.com
 0.0.0.0 blue2018111320591611.saas.appdynamics.com
 0.0.0.0 bok.qa-iad.amobee.com
 0.0.0.0 bplb2.atlassbx.com
+0.0.0.0 brain.beeketing.com
 0.0.0.0 brx.pxl.ace.advertising.com
 0.0.0.0 bsw.pxl.ace.advertising.com
 0.0.0.0 bsw-winners-ap-southeast-1-rtb.adroll.com
@@ -187,6 +195,7 @@
 0.0.0.0 cas.pxl.ace.advertising.com
 0.0.0.0 cast-dev-mark-j.adtdp.com
 0.0.0.0 cast-thirdpas-j.adtdp.com
+0.0.0.0 cb.beeketing.com
 0.0.0.0 cci-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 cdn.adstatic.com
 0.0.0.0 cdn.adthrive.com
@@ -234,7 +243,9 @@
 0.0.0.0 cmap.rub.ace.advertising.com
 0.0.0.0 cmap.uac.ace.advertising.com
 0.0.0.0 cm.mobile.ace.advertising.com
+0.0.0.0 cms-admin.awin.com
 0.0.0.0 cms.advertising.com
+0.0.0.0 cms-editor.awin.com
 0.0.0.0 cnf.altitude-arena.com
 0.0.0.0 cn.support.appsflyer.com
 0.0.0.0 cohorts.appsflyer.com
@@ -251,6 +262,7 @@
 0.0.0.0 crash.amplitude.com
 0.0.0.0 creative.agkn.com
 0.0.0.0 creativecentral.advertising.com
+0.0.0.0 creativepreview.ui.awin.com
 0.0.0.0 creative.skyrocket.adtdp.com
 0.0.0.0 cs.ace.advertising.com
 0.0.0.0 csync.intelligence.amobee.com
@@ -298,6 +310,7 @@
 0.0.0.0 dev.aniview.com
 0.0.0.0 dev.atlassbx.com
 0.0.0.0 dev-j-serval.adtdp.com
+0.0.0.0 dev-k8s.beeketing.com
 0.0.0.0 dev.mmp.adtz.com
 0.0.0.0 dev.msrv.saastest.appdynamics.com
 0.0.0.0 dev-rec.aralego.com
@@ -312,6 +325,7 @@
 0.0.0.0 dmp-pixel.aolp-prd.public.aol.com
 0.0.0.0 dmp-qai-pixel.advertising.com
 0.0.0.0 dns-k8s.dev-iad.amobee.com
+0.0.0.0 do-builder.beeketing.com
 0.0.0.0 docker-registry.adswizz.com
 0.0.0.0 docker-registry.amobee.com
 0.0.0.0 docker-registry.repo.amobee.com
@@ -332,7 +346,9 @@
 0.0.0.0 e3.geo.adpushup.com
 0.0.0.0 earhart2018110500475516.saas.appdynamics.com
 0.0.0.0 edge2.pixel.advertising.com
+0.0.0.0 edge.beeketing.com
 0.0.0.0 edge.pixel.advertising.com
+0.0.0.0 editor-cms.awin.com
 0.0.0.0 editor.dasha.apester.com
 0.0.0.0 editor.pe.apester.com
 0.0.0.0 ee01gws.advertising.com
@@ -341,12 +357,15 @@
 0.0.0.0 ee02gws.advertising.com
 0.0.0.0 ee02hmq.advertising.com
 0.0.0.0 ee12gp4.advertising.com
+0.0.0.0 elb.viewtracker.tracking.awin.com
 0.0.0.0 elephant201902181910379.saas.appdynamics.com
 0.0.0.0 email.advertising.com
 0.0.0.0 email.circlebackemail.appboy.com
 0.0.0.0 eng.appdynamics.com
 0.0.0.0 engine.adpushup.com
 0.0.0.0 en.support.appsflyer.com
+0.0.0.0 enterprise-cname.bannersnack.com
+0.0.0.0 epro.awin.com
 0.0.0.0 errors.adwyze.com
 0.0.0.0 eu.b.audiencetag.com
 0.0.0.0 eu.content.cmp.advertising.com
@@ -356,6 +375,7 @@
 0.0.0.0 example.airpr.com
 0.0.0.0 expn.agkn.com
 0.0.0.0 exportdata.appsflyer.com
+0.0.0.0 exporthtml5.bannersnack.com
 0.0.0.0 extmap.an.ace.advertising.com
 0.0.0.0 extmap.rub.ace.advertising.com
 0.0.0.0 eyeta.dev-iad.amobee.com
@@ -391,6 +411,7 @@
 0.0.0.0 gandhi201802040402157.saas.appdynamics.com
 0.0.0.0 gannett-sb-ec.adtechus.com
 0.0.0.0 gapi.adsymptotic.com
+0.0.0.0 g.beeketing.com
 0.0.0.0 gcp-events.apester.com
 0.0.0.0 gdpr.appsflyer.com
 0.0.0.0 geo.atdmt.com
@@ -411,6 +432,7 @@
 0.0.0.0 go5.aniview.com
 0.0.0.0 go6.aniview.com
 0.0.0.0 go7.aniview.com
+0.0.0.0 go.awin.com
 0.0.0.0 gocentos7.aniview.com
 0.0.0.0 goggl.aniview.com
 0.0.0.0 gogowa.dev-iad.amobee.com
@@ -420,6 +442,7 @@
 0.0.0.0 goubunto.aniview.com
 0.0.0.0 grafanaboard.appsflyer.com
 0.0.0.0 growth.adroll.com
+0.0.0.0 host.bannerflow.com
 0.0.0.0 hq58.appsflyer.com
 0.0.0.0 html.aggregateknowledge.com
 0.0.0.0 html.agkn.com
@@ -430,6 +453,7 @@
 0.0.0.0 hw-pdn.applovin.com
 0.0.0.0 hw-vid.applovin.com
 0.0.0.0 i.apester.com
+0.0.0.0 i.awin.com
 0.0.0.0 ibana.dev-iad.amobee.com
 0.0.0.0 ibana.qa-iad.amobee.com
 0.0.0.0 ibanna.dev-iad.amobee.com
@@ -437,6 +461,7 @@
 0.0.0.0 ikee.qa-iad.amobee.com
 0.0.0.0 im.adtechus.com
 0.0.0.0 images.agkn.com
+0.0.0.0 images.awin1.com
 0.0.0.0 img.applvn.com
 0.0.0.0 img-origin.adtechus.com
 0.0.0.0 img-origin-us-east-1.prod.adtechus.com
@@ -520,6 +545,7 @@
 0.0.0.0 marketplace.analyticson.com
 0.0.0.0 mark.skyrocket.adtdp.com
 0.0.0.0 matomo.apester.com
+0.0.0.0 m.awin1.com
 0.0.0.0 media.adtechus.com
 0.0.0.0 media.pe.apester.com
 0.0.0.0 medias.analyticson.com
@@ -543,22 +569,27 @@
 0.0.0.0 msrv.saastest.appdynamics.com
 0.0.0.0 mt.pxl.ace.advertising.com
 0.0.0.0 my-k8s.dev-iad.amobee.com
+0.0.0.0 naws.awin.com
 0.0.0.0 ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
 0.0.0.0 netezines.advertising.com
 0.0.0.0 new-iq.adtechus.com
 0.0.0.0 newmanage.aniview.com
 0.0.0.0 news.apester.com
+0.0.0.0 new.tracking.quality.awin.com
 0.0.0.0 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 0.0.0.0 nn.advertising.com
 0.0.0.0 nonprod-classic-rest-api.dev.adtechus.com
 0.0.0.0 notifications.apester.com
 0.0.0.0 ns1.adroll.com
 0.0.0.0 ns1.amgvgt.com
+0.0.0.0 ns1.awin.com
 0.0.0.0 ns2.adroll.com
+0.0.0.0 ns2.awin.com
 0.0.0.0 nufuzu.dev-iad.amobee.com
 0.0.0.0 nw-ads.gslb.ace.advertising.com
 0.0.0.0 nyeta.dev-iad.amobee.com
 0.0.0.0 nyeta.qa-iad.amobee.com
+0.0.0.0 o1.default.beeketing.com
 0.0.0.0 obi.addesk.advertising.com
 0.0.0.0 obi.adportal.advertising.com
 0.0.0.0 obi.dev.advertising.com
@@ -597,6 +628,7 @@
 0.0.0.0 p-ads54.eu.adsymptotic.com
 0.0.0.0 p-ads74.eu.adsymptotic.com
 0.0.0.0 painted2018081600230618.saas.appdynamics.com
+0.0.0.0 panorama.awin.com
 0.0.0.0 p-apac.adsymptotic.com
 0.0.0.0 partner10.adpiano.com
 0.0.0.0 partner11.adpiano.com
@@ -641,6 +673,7 @@
 0.0.0.0 pf.static.ads-twitter.com
 0.0.0.0 phabricator.adwyze.com
 0.0.0.0 ph.adsrvs.com
+0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 pictela-sb-ec.adtechus.com
 0.0.0.0 pix.dco.advertising.com
 0.0.0.0 pixel.adssafeprotected.com
@@ -694,6 +727,7 @@
 0.0.0.0 pubmatic-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 pubportal.advertising.com
 0.0.0.0 pub.pxl.ace.advertising.com
+0.0.0.0 pv.awin.com
 0.0.0.0 pv.tacoda.at.atwola.com
 0.0.0.0 px.at.atwola.com
 0.0.0.0 pxl.ace.advertising.com
@@ -704,6 +738,7 @@
 0.0.0.0 qai-uk.adlearnop.advertising.com
 0.0.0.0 qa-moments.advertising.com
 0.0.0.0 qa-uk.adlearnop.advertising.com
+0.0.0.0 qa-upstream.awin.com
 0.0.0.0 r1.ace.advertising.com
 0.0.0.0 r1-ads.ace.advertising.com
 0.0.0.0 r1.beta.ace.advertising.com
@@ -749,6 +784,7 @@
 0.0.0.0 rm.pxl.ace.advertising.com
 0.0.0.0 rmx.pxl.ace.advertising.com
 0.0.0.0 rollhands.internal.adroll.com
+0.0.0.0 root.tracking.quality.awin.com
 0.0.0.0 rpt.rad.atdmt.com
 0.0.0.0 rtb-apac.adsymptotic.com
 0.0.0.0 rtb-lb2-vip0.eu.adsymptotic.com
@@ -811,6 +847,7 @@
 0.0.0.0 secure.ace-tag.advertising.com
 0.0.0.0 secure.advertising.com
 0.0.0.0 secure.answermedia.com
+0.0.0.0 secure.awin.com
 0.0.0.0 secure.bannerfarm.ace.advertising.com
 0.0.0.0 secure.bannerfarm.advertising.com
 0.0.0.0 secure-cdn.mm.atwola.com
@@ -900,6 +937,7 @@
 0.0.0.0 stage-secure.leadback.advertising.com
 0.0.0.0 staging.adwyze.com
 0.0.0.0 staging.aniview.com
+0.0.0.0 staging.bc0a.com
 0.0.0.0 staging.msrv.saastest.appdynamics.com
 0.0.0.0 staging-p.alcmpn.com
 0.0.0.0 staging.saastest.appdynamics.com
@@ -945,6 +983,7 @@
 0.0.0.0 test-oidc.dev-iad.amobee.com
 0.0.0.0 test-oidc-k8s.dev-iad.amobee.com
 0.0.0.0 testtt.allinviews.com
+0.0.0.0 test-ui.awin.com
 0.0.0.0 theek.dev-iad.amobee.com
 0.0.0.0 ticket.agkn.com
 0.0.0.0 tilba.qa-iad.amobee.com
@@ -954,6 +993,7 @@
 0.0.0.0 tonton.qa-iad.amobee.com
 0.0.0.0 tower.adwyze.com
 0.0.0.0 track6.aniview.com
+0.0.0.0 tracking.bannerflow.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
 0.0.0.0 trackv3.aniview.com
 0.0.0.0 traffic.adpiano.com
@@ -1019,6 +1059,7 @@
 0.0.0.0 vivad.at.atwola.com
 0.0.0.0 voicefive-sb-ec.adtechus.com
 0.0.0.0 voicefive-sb-wc.adtechus.com
+0.0.0.0 vpnmobile.awin.com
 0.0.0.0 vps.advidi.com
 0.0.0.0 vz-assets.applovin.com
 0.0.0.0 vz-img.applovin.com
@@ -1056,6 +1097,8 @@
 0.0.0.0 www.api.analyticson.com
 0.0.0.0 www.api.appboy.com
 0.0.0.0 www.apolicarpio.facebook-ads.adtz.com
+0.0.0.0 www.app.bannerflow.com
+0.0.0.0 www.app.beeketing.com
 0.0.0.0 www.aralego.com
 0.0.0.0 www.audiencetag.com
 0.0.0.0 www.authorisation.analyticson.com
@@ -1064,8 +1107,10 @@
 0.0.0.0 www.beacon.airvertiseme.com
 0.0.0.0 www.bender.appboy.com
 0.0.0.0 www.billboard.amobee.com
+0.0.0.0 www.campaigns.bannersnack.com
 0.0.0.0 www.cdn.adrta.com
 0.0.0.0 www.cdn.airfind.com
+0.0.0.0 www.cdn.bannersnack.com
 0.0.0.0 www.ci.appboy.com
 0.0.0.0 www.clientsmedia2.adrime.com
 0.0.0.0 www.cntr.adrcntr.com
@@ -1104,6 +1149,7 @@
 0.0.0.0 www.ibv.doubleclick.rtb.adx1.com
 0.0.0.0 www.identity.appdynamics.com
 0.0.0.0 www.identity-staging.appdynamics.com
+0.0.0.0 www.images.awin1.com
 0.0.0.0 www.info.amplitude.com
 0.0.0.0 www.intersite.adrizer.com
 0.0.0.0 www.js.adrta.com
@@ -1168,16 +1214,20 @@
 0.0.0.0 www.staging-sidekiq-status.appboy.com
 0.0.0.0 www.start.adpushup.com
 0.0.0.0 www.static.audiensis.com
+0.0.0.0 www.stats.bannersnack.com
 0.0.0.0 www.superstudio.facebook-ads.adtz.com
+0.0.0.0 www.survey.bannersnack.com
 0.0.0.0 www.sweeney.appboy.com
 0.0.0.0 www.t.audiencetag.com
 0.0.0.0 www.tc.airfrance.com
+0.0.0.0 www.tech.bannerflow.com
 0.0.0.0 www.temo.analyticson.com
 0.0.0.0 www.test2.analyticson.com
 0.0.0.0 www.testbanners.analyticson.com
 0.0.0.0 www.traffic.adventurefeeds.com
 0.0.0.0 www.trunkstable.atlassbx.com
 0.0.0.0 www.try.appboy.com
+0.0.0.0 www.try.bannerflow.com
 0.0.0.0 www.v.adsrvs.com
 0.0.0.0 www.vpaid.adsafeprotected.com
 0.0.0.0 www.vpn2.govops.appdynamics.com
