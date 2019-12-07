@@ -41,9 +41,11 @@
 0.0.0.0 a690.casalemedia.com
 0.0.0.0 a940.casalemedia.com
 0.0.0.0 a.beeketing.com
+0.0.0.0 acquia-api.conductrics.com
 0.0.0.0 acs.adtdp.com
 0.0.0.0 actions-eu.cbarsrv.com
 0.0.0.0 actions-ny.cbarsrv.com
+0.0.0.0 admin-api.g-us-v3.conductrics.com
 0.0.0.0 admin-reports.bluekai.com
 0.0.0.0 adp-pmk.adtdp.com
 0.0.0.0 adp-sdlv.adtdp.com
@@ -58,6 +60,7 @@
 0.0.0.0 adt-fixer.adtdp.com
 0.0.0.0 adt-sync.adtdp.com
 0.0.0.0 advandmedia-banner-mobile.rtb.adx1.com
+0.0.0.0 affiliate.connextra.com
 0.0.0.0 afpapacprod.amobee.com
 0.0.0.0 amipm.adsafeprotected.com
 0.0.0.0 ams.amobee.com
@@ -68,6 +71,8 @@
 0.0.0.0 api2.autopilothq.com
 0.0.0.0 api.adx1.com
 0.0.0.0 api.awin.com
+0.0.0.0 api-eu.conductrics.com
+0.0.0.0 api.g-us-v3.conductrics.com
 0.0.0.0 api-selene.prod.adtechus.com
 0.0.0.0 api.staging.bounceexchange.com
 0.0.0.0 app.bugherd.com
@@ -130,6 +135,7 @@
 0.0.0.0 cast-wn-j.adtdp.com
 0.0.0.0 cdhmanager-prod.bronto.com
 0.0.0.0 cdn.aniview.com
+0.0.0.0 cdn.g-us-v3.conductrics.com
 0.0.0.0 cdnorigin.banners.advidi.com
 0.0.0.0 certbot-test.autopilothq.com
 0.0.0.0 ch1aqu.atdmt.com
@@ -245,6 +251,7 @@
 0.0.0.0 guiapi-development.bounceexchange.com
 0.0.0.0 guides.adtoox.com
 0.0.0.0 gui-dev.bounceexchange.com
+0.0.0.0 g-us-v3.conductrics.com
 0.0.0.0 helium-api.chartboost.com
 0.0.0.0 hkgstage-rtb.applovin.com
 0.0.0.0 hotbackup.airfind.com
@@ -252,6 +259,7 @@
 0.0.0.0 hot-shit.beta.stag.bounceexchange.com
 0.0.0.0 hot-shit-router.beta.stag.bounceexchange.com
 0.0.0.0 hound.bnmla.com
+0.0.0.0 hub.internal.connatix.com
 0.0.0.0 ib.amobee.com
 0.0.0.0 ice.aws.amobee.com
 0.0.0.0 i.chartboost.com
@@ -276,6 +284,7 @@
 0.0.0.0 latencychecker.bluekai.com
 0.0.0.0 ldap01.adroll.com
 0.0.0.0 ldap1.us-west-1.ec2.bluekai.com
+0.0.0.0 lga-rts-kube-test.contextweb.com
 0.0.0.0 liveness-api.beta.stag.bounceexchange.com
 0.0.0.0 liveness.beta.stag.bounceexchange.com
 0.0.0.0 lmdb.apsalar.com
@@ -537,6 +546,7 @@
 0.0.0.0 ns1.amobee.com
 0.0.0.0 ns1.bizible.com
 0.0.0.0 ns1.cnzz.com
+0.0.0.0 ns1.connextra.com
 0.0.0.0 ns1.tg.adx1.com
 0.0.0.0 ns2.amgdgt.com
 0.0.0.0 ns2.amobee.com
@@ -794,6 +804,7 @@
 0.0.0.0 stage.beta.api.adx1.com
 0.0.0.0 stage-ls.api.chatid.com
 0.0.0.0 staging.adx1.com
+0.0.0.0 staging.analytics.cohesionapps.com
 0.0.0.0 staging.banners.advidi.com
 0.0.0.0 staging.brightedge.com
 0.0.0.0 staging.demo.appdynamics.com
@@ -820,6 +831,7 @@
 0.0.0.0 target-oregon-01.clickfunnels.com
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 t.cdnsynd.com
+0.0.0.0 tc.internal.connatix.com
 0.0.0.0 t.clcktrax.com
 0.0.0.0 techrepublic.cbsi.com
 0.0.0.0 template-test-api.beta.stag.bounceexchange.com
@@ -831,8 +843,12 @@
 0.0.0.0 trainerqa.brightedge.com
 0.0.0.0 tv.cbsi.com
 0.0.0.0 tvguide.cbsi.com
+0.0.0.0 uat-adservers.connextra.com
+0.0.0.0 uat-datacapture.connextra.com
+0.0.0.0 uat-workbench.connextra.com
 0.0.0.0 umprod.amobee.com
 0.0.0.0 unibet.feeds.bannerflow.com
+0.0.0.0 upsource.internal.connatix.com
 0.0.0.0 usmed.amobee.com
 0.0.0.0 utm-sdk.beeketing.com
 0.0.0.0 v2.adpiano.com
@@ -883,4 +899,7 @@
 0.0.0.0 www.staging.brightedge.com
 0.0.0.0 xdaprod.amobee.com
 0.0.0.0 y.amobee.com
+0.0.0.0 youtrack.internal.connatix.com
+0.0.0.0 youtrack.ops.connatix.com
+0.0.0.0 youtrack-ue2.internal.connatix.com
 0.0.0.0 zdnet.cbsi.com
