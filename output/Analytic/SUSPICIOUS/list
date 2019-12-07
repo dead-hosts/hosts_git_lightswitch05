@@ -75,6 +75,7 @@ applefox.7p.com
 apple.k8s.test-001.d-usw-2.braze.com
 appnexus-bkapp.bluekai.com
 archive.bronto.com
+assets.clevergirlscollective.com
 assoc-msdk-cn.amazon-adsystem.com
 att-uat.analytics-egain.com
 audiences-alpha.bluekai.com
@@ -89,8 +90,10 @@ audiences-test-iad.bluekai.com
 audiences-test-oiada.bluekai.com
 auth.aweber.com
 auth.internal.beeketing.com
+automat.test.chatid.com
 azure.appdynamics.com
 babel.bluekai.com
+badge.clevergirlscollective.com
 bal-ac.brainient.com
 bal-studio.brainient.com
 banners.advidi.com
@@ -131,6 +134,7 @@ cdnorigin.banners.advidi.com
 certbot-test.autopilothq.com
 ch1aqu.atdmt.com
 ch1trk.atdmt.com
+chat.api.chatid.com
 chowhound.cbsi.com
 classic-api.prod.adtechus.com
 classic-rest-api.prod.adtechus.com
@@ -159,14 +163,18 @@ dba006.apsalar.com
 dba014.apsalar.com
 dc21.bnmla.com
 dc.adsqn.com
+dco.centraltag.com
 dean.dev.dig.cbsi.com
 dev.adthrive.com
 dev.amplitude.com
 dev.brightedge.com
 dev.demo.appdynamics.com
+dev-ls.api.chatid.com
 devsite.amobee.com
 devtest.celebrus.com
 dialin.awin.com
+directory.chatid.com
+directory-qa.api.chatid.com
 direct-srv.buysellads.com
 discover.bluekai.com
 discover-soak.bluekai.com
@@ -213,6 +221,7 @@ f13.adventori.com
 fc-lb1.iad2.adsymptotic.com
 fc-lb2.iad2.adsymptotic.com
 feeds.bannerflow.com
+files.chartboost.com
 fileupload.cbsi.com
 fls-cn.amazon-adsystem.com
 foreman.amobee.com
@@ -224,8 +233,8 @@ genymotion-001.infra-east-1.appboy.com
 genymotion-001.staging-east-1.appboy.com
 geo.automatad.com
 gerrit.ops.appdynamics.com
-globe-prod.amobee.com
 globeprod.amobee.com
+globe-prod.amobee.com
 grafana.k8s.cluster-001.s-use-1.braze.com
 grafana.k8s.region-001.s-use-1.braze.com
 grafana.k8s.stc-001.s-use-1.braze.com
@@ -235,6 +244,7 @@ greg-tv.blismedia.com
 guiapi-development.bounceexchange.com
 guides.adtoox.com
 gui-dev.bounceexchange.com
+helium-api.chartboost.com
 hkgstage-rtb.applovin.com
 hotbackup.airfind.com
 hot-shit-api.beta.stag.bounceexchange.com
@@ -243,6 +253,7 @@ hot-shit-router.beta.stag.bounceexchange.com
 hound.bnmla.com
 ib.amobee.com
 ice.aws.amobee.com
+i.chartboost.com
 id-ns1.amgdgt.com
 images.aggregateknowledge.com
 images.bucksense.com
@@ -273,6 +284,8 @@ local.attributionapp.com
 login-stage.adtoox.com
 logs.adroll.com
 looker.bounceexchange.com
+ls1x.chatid.com
+ls.chatid.com
 mail1.aweber.com
 mail.adrcdn.com
 mail.bnmla.com
@@ -510,6 +523,7 @@ ms247.bronto.com
 neo.amobee.com
 net-tr.casalemedia.com
 networkstats.advidi.com
+next.chartboost.com
 nfl.dev.dig.cbsi.com
 nfl.dig.cbsi.com
 nj.amobee.com
@@ -538,8 +552,12 @@ nyipm.adsafeprotected.com
 o1619.abmail.internal.braze.com
 o1.email.applovin.com
 o1.email.avidly.com
+o3.sg.clickmail.clickfunnels.com
+o4.sg.clickmail.clickfunnels.com
+o5.sg.clickmail.clickfunnels.com
 o779.mail.updates.braze.com
 o7.email.bounceexchange.com
+o7.sg.clickmail.clickfunnels.com
 og-iad2.adsymptotic.com
 og-sc2.adsymptotic.com
 on-prem-testing.bugsnag.com
@@ -591,6 +609,7 @@ qa2-master1a.apsalar.com
 qa3-master1a.apsalar.com
 qa4-master1a.apsalar.com
 qa-link.apsalar.com
+qa-traefik.chicoryapp.com
 queryless.secure.cbsi.com
 redirect.caline.adtdp.com
 redirects.advidi.com
@@ -650,6 +669,7 @@ send-gamma.pinpoint.us-east-1.amazonaws.com
 send-prod.pinpoint.us-east-1.amazonaws.com
 sensu.amobee.com
 sentry.adthrive.com
+service.centraltag.com
 services.iad.appboy.com
 sfostage-rtb.applovin.com
 sidearm.dev.moneyball.cbsi.com
@@ -759,7 +779,10 @@ sourceinventory.bluekai.com
 sourceinventory-int.bluekai.com
 specs.adrime.com
 srv-us-ca-7.buysellads.com
+ssp-creatives.chartboost.com
+ssp-events.chartboost.com
 stage.beta.api.adx1.com
+stage-ls.api.chatid.com
 staging.adx1.com
 staging.banners.advidi.com
 staging.brightedge.com
@@ -786,6 +809,7 @@ tag.staging.bounceexchange.com
 targeting.tronc.arcpublishing.com
 taurus.iad.appboy.com
 t.cdnsynd.com
+t.clcktrax.com
 techrepublic.cbsi.com
 template-test-api.beta.stag.bounceexchange.com
 template-test.beta.stag.bounceexchange.com
@@ -815,6 +839,7 @@ vfptprod.amobee.com
 vip.adpiano.com
 voyager.aweber.com
 vpn2.govops.appdynamics.com
+vpn-fo.chartbeat.com
 vulcan-int.bluekai.com
 vulcan.phx.bluekai.com
 wb2.bestadbid.com
@@ -841,6 +866,7 @@ www6.adverline.com
 www.adsafeprotected.com
 www.appboycdn.com
 www.bfmio.com
+www.centraltag.com
 www.forms.aweber.com
 www-lhr1.awin1.com
 www.staging.brightedge.com
