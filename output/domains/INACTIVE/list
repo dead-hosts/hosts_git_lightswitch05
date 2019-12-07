@@ -258,6 +258,7 @@ autodiscover.au.acxiom.com
 autodiscover.channelintelligence.com
 autodiscover.chartboost.com
 autodiscover.clickconvertsell.com
+autodiscover.eu.acxiom.com
 _autodiscover._tcp.aggregateknowledge.com
 _autodiscover._tcp.agkn.com
 av.acxiom.com
@@ -273,8 +274,8 @@ axonix.events.bidstalk.com
 ayafa.dev-iad.amobee.com
 ayafa.qa-iad.amobee.com
 azkaban.adwyze.com
-b-1473-k8s.dev-iad.amobee.com
 b1473-k8s.dev-iad.amobee.com
+b-1473-k8s.dev-iad.amobee.com
 baba.dev-iad.amobee.com
 baba.qa-iad.amobee.com
 backoffice.pe.apester.com
@@ -286,6 +287,8 @@ bannertest.adtechus.com
 bar.dev-iad.amobee.com
 b.audiencetag.com
 bbpy3.feathr.co
+bbsaml.citacxdmz.acxiom.com
+bbsamlprod.citacxdmz.acxiom.com
 bcn.reamp.com.br
 bc_private.bluecava.com
 bdy.admaster.com.cn
@@ -297,6 +300,7 @@ bell-ex.acuityplatform.com
 bell-img.acuityplatform.com
 bell-serve.acuityplatform.com
 bender.appboy.com
+benefitbuilder.acxiom.com
 bergdorfgoodman.rdr.channelintelligence.com
 bestbuyeyeglasses.rdr.channelintelligence.com
 bestbuy.rdr.channelintelligence.com
@@ -385,6 +389,7 @@ cache.aertb.com
 campaign-api.dasha.apester.com
 campaign-api.pe.apester.com
 campaign.dasha.apester.com
+capitalone.acxiom.com
 caprofitx.adtdp.com
 caravel.adthrive.com
 carefree.links.channelintelligence.com
@@ -419,7 +424,11 @@ cdn-video.amgvgt.com
 cdn-z.amazon-adsystem.com
 ceast.adsymptotic.com
 cengage.celebrus.com
+cert.acxiom.com
 cert-foo.dev-iad.amobee.com
+certitaudit.acxiom.com
+certitoconnected.acxiom.com
+certspscan.acxiom.com
 cert-test.dev-iad.amobee.com
 cerulean.amplitude.com
 cevent.bidstalk.com
@@ -439,6 +448,8 @@ chpower.links.channelintelligence.com
 chronograf.adwyze.com
 ci.adwyze.com
 cirkoza.qa-iad.amobee.com
+citacx.acxiom.com
+citacxdmz.acxiom.com
 cldfm.adtdp.com
 click.bidstalk.com
 clickers.rtb.adroll.com
@@ -512,6 +523,7 @@ cust.agkn.com
 cvdfm.adtdp.com
 c-vip1.eu.adsymptotic.com
 c-vip2.eu.adsymptotic.com
+cvproxy01.acxiom.com
 cx.ish.atdmt.com
 cx.us-east-1.beta.pl.analytics.console.aws.a2z.com
 dafont.hostedcart.buysellads.com
@@ -526,9 +538,11 @@ data.advertising.com
 data.ayads.co
 data.bidsimulator.com
 data.choice.atdmt.com
+data.cn.cmcore.com
 data-collector.streaming.adswizz.com
 dataroom.apester.com
 data-staging.scoota.co
+datavisualization.acxiom.com
 da-v-eu.amazon-adsystem.com
 da-v-fe.amazon-adsystem.com
 da-v-na.amazon-adsystem.com
@@ -560,6 +574,8 @@ dcastage-rtb.applovin.com
 dca.win.bidstalk.com
 dcblade01.bnmla.com
 dc.geo.bizographics.com
+dcnsterm01.acxiom.com
+dcnsterm02.acxiom.com
 dco.advertising.com
 dc.pxl.ace.advertising.com
 decidedna1.247realmedia.com
@@ -609,6 +625,7 @@ dev-dashboard-rest-api.datadome.co
 dev.discovery.uu.163.com
 dev.districtm.ca
 development.blis.com
+development.knightbridge.acxiom.com
 develop.tech.163.com
 develop.webapp.163.com
 dev.itown.163.com
@@ -628,6 +645,7 @@ dev.webcgi.163.com
 dewalt.links.channelintelligence.com
 diablo.links.channelintelligence.com
 diag.adsafeprotected.com
+dialin.acxiom.com
 dikwass.qa-iad.amobee.com
 discover.dasha.apester.com
 display.dasha.apester.com
@@ -710,6 +728,7 @@ errors.adwyze.com
 esp.bounceexchange.com
 es-test-azure.datadome.co
 etmall.bridgewell.com
+eu.acxiom.com
 eu.b.audiencetag.com
 eu-central-1.gamma.analytics.console.aws.a2z.com
 eu-central-1.prod.analytics.console.aws.a2z.com
@@ -755,6 +774,7 @@ fc1-eu.adsymptotic.com
 fc-lb2-vip0.eu.adsymptotic.com
 files.clinch.co
 fileshare.247realmedia.com
+findmycard.capitalone-test.acxiom.com
 finishline.rdr.channelintelligence.com
 firstfetchflash.club
 flex.atdmt.com
@@ -800,10 +820,12 @@ gannett-sb-ec.adtechus.com
 gapi.adsymptotic.com
 gapi-debug.beeketing.com
 garmin.links.channelintelligence.com
+gatekeeper.acxiom.com
 gateway.geoedge.be
 g.beeketing.com
 gcp-events.apester.com
 gdpr.appsflyer.com
+gemini.acxiom.com
 geniee.hkg.events.bidstalk.com
 geo.atdmt.com
 gerdau.saas.appdynamics.com
@@ -887,7 +909,9 @@ ibp.3lift.com
 ibtimes.hostedcart.buysellads.com
 ibv-adx.dca.bids.bidstalk.com
 id.beeketing.com
+idprod.acxiom.com
 idsync.districtm.ca
+idtest.acxiom.com
 ikee.dev-iad.amobee.com
 ikee.qa-iad.amobee.com
 im.adtechus.com
@@ -947,6 +971,8 @@ ipv6.device-metrics-us.amazon.com
 iqreport.adtechus.com
 i.reamp.com.br
 isrpad01int.avc.acxiom.com
+itaudit.acxiom.com
+itoconnected.acxiom.com
 it-vcenter-01.corp.appdynamics.com
 ivid-f31-de.digitmate.bid
 jagi.buypixelads.com
@@ -1017,6 +1043,7 @@ lifelock.c3metrics.com
 link.apsalar.com
 links.channelintelligence.com
 li.pxl.ace.advertising.com
+listtracker.acxiom.com
 liverail.adtheorent.com
 liverail-bids.bidtheatre.com
 llpstream.atdmt.com
@@ -1039,6 +1066,8 @@ lookup.bluecava.com
 lopima.dev-iad.amobee.com
 lopima.qa-iad.amobee.com
 loreal.links.channelintelligence.com
+lyncwebextcwy.acxiom.com
+lyncwebextlr.acxiom.com
 ma79.163.com
 ma79.game.163.com
 mads.at.atwola.com
@@ -1069,11 +1098,13 @@ mark.skyrocket.adtdp.com
 martony.ittest.33across.com
 matomo.apester.com
 m.awin1.com
+mdbcr24cogp1.acxiom.com
 media.adtechus.com
 media-insights.bluekai.com
 media.pe.apester.com
 medias.analyticson.com
 medyanet.sdk.beemray.com
+meet.acxiom.com
 meeting.abtasty.com
 megatron.bnmla.com
 mei.163.com
@@ -1096,6 +1127,7 @@ mmp.adtz.com
 moat.pxl.ace.advertising.com
 mobile.ace.advertising.com
 mobile.channelintelligence.com
+mobile.cnzz.com
 mobile.smedia.ca
 modelbot.bytegain.com
 model-viewer.bytegain.com
@@ -1116,10 +1148,13 @@ msrv.dev.saastest.appdynamics.com
 msrv.saas.appdynamics.com
 msrv.saastest.appdynamics.com
 mt.pxl.ace.advertising.com
+mvwterm02.acxiom.com
 mweb-longhornsteakhouse.vip.bos.3cinteractive.com
 mweb-olivegarden.vip.bos.3cinteractive.com
 mweb-redlobster.vip.bos.3cinteractive.com
 mweb-thecapitalgrille.vip.bos.3cinteractive.com
+mx1.acxiom.com
+mx2.acxiom.com
 mx.braze.com
 myaccounts.capitolone.com
 my-k8s.dev-iad.amobee.com
@@ -1155,8 +1190,10 @@ ns1.adroll.com
 ns1.amgvgt.com
 ns1.awin.com
 ns1.bridgewell.com
+ns1.dg.ecom.acxiom.com
 ns2.adroll.com
 ns2.awin.com
+ns2.dg.ecom.acxiom.com
 nufuzu.dev-iad.amobee.com
 nvidia.links.channelintelligence.com
 nw-ads.gslb.ace.advertising.com
@@ -1182,6 +1219,7 @@ obi.adportal.advertising.com
 obi.dev.advertising.com
 obi.qat.addesk.advertising.com
 ob.links.channelintelligence.com
+obx.acxiom.com
 ocum.corp.appdynamics.com
 offer.adpiano.com
 og1-iad2.adsymptotic.com
@@ -1230,6 +1268,8 @@ os.apester.com
 otify.bugsnag.com
 overrider.apester.com
 overstock.rdr.channelintelligence.com
+owap1.acxiom.com
+owap2.acxiom.com
 ox-d.advanseads.com
 ox-i.advanseads.com
 ox.pxl.ace.advertising.com
@@ -1244,6 +1284,14 @@ pages.brightfunnel.com
 pages.gitlab.sele.co
 painted2018081600230618.saas.appdynamics.com
 pangeopro.geoedge.be
+panopticxcustomertest.acxiom.com
+panopticxiwscustomertest.acxiom.com
+panopticxrecognitioniws2.acxiom.com
+panopticxrecognitioniws3.acxiom.com
+panopticxrecognitioniws4.acxiom.com
+panopticxrecognitioniwscustomer.acxiom.com
+panopticxrecognitioniwscustomertest2.acxiom.com
+panopticxrecognitioniwscustomertest.acxiom.com
 panorama.awin.com
 p-apac.adsymptotic.com
 p-ap.brsrvr.com
@@ -1281,6 +1329,7 @@ pcca2.manifest.auditude.com
 pcca3.manifest.auditude.com
 pcca4.manifest.auditude.com
 pce2.manifest.auditude.com
+pcidgts1.acxiom.com
 pcor1.manifest.auditude.com
 pcor2.manifest.auditude.com
 pcva1.manifest.auditude.com
@@ -1289,6 +1338,7 @@ pdn.applvn.com
 pdx.amazon-adsystem.com
 peaks201901311747328.saas.appdynamics.com
 perupa.qa-iad.amobee.com
+pflow.acxiom.com
 pf.static.ads-twitter.com
 pg.links.channelintelligence.com
 pg.links.origin.channelintelligence.com
@@ -1351,6 +1401,7 @@ preview.cdn.brightedge.com
 pri-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 pri-adserver-b-origin-ap-southeast-1.prod.adtechjp.com
 pri-adserver-origin-ap-southeast-1.prod.adtechjp.com
+privacynews.acxiom.com
 privateexchange.dca.events.bidstalk.com
 proactiv.rdr.channelintelligence.com
 prod1.autopilothq.com
@@ -1368,6 +1419,7 @@ production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
 product.staging.adwyze.com
 project.datadome.co
 prometheus1.datadome.co
+prophet.acxiom.com
 provider-gateway-production.browsiprod.com
 provider-gateway.production.browsiprod.com
 proxy-ssl.beeviewd.com
@@ -1464,6 +1516,8 @@ pub.pxl.ace.advertising.com
 pulsepoint.dca.events.bidstalk.com
 pv.awin.com
 pv.tacoda.at.atwola.com
+pwreset.acxiom.com
+pwresettest.acxiom.com
 px.at.atwola.com
 pxl.ace.advertising.com
 pxl.adroll.com
@@ -1506,6 +1560,7 @@ recs-ws.atgsvcs.com
 redash.internal.bidstalk.com
 reebok.rdr.channelintelligence.com
 ref.amplitude.com
+reidentrdsprd1.acxiom.com
 releasenotes.autopilothq.com
 render.btserve.com
 renderer.dasha.apester.com
@@ -1550,6 +1605,8 @@ rt.ascend.ai
 rtb-apac.adsymptotic.com
 rtb-lb2-vip0.eu.adsymptotic.com
 rtbwin-506c.applovin.com
+rtp.cert.acxiom.com
+rtpdemo.acxiom.com
 rubac.qa-iad.amobee.com
 rubicon.dca.events.bidstalk.com
 rubicon.hkg.events.bidstalk.com
@@ -1594,6 +1651,10 @@ s-47.algovid.com
 s-48.algovid.com
 s-49.algovid.com
 s4.allinviews.com
+s4load02.citacx.acxiom.com
+s4prod.citacx.acxiom.com
+s4uat02.citacx.acxiom.com
+s4unit02.citacx.acxiom.com
 s-50.algovid.com
 s-51.algovid.com
 s-52.algovid.com
@@ -1626,6 +1687,9 @@ schemas.applovin.com
 scim.internal.adroll.com
 scjohnson.links.channelintelligence.com
 s.cunda.advolution.biz
+sdcert.acxiom.com
+sdcertreport.acxiom.com
+sddev.acxiom.com
 sdk1.beeketing.com
 sdk.activity.bluecava.com
 sdk.bluecava.com
@@ -1811,6 +1875,7 @@ star.intern.atlassbx.com
 star.stage.3cinteractive.com
 start.adpushup.com
 startmeapp.dca.events.bidstalk.com
+stat.cludo.com
 static02.adsafeprotected.com
 static-2.3lift.com
 static.adpushup.com
@@ -1904,6 +1969,7 @@ tilba.qa-iad.amobee.com
 tls.adpiano.com
 tlx-packet.3lift.com
 tmp-heliosiq.adtechus.com
+tm-rtods.prod.corp.acxiom.com
 tomo.qa-iad.amobee.com
 tonton.qa-iad.amobee.com
 tower.adwyze.com
@@ -1955,8 +2021,8 @@ us-east-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.prod.analytics.console.aws.a2z.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
-us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.analytics.console.aws.a2z.com
+us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -2081,6 +2147,7 @@ win.bidstalk.com
 winnotice.skyrocket.adtdp.com
 win.smaato.bidstalk.com
 wolf.163.com
+wpadmin.privacynews.acxiom.com
 wp.apester.com
 wp.bytegain.com
 wp.orbee.co
@@ -2113,6 +2180,7 @@ www.ads-twitter.com
 www.adwords.smedia.ca
 www.agentanalytics.com
 www.agility.cartoonnetwork.com
+www.agility.cnn.com
 www.airvertiseme.com
 www.amazesoft.com
 www.amazin.com
@@ -2130,6 +2198,7 @@ www.api.analyticson.com
 www.api.appboy.com
 www.api.brandmetrics.com
 www.api.brightedge.com
+www.api.clrstm.com
 www.api.feathr.co
 www.api.flyertown.ca
 www.api.inmobi.cn
@@ -2147,6 +2216,7 @@ www.authorisation.analyticson.com
 www.avangate.appsee.com
 www.awesome.bizible.com
 www.banners.analyticson.com
+www.bea4.cnn.com
 www.beacon.airvertiseme.com
 www.bender.appboy.com
 www.bestadbid.com
@@ -2280,6 +2350,7 @@ www.pmo01-tech.amobee.com
 www.polo.feathr.co
 www.polo-v1.feathr.co
 www.ppc.clickconvertsell.com
+www.ppd.clrstm.com
 www.presentation.analyticson.com
 www-preview.bugsnag.com
 www.promo.amplitude.com
@@ -2314,6 +2385,7 @@ www.showcase.blis.com
 www.sidekiq-status2.appboy.com
 www.sidekiq-status.appboy.com
 www.smetrics.aetn.com
+www.smetrics.cnn.com
 www.sondheim.appboy.com
 www.sophos-secure.247realmedia.com
 www.sskzeu.ayads.co
@@ -2331,6 +2403,8 @@ www.superstudio.facebook-ads.adtz.com
 www.supply-tool.inmobi.cn
 www.survey.bannersnack.com
 www.sweeney.appboy.com
+www.tag.clrstm.com
+www.target.clickfunnels.com
 www.t.audiencetag.com
 www.tc.airfrance.com
 www.tech.bannerflow.com
@@ -2358,8 +2432,14 @@ www.wifiquiz.smedia.ca
 www.xadchina.cn
 www.xml.adventurefeeds.com
 www.zentr.cc
+xcaa9065.citacx.acxiom.com
+xcaa9099.citacx.acxiom.com
+xcla9565.citacx.acxiom.com
+xcvn9905.citacx.acxiom.com
 xerox.links.channelintelligence.com
 xg.reddit.co
+xlaa9098.citacx.acxiom.com
+xlla9583.citacx.acxiom.com
 x.play.163.com
 xqn.zhidao.163.com
 xx.atlassbx.com

@@ -258,6 +258,7 @@
 0.0.0.0 autodiscover.channelintelligence.com
 0.0.0.0 autodiscover.chartboost.com
 0.0.0.0 autodiscover.clickconvertsell.com
+0.0.0.0 autodiscover.eu.acxiom.com
 0.0.0.0 _autodiscover._tcp.aggregateknowledge.com
 0.0.0.0 _autodiscover._tcp.agkn.com
 0.0.0.0 av.acxiom.com
@@ -286,6 +287,8 @@
 0.0.0.0 bar.dev-iad.amobee.com
 0.0.0.0 b.audiencetag.com
 0.0.0.0 bbpy3.feathr.co
+0.0.0.0 bbsaml.citacxdmz.acxiom.com
+0.0.0.0 bbsamlprod.citacxdmz.acxiom.com
 0.0.0.0 bcn.reamp.com.br
 0.0.0.0 bc_private.bluecava.com
 0.0.0.0 bdy.admaster.com.cn
@@ -297,6 +300,7 @@
 0.0.0.0 bell-img.acuityplatform.com
 0.0.0.0 bell-serve.acuityplatform.com
 0.0.0.0 bender.appboy.com
+0.0.0.0 benefitbuilder.acxiom.com
 0.0.0.0 bergdorfgoodman.rdr.channelintelligence.com
 0.0.0.0 bestbuyeyeglasses.rdr.channelintelligence.com
 0.0.0.0 bestbuy.rdr.channelintelligence.com
@@ -385,6 +389,7 @@
 0.0.0.0 campaign-api.dasha.apester.com
 0.0.0.0 campaign-api.pe.apester.com
 0.0.0.0 campaign.dasha.apester.com
+0.0.0.0 capitalone.acxiom.com
 0.0.0.0 caprofitx.adtdp.com
 0.0.0.0 caravel.adthrive.com
 0.0.0.0 carefree.links.channelintelligence.com
@@ -419,7 +424,11 @@
 0.0.0.0 cdn-z.amazon-adsystem.com
 0.0.0.0 ceast.adsymptotic.com
 0.0.0.0 cengage.celebrus.com
+0.0.0.0 cert.acxiom.com
 0.0.0.0 cert-foo.dev-iad.amobee.com
+0.0.0.0 certitaudit.acxiom.com
+0.0.0.0 certitoconnected.acxiom.com
+0.0.0.0 certspscan.acxiom.com
 0.0.0.0 cert-test.dev-iad.amobee.com
 0.0.0.0 cerulean.amplitude.com
 0.0.0.0 cevent.bidstalk.com
@@ -439,6 +448,8 @@
 0.0.0.0 chronograf.adwyze.com
 0.0.0.0 ci.adwyze.com
 0.0.0.0 cirkoza.qa-iad.amobee.com
+0.0.0.0 citacx.acxiom.com
+0.0.0.0 citacxdmz.acxiom.com
 0.0.0.0 cldfm.adtdp.com
 0.0.0.0 click.bidstalk.com
 0.0.0.0 clickers.rtb.adroll.com
@@ -512,6 +523,7 @@
 0.0.0.0 cvdfm.adtdp.com
 0.0.0.0 c-vip1.eu.adsymptotic.com
 0.0.0.0 c-vip2.eu.adsymptotic.com
+0.0.0.0 cvproxy01.acxiom.com
 0.0.0.0 cx.ish.atdmt.com
 0.0.0.0 cx.us-east-1.beta.pl.analytics.console.aws.a2z.com
 0.0.0.0 dafont.hostedcart.buysellads.com
@@ -526,9 +538,11 @@
 0.0.0.0 data.ayads.co
 0.0.0.0 data.bidsimulator.com
 0.0.0.0 data.choice.atdmt.com
+0.0.0.0 data.cn.cmcore.com
 0.0.0.0 data-collector.streaming.adswizz.com
 0.0.0.0 dataroom.apester.com
 0.0.0.0 data-staging.scoota.co
+0.0.0.0 datavisualization.acxiom.com
 0.0.0.0 da-v-eu.amazon-adsystem.com
 0.0.0.0 da-v-fe.amazon-adsystem.com
 0.0.0.0 da-v-na.amazon-adsystem.com
@@ -560,6 +574,8 @@
 0.0.0.0 dca.win.bidstalk.com
 0.0.0.0 dcblade01.bnmla.com
 0.0.0.0 dc.geo.bizographics.com
+0.0.0.0 dcnsterm01.acxiom.com
+0.0.0.0 dcnsterm02.acxiom.com
 0.0.0.0 dco.advertising.com
 0.0.0.0 dc.pxl.ace.advertising.com
 0.0.0.0 decidedna1.247realmedia.com
@@ -609,6 +625,7 @@
 0.0.0.0 dev.discovery.uu.163.com
 0.0.0.0 dev.districtm.ca
 0.0.0.0 development.blis.com
+0.0.0.0 development.knightbridge.acxiom.com
 0.0.0.0 develop.tech.163.com
 0.0.0.0 develop.webapp.163.com
 0.0.0.0 dev.itown.163.com
@@ -628,6 +645,7 @@
 0.0.0.0 dewalt.links.channelintelligence.com
 0.0.0.0 diablo.links.channelintelligence.com
 0.0.0.0 diag.adsafeprotected.com
+0.0.0.0 dialin.acxiom.com
 0.0.0.0 dikwass.qa-iad.amobee.com
 0.0.0.0 discover.dasha.apester.com
 0.0.0.0 display.dasha.apester.com
@@ -710,6 +728,7 @@
 0.0.0.0 esp.bounceexchange.com
 0.0.0.0 es-test-azure.datadome.co
 0.0.0.0 etmall.bridgewell.com
+0.0.0.0 eu.acxiom.com
 0.0.0.0 eu.b.audiencetag.com
 0.0.0.0 eu-central-1.gamma.analytics.console.aws.a2z.com
 0.0.0.0 eu-central-1.prod.analytics.console.aws.a2z.com
@@ -755,6 +774,7 @@
 0.0.0.0 fc-lb2-vip0.eu.adsymptotic.com
 0.0.0.0 files.clinch.co
 0.0.0.0 fileshare.247realmedia.com
+0.0.0.0 findmycard.capitalone-test.acxiom.com
 0.0.0.0 finishline.rdr.channelintelligence.com
 0.0.0.0 firstfetchflash.club
 0.0.0.0 flex.atdmt.com
@@ -800,10 +820,12 @@
 0.0.0.0 gapi.adsymptotic.com
 0.0.0.0 gapi-debug.beeketing.com
 0.0.0.0 garmin.links.channelintelligence.com
+0.0.0.0 gatekeeper.acxiom.com
 0.0.0.0 gateway.geoedge.be
 0.0.0.0 g.beeketing.com
 0.0.0.0 gcp-events.apester.com
 0.0.0.0 gdpr.appsflyer.com
+0.0.0.0 gemini.acxiom.com
 0.0.0.0 geniee.hkg.events.bidstalk.com
 0.0.0.0 geo.atdmt.com
 0.0.0.0 gerdau.saas.appdynamics.com
@@ -887,7 +909,9 @@
 0.0.0.0 ibtimes.hostedcart.buysellads.com
 0.0.0.0 ibv-adx.dca.bids.bidstalk.com
 0.0.0.0 id.beeketing.com
+0.0.0.0 idprod.acxiom.com
 0.0.0.0 idsync.districtm.ca
+0.0.0.0 idtest.acxiom.com
 0.0.0.0 ikee.dev-iad.amobee.com
 0.0.0.0 ikee.qa-iad.amobee.com
 0.0.0.0 im.adtechus.com
@@ -947,6 +971,8 @@
 0.0.0.0 iqreport.adtechus.com
 0.0.0.0 i.reamp.com.br
 0.0.0.0 isrpad01int.avc.acxiom.com
+0.0.0.0 itaudit.acxiom.com
+0.0.0.0 itoconnected.acxiom.com
 0.0.0.0 it-vcenter-01.corp.appdynamics.com
 0.0.0.0 ivid-f31-de.digitmate.bid
 0.0.0.0 jagi.buypixelads.com
@@ -1017,6 +1043,7 @@
 0.0.0.0 link.apsalar.com
 0.0.0.0 links.channelintelligence.com
 0.0.0.0 li.pxl.ace.advertising.com
+0.0.0.0 listtracker.acxiom.com
 0.0.0.0 liverail.adtheorent.com
 0.0.0.0 liverail-bids.bidtheatre.com
 0.0.0.0 llpstream.atdmt.com
@@ -1039,6 +1066,8 @@
 0.0.0.0 lopima.dev-iad.amobee.com
 0.0.0.0 lopima.qa-iad.amobee.com
 0.0.0.0 loreal.links.channelintelligence.com
+0.0.0.0 lyncwebextcwy.acxiom.com
+0.0.0.0 lyncwebextlr.acxiom.com
 0.0.0.0 ma79.163.com
 0.0.0.0 ma79.game.163.com
 0.0.0.0 mads.at.atwola.com
@@ -1069,11 +1098,13 @@
 0.0.0.0 martony.ittest.33across.com
 0.0.0.0 matomo.apester.com
 0.0.0.0 m.awin1.com
+0.0.0.0 mdbcr24cogp1.acxiom.com
 0.0.0.0 media.adtechus.com
 0.0.0.0 media-insights.bluekai.com
 0.0.0.0 media.pe.apester.com
 0.0.0.0 medias.analyticson.com
 0.0.0.0 medyanet.sdk.beemray.com
+0.0.0.0 meet.acxiom.com
 0.0.0.0 meeting.abtasty.com
 0.0.0.0 megatron.bnmla.com
 0.0.0.0 mei.163.com
@@ -1096,6 +1127,7 @@
 0.0.0.0 moat.pxl.ace.advertising.com
 0.0.0.0 mobile.ace.advertising.com
 0.0.0.0 mobile.channelintelligence.com
+0.0.0.0 mobile.cnzz.com
 0.0.0.0 mobile.smedia.ca
 0.0.0.0 modelbot.bytegain.com
 0.0.0.0 model-viewer.bytegain.com
@@ -1116,10 +1148,13 @@
 0.0.0.0 msrv.saas.appdynamics.com
 0.0.0.0 msrv.saastest.appdynamics.com
 0.0.0.0 mt.pxl.ace.advertising.com
+0.0.0.0 mvwterm02.acxiom.com
 0.0.0.0 mweb-longhornsteakhouse.vip.bos.3cinteractive.com
 0.0.0.0 mweb-olivegarden.vip.bos.3cinteractive.com
 0.0.0.0 mweb-redlobster.vip.bos.3cinteractive.com
 0.0.0.0 mweb-thecapitalgrille.vip.bos.3cinteractive.com
+0.0.0.0 mx1.acxiom.com
+0.0.0.0 mx2.acxiom.com
 0.0.0.0 mx.braze.com
 0.0.0.0 myaccounts.capitolone.com
 0.0.0.0 my-k8s.dev-iad.amobee.com
@@ -1155,8 +1190,10 @@
 0.0.0.0 ns1.amgvgt.com
 0.0.0.0 ns1.awin.com
 0.0.0.0 ns1.bridgewell.com
+0.0.0.0 ns1.dg.ecom.acxiom.com
 0.0.0.0 ns2.adroll.com
 0.0.0.0 ns2.awin.com
+0.0.0.0 ns2.dg.ecom.acxiom.com
 0.0.0.0 nufuzu.dev-iad.amobee.com
 0.0.0.0 nvidia.links.channelintelligence.com
 0.0.0.0 nw-ads.gslb.ace.advertising.com
@@ -1182,6 +1219,7 @@
 0.0.0.0 obi.dev.advertising.com
 0.0.0.0 obi.qat.addesk.advertising.com
 0.0.0.0 ob.links.channelintelligence.com
+0.0.0.0 obx.acxiom.com
 0.0.0.0 ocum.corp.appdynamics.com
 0.0.0.0 offer.adpiano.com
 0.0.0.0 og1-iad2.adsymptotic.com
@@ -1230,6 +1268,8 @@
 0.0.0.0 otify.bugsnag.com
 0.0.0.0 overrider.apester.com
 0.0.0.0 overstock.rdr.channelintelligence.com
+0.0.0.0 owap1.acxiom.com
+0.0.0.0 owap2.acxiom.com
 0.0.0.0 ox-d.advanseads.com
 0.0.0.0 ox-i.advanseads.com
 0.0.0.0 ox.pxl.ace.advertising.com
@@ -1244,6 +1284,14 @@
 0.0.0.0 pages.gitlab.sele.co
 0.0.0.0 painted2018081600230618.saas.appdynamics.com
 0.0.0.0 pangeopro.geoedge.be
+0.0.0.0 panopticxcustomertest.acxiom.com
+0.0.0.0 panopticxiwscustomertest.acxiom.com
+0.0.0.0 panopticxrecognitioniws2.acxiom.com
+0.0.0.0 panopticxrecognitioniws3.acxiom.com
+0.0.0.0 panopticxrecognitioniws4.acxiom.com
+0.0.0.0 panopticxrecognitioniwscustomer.acxiom.com
+0.0.0.0 panopticxrecognitioniwscustomertest2.acxiom.com
+0.0.0.0 panopticxrecognitioniwscustomertest.acxiom.com
 0.0.0.0 panorama.awin.com
 0.0.0.0 p-apac.adsymptotic.com
 0.0.0.0 p-ap.brsrvr.com
@@ -1281,6 +1329,7 @@
 0.0.0.0 pcca3.manifest.auditude.com
 0.0.0.0 pcca4.manifest.auditude.com
 0.0.0.0 pce2.manifest.auditude.com
+0.0.0.0 pcidgts1.acxiom.com
 0.0.0.0 pcor1.manifest.auditude.com
 0.0.0.0 pcor2.manifest.auditude.com
 0.0.0.0 pcva1.manifest.auditude.com
@@ -1289,6 +1338,7 @@
 0.0.0.0 pdx.amazon-adsystem.com
 0.0.0.0 peaks201901311747328.saas.appdynamics.com
 0.0.0.0 perupa.qa-iad.amobee.com
+0.0.0.0 pflow.acxiom.com
 0.0.0.0 pf.static.ads-twitter.com
 0.0.0.0 pg.links.channelintelligence.com
 0.0.0.0 pg.links.origin.channelintelligence.com
@@ -1351,6 +1401,7 @@
 0.0.0.0 pri-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 0.0.0.0 pri-adserver-b-origin-ap-southeast-1.prod.adtechjp.com
 0.0.0.0 pri-adserver-origin-ap-southeast-1.prod.adtechjp.com
+0.0.0.0 privacynews.acxiom.com
 0.0.0.0 privateexchange.dca.events.bidstalk.com
 0.0.0.0 proactiv.rdr.channelintelligence.com
 0.0.0.0 prod1.autopilothq.com
@@ -1368,8 +1419,9 @@
 0.0.0.0 product.staging.adwyze.com
 0.0.0.0 project.datadome.co
 0.0.0.0 prometheus1.datadome.co
-0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 prophet.acxiom.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 proxy-ssl.beeviewd.com
 0.0.0.0 proxy-ssl.bestcontentonline.com
 0.0.0.0 ps2002.wdc.bluekai.com
@@ -1464,6 +1516,8 @@
 0.0.0.0 pulsepoint.dca.events.bidstalk.com
 0.0.0.0 pv.awin.com
 0.0.0.0 pv.tacoda.at.atwola.com
+0.0.0.0 pwreset.acxiom.com
+0.0.0.0 pwresettest.acxiom.com
 0.0.0.0 px.at.atwola.com
 0.0.0.0 pxl.ace.advertising.com
 0.0.0.0 pxl.adroll.com
@@ -1506,6 +1560,7 @@
 0.0.0.0 redash.internal.bidstalk.com
 0.0.0.0 reebok.rdr.channelintelligence.com
 0.0.0.0 ref.amplitude.com
+0.0.0.0 reidentrdsprd1.acxiom.com
 0.0.0.0 releasenotes.autopilothq.com
 0.0.0.0 render.btserve.com
 0.0.0.0 renderer.dasha.apester.com
@@ -1550,6 +1605,8 @@
 0.0.0.0 rtb-apac.adsymptotic.com
 0.0.0.0 rtb-lb2-vip0.eu.adsymptotic.com
 0.0.0.0 rtbwin-506c.applovin.com
+0.0.0.0 rtp.cert.acxiom.com
+0.0.0.0 rtpdemo.acxiom.com
 0.0.0.0 rubac.qa-iad.amobee.com
 0.0.0.0 rubicon.dca.events.bidstalk.com
 0.0.0.0 rubicon.hkg.events.bidstalk.com
@@ -1594,6 +1651,10 @@
 0.0.0.0 s-48.algovid.com
 0.0.0.0 s-49.algovid.com
 0.0.0.0 s4.allinviews.com
+0.0.0.0 s4load02.citacx.acxiom.com
+0.0.0.0 s4prod.citacx.acxiom.com
+0.0.0.0 s4uat02.citacx.acxiom.com
+0.0.0.0 s4unit02.citacx.acxiom.com
 0.0.0.0 s-50.algovid.com
 0.0.0.0 s-51.algovid.com
 0.0.0.0 s-52.algovid.com
@@ -1626,6 +1687,9 @@
 0.0.0.0 scim.internal.adroll.com
 0.0.0.0 scjohnson.links.channelintelligence.com
 0.0.0.0 s.cunda.advolution.biz
+0.0.0.0 sdcert.acxiom.com
+0.0.0.0 sdcertreport.acxiom.com
+0.0.0.0 sddev.acxiom.com
 0.0.0.0 sdk1.beeketing.com
 0.0.0.0 sdk.activity.bluecava.com
 0.0.0.0 sdk.bluecava.com
@@ -1811,6 +1875,7 @@
 0.0.0.0 star.stage.3cinteractive.com
 0.0.0.0 start.adpushup.com
 0.0.0.0 startmeapp.dca.events.bidstalk.com
+0.0.0.0 stat.cludo.com
 0.0.0.0 static02.adsafeprotected.com
 0.0.0.0 static-2.3lift.com
 0.0.0.0 static.adpushup.com
@@ -1904,6 +1969,7 @@
 0.0.0.0 tls.adpiano.com
 0.0.0.0 tlx-packet.3lift.com
 0.0.0.0 tmp-heliosiq.adtechus.com
+0.0.0.0 tm-rtods.prod.corp.acxiom.com
 0.0.0.0 tomo.qa-iad.amobee.com
 0.0.0.0 tonton.qa-iad.amobee.com
 0.0.0.0 tower.adwyze.com
@@ -2081,6 +2147,7 @@
 0.0.0.0 winnotice.skyrocket.adtdp.com
 0.0.0.0 win.smaato.bidstalk.com
 0.0.0.0 wolf.163.com
+0.0.0.0 wpadmin.privacynews.acxiom.com
 0.0.0.0 wp.apester.com
 0.0.0.0 wp.bytegain.com
 0.0.0.0 wp.orbee.co
@@ -2113,6 +2180,7 @@
 0.0.0.0 www.adwords.smedia.ca
 0.0.0.0 www.agentanalytics.com
 0.0.0.0 www.agility.cartoonnetwork.com
+0.0.0.0 www.agility.cnn.com
 0.0.0.0 www.airvertiseme.com
 0.0.0.0 www.amazesoft.com
 0.0.0.0 www.amazin.com
@@ -2130,6 +2198,7 @@
 0.0.0.0 www.api.appboy.com
 0.0.0.0 www.api.brandmetrics.com
 0.0.0.0 www.api.brightedge.com
+0.0.0.0 www.api.clrstm.com
 0.0.0.0 www.api.feathr.co
 0.0.0.0 www.api.flyertown.ca
 0.0.0.0 www.api.inmobi.cn
@@ -2147,6 +2216,7 @@
 0.0.0.0 www.avangate.appsee.com
 0.0.0.0 www.awesome.bizible.com
 0.0.0.0 www.banners.analyticson.com
+0.0.0.0 www.bea4.cnn.com
 0.0.0.0 www.beacon.airvertiseme.com
 0.0.0.0 www.bender.appboy.com
 0.0.0.0 www.bestadbid.com
@@ -2280,6 +2350,7 @@
 0.0.0.0 www.polo.feathr.co
 0.0.0.0 www.polo-v1.feathr.co
 0.0.0.0 www.ppc.clickconvertsell.com
+0.0.0.0 www.ppd.clrstm.com
 0.0.0.0 www.presentation.analyticson.com
 0.0.0.0 www-preview.bugsnag.com
 0.0.0.0 www.promo.amplitude.com
@@ -2314,6 +2385,7 @@
 0.0.0.0 www.sidekiq-status2.appboy.com
 0.0.0.0 www.sidekiq-status.appboy.com
 0.0.0.0 www.smetrics.aetn.com
+0.0.0.0 www.smetrics.cnn.com
 0.0.0.0 www.sondheim.appboy.com
 0.0.0.0 www.sophos-secure.247realmedia.com
 0.0.0.0 www.sskzeu.ayads.co
@@ -2331,6 +2403,8 @@
 0.0.0.0 www.supply-tool.inmobi.cn
 0.0.0.0 www.survey.bannersnack.com
 0.0.0.0 www.sweeney.appboy.com
+0.0.0.0 www.tag.clrstm.com
+0.0.0.0 www.target.clickfunnels.com
 0.0.0.0 www.t.audiencetag.com
 0.0.0.0 www.tc.airfrance.com
 0.0.0.0 www.tech.bannerflow.com
@@ -2358,8 +2432,14 @@
 0.0.0.0 www.xadchina.cn
 0.0.0.0 www.xml.adventurefeeds.com
 0.0.0.0 www.zentr.cc
+0.0.0.0 xcaa9065.citacx.acxiom.com
+0.0.0.0 xcaa9099.citacx.acxiom.com
+0.0.0.0 xcla9565.citacx.acxiom.com
+0.0.0.0 xcvn9905.citacx.acxiom.com
 0.0.0.0 xerox.links.channelintelligence.com
 0.0.0.0 xg.reddit.co
+0.0.0.0 xlaa9098.citacx.acxiom.com
+0.0.0.0 xlla9583.citacx.acxiom.com
 0.0.0.0 x.play.163.com
 0.0.0.0 xqn.zhidao.163.com
 0.0.0.0 xx.atlassbx.com
