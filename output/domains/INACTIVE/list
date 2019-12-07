@@ -17,6 +17,7 @@ aax-vx-fe-pdx.amazon-adsystem.com
 aax-vx-us-iad.amazon-adsystem.com
 aax-vx-us-pdx.amazon-adsystem.com
 accounts.appboy.com
+account-settings.appsflyer.com
 ace1.advertising.com
 ace.advertising.com
 ace-tag.advertising.com
@@ -59,6 +60,7 @@ ads-west-colo.adsymptotic.com
 adt.aertb.com
 adtech.advertising.com
 adt.pxl.ace.advertising.com
+ad-track.aralego.com
 adx.winners.us-east-1.rtb.adroll.com
 agora.advertising.com
 airtrack.adtdp.com
@@ -89,13 +91,19 @@ api.appdynamics.com
 api-doc.adtechus.com
 api.reports.advertising.com
 apis.adsymptotic.com
+api.shannon.test.appsee.com
 api.webchunker.streaming.adswizz.com
+appgrowth.appsee.com
 apps.adtz.com
+appsdev.appsflyer.com
+apptesting.appsee.com
 asa5510-02.hq.adready.com
 a-sb-ec.adtechus.com
 ashuna.dev-iad.amobee.com
 assets.adtechus.com
+assets.applvn.com
 assoc-msdk-metrics-us.amazon-adsystem.com
+atom.link.apsalar.com
 atwola-sb-ec.adtechus.com
 atwola-sb-wc.adtechus.com
 authorisation.analyticson.com
@@ -111,8 +119,8 @@ aws-adserver-origin-ap-southeast-1.adtechjp.com
 ayafa.dev-iad.amobee.com
 ayafa.qa-iad.amobee.com
 azkaban.adwyze.com
-b-1473-k8s.dev-iad.amobee.com
 b1473-k8s.dev-iad.amobee.com
+b-1473-k8s.dev-iad.amobee.com
 baba.dev-iad.amobee.com
 baba.qa-iad.amobee.com
 backoffice.pe.apester.com
@@ -142,6 +150,7 @@ bis4-ssl.allinviews.com
 bis5.allinviews.com
 bis5-ssl.allinviews.com
 bitemp.allinviews.com
+biz.appsflyer.com
 blue2018111320591611.saas.appdynamics.com
 bok.qa-iad.amobee.com
 brx.pxl.ace.advertising.com
@@ -204,6 +213,8 @@ cmap.uac.ace.advertising.com
 cm.mobile.ace.advertising.com
 cms.advertising.com
 cnf.altitude-arena.com
+cn.support.appsflyer.com
+cohorts.appsflyer.com
 collector.apester.com
 conf.dco.advertising.com
 config.dco.advertising.com
@@ -226,6 +237,7 @@ cust.agkn.com
 cvdfm.adtdp.com
 c-vip1.eu.adsymptotic.com
 c-vip2.eu.adsymptotic.com
+dashboardtest.appsflyer.com
 data.adtechus.com
 data.advertising.com
 data-collector.streaming.adswizz.com
@@ -258,6 +270,7 @@ dev.aniview.com
 dev-j-serval.adtdp.com
 dev.mmp.adtz.com
 dev.msrv.saastest.appdynamics.com
+dev-rec.aralego.com
 dev.redirection.adtz.com
 dev.saastest.appdynamics.com
 dev.unir.facebook-ads.adtz.com
@@ -272,10 +285,13 @@ dns-k8s.dev-iad.amobee.com
 docker-registry.adswizz.com
 docker-registry.amobee.com
 docker-registry.repo.amobee.com
+dod.appsflyer.com
 dooka.dev-iad.amobee.com
 dooka.qa-iad.amobee.com
 dra-eu.amazon-adsystem.com
 dsp.analyticson.com
+dsp.aralego.com
+dsp-dmp.aralego.com
 dt.adsaprotected.com
 dvd.aertb.com
 dw.adsafeprotected.com
@@ -299,6 +315,7 @@ email.advertising.com
 email.circlebackemail.appboy.com
 eng.appdynamics.com
 engine.adpushup.com
+en.support.appsflyer.com
 errors.adwyze.com
 eu.content.cmp.advertising.com
 event.cmp.advertising.com
@@ -306,6 +323,7 @@ events-go.apester.com
 evolution.adwyze.com
 example.airpr.com
 expn.agkn.com
+exportdata.appsflyer.com
 extmap.an.ace.advertising.com
 extmap.rub.ace.advertising.com
 eyeta.dev-iad.amobee.com
@@ -331,6 +349,7 @@ fra-lb6.eu.adsymptotic.com
 fra-lb7.eu.adsymptotic.com
 fra-lb8.eu.adsymptotic.com
 fra-lb9.eu.adsymptotic.com
+fr.support.appsflyer.com
 fsres.advertising.com
 fsuser.advertising.com
 functionx.adtechus.com
@@ -340,6 +359,7 @@ gandhi201802040402157.saas.appdynamics.com
 gannett-sb-ec.adtechus.com
 gapi.adsymptotic.com
 gcp-events.apester.com
+gdpr.appsflyer.com
 gerdau.saas.appdynamics.com
 getcoding.advertising.com
 glbad.adtechjp.com
@@ -364,7 +384,9 @@ gogowa.qa-iad.amobee.com
 gomjam.dev-iad.amobee.com
 goog-gu3b.applovin.com
 goubunto.aniview.com
+grafanaboard.appsflyer.com
 growth.adroll.com
+hq58.appsflyer.com
 html.aggregateknowledge.com
 html.agkn.com
 hunya.dev-iad.amobee.com
@@ -381,10 +403,12 @@ ikee.dev-iad.amobee.com
 ikee.qa-iad.amobee.com
 im.adtechus.com
 images.agkn.com
+img.applvn.com
 img-origin.adtechus.com
 img-origin-us-east-1.prod.adtechus.com
 img-origin-us-west-1.prod.adtechus.com
 imp.bid.ace.advertising.com
+impressions-gc.appsflyer.com
 imp.skyrocket.adtdp.com
 imspro.adtechus.com
 inbound.leadback.advertising.com
@@ -399,6 +423,7 @@ ipv6.device-metrics-us.amazon.com
 iqreport.adtechus.com
 it-vcenter-01.corp.appdynamics.com
 jarvis.adwyze.com
+ja.support.appsflyer.com
 jhhimagesharing.ambra.com
 jp.adlearnop.advertising.com
 jp.advertising.com
@@ -411,6 +436,7 @@ keeza.dev-iad.amobee.com
 keeza.qa-iad.amobee.com
 kiluyak.dev-iad.amobee.com
 kilzci.qa-iad.amobee.com
+ko.support.appsflyer.com
 kubotasystems-trial.saas.appdynamics.com
 l3-assets.applovin.com
 l3-img.applovin.com
@@ -423,10 +449,12 @@ legacy-sb-ec.adtechus.com
 legacy-sb-wc.adtechus.com
 lga2-rtbprod.applovin.com
 lga2stage-rtb.applovin.com
+link.apsalar.com
 li.pxl.ace.advertising.com
 liverail.adtheorent.com
 log.adsafeprotected.com
 logging.adtilt.com
+logs2.appsflyer.com
 logs.t.altitude-arena.com
 lombard2017111917482011.saas.appdynamics.com
 lopima.dev-iad.amobee.com
@@ -545,10 +573,12 @@ partner8.adpiano.com
 partner9.adpiano.com
 partners-1732315393.us-east-1.elb.amazonaws.com
 partners.analyticson.com
+partners.appsflyer.com
 partnerserv.aniview.com
 pas-beta.pinpoint.us-east-1.amazonaws.com
 pas-gamma.pinpoint.us-east-1.amazonaws.com
 pbbl.agkn.com
+pdn.applvn.com
 pdx.amazon-adsystem.com
 peaks201901311747328.saas.appdynamics.com
 perupa.qa-iad.amobee.com
@@ -588,6 +618,8 @@ presentation.analyticson.com
 pri-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 pri-adserver-b-origin-ap-southeast-1.prod.adtechjp.com
 pri-adserver-origin-ap-southeast-1.prod.adtechjp.com
+proda-ju3b.applovin.com
+proda-ju3b.applvn.com
 prod-k8s.prod-dub.atv.amobee.com
 productanalyticsplaybook.amplitude.com
 product.beta.adwyze.com
@@ -616,6 +648,7 @@ r2.ace.advertising.com
 r3.gslb.ace.advertising.com
 rabbit.adwyze.com
 rakuten.adroll.com
+r.appsflyer.com
 ratapa.dev-iad.amobee.com
 rbac00-k8s.dev-iad.amobee.com
 rbac0-k8s.dev-iad.amobee.com
@@ -640,6 +673,7 @@ reports.jp.advertising.com
 reports.sem.advertising.com
 rest.aggregateknowledge.com
 rest.agkn.com
+retention.appsflyer.com
 reve.dev-iad.amobee.com
 reve.qa-iad.amobee.com
 revforecasting.advertising.com
@@ -650,6 +684,7 @@ rmx.pxl.ace.advertising.com
 rollhands.internal.adroll.com
 rtb-apac.adsymptotic.com
 rtb-lb2-vip0.eu.adsymptotic.com
+rtbwin-506c.applovin.com
 rubac.qa-iad.amobee.com
 rub.pxl.ace.advertising.com
 rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
@@ -694,6 +729,7 @@ s-beta.amazon-adsystem.com
 s-beta-opf.amazon-adsystem.com
 sbpixel1.adtechus.com
 sc.aertb.com
+schemas.applovin.com
 scim.internal.adroll.com
 search.advertisingbox.com
 secure.ace1.advertising.com
@@ -743,6 +779,7 @@ slv.adpiano.com
 smaato.mads.advertising.com
 snapchat.adtz.com
 sng-vpn.appdynamics.com
+sn.test.appsee.com
 socket.adpushup.com
 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 sooga.dev-iad.amobee.com
@@ -858,9 +895,11 @@ users.pe.apester.com
 users-temp.apester.com
 us.rmcontent.advertising.com
 us.rmevent.advertising.com
+us-west-ca-ad-track.aralego.com
 utinni.dev-iad.amobee.com
 utinni.qa-iad.amobee.com
 uts.advertising.com
+ux.appsee.com
 v-30.algovid.com
 v-31.algovid.com
 v-32.algovid.com
@@ -884,6 +923,7 @@ vcenter.corp.appdynamics.com
 vcnf.altitude-arena.com
 vd.aertb.com
 vic.allinviews.com
+vid.applvn.com
 video.adpredictive.com
 video.aniview.com
 view.skyrocket.adtdp.com
@@ -891,8 +931,12 @@ vivad.advertising.com
 voicefive-sb-ec.adtechus.com
 voicefive-sb-wc.adtechus.com
 vps.advidi.com
+vz-assets.applovin.com
+vz-img.applovin.com
+vz-vid.applovin.com
 wap.advertising.com
 wass.qa-iad.amobee.com
+web005.apsalar.com
 webdisk.advertisingbox.com
 webdisk.airvertiseme.com
 webdisk.analyse.advertisingbox.com
@@ -916,12 +960,15 @@ www.amazesoft.com
 www.amazin.com
 www.amplify.amplitude.com
 www.ana.analyticson.com
+www.analytics.arinetapi.com
 www.api.adyoulike.com
 www.api.amplitude.com
 www.api.analyticson.com
 www.api.appboy.com
 www.apolicarpio.facebook-ads.adtz.com
+www.aralego.com
 www.authorisation.analyticson.com
+www.avangate.appsee.com
 www.banners.analyticson.com
 www.beacon.airvertiseme.com
 www.bender.appboy.com
@@ -957,6 +1004,8 @@ www.events.amplitude.com
 www.evt.adrcntr.com
 www.gerrit.ops.appdynamics.com
 www.get.amplitude.com
+www.get.appsee.com
+www.get.appsflyer.com
 www.hackers.adpushup.com
 www.homeslice.appboy.com
 www.hooli.adrizer.com
@@ -991,6 +1040,7 @@ www.phone.sf.adroll.com
 www.pixel.adpredictive.com
 www.pixel.adrizer.com
 www.pixel.analyticson.com
+www.pixel.aspirei.com
 www.platform.amobee.com
 www.pmo01-tech.amobee.com
 www.presentation.analyticson.com
@@ -1033,4 +1083,5 @@ www.webinar.airpr.com
 www.wifi.amobee.com
 www.xml.adventurefeeds.com
 yuyu.dev-iad.amobee.com
+z.applvn.com
 zeppelin.nj3.amobee.com

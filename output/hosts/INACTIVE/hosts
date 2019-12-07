@@ -17,6 +17,7 @@
 0.0.0.0 aax-vx-us-iad.amazon-adsystem.com
 0.0.0.0 aax-vx-us-pdx.amazon-adsystem.com
 0.0.0.0 accounts.appboy.com
+0.0.0.0 account-settings.appsflyer.com
 0.0.0.0 ace1.advertising.com
 0.0.0.0 ace.advertising.com
 0.0.0.0 ace-tag.advertising.com
@@ -59,6 +60,7 @@
 0.0.0.0 adt.aertb.com
 0.0.0.0 adtech.advertising.com
 0.0.0.0 adt.pxl.ace.advertising.com
+0.0.0.0 ad-track.aralego.com
 0.0.0.0 adx.winners.us-east-1.rtb.adroll.com
 0.0.0.0 agora.advertising.com
 0.0.0.0 airtrack.adtdp.com
@@ -89,13 +91,19 @@
 0.0.0.0 api-doc.adtechus.com
 0.0.0.0 api.reports.advertising.com
 0.0.0.0 apis.adsymptotic.com
+0.0.0.0 api.shannon.test.appsee.com
 0.0.0.0 api.webchunker.streaming.adswizz.com
+0.0.0.0 appgrowth.appsee.com
 0.0.0.0 apps.adtz.com
+0.0.0.0 appsdev.appsflyer.com
+0.0.0.0 apptesting.appsee.com
 0.0.0.0 asa5510-02.hq.adready.com
 0.0.0.0 a-sb-ec.adtechus.com
 0.0.0.0 ashuna.dev-iad.amobee.com
 0.0.0.0 assets.adtechus.com
+0.0.0.0 assets.applvn.com
 0.0.0.0 assoc-msdk-metrics-us.amazon-adsystem.com
+0.0.0.0 atom.link.apsalar.com
 0.0.0.0 atwola-sb-ec.adtechus.com
 0.0.0.0 atwola-sb-wc.adtechus.com
 0.0.0.0 authorisation.analyticson.com
@@ -142,6 +150,7 @@
 0.0.0.0 bis5.allinviews.com
 0.0.0.0 bis5-ssl.allinviews.com
 0.0.0.0 bitemp.allinviews.com
+0.0.0.0 biz.appsflyer.com
 0.0.0.0 blue2018111320591611.saas.appdynamics.com
 0.0.0.0 bok.qa-iad.amobee.com
 0.0.0.0 brx.pxl.ace.advertising.com
@@ -204,6 +213,8 @@
 0.0.0.0 cm.mobile.ace.advertising.com
 0.0.0.0 cms.advertising.com
 0.0.0.0 cnf.altitude-arena.com
+0.0.0.0 cn.support.appsflyer.com
+0.0.0.0 cohorts.appsflyer.com
 0.0.0.0 collector.apester.com
 0.0.0.0 conf.dco.advertising.com
 0.0.0.0 config.dco.advertising.com
@@ -226,6 +237,7 @@
 0.0.0.0 cvdfm.adtdp.com
 0.0.0.0 c-vip1.eu.adsymptotic.com
 0.0.0.0 c-vip2.eu.adsymptotic.com
+0.0.0.0 dashboardtest.appsflyer.com
 0.0.0.0 data.adtechus.com
 0.0.0.0 data.advertising.com
 0.0.0.0 data-collector.streaming.adswizz.com
@@ -258,6 +270,7 @@
 0.0.0.0 dev-j-serval.adtdp.com
 0.0.0.0 dev.mmp.adtz.com
 0.0.0.0 dev.msrv.saastest.appdynamics.com
+0.0.0.0 dev-rec.aralego.com
 0.0.0.0 dev.redirection.adtz.com
 0.0.0.0 dev.saastest.appdynamics.com
 0.0.0.0 dev.unir.facebook-ads.adtz.com
@@ -272,10 +285,13 @@
 0.0.0.0 docker-registry.adswizz.com
 0.0.0.0 docker-registry.amobee.com
 0.0.0.0 docker-registry.repo.amobee.com
+0.0.0.0 dod.appsflyer.com
 0.0.0.0 dooka.dev-iad.amobee.com
 0.0.0.0 dooka.qa-iad.amobee.com
 0.0.0.0 dra-eu.amazon-adsystem.com
 0.0.0.0 dsp.analyticson.com
+0.0.0.0 dsp.aralego.com
+0.0.0.0 dsp-dmp.aralego.com
 0.0.0.0 dt.adsaprotected.com
 0.0.0.0 dvd.aertb.com
 0.0.0.0 dw.adsafeprotected.com
@@ -299,6 +315,7 @@
 0.0.0.0 email.circlebackemail.appboy.com
 0.0.0.0 eng.appdynamics.com
 0.0.0.0 engine.adpushup.com
+0.0.0.0 en.support.appsflyer.com
 0.0.0.0 errors.adwyze.com
 0.0.0.0 eu.content.cmp.advertising.com
 0.0.0.0 event.cmp.advertising.com
@@ -306,6 +323,7 @@
 0.0.0.0 evolution.adwyze.com
 0.0.0.0 example.airpr.com
 0.0.0.0 expn.agkn.com
+0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 extmap.an.ace.advertising.com
 0.0.0.0 extmap.rub.ace.advertising.com
 0.0.0.0 eyeta.dev-iad.amobee.com
@@ -331,6 +349,7 @@
 0.0.0.0 fra-lb7.eu.adsymptotic.com
 0.0.0.0 fra-lb8.eu.adsymptotic.com
 0.0.0.0 fra-lb9.eu.adsymptotic.com
+0.0.0.0 fr.support.appsflyer.com
 0.0.0.0 fsres.advertising.com
 0.0.0.0 fsuser.advertising.com
 0.0.0.0 functionx.adtechus.com
@@ -340,6 +359,7 @@
 0.0.0.0 gannett-sb-ec.adtechus.com
 0.0.0.0 gapi.adsymptotic.com
 0.0.0.0 gcp-events.apester.com
+0.0.0.0 gdpr.appsflyer.com
 0.0.0.0 gerdau.saas.appdynamics.com
 0.0.0.0 getcoding.advertising.com
 0.0.0.0 glbad.adtechjp.com
@@ -364,7 +384,9 @@
 0.0.0.0 gomjam.dev-iad.amobee.com
 0.0.0.0 goog-gu3b.applovin.com
 0.0.0.0 goubunto.aniview.com
+0.0.0.0 grafanaboard.appsflyer.com
 0.0.0.0 growth.adroll.com
+0.0.0.0 hq58.appsflyer.com
 0.0.0.0 html.aggregateknowledge.com
 0.0.0.0 html.agkn.com
 0.0.0.0 hunya.dev-iad.amobee.com
@@ -381,10 +403,12 @@
 0.0.0.0 ikee.qa-iad.amobee.com
 0.0.0.0 im.adtechus.com
 0.0.0.0 images.agkn.com
+0.0.0.0 img.applvn.com
 0.0.0.0 img-origin.adtechus.com
 0.0.0.0 img-origin-us-east-1.prod.adtechus.com
 0.0.0.0 img-origin-us-west-1.prod.adtechus.com
 0.0.0.0 imp.bid.ace.advertising.com
+0.0.0.0 impressions-gc.appsflyer.com
 0.0.0.0 imp.skyrocket.adtdp.com
 0.0.0.0 imspro.adtechus.com
 0.0.0.0 inbound.leadback.advertising.com
@@ -399,6 +423,7 @@
 0.0.0.0 iqreport.adtechus.com
 0.0.0.0 it-vcenter-01.corp.appdynamics.com
 0.0.0.0 jarvis.adwyze.com
+0.0.0.0 ja.support.appsflyer.com
 0.0.0.0 jhhimagesharing.ambra.com
 0.0.0.0 jp.adlearnop.advertising.com
 0.0.0.0 jp.advertising.com
@@ -411,6 +436,7 @@
 0.0.0.0 keeza.qa-iad.amobee.com
 0.0.0.0 kiluyak.dev-iad.amobee.com
 0.0.0.0 kilzci.qa-iad.amobee.com
+0.0.0.0 ko.support.appsflyer.com
 0.0.0.0 kubotasystems-trial.saas.appdynamics.com
 0.0.0.0 l3-assets.applovin.com
 0.0.0.0 l3-img.applovin.com
@@ -423,10 +449,12 @@
 0.0.0.0 legacy-sb-wc.adtechus.com
 0.0.0.0 lga2-rtbprod.applovin.com
 0.0.0.0 lga2stage-rtb.applovin.com
+0.0.0.0 link.apsalar.com
 0.0.0.0 li.pxl.ace.advertising.com
 0.0.0.0 liverail.adtheorent.com
 0.0.0.0 log.adsafeprotected.com
 0.0.0.0 logging.adtilt.com
+0.0.0.0 logs2.appsflyer.com
 0.0.0.0 logs.t.altitude-arena.com
 0.0.0.0 lombard2017111917482011.saas.appdynamics.com
 0.0.0.0 lopima.dev-iad.amobee.com
@@ -545,10 +573,12 @@
 0.0.0.0 partner9.adpiano.com
 0.0.0.0 partners-1732315393.us-east-1.elb.amazonaws.com
 0.0.0.0 partners.analyticson.com
+0.0.0.0 partners.appsflyer.com
 0.0.0.0 partnerserv.aniview.com
 0.0.0.0 pas-beta.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 pas-gamma.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 pbbl.agkn.com
+0.0.0.0 pdn.applvn.com
 0.0.0.0 pdx.amazon-adsystem.com
 0.0.0.0 peaks201901311747328.saas.appdynamics.com
 0.0.0.0 perupa.qa-iad.amobee.com
@@ -588,6 +618,8 @@
 0.0.0.0 pri-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 0.0.0.0 pri-adserver-b-origin-ap-southeast-1.prod.adtechjp.com
 0.0.0.0 pri-adserver-origin-ap-southeast-1.prod.adtechjp.com
+0.0.0.0 proda-ju3b.applovin.com
+0.0.0.0 proda-ju3b.applvn.com
 0.0.0.0 prod-k8s.prod-dub.atv.amobee.com
 0.0.0.0 productanalyticsplaybook.amplitude.com
 0.0.0.0 product.beta.adwyze.com
@@ -616,6 +648,7 @@
 0.0.0.0 r3.gslb.ace.advertising.com
 0.0.0.0 rabbit.adwyze.com
 0.0.0.0 rakuten.adroll.com
+0.0.0.0 r.appsflyer.com
 0.0.0.0 ratapa.dev-iad.amobee.com
 0.0.0.0 rbac00-k8s.dev-iad.amobee.com
 0.0.0.0 rbac0-k8s.dev-iad.amobee.com
@@ -640,6 +673,7 @@
 0.0.0.0 reports.sem.advertising.com
 0.0.0.0 rest.aggregateknowledge.com
 0.0.0.0 rest.agkn.com
+0.0.0.0 retention.appsflyer.com
 0.0.0.0 reve.dev-iad.amobee.com
 0.0.0.0 reve.qa-iad.amobee.com
 0.0.0.0 revforecasting.advertising.com
@@ -650,6 +684,7 @@
 0.0.0.0 rollhands.internal.adroll.com
 0.0.0.0 rtb-apac.adsymptotic.com
 0.0.0.0 rtb-lb2-vip0.eu.adsymptotic.com
+0.0.0.0 rtbwin-506c.applovin.com
 0.0.0.0 rubac.qa-iad.amobee.com
 0.0.0.0 rub.pxl.ace.advertising.com
 0.0.0.0 rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
@@ -694,6 +729,7 @@
 0.0.0.0 s-beta-opf.amazon-adsystem.com
 0.0.0.0 sbpixel1.adtechus.com
 0.0.0.0 sc.aertb.com
+0.0.0.0 schemas.applovin.com
 0.0.0.0 scim.internal.adroll.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 secure.ace1.advertising.com
@@ -743,6 +779,7 @@
 0.0.0.0 smaato.mads.advertising.com
 0.0.0.0 snapchat.adtz.com
 0.0.0.0 sng-vpn.appdynamics.com
+0.0.0.0 sn.test.appsee.com
 0.0.0.0 socket.adpushup.com
 0.0.0.0 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 0.0.0.0 sooga.dev-iad.amobee.com
@@ -858,9 +895,11 @@
 0.0.0.0 users-temp.apester.com
 0.0.0.0 us.rmcontent.advertising.com
 0.0.0.0 us.rmevent.advertising.com
+0.0.0.0 us-west-ca-ad-track.aralego.com
 0.0.0.0 utinni.dev-iad.amobee.com
 0.0.0.0 utinni.qa-iad.amobee.com
 0.0.0.0 uts.advertising.com
+0.0.0.0 ux.appsee.com
 0.0.0.0 v-30.algovid.com
 0.0.0.0 v-31.algovid.com
 0.0.0.0 v-32.algovid.com
@@ -884,6 +923,7 @@
 0.0.0.0 vcnf.altitude-arena.com
 0.0.0.0 vd.aertb.com
 0.0.0.0 vic.allinviews.com
+0.0.0.0 vid.applvn.com
 0.0.0.0 video.adpredictive.com
 0.0.0.0 video.aniview.com
 0.0.0.0 view.skyrocket.adtdp.com
@@ -891,8 +931,12 @@
 0.0.0.0 voicefive-sb-ec.adtechus.com
 0.0.0.0 voicefive-sb-wc.adtechus.com
 0.0.0.0 vps.advidi.com
+0.0.0.0 vz-assets.applovin.com
+0.0.0.0 vz-img.applovin.com
+0.0.0.0 vz-vid.applovin.com
 0.0.0.0 wap.advertising.com
 0.0.0.0 wass.qa-iad.amobee.com
+0.0.0.0 web005.apsalar.com
 0.0.0.0 webdisk.advertisingbox.com
 0.0.0.0 webdisk.airvertiseme.com
 0.0.0.0 webdisk.analyse.advertisingbox.com
@@ -916,12 +960,15 @@
 0.0.0.0 www.amazin.com
 0.0.0.0 www.amplify.amplitude.com
 0.0.0.0 www.ana.analyticson.com
+0.0.0.0 www.analytics.arinetapi.com
 0.0.0.0 www.api.adyoulike.com
 0.0.0.0 www.api.amplitude.com
 0.0.0.0 www.api.analyticson.com
 0.0.0.0 www.api.appboy.com
 0.0.0.0 www.apolicarpio.facebook-ads.adtz.com
+0.0.0.0 www.aralego.com
 0.0.0.0 www.authorisation.analyticson.com
+0.0.0.0 www.avangate.appsee.com
 0.0.0.0 www.banners.analyticson.com
 0.0.0.0 www.beacon.airvertiseme.com
 0.0.0.0 www.bender.appboy.com
@@ -957,6 +1004,8 @@
 0.0.0.0 www.evt.adrcntr.com
 0.0.0.0 www.gerrit.ops.appdynamics.com
 0.0.0.0 www.get.amplitude.com
+0.0.0.0 www.get.appsee.com
+0.0.0.0 www.get.appsflyer.com
 0.0.0.0 www.hackers.adpushup.com
 0.0.0.0 www.homeslice.appboy.com
 0.0.0.0 www.hooli.adrizer.com
@@ -991,6 +1040,7 @@
 0.0.0.0 www.pixel.adpredictive.com
 0.0.0.0 www.pixel.adrizer.com
 0.0.0.0 www.pixel.analyticson.com
+0.0.0.0 www.pixel.aspirei.com
 0.0.0.0 www.platform.amobee.com
 0.0.0.0 www.pmo01-tech.amobee.com
 0.0.0.0 www.presentation.analyticson.com
@@ -1033,4 +1083,5 @@
 0.0.0.0 www.wifi.amobee.com
 0.0.0.0 www.xml.adventurefeeds.com
 0.0.0.0 yuyu.dev-iad.amobee.com
+0.0.0.0 z.applvn.com
 0.0.0.0 zeppelin.nj3.amobee.com
