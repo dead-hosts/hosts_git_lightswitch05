@@ -31,6 +31,7 @@
 0.0.0.0 api.awin.com
 0.0.0.0 api-selene.prod.adtechus.com
 0.0.0.0 api.staging.bounceexchange.com
+0.0.0.0 app.bugherd.com
 0.0.0.0 apple.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 appnexus-bkapp.bluekai.com
 0.0.0.0 archive.bronto.com
@@ -71,6 +72,7 @@
 0.0.0.0 borg.brainient.com
 0.0.0.0 brws.browserhawk.com
 0.0.0.0 budd-wn4.peak.brightedge.com
+0.0.0.0 c66.bugherd.com
 0.0.0.0 c.amobee.com
 0.0.0.0 canary.brightedge.com
 0.0.0.0 cast-ad-j.adtdp.com
@@ -116,6 +118,7 @@
 0.0.0.0 dev.demo.appdynamics.com
 0.0.0.0 devsite.amobee.com
 0.0.0.0 dialin.awin.com
+0.0.0.0 direct-srv.buysellads.com
 0.0.0.0 discover.bluekai.com
 0.0.0.0 discover-soak.bluekai.com
 0.0.0.0 dmpbeta28.bluekai.com
@@ -160,8 +163,8 @@
 0.0.0.0 genymotion-001.staging-east-1.appboy.com
 0.0.0.0 geo.automatad.com
 0.0.0.0 gerrit.ops.appdynamics.com
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 grafana.k8s.cluster-001.s-use-1.braze.com
 0.0.0.0 grafana.k8s.region-001.s-use-1.braze.com
 0.0.0.0 grafana.k8s.stc-001.s-use-1.braze.com
@@ -181,6 +184,7 @@
 0.0.0.0 ice.aws.amobee.com
 0.0.0.0 id-ns1.amgdgt.com
 0.0.0.0 images.aggregateknowledge.com
+0.0.0.0 images.bucksense.com
 0.0.0.0 incoming.bronto.com
 0.0.0.0 ix-contents.brightedge.com
 0.0.0.0 jenkins2.secure.blismedia.com
@@ -469,6 +473,7 @@
 0.0.0.0 o7.email.bounceexchange.com
 0.0.0.0 og-iad2.adsymptotic.com
 0.0.0.0 og-sc2.adsymptotic.com
+0.0.0.0 on-prem-testing.bugsnag.com
 0.0.0.0 openrtb.brealtime.com
 0.0.0.0 orange.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 os-beta.boldchat.com
@@ -555,6 +560,8 @@
 0.0.0.0 s-66.algovid.com
 0.0.0.0 s-67.algovid.com
 0.0.0.0 s-68.algovid.com
+0.0.0.0 sacfw1.c3metrics.com
+0.0.0.0 sacfw2.c3metrics.com
 0.0.0.0 sand.console.appnexus.com
 0.0.0.0 satelliteflaca02.adtoox.com
 0.0.0.0 satellitefour.adtoox.com
@@ -674,6 +681,7 @@
 0.0.0.0 sourceinventory.bluekai.com
 0.0.0.0 sourceinventory-int.bluekai.com
 0.0.0.0 specs.adrime.com
+0.0.0.0 srv-us-ca-7.buysellads.com
 0.0.0.0 stage.beta.api.adx1.com
 0.0.0.0 staging.adx1.com
 0.0.0.0 staging.banners.advidi.com
@@ -687,6 +695,8 @@
 0.0.0.0 stats.bluekai.com
 0.0.0.0 storage3-j2.brightedge.com
 0.0.0.0 survey.adsqn.com
+0.0.0.0 suwfw1.c3metrics.com
+0.0.0.0 suwfw2.c3metrics.com
 0.0.0.0 synthetic.api.appdynamics.com
 0.0.0.0 t.adsrvs.com
 0.0.0.0 t.adsximg.com
@@ -713,8 +723,8 @@
 0.0.0.0 vc.bnmla.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-prod.amobee.com
+0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -733,6 +743,7 @@
 0.0.0.0 web006.apsalar.com
 0.0.0.0 white.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 wi.adpiano.com
+0.0.0.0 widget.bugherd.com
 0.0.0.0 wifi.internal.adroll.com
 0.0.0.0 win.adpiano.com
 0.0.0.0 wpdev.beemray.com
