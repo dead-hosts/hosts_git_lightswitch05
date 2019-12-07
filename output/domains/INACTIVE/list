@@ -18,6 +18,7 @@ aax-vx-eu-dub.amazon-adsystem.com
 aax-vx-fe-pdx.amazon-adsystem.com
 aax-vx-us-iad.amazon-adsystem.com
 aax-vx-us-pdx.amazon-adsystem.com
+ac.brainient.com
 accounts.appboy.com
 account-settings.appsflyer.com
 accuracy.bluecava.com
@@ -39,6 +40,7 @@ adportal.advertising.com
 ads.aertb.com
 adsaprotected.com
 ads.beeketing.com
+ads.brainient.com
 ads-direct-wc.adaptv.advertising.com
 ads-east-colo.adsymptotic.com
 adserv.adpredictive.com
@@ -80,6 +82,7 @@ agora.advertising.com
 airflow.blis.com
 airflow.testing.blis.com
 airtrack.adtdp.com
+ajutor.brainient.com
 aka-cdn.geo.adtechus.com
 ak-assets.applovin.com
 ak-img.applovin.com
@@ -117,6 +120,7 @@ api.shannon.test.appsee.com
 api.tags.iad.bluekai.com
 api.tags-rc.iad.bluekai.com
 api.webchunker.streaming.adswizz.com
+apns.k8s.region-001.s-euc-1.braze.com
 app3.autopilothq.com
 app.beemray.com
 appgrowth.appsee.com
@@ -139,6 +143,9 @@ ar9.atwola.com
 asa5510-02.hq.adready.com
 a-sb-ec.adtechus.com
 ashuna.dev-iad.amobee.com
+assets1.brightedge.com
+assets2.brightedge.com
+assets3.brightedge.com
 assets.adtechus.com
 assets.applvn.com
 assoc-msdk-metrics-us.amazon-adsystem.com
@@ -171,12 +178,13 @@ axonix.events.bidstalk.com
 ayafa.dev-iad.amobee.com
 ayafa.qa-iad.amobee.com
 azkaban.adwyze.com
-b-1473-k8s.dev-iad.amobee.com
 b1473-k8s.dev-iad.amobee.com
+b-1473-k8s.dev-iad.amobee.com
 baba.dev-iad.amobee.com
 baba.qa-iad.amobee.com
 backoffice.pe.apester.com
 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
+bal.brainient.com
 bannerfarm.ace.advertising.com
 banners.analyticson.com
 bannertest.adtechus.com
@@ -234,6 +242,8 @@ bulkapi06.wdc.bluekai.com
 bulkapi-rc.phx.bluekai.com
 bulk.bluekai.com
 bumblebee.bnmla.com
+bwsedev.local.bridgewell.com
+bwsetest.bridgewell.com
 by.advertising.com
 cache.aertb.com
 campaign-api.dasha.apester.com
@@ -248,7 +258,9 @@ cb.beeketing.com
 cci-winners-ap-northeast-1-rtb.adroll.com
 cdn2.bnmla.com
 cdn.adstatic.com
+cdn-adsync.brainient.com
 cdn.adthrive.com
+cdn-assets.brainient.com
 cdn.bizographics.com
 cdn-c.amazon-adsystem.com
 cdn-cmp-advertising-com.geo.adtechus.com
@@ -257,6 +269,10 @@ cdn.ish.atdmt.com
 cdn.mm.atwola.com
 cdns.auditude.com
 cdn.skyrocket.adtdp.com
+cdn-sys.brainient.com
+cdn-tags.brainient.com
+cdn-thumbs.brainient.com
+cdn-ugc.brainient.com
 cdn-video.amgvgt.com
 cdn-z.amazon-adsystem.com
 ceast.adsymptotic.com
@@ -320,9 +336,11 @@ content.agkn.com
 content.cmp.advertising.com
 cookiesync-mynativeplatform-347915877.us-east-1.elb.amazonaws.com
 core.adtechjp.com
+core-api.coreapi.staging.bounceexchange.com
 cpa.analyticson.com
 crash.amplitude.com
 creative.agkn.com
+creativeassets.highcdn.brainient.com
 creative.bidstalk.com
 creativecentral.advertising.com
 creativepreview.ui.awin.com
@@ -377,6 +395,7 @@ delta.bluecava.com
 demand-service.adtechus.com
 demo1.dev-iad.amobee.com
 demo2.dev-iad.amobee.com
+demo-api.newstags.stag.bounceexchange.com
 demo-jp.adlearnop.advertising.com
 demon2.dev-iad.amobee.com
 demoralize-api.beta.stag.bounceexchange.com
@@ -408,6 +427,7 @@ display.dasha.apester.com
 display.pe.apester.com
 dmp-pixel.aolp-prd.public.aol.com
 dmp-qai-pixel.advertising.com
+dns03.bridgewell.com
 dns-k8s.dev-iad.amobee.com
 dnt.bestcontentonline.com
 do-builder.beeketing.com
@@ -427,6 +447,7 @@ ds.bluecava.com
 dsp.analyticson.com
 dsp.aralego.com
 dsp-dmp.aralego.com
+dsp-imp.bridgewell.com
 dt.adsaprotected.com
 dvd.aertb.com
 dw.adsafeprotected.com
@@ -465,6 +486,7 @@ eqb-ui-soak-01.bluekai.com
 error.bizographics.com
 errors.adwyze.com
 esp.bounceexchange.com
+etmall.bridgewell.com
 eu.b.audiencetag.com
 eu.content.cmp.advertising.com
 event.bidstalk.com
@@ -495,6 +517,8 @@ foobar.dev-iad.amobee.com
 foo.dev-iad.amobee.com
 foo-k8s.dev-iad.amobee.com
 foreign.alcmpn.com
+forth-stag-api.newstags.stag.bounceexchange.com
+forth-stag.newstags.stag.bounceexchange.com
 fp.bluecava.com
 fra-lb10.eu.adsymptotic.com
 fra-lb1.eu.adsymptotic.com
@@ -551,6 +575,9 @@ grafanaboard.appsflyer.com
 growth.adroll.com
 gui-dev.apps.bounceexchange.com
 hahajknew.bnmla.com
+hdflash.brightedge.com
+highcdn.brainient.com
+hilfe.brainient.com
 hkg.bids.bidstalk.com
 hkg.bidstalk.com
 hkg.click.bidstalk.com
@@ -570,6 +597,7 @@ hw-assets.applovin.com
 hw-img.applovin.com
 hw-pdn.applovin.com
 hw-vid.applovin.com
+iad-05.braze.com
 i.apester.com
 i.awin.com
 ibana.dev-iad.amobee.com
@@ -596,8 +624,11 @@ imx.dca.events.bidstalk.com
 imx.hkg.events.bidstalk.com
 inbound.leadback.advertising.com
 infinity.gcp.blis.com
+info.brightfunnel.com
 ingest.advertising.com
 ingest.at.atwola.com
+ingress-test-api.newstags.stag.bounceexchange.com
+ingress-test.newstags.stag.bounceexchange.com
 iniitian.saas.appdynamics.com
 inneractive.dca.events.bidstalk.com
 inneractive.win.bidstalk.com
@@ -623,6 +654,18 @@ juninloo.dev-iad.amobee.com
 k1473-k8s.dev-iad.amobee.com
 k14-k8s.dev-iad.amobee.com
 k300.apester.com
+k8s.cluster-001.p-use-1.braze.com
+k8s.cluster-001.s-use-1.braze.com
+k8s.infra-001.i-use-1.braze.com
+k8s.region-001.p-use-1.braze.com
+k8s.region-001.s-use-1.braze.com
+k8s.stc-001.p-use-1.braze.com
+k8s.stc-001.s-use-1.braze.com
+k8s.stc-002.p-use-1.braze.com
+k8s.test-001.d-usw-2.braze.com
+k8s.test-001.s-usw-2.braze.com
+k8s.test-002.d-usw-2.braze.com
+k8s.test-002.s-usw-2.braze.com
 keeza.dev-iad.amobee.com
 keeza.qa-iad.amobee.com
 kiluyak.dev-iad.amobee.com
@@ -634,6 +677,7 @@ l3-img.applovin.com
 l3-pdn.applovin.com
 l3-vid.applovin.com
 lab3.amobee.com
+labpages.braze.com
 latest.atlassbx.com
 lb.infinity.blismedia.com
 lb.infinity.gcp.blis.com
@@ -648,12 +692,15 @@ li.pxl.ace.advertising.com
 liverail.adtheorent.com
 liverail-bids.bidtheatre.com
 llpstream.atdmt.com
+local.bridgewell.com
 log.adsafeprotected.com
 log.beeketing.com
 logging.adtilt.com
+logging-api.newstags.stag.bounceexchange.com
 logging.ar.atwola.com
 logging.at.atwola.com
 logging.glogging.ar.atwola.com
+logging.newstags.stag.bounceexchange.com
 logs2.appsflyer.com
 logs.t.altitude-arena.com
 lombard2017111917482011.saas.appdynamics.com
@@ -669,6 +716,7 @@ madsuk.at.atwola.com
 m.aggregateknowledge.com
 mail.agkn.com
 mail.airvertiseme.com
+mail.bridgewell.com
 mail.eu.advertising.com
 mail.search.advertisingbox.com
 mambay.dev-iad.amobee.com
@@ -712,6 +760,7 @@ msrv.dev.saastest.appdynamics.com
 msrv.saas.appdynamics.com
 msrv.saastest.appdynamics.com
 mt.pxl.ace.advertising.com
+mx.braze.com
 my-k8s.dev-iad.amobee.com
 naws.awin.com
 ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
@@ -732,6 +781,7 @@ notifications.apester.com
 ns1.adroll.com
 ns1.amgvgt.com
 ns1.awin.com
+ns1.bridgewell.com
 ns2.adroll.com
 ns2.awin.com
 nufuzu.dev-iad.amobee.com
@@ -782,9 +832,11 @@ p-ads34.eu.adsymptotic.com
 p-ads44.eu.adsymptotic.com
 p-ads54.eu.adsymptotic.com
 p-ads74.eu.adsymptotic.com
+pages.brightfunnel.com
 painted2018081600230618.saas.appdynamics.com
 panorama.awin.com
 p-apac.adsymptotic.com
+paramountequity-ix.brightedge.com
 partner10.adpiano.com
 partner11.adpiano.com
 partner12.adpiano.com
@@ -863,6 +915,7 @@ pmo01-tech.amobee.com
 pr-a.adtechus.com
 pr.atwola.com
 presentation.analyticson.com
+preview.cdn.brightedge.com
 pri-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 pri-adserver-b-origin-ap-southeast-1.prod.adtechjp.com
 pri-adserver-origin-ap-southeast-1.prod.adtechjp.com
@@ -1016,6 +1069,7 @@ reporting.adtouchlabs.com
 reports.advertising.com
 reports.jp.advertising.com
 reports.sem.advertising.com
+resources.brightfunnel.com
 rest.aggregateknowledge.com
 rest.agkn.com
 retention.appsflyer.com
@@ -1040,6 +1094,16 @@ rubac.qa-iad.amobee.com
 rubicon.dca.events.bidstalk.com
 rubicon.hkg.events.bidstalk.com
 rub.pxl.ace.advertising.com
+rudys-test-api.beta.stag.bounceexchange.com
+rudys-test.beta.stag.bounceexchange.com
+rudytest4-api.beta.stag.bounceexchange.com
+rudytest4.beta.stag.bounceexchange.com
+rudytest5-api.beta.stag.bounceexchange.com
+rudytest5.beta.stag.bounceexchange.com
+rudytest7-api.beta.stag.bounceexchange.com
+rudytest7.beta.stag.bounceexchange.com
+rudytest8-api.beta.stag.bounceexchange.com
+rudytest8.beta.stag.bounceexchange.com
 rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
 s10.allinviews.com
 s1.allinviews.com
@@ -1085,6 +1149,8 @@ s-beta-opf.amazon-adsystem.com
 sbpixel1.adtechus.com
 sc.aertb.com
 scaleout.hkg.events.bidstalk.com
+scam-api.beta.stag.bounceexchange.com
+scam.beta.stag.bounceexchange.com
 scd.ingest.at.atwola.com
 scdn.mm.atwola.com
 schemas.applovin.com
@@ -1103,6 +1169,8 @@ sdk.sync.graph.bluecava.com
 sdk.tools.bluecava.com
 search.advertisingbox.com
 search.at.atwola.com
+second-stag-api.newstags.stag.bounceexchange.com
+second-stag.newstags.stag.bounceexchange.com
 secure.ace1.advertising.com
 secure.ace.advertising.com
 secure.ace-lb.advertising.com
@@ -1135,6 +1203,7 @@ secure.sr.mads.advertising.com
 secure.uac.advertising.com
 secure.widget.dynamic.advertising.com
 sem.advertising.com
+senao.bridgewell.com
 sentry.adwyze.com
 sentry.beeketing.com
 sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
@@ -1142,6 +1211,7 @@ serval.adtdp.com
 servedby1.advertising.com
 servedby.advertising.com
 services.cmp.advertising.com
+services.iad.braze.com
 sgsdata.adtechus.com
 sg-stb.blis.com
 shanay.dev-iad.amobee.com
@@ -1206,6 +1276,7 @@ ssp.advertising.com
 ssp.analyticson.com
 s.static.ads-twitter.com
 st.aertb.com
+stag2.bounceexchange.com
 stag-admin.adyoulike.com
 stage0.autopilothq.com
 stage1.autopilothq.com
@@ -1234,15 +1305,26 @@ stg.auditude.com
 stg-j-serval.adtdp.com
 st.n.ads1-adnow.com
 strm.atdmt.com
+svr1.bridgewell.com
 sync.skyrocket.adtdp.com
 tacoda.at.atwola.com
+tag-api.beta.stag.bounceexchange.com
+tag.beta.stag.bounceexchange.com
+tag-routing-api.beta.stag.bounceexchange.com
+tag-routing.beta.stag.bounceexchange.com
 tags0.dal.bluekai.com
 tags-akamai-test.bluekai.com
+tag.scam.beta.stag.bounceexchange.com
 tags.dal.bluekai.com
 tags.iad.bluekai.com
 tags-rc.iad.bluekai.com
 tags.snv.bluekai.com
 tags.wdc.bluekai.com
+tag.tag.beta.stag.bounceexchange.com
+tag.tag-routing.beta.stag.bounceexchange.com
+tag.tag-test.beta.stag.bounceexchange.com
+tag-test-api.beta.stag.bounceexchange.com
+tag-test.beta.stag.bounceexchange.com
 t.ambra.com
 tando.dev-iad.amobee.com
 tando.qa-iad.amobee.com
@@ -1277,6 +1359,8 @@ testtr.blismedia.com
 testtt.allinviews.com
 test-ui.awin.com
 theek.dev-iad.amobee.com
+third-stag-api.newstags.stag.bounceexchange.com
+third-stag.newstags.stag.bounceexchange.com
 ticket.agkn.com
 tilba.qa-iad.amobee.com
 tls.adpiano.com
@@ -1377,6 +1461,7 @@ webdisk.advertisingbox.com
 webdisk.airvertiseme.com
 webdisk.analyse.advertisingbox.com
 webdisk.analyticson.com
+web.stag2.bounceexchange.com
 web.staging.bidstalk.com
 widget.dynamic.advertising.com
 wifi.amobee.com
@@ -1408,6 +1493,8 @@ www.api.adyoulike.com
 www.api.amplitude.com
 www.api.analyticson.com
 www.api.appboy.com
+www.api.brandmetrics.com
+www.api.brightedge.com
 www.apolicarpio.facebook-ads.adtz.com
 www.app.bannerflow.com
 www.app.beeketing.com
@@ -1428,9 +1515,12 @@ www.cdn.adrta.com
 www.cdn.airfind.com
 www.cdn.bannersnack.com
 www.cdn.bizible.com
+www.cdn.bronto.com
 www.ci.appboy.com
 www.clientsmedia2.adrime.com
+www.cn.bridgewell.com
 www.cntr.adrcntr.com
+www.collector.brandmetrics.com
 www.confluence-tech.amobee.com
 www.connect2.adxpose.com
 www.connect.adxpose.com
@@ -1474,6 +1564,7 @@ www.js.adrta.com
 www.js.appboycdn.com
 www.jss.adroll.com
 www.jss.aweber.com
+www.lab.braze.com
 www.landing.analyticson.com
 www.l.betrad.com
 www.ldap01.adroll.com
@@ -1489,6 +1580,7 @@ www.match.adsby.bidtheatre.com
 www.m.audiencetag.com
 www.media.analyticson.com
 www.medias.analyticson.com
+www.metrics.brightcove.com
 www.mmmvar.amobee.com
 www.mmo2de.amobee.com
 www.mmvivo.amobee.com
@@ -1498,6 +1590,7 @@ www.office.analyticson.com
 www-origin.appdynamics.com
 www.owa1.amobee.com
 www.pa3.b.audiencetag.com
+www.partnerlab.braze.com
 www.partners.analyticson.com
 www.phone.sf.adroll.com
 www.pixel.adpredictive.com
@@ -1536,6 +1629,7 @@ www.sslcdn.adstudiomobile.com
 www.ssp.analyticson.com
 www.stag-admin.adyoulike.com
 www-stage.agkn.com
+www-staging.bounceexchange.com
 www.staging-sidekiq-status.appboy.com
 www.start.adpushup.com
 www.static.audiensis.com
