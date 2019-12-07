@@ -17,6 +17,8 @@ t.update.ib.adnxs.com
 3qdigital.adlegend.com
 3zly2uywmndncwuddnaonbxdti8tq3yqb3wfpz2p.datadome.co
 468419148293.us-east-1.test.analytics.console.aws.a2z.com
+812820-web1.dianomi.com
+812825-dev1.dianomi.com
 921050094188.us-east-1.test.analytics.console.aws.a2z.com
 94d45.admaster.com.cn
 a2.beeg.com
@@ -63,6 +65,7 @@ a.dlx.addthis.com
 admarvel.mads.advertising.com
 admin-cdn.conductrics.com
 admin-cms.awin.com
+adops.demandbase.com
 adportal.advertising.com
 adrcn.ma.163.com
 ads.adasiaholdings.com
@@ -134,6 +137,7 @@ aff.creativecdn.com
 afx.creativecdn.com
 agora.advertising.com
 ahs.sp1.convertro.com
+ai-personalization-prod-api.demandbase.com
 airflow.blis.com
 airflow.testing.blis.com
 airtrack.adtdp.com
@@ -208,6 +212,7 @@ api9483.d41.co
 api9634.d41.co
 api9873.d41.co
 api.adlearnop.advertising.com
+api-admin.demandbase.com
 api-ads44.eu.adsymptotic.com
 api-ads54.eu.adsymptotic.com
 api.adwyze.com
@@ -217,8 +222,10 @@ api.bidstalk.com
 api.bizographics.com
 api.bytegain.com
 api.connatix.com
+api-dev.demandbase.com
 api.dna.247realmedia.com
 api-doc.adtechus.com
+api-external-test.demandbase.com
 api.feathr.co
 api.productdata.awin.com
 api-public-fast.addthis.com
@@ -227,6 +234,7 @@ api.reports.advertising.com
 apis.adsymptotic.com
 api.shannon.test.appsee.com
 api.silverpush.co
+api-ssl.demandbase.com
 api.staging.connatix.com
 api.t.163.com
 api.tags.iad.bluekai.com
@@ -252,6 +260,7 @@ applovin.dca.events.bidstalk.com
 applovin.hkg.events.bidstalk.com
 appodeal.dca.events.bidstalk.com
 app.pangeo.geoedge.be
+app.response.demandbase.com
 apps.adtz.com
 appsdev.appsflyer.com
 app.silverpush.co
@@ -303,6 +312,7 @@ audiences-qa-ophxa.bluekai.com
 audiences-soak.bluekai.com
 audiences-test-ophxa.bluekai.com
 audiences-test-phx-b.bluekai.com
+auth.demandbase.com
 auth.meeting.abtasty.com
 authorisation.analyticson.com
 authorization.affiliates.advidi.com
@@ -330,8 +340,8 @@ axonix.events.bidstalk.com
 ayafa.dev-iad.amobee.com
 ayafa.qa-iad.amobee.com
 azkaban.adwyze.com
-b-1473-k8s.dev-iad.amobee.com
 b1473-k8s.dev-iad.amobee.com
+b-1473-k8s.dev-iad.amobee.com
 baba.dev-iad.amobee.com
 baba.qa-iad.amobee.com
 babyboomerpeoplemeet.adlegend.com
@@ -549,7 +559,10 @@ cdn-ugc.brainient.com
 cdn-video.amgvgt.com
 cdn-z.amazon-adsystem.com
 ceast.adsymptotic.com
+celtra-service.dbidatatech.com
 cengage.celebrus.com
+centraltag-admin.dbidatatech.com
+centraltag-service.dbidatatech.com
 cert.acxiom.com
 cert-foo.dev-iad.amobee.com
 certitaudit.acxiom.com
@@ -579,6 +592,9 @@ ci.adwyze.com
 cirkoza.qa-iad.amobee.com
 citacx.acxiom.com
 citacxdmz.acxiom.com
+cjadsystems.dotomi.com
+cjpersonalizer-dev.dotomi.com
+cjpersonalizer.dotomi.com
 ck.ny.us.criteo.com
 ck.sv.us.criteo.com
 cldfm.adtdp.com
@@ -628,6 +644,7 @@ conference.meeting.abtasty.com
 config.dco.advertising.com
 connect2.adxpose.com
 connect-dashboard.m.beeketing.com
+connect.decibelinsight.com
 consequence-tagan.adlightning.com
 content.adroll.com
 content.agkn.com
@@ -688,6 +705,8 @@ dafont.hostedcart.buysellads.com
 dailyburn.adlegend.com
 dap.criteo.com
 dashb.dca.bidstalk.com
+dashboard-api.demandbase.com
+dashboard-api.production.virginia.demandbase.com
 dashboard-staging.bytegain.com
 dashboardtest.appsflyer.com
 data3.bluekai.com
@@ -756,6 +775,7 @@ delivery.analyticson.com
 delivery.uat.247realmedia.com
 delta.bluecava.com
 delta.links.channelintelligence.com
+demandbase.demandbase.com
 demand-service.adtechus.com
 demo1.dev-iad.amobee.com
 demo2.dev-iad.amobee.com
@@ -782,6 +802,7 @@ dev3.cbg.163.com
 dev4.cbg.163.com
 dev.adasiaholdings.com
 dev.adlightning.com
+dev.admin.dianomi.com
 dev.adpushup.com
 dev-adservices.cmp.advertising.com
 dev.adsymptotic.com
@@ -792,6 +813,7 @@ dev.atlassbx.com
 dev-backoffice.datadome.co
 dev.cbg.163.com
 dev.chartbeat.com
+dev.cjadsystems.dotomi.com
 dev.coadvertise.com
 dev.darkroomstaticwebsitedev.analytics.console.aws.a2z.com
 dev-dashboard.datadome.co
@@ -802,12 +824,14 @@ development.blis.com
 development.knightbridge.acxiom.com
 develop.tech.163.com
 develop.webapp.163.com
+dev.exedra.dianomi.com
 dev.itown.163.com
 dev-j-serval.adtdp.com
 dev-k8s.beeketing.com
 dev-kraken03.wdc.bluekai.com
 dev.mmp.adtz.com
 dev.msrv.saastest.appdynamics.com
+dev.my.dianomi.com
 devopspro.adform.com
 dev-playground.scoota.co
 dev-rec.aralego.com
@@ -832,6 +856,7 @@ dl.adadyn.com
 dlx.addthis.com
 dmp-pixel.aolp-prd.public.aol.com
 dmp-qai-pixel.advertising.com
+dmv.dmpxs.com
 dns02.casalemedia.com
 dns03.bridgewell.com
 dns-k8s.dev-iad.amobee.com
@@ -961,6 +986,7 @@ events-go.apester.com
 event-viewer.bytegain.com
 evesleepeu.sp1.convertro.com
 evolution.adwyze.com
+ewidget.dmpxs.com
 example.airpr.com
 exchange2.channelintelligence.com
 expn.agkn.com
@@ -1048,6 +1074,7 @@ gateway.geoedge.be
 gbc.criteo.com
 g.beeketing.com
 gcp-events.apester.com
+g.defold.com
 g.dlx.addthis.com
 gdpr.appsflyer.com
 gem.criteo.com
@@ -1110,6 +1137,7 @@ hartz.links.channelintelligence.com
 hd.dao.163.com
 hdflash.brightedge.com
 h.dlx.addthis.com
+health.dmpxs.com
 helixuat.inmobi.cn
 hertz.adlegend.com
 highcdn.brainient.com
@@ -1252,6 +1280,7 @@ jackspade.adlegend.com
 jagi.buypixelads.com
 jane.sp1.convertro.com
 jarvis.adwyze.com
+jasper.demandbase.com
 ja.support.appsflyer.com
 jenkins1.lab5.adconion.com
 jhhimagesharing.ambra.com
@@ -1299,6 +1328,7 @@ kmart.rdr.channelintelligence.com
 kohls.rdr.channelintelligence.com
 ko.support.appsflyer.com
 kotulas.rdr.channelintelligence.com
+kuber.dsp-bidder-dev.demandbase.com
 kubotasystems-trial.saas.appdynamics.com
 l3-assets.applovin.com
 l3-img.applovin.com
@@ -1327,11 +1357,13 @@ latinopeoplemeet.adlegend.com
 laxwww.addthis.com
 lb.infinity.blismedia.com
 lb.infinity.gcp.blis.com
+lb.leads.demandbase.com
 lct-fast.addthis.com
 ld1.criteo.com
 ld2.criteo.com
 ldsplanet.adlegend.com
 leadback.advertising.com
+leads.demandbase.com
 legacy.adyoulike.com
 legacy-sb-ec.adtechus.com
 legacy-sb-wc.adtechus.com
@@ -1368,10 +1400,15 @@ llbean.sp1.convertro.com
 llpstream.atdmt.com
 load.adlegend.com
 local.bridgewell.com
+local.deviceatlas.com
 log.adsafeprotected.com
 log.beeketing.com
 log.c.163.com
 log.chartbeat.com
+logger-07.vty.dailymotion.com
+logger-08.vty.dailymotion.com
+logger-09.vty.dailymotion.com
+logger-10.vty.dailymotion.com
 logger.test.snackly.co
 logging.adtilt.com
 logging-api.newstags.stag.bounceexchange.com
@@ -1381,10 +1418,12 @@ logging.glogging.ar.atwola.com
 logging.newstags.stag.bounceexchange.com
 logitech.sp1.convertro.com
 logmeinrescue.sp1.convertro.com
+logo.demandbase.com
 logs2.appsflyer.com
 logs.connatix.com
 logs.t.altitude-arena.com
 lombard2017111917482011.saas.appdynamics.com
+lookbookhq.demandbase.com
 lookup.bluecava.com
 lopima.dev-iad.amobee.com
 lopima.qa-iad.amobee.com
@@ -1426,6 +1465,7 @@ manifest.da2.auditude.com
 manifest.or1.auditude.com
 manifest.pcw1.auditude.com
 manual.dsp.analyticson.com
+marketing.demandbase.com
 marketplace.analyticson.com
 marksandspencer.sp1.convertro.com
 mark.skyrocket.adtdp.com
@@ -1492,6 +1532,7 @@ mmo2de.amobee.com
 mmp.adtz.com
 moat.pxl.ace.advertising.com
 mob.adcash.com
+mobext-audiences.dbidatatech.com
 mobile.ace.advertising.com
 mobile.channelintelligence.com
 mobile.cnzz.com
@@ -1519,6 +1560,7 @@ mpb-winners-us-east-1-rtb.adroll.com
 mps-ws.adtechus.com
 m.qe1.conviva.com
 m.reddit.co
+msg.i.dotomi.com
 msrv.dev.saastest.appdynamics.com
 msrv.saas.appdynamics.com
 msrv.saastest.appdynamics.com
@@ -1534,6 +1576,7 @@ mx1.acxiom.com
 mx2.acxiom.com
 mx.braze.com
 myaccounts.capitolone.com
+my.decibelinsight.com
 myflaviaus.adlegend.com
 my-k8s.dev-iad.amobee.com
 mymotiv.sp1.convertro.com
@@ -1603,6 +1646,7 @@ ns4.corp.adconion.com
 ns4.ldap.adconion.com
 ns5.criteo.com
 ns.lab2.adconion.com
+nt1.dc-storm.com
 nt.criteo.com
 nt.jp.as.criteo.com
 nt.ny.us.criteo.com
@@ -1613,6 +1657,7 @@ nvidia.links.channelintelligence.com
 nw-ads.gslb.ace.advertising.com
 nyeta.dev-iad.amobee.com
 nyeta.qa-iad.amobee.com
+nyst1.dc-storm.com
 ny.us.criteo.com
 o1.default.beeketing.com
 o1.sendgrid.convertcart.com
@@ -1786,6 +1831,7 @@ philips.links.channelintelligence.com
 ph-mail01.channelintelligence.com
 photos-bazaar-use1.nexus.bazaarvoice.com
 pictela-sb-ec.adtechus.com
+pi.dc-storm.com
 pix.dco.advertising.com
 pixel.adssafeprotected.com
 pixel.buypixelads.com
@@ -1868,6 +1914,7 @@ productanalyticsplaybook.amplitude.com
 product.beta.adwyze.com
 production-adserver-666328397.us-east-1.elb.amazonaws.com
 production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
+production.cjadsystems.dotomi.com
 product.staging.adwyze.com
 project.datadome.co
 pr-old.adform.com
@@ -2032,6 +2079,7 @@ recommend-events.apester.com
 recorder.meeting.abtasty.com
 recs-ws.atgsvcs.com
 redash.internal.bidstalk.com
+red.dmpxs.com
 redirect.adkmob.com
 reebok.rdr.channelintelligence.com
 ref.amplitude.com
@@ -2381,6 +2429,7 @@ stage.config.dco.advertising.com
 stage.convertro.com
 stage.guce.convertro.com
 stage-secure.leadback.advertising.com
+stage-www.demandbase.com
 staging.3lift.com
 staging.adwyze.com
 staging.aniview.com
@@ -2388,6 +2437,7 @@ staging-api.bytegain.com
 staging.bc0a.com
 staging.beeketing.com
 staging.bytegain.com
+staging.demandbase.com
 staging.geoedge.be
 staging-gw13.conviva.com
 staging.msrv.saastest.appdynamics.com
@@ -2446,6 +2496,7 @@ sync.company-target.com
 sync.skyrocket.adtdp.com
 taas.ctrix.com
 tacoda.at.atwola.com
+tag-admin.demandbase.com
 tag.ams.contextweb.com
 tag-api.beta.stag.bounceexchange.com
 tag.beta.stag.bounceexchange.com
@@ -2483,6 +2534,7 @@ t.beeketing.com
 tcpcaptions.rt.cquotient.com
 tcp.rt.cquotient.com
 teamcity.adform.com
+team-tools.deviceatlas.com
 techblog.adform.com
 techsource.247realmedia.com
 teleflora.sp1.convertro.com
@@ -2569,6 +2621,7 @@ ttwbs.channelintelligence.com
 t.update.criteo.com
 turbotax.adlegend.com
 twitter-srv.buysellads.com
+uat-centraltag-service.dbidatatech.com
 ufs.adkmob.com
 ugama.dev-iad.amobee.com
 ugama.qa-iad.amobee.com
@@ -2782,6 +2835,7 @@ ww3093.adsbysmart.cn
 ww3.convertcart.com
 ww92.adsbysmart.cn
 www2.bidtheatre.com
+www.abm-certification.demandbase.com
 www.acashatusa.com
 www.accounts.appboy.com
 www.a.company-target.com
@@ -2794,6 +2848,7 @@ www.adbull.com
 www.adc3-assets.adcolony.com
 www.adc3-assets-enc-cdn.adcolony.com
 www.addesk.advertising.com
+www.a.deadlinefunnel.com
 www.adentifi.com
 www.adexchange.analyticson.com
 www.adnetwork.adasiaholdings.com
@@ -2827,6 +2882,7 @@ www.api.brandmetrics.com
 www.api.brightedge.com
 www.api.clrstm.com
 www.api.curalate.com
+www.api.db-ip.com
 www.api.feathr.co
 www.api.flyertown.ca
 www.api.inmobi.cn
@@ -2842,16 +2898,23 @@ www.a.rockabox.co
 www.assets.pcrl.co
 www.audiencetag.com
 www.auth.conviva.com
+www.authentication.demandbase.com
+www.authentication-dev.demandbase.com
+www.authentication-staging.demandbase.com
 www.authorisation.analyticson.com
 www.avangate.appsee.com
 www.awesome.bizible.com
+www.awsrodc.demandbase.com
 www.banners.analyticson.com
+www.b.deadlinefunnel.com
 www.bea4.cnn.com
 www.beacon.airvertiseme.com
 www.bender.appboy.com
 www.bestadbid.com
+www.bi.demandbase.com
 www.bidstalk.com
 www.billboard.amobee.com
+www.block-test.developerdan.com
 www.bp.adkmob.com
 www.bulkapi-rc.phx.bluekai.com
 www.buypixelads.com
@@ -2870,11 +2933,13 @@ www.cdn.connatix.com
 www.cdns.brsrvr.com
 www.ci.appboy.com
 www.clarity.inmobi.cn
+www.client.dotomi.com
 www.clientsmedia2.adrime.com
 www.cms-xch-chicago.33across.com
 www.cn.bridgewell.com
 www.cntr.adrcntr.com
 www.coadvertise.com
+www.code.deadlinefunnel.com
 www.collector.brandmetrics.com
 www.config.inmobi.cn
 www.confluence-tech.amobee.com
@@ -2890,9 +2955,13 @@ www.d.agkn.com
 www.data.ad-score.com
 www.data.bidsimulator.com
 www.dc.mobile.abtasty.com
+www.de17a.com
+www.de17aserver.com
 www.de.adcolony.com
 www.de.adjug.com
 www.delivery.analyticson.com
+www.deloplen.com
+www.demandbase.demandbase.com
 www.design.advidi.com
 www.dev.2open.facebook-ads.adtz.com
 www.dev.3dids.facebook-ads.adtz.com
@@ -2906,6 +2975,7 @@ www.dev.appboy.com
 www.dev.smedia.ca
 www.dev.trail.facebook-ads.adtz.com
 www.dev.trial-italia.facebook-ads.adtz.com
+www.discover.deviceatlas.com
 www.divvycloud.cbsi.com
 www.dsp.analyticson.com
 www.dynamic.adcrowd.com
@@ -2915,6 +2985,7 @@ www.edge.facebook-ads.adtz.com
 www.events.advidi.com
 www.events.amplitude.com
 www.evt.adrcntr.com
+www.extranet.dotomi.com
 www.facebook.channelintelligence.com
 www.firstfetchflash.club
 www.fwcs01.casalemedia.com
@@ -2953,6 +3024,7 @@ www.labs.criteo.com
 www.landing.analyticson.com
 www.l.betrad.com
 www.ldap01.adroll.com
+www.leads.demandbase.com
 www.livepass.conviva.com
 www.livepassdl.conviva.com
 www.livepassdl.secure.conviva.com
@@ -2964,6 +3036,7 @@ www.looker.amobee.com
 www.lookup.bluecava.com
 www.mail.adswizz.com
 www.mail.adverline.com
+www.mail.demandbase.com
 www.mail.ny.contextweb.com
 www.manual.dsp.analyticson.com
 www.marketing.criteo.com
@@ -2987,6 +3060,7 @@ www.meta1.adlegend.com
 www.meta2.adlegend.com
 www.metrics.aeon.co
 www.metrics.brightcove.com
+www.metrics.daveandbusters.com
 www.mmm.ctrix.com
 www.mmmvar.amobee.com
 www.mmo2de.amobee.com
@@ -3028,6 +3102,7 @@ www.pulsedm-ap.amobee.com
 www.p.zentr.cc
 www.recs-ws.atgsvcs.com
 www.reddit.co
+www.red.dmpxs.com
 www.reports.amobee.com
 www.res2.scsstatic.ch
 www.rm.analyticson.com
@@ -3068,14 +3143,17 @@ www.sstats.cartoonnetwork.com
 www.stag-admin.adyoulike.com
 www-stage.agkn.com
 www.stage.convertro.com
+www-stage.demandbase.com
 www-staging.bounceexchange.com
 www.staging-sidekiq-status.appboy.com
 www.start.adpushup.com
 www.static.addtoany.com
 www.static.audiensis.com
 www.stats.bannersnack.com
+www.sting.de17aserver.com
 www.superstudio.facebook-ads.adtz.com
 www.supply-tool.inmobi.cn
+www.support-beta.demandbase.com
 www.survey.bannersnack.com
 www.sweeney.appboy.com
 www.tag.clrstm.com
@@ -3090,8 +3168,10 @@ www.test-auth.conviva.com
 www.testbanners.analyticson.com
 www.tm.smedia.ca
 www.tracker.bnmla.com
+www.tracking.deadlinefunnel.com
 www.tracking.keywee.co
 www.traffic.adventurefeeds.com
+www.training.demandbase.com
 www.trk.clinch.co
 www.tr.silverpush.co
 www.trunkstable.atlassbx.com
@@ -3104,13 +3184,17 @@ www.v.adsrvs.com
 www.vastproxy.brand.inmobi.cn
 www.vpaid.adsafeprotected.com
 www.vpn2.govops.appdynamics.com
+www.vpnconnect-vap.demandbase.com
 www.w.adsrvs.com
+www.watch.demandbase.com
 www.web.convertcart.com
+www.webhooks.deadlinefunnel.com
 www.webinar.airpr.com
 www.wifi.amobee.com
 www.wifiquiz.smedia.ca
 www.xadchina.cn
 www.xml.adventurefeeds.com
+www.z.deadlinefunnel.com
 www.zentr.cc
 xcaa9065.citacx.acxiom.com
 xcaa9099.citacx.acxiom.com
