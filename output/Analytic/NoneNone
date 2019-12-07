@@ -15,8 +15,11 @@ adt-fixer.adtdp.com                                                             
 adt-sync.adtdp.com                                                                                   ACTIVE      XXX        2019-12-07T06:43:51.511654
 amipm.adsafeprotected.com                                                                            ACTIVE      XXX        2019-12-07T06:19:17.545698
 anycast.ci.adsafeprotected.com                                                                       ACTIVE      XXX        2019-12-07T06:19:20.418183
+api.adx1.com                                                                                         ACTIVE      XXX        2019-12-07T07:10:16.087028
 api-selene.prod.adtechus.com                                                                         ACTIVE      XXX        2019-12-07T06:44:29.132684
+banners.advidi.com                                                                                   ACTIVE      XXX        2019-12-07T07:10:03.013104
 bi.adroll.com                                                                                        ACTIVE      XXX        2019-12-07T05:54:07.359339
+bi.advidi.com                                                                                        ACTIVE      XXX        2019-12-07T07:10:03.934015
 cast-ad-j.adtdp.com                                                                                  ACTIVE      XXX        2019-12-07T06:43:53.531172
 cast-bid27-j.adtdp.com                                                                               ACTIVE      XXX        2019-12-07T06:43:53.314827
 cast-cv-j.adtdp.com                                                                                  ACTIVE      XXX        2019-12-07T06:43:54.163656
@@ -24,6 +27,7 @@ cast-imp-j.adtdp.com                                                            
 cast-rd-j.adtdp.com                                                                                  ACTIVE      XXX        2019-12-07T06:43:54.674685
 cast-trk-j.adtdp.com                                                                                 ACTIVE      XXX        2019-12-07T06:43:55.210148
 cast-wn-j.adtdp.com                                                                                  ACTIVE      XXX        2019-12-07T06:43:55.735878
+cdnorigin.banners.advidi.com                                                                         ACTIVE      XXX        2019-12-07T07:10:03.221230
 classic-api.prod.adtechus.com                                                                        ACTIVE      XXX        2019-12-07T06:44:29.346711
 classic-rest-api.prod.adtechus.com                                                                   ACTIVE      XXX        2019-12-07T06:44:29.547335
 clientsmedia.adrime.com                                                                              ACTIVE      XXX        2019-12-07T05:54:03.825894
@@ -35,6 +39,9 @@ dc.adsqn.com                                                                    
 dev.adthrive.com                                                                                     ACTIVE      XXX        2019-12-07T06:44:39.648085
 dtias.adsafeprotected.com                                                                            ACTIVE      XXX        2019-12-07T06:19:21.343326
 dtvc.adsafeprotected.com                                                                             ACTIVE      XXX        2019-12-07T06:19:21.866949
+f11.adventori.com                                                                                    ACTIVE      XXX        2019-12-07T07:08:46.021825
+f12.adventori.com                                                                                    ACTIVE      XXX        2019-12-07T07:08:46.220691
+f13.adventori.com                                                                                    ACTIVE      XXX        2019-12-07T07:08:46.426308
 fc-lb1.iad2.adsymptotic.com                                                                          ACTIVE      XXX        2019-12-07T06:20:03.944303
 fc-lb2.iad2.adsymptotic.com                                                                          ACTIVE      XXX        2019-12-07T06:20:04.186249
 guides.adtoox.com                                                                                    ACTIVE      XXX        2019-12-07T06:44:42.207781
@@ -51,6 +58,7 @@ mc15.adsqn.com                                                                  
 mc16.adsqn.com                                                                                       ACTIVE      XXX        2019-12-07T06:19:30.823538
 metric-stage.adtoox.com                                                                              ACTIVE      XXX        2019-12-07T06:44:42.610642
 monitor-us-east-1.arbitron.adswizz.com                                                               ACTIVE      XXX        2019-12-07T06:19:35.883098
+networkstats.advidi.com                                                                              ACTIVE      XXX        2019-12-07T07:10:05.110502
 nonprod-api-selene.dev.adtechus.com                                                                  ACTIVE      XXX        2019-12-07T06:44:20.444144
 nonprod-classic-api.dev.adtechus.com                                                                 ACTIVE      XXX        2019-12-07T06:44:20.986609
 nyipm.adsafeprotected.com                                                                            ACTIVE      XXX        2019-12-07T06:19:23.136632
@@ -59,11 +67,14 @@ og-sc2.adsymptotic.com                                                          
 phone.sf.adroll.com                                                                                  ACTIVE      XXX        2019-12-07T06:19:12.365151
 pinpoint-dev.adready.com                                                                             ACTIVE      XXX        2019-12-07T05:54:02.657210
 pop.adrcdn.com                                                                                       ACTIVE      XXX        2019-12-07T05:53:59.875440
+pop.adverline.com                                                                                    ACTIVE      XXX        2019-12-07T07:08:51.253929
+post.advidi.com                                                                                      ACTIVE      XXX        2019-12-07T07:10:05.409391
 public-webservice.apdc1.adpushup.com                                                                 ACTIVE      XXX        2019-12-07T05:53:55.466030
 public-webservice.apdc2.adpushup.com                                                                 ACTIVE      XXX        2019-12-07T05:53:55.702595
 public-webservice.apdc3.adpushup.com                                                                 ACTIVE      XXX        2019-12-07T05:53:55.940218
 public-webservice.apdc4.adpushup.com                                                                 ACTIVE      XXX        2019-12-07T05:53:56.182208
 redirect.caline.adtdp.com                                                                            ACTIVE      XXX        2019-12-07T06:43:52.733987
+redirects.advidi.com                                                                                 ACTIVE      XXX        2019-12-07T07:10:05.615138
 reporting.adtheorent.com                                                                             ACTIVE      XXX        2019-12-07T06:44:38.207551
 report-scripts.adrcdn.com                                                                            ACTIVE      XXX        2019-12-07T05:54:00.113216
 rs-stg-sync.adtdp.com                                                                                ACTIVE      XXX        2019-12-07T06:43:59.462345
@@ -71,10 +82,14 @@ rs-sync.adtdp.com                                                               
 rs-sync-y.adtdp.com                                                                                  ACTIVE      XXX        2019-12-07T06:43:59.873941
 s1ns1.adtechjp.com                                                                                   ACTIVE      XXX        2019-12-07T06:44:12.130243
 s1ns1.adtechus.com                                                                                   ACTIVE      XXX        2019-12-07T06:44:31.706479
+s1ns1.advertising.com                                                                                ACTIVE      XXX        2019-12-07T07:09:54.547145
 s2ns2.adtechus.com                                                                                   ACTIVE      XXX        2019-12-07T06:44:31.906501
+s2ns2.advertising.com                                                                                ACTIVE      XXX        2019-12-07T07:09:54.748018
 s3ns3.adtechus.com                                                                                   ACTIVE      XXX        2019-12-07T06:44:32.106639
+s3ns3.advertising.com                                                                                ACTIVE      XXX        2019-12-07T07:09:54.952348
 s4ns4.adtechjp.com                                                                                   ACTIVE      XXX        2019-12-07T06:44:12.665992
 s4ns4.adtechus.com                                                                                   ACTIVE      XXX        2019-12-07T06:44:32.310230
+s4ns4.advertising.com                                                                                ACTIVE      XXX        2019-12-07T07:09:55.156535
 satelliteflaca02.adtoox.com                                                                          ACTIVE      XXX        2019-12-07T06:44:42.999260
 satellitefour.adtoox.com                                                                             ACTIVE      XXX        2019-12-07T06:44:43.202492
 satellitespalta03.adtoox.com                                                                         ACTIVE      XXX        2019-12-07T06:44:43.411186
@@ -83,6 +98,9 @@ secure0.adswizz.com                                                             
 sentry.adthrive.com                                                                                  ACTIVE      XXX        2019-12-07T06:44:40.777195
 sjepm.adsafeprotected.com                                                                            ACTIVE      XXX        2019-12-07T06:19:23.887624
 specs.adrime.com                                                                                     ACTIVE      XXX        2019-12-07T05:54:04.668834
+stage.beta.api.adx1.com                                                                              ACTIVE      XXX        2019-12-07T07:10:16.290511
+staging.banners.advidi.com                                                                           ACTIVE      XXX        2019-12-07T07:10:03.727571
+staging.front.banners.advidi.com                                                                     ACTIVE      XXX        2019-12-07T07:10:03.438243
 staticvc.adsafeprotected.com                                                                         ACTIVE      XXX        2019-12-07T06:19:24.649179
 survey.adsqn.com                                                                                     ACTIVE      XXX        2019-12-07T06:19:30.626544
 t.adsrvs.com                                                                                         ACTIVE      XXX        2019-12-07T06:19:31.527675
@@ -92,5 +110,8 @@ vip.adpiano.com                                                                 
 wi.adpiano.com                                                                                       ACTIVE      XXX        2019-12-07T05:53:52.798932
 wifi.internal.adroll.com                                                                             ACTIVE      XXX        2019-12-07T06:19:06.158096
 win.adpiano.com                                                                                      ACTIVE      XXX        2019-12-07T05:53:53.042383
+www13.adverline.com                                                                                  ACTIVE      XXX        2019-12-07T07:08:51.535760
+www1.adverline.com                                                                                   ACTIVE      XXX        2019-12-07T07:08:51.735582
 www2.adswizz.com                                                                                     ACTIVE      XXX        2019-12-07T06:19:45.008886
+www6.adverline.com                                                                                   ACTIVE      XXX        2019-12-07T07:08:52.003489
 www.adsafeprotected.com                                                                              ACTIVE      XXX        2019-12-07T06:19:25.828521

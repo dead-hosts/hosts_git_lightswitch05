@@ -15,8 +15,11 @@
 0.0.0.0 adt-sync.adtdp.com
 0.0.0.0 amipm.adsafeprotected.com
 0.0.0.0 anycast.ci.adsafeprotected.com
+0.0.0.0 api.adx1.com
 0.0.0.0 api-selene.prod.adtechus.com
+0.0.0.0 banners.advidi.com
 0.0.0.0 bi.adroll.com
+0.0.0.0 bi.advidi.com
 0.0.0.0 cast-ad-j.adtdp.com
 0.0.0.0 cast-bid27-j.adtdp.com
 0.0.0.0 cast-cv-j.adtdp.com
@@ -24,6 +27,7 @@
 0.0.0.0 cast-rd-j.adtdp.com
 0.0.0.0 cast-trk-j.adtdp.com
 0.0.0.0 cast-wn-j.adtdp.com
+0.0.0.0 cdnorigin.banners.advidi.com
 0.0.0.0 classic-api.prod.adtechus.com
 0.0.0.0 classic-rest-api.prod.adtechus.com
 0.0.0.0 clientsmedia.adrime.com
@@ -35,6 +39,9 @@
 0.0.0.0 dev.adthrive.com
 0.0.0.0 dtias.adsafeprotected.com
 0.0.0.0 dtvc.adsafeprotected.com
+0.0.0.0 f11.adventori.com
+0.0.0.0 f12.adventori.com
+0.0.0.0 f13.adventori.com
 0.0.0.0 fc-lb1.iad2.adsymptotic.com
 0.0.0.0 fc-lb2.iad2.adsymptotic.com
 0.0.0.0 guides.adtoox.com
@@ -51,6 +58,7 @@
 0.0.0.0 mc16.adsqn.com
 0.0.0.0 metric-stage.adtoox.com
 0.0.0.0 monitor-us-east-1.arbitron.adswizz.com
+0.0.0.0 networkstats.advidi.com
 0.0.0.0 nonprod-api-selene.dev.adtechus.com
 0.0.0.0 nonprod-classic-api.dev.adtechus.com
 0.0.0.0 nyipm.adsafeprotected.com
@@ -59,11 +67,14 @@
 0.0.0.0 phone.sf.adroll.com
 0.0.0.0 pinpoint-dev.adready.com
 0.0.0.0 pop.adrcdn.com
+0.0.0.0 pop.adverline.com
+0.0.0.0 post.advidi.com
 0.0.0.0 public-webservice.apdc1.adpushup.com
 0.0.0.0 public-webservice.apdc2.adpushup.com
 0.0.0.0 public-webservice.apdc3.adpushup.com
 0.0.0.0 public-webservice.apdc4.adpushup.com
 0.0.0.0 redirect.caline.adtdp.com
+0.0.0.0 redirects.advidi.com
 0.0.0.0 reporting.adtheorent.com
 0.0.0.0 report-scripts.adrcdn.com
 0.0.0.0 rs-stg-sync.adtdp.com
@@ -71,10 +82,14 @@
 0.0.0.0 rs-sync-y.adtdp.com
 0.0.0.0 s1ns1.adtechjp.com
 0.0.0.0 s1ns1.adtechus.com
+0.0.0.0 s1ns1.advertising.com
 0.0.0.0 s2ns2.adtechus.com
+0.0.0.0 s2ns2.advertising.com
 0.0.0.0 s3ns3.adtechus.com
+0.0.0.0 s3ns3.advertising.com
 0.0.0.0 s4ns4.adtechjp.com
 0.0.0.0 s4ns4.adtechus.com
+0.0.0.0 s4ns4.advertising.com
 0.0.0.0 satelliteflaca02.adtoox.com
 0.0.0.0 satellitefour.adtoox.com
 0.0.0.0 satellitespalta03.adtoox.com
@@ -83,6 +98,9 @@
 0.0.0.0 sentry.adthrive.com
 0.0.0.0 sjepm.adsafeprotected.com
 0.0.0.0 specs.adrime.com
+0.0.0.0 stage.beta.api.adx1.com
+0.0.0.0 staging.banners.advidi.com
+0.0.0.0 staging.front.banners.advidi.com
 0.0.0.0 staticvc.adsafeprotected.com
 0.0.0.0 survey.adsqn.com
 0.0.0.0 t.adsrvs.com
@@ -92,5 +110,8 @@
 0.0.0.0 wi.adpiano.com
 0.0.0.0 wifi.internal.adroll.com
 0.0.0.0 win.adpiano.com
+0.0.0.0 www13.adverline.com
+0.0.0.0 www1.adverline.com
 0.0.0.0 www2.adswizz.com
+0.0.0.0 www6.adverline.com
 0.0.0.0 www.adsafeprotected.com
