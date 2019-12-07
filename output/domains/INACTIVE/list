@@ -110,6 +110,7 @@ ak-vid.applovin.com
 allabs-test.answermedia.com
 alpha.ace.advertising.com
 amp.automatad.com
+an.3lift.com
 ana.analyticson.com
 analytics.adtechus.com
 analytics.apester.com
@@ -122,7 +123,10 @@ a.ns.ish.atdmt.com
 ants.saas.appdynamics.com
 aolon.at.atwola.com
 aop-prog.advertising.com
+ap.33across.com
 apache.adwyze.com
+ap.api.33across.com
+ap.cdn.33across.com
 api0138.d41.co
 api1551.d41.co
 api2004.d41.co
@@ -338,6 +342,7 @@ campaign-api.pe.apester.com
 campaign.dasha.apester.com
 caprofitx.adtdp.com
 caravel.adthrive.com
+cashext.com
 cas.pxl.ace.advertising.com
 cast-dev-mark-j.adtdp.com
 cast-thirdpas-j.adtdp.com
@@ -347,6 +352,7 @@ cdn2.bnmla.com
 cdn.adstatic.com
 cdn-adsync.brainient.com
 cdn.adthrive.com
+cdn-ap.33across.com
 cdn-assets.brainient.com
 cdn.bizographics.com
 cdn-c.amazon-adsystem.com
@@ -363,6 +369,7 @@ cdn-ugc.brainient.com
 cdn-video.amgvgt.com
 cdn-z.amazon-adsystem.com
 ceast.adsymptotic.com
+cengage.celebrus.com
 cert-foo.dev-iad.amobee.com
 cert-test.dev-iad.amobee.com
 cerulean.amplitude.com
@@ -485,6 +492,7 @@ dco.advertising.com
 dc.pxl.ace.advertising.com
 decidedna1.247realmedia.com
 decidedna2.247realmedia.com
+deco.cbsi.com
 dec-rm-04.wdc.bluekai.com
 delivery1.altitude-arena.com
 delivery6.altitude-arena.com
@@ -546,6 +554,7 @@ display.dasha.apester.com
 display.pe.apester.com
 dmp-pixel.aolp-prd.public.aol.com
 dmp-qai-pixel.advertising.com
+dns02.casalemedia.com
 dns03.bridgewell.com
 dns-k8s.dev-iad.amobee.com
 dnt.bestcontentonline.com
@@ -582,6 +591,7 @@ dyn.cunda.advolution.biz
 e3.geo.adpushup.com
 e.admaster.com.cn
 earhart2018110500475516.saas.appdynamics.com
+eb.3lift.com
 ecs.blismedia.com
 edge2.pixel.advertising.com
 edge2.uat.247realmedia.com
@@ -597,6 +607,7 @@ ee01job.advertising.com
 ee02gws.advertising.com
 ee02hmq.advertising.com
 ee12gp4.advertising.com
+elasticstack.cbsi.com
 elb.viewtracker.tracking.awin.com
 elephant201902181910379.saas.appdynamics.com
 email.advertising.com
@@ -702,6 +713,7 @@ glb-ads.iannounce.adtechus.com
 glb-ads.tresensa.adtechus.com
 glbimg.adtechus.com
 glossy.adroll.com
+gmf.celebrus.com
 g.mkey.163.com
 go131test.aniview.com
 go1ggl.aniview.com
@@ -754,9 +766,11 @@ hzh-secure.adsbysmart.cn
 iad-05.braze.com
 i.apester.com
 i.awin.com
+ib2.3lift.com
 ibana.dev-iad.amobee.com
 ibana.qa-iad.amobee.com
 ibanna.dev-iad.amobee.com
+ibp.3lift.com
 ibtimes.hostedcart.buysellads.com
 ibv-adx.dca.bids.bidstalk.com
 id.beeketing.com
@@ -767,6 +781,15 @@ im.adtechus.com
 imageceu1.247realmedia.com
 images.agkn.com
 images.awin1.com
+img-1.3lift.com
+img-2.3lift.com
+img-3.3lift.com
+img-4.3lift.com
+img-5.3lift.com
+img-6.3lift.com
+img-7.3lift.com
+img-8.3lift.com
+img-9.3lift.com
 img.applvn.com
 img.bizographics.com
 img-origin.adtechus.com
@@ -915,6 +938,7 @@ manifest.pcw1.auditude.com
 manual.dsp.analyticson.com
 marketplace.analyticson.com
 mark.skyrocket.adtdp.com
+martony.ittest.33across.com
 matomo.apester.com
 m.awin1.com
 media.adtechus.com
@@ -930,6 +954,7 @@ metrics-collector-1584522448.us-east-1.elb.amazonaws.com
 metropolis.adwyze.com
 mf.adsymptotic.com
 mfr.247realmedia.com
+mg.3lift.com
 mgadmin.beeketing.com
 mixmaster.bnmla.com
 ml.adpxl.co
@@ -959,6 +984,10 @@ msrv.dev.saastest.appdynamics.com
 msrv.saas.appdynamics.com
 msrv.saastest.appdynamics.com
 mt.pxl.ace.advertising.com
+mweb-longhornsteakhouse.vip.bos.3cinteractive.com
+mweb-olivegarden.vip.bos.3cinteractive.com
+mweb-redlobster.vip.bos.3cinteractive.com
+mweb-thecapitalgrille.vip.bos.3cinteractive.com
 mx.braze.com
 myaccounts.capitolone.com
 my-k8s.dev-iad.amobee.com
@@ -1154,6 +1183,11 @@ p-lb7.eu.adsymptotic.com
 p-lb8.eu.adsymptotic.com
 p-lb9.eu.adsymptotic.com
 pmo01-tech.amobee.com
+poc10.celebrus.com
+poc11.celebrus.com
+poc7.celebrus.com
+poc8.celebrus.com
+poc9.celebrus.com
 pr-a.adtechus.com
 pr.atwola.com
 prebid.adnxs.co
@@ -1181,8 +1215,8 @@ production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
 product.staging.adwyze.com
 project.datadome.co
 prometheus1.datadome.co
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 proxy-ssl.beeviewd.com
 proxy-ssl.bestcontentonline.com
 ps2002.wdc.bluekai.com
@@ -1337,6 +1371,8 @@ retention.appsflyer.com
 reve.dev-iad.amobee.com
 reve.qa-iad.amobee.com
 revforecasting.advertising.com
+richard.ittest.33across.com
+riju.ittest.33across.com
 rm.analyticson.com
 rmd.atdmt.com
 rmevent.advertising.com
@@ -1349,6 +1385,7 @@ rollhands.internal.adroll.com
 root.tracking.quality.awin.com
 rpt.rad.atdmt.com
 r.rockabox.co
+r-ssl.casalemedia.com
 rt.ascend.ai
 rtb-apac.adsymptotic.com
 rtb-lb2-vip0.eu.adsymptotic.com
@@ -1409,8 +1446,10 @@ s8.ayads.co
 s9.allinviews.com
 s.admaster.com.cn
 s.ads-twitter.com
+san.casalemedia.com
 sandbox2.auditude.com
 sandbox3.auditude.com
+saoptin.vip.bos.3cinteractive.com
 s-beta.amazon-adsystem.com
 s-beta-opf.amazon-adsystem.com
 sbpixel1.adtechus.com
@@ -1436,6 +1475,7 @@ sdk.platform.bluecava.com
 sdk.portal.bluecava.com
 sdk.sync.graph.bluecava.com
 sdk.tools.bluecava.com
+sean.ittest.33across.com
 search.advertisingbox.com
 search.at.atwola.com
 sec.admaster.com.cn
@@ -1453,6 +1493,7 @@ secure.bannerfarm.ace.advertising.com
 secure.bannerfarm.advertising.com
 secure.blismedia.com
 secure-cdn.mm.atwola.com
+securedr.33across.com
 secure.leadback.advertising.com
 secure-leadback.asda.db.advertising.com
 secure-leadback.bmi.db.advertising.com
@@ -1519,7 +1560,9 @@ sng-vpn.appdynamics.com
 sn.test.appsee.com
 soak-media-insights.bluekai.com
 soccer.reddit.co
+social-stream-tag.3lift.com
 socket.adpushup.com
+solavei.3cinteractive.com
 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
 sooga.dev-iad.amobee.com
 sophos-secure.247realmedia.com
@@ -1576,6 +1619,7 @@ stage3.autopilothq.com
 stage.advertisercommunity.com
 stage.config.dco.advertising.com
 stage-secure.leadback.advertising.com
+staging.3lift.com
 staging.adwyze.com
 staging.aniview.com
 staging-api.bytegain.com
@@ -1590,9 +1634,11 @@ staging-sync.alcmpn.com
 staging.tagmanager.alcmpn.com
 stags.iad.bluekai.com
 star.intern.atlassbx.com
+star.stage.3cinteractive.com
 start.adpushup.com
 startmeapp.dca.events.bidstalk.com
 static02.adsafeprotected.com
+static-2.3lift.com
 static.adpushup.com
 static.black.erne.co
 static.blue.erne.co
@@ -1676,6 +1722,7 @@ third-stag.newstags.stag.bounceexchange.com
 ticket.agkn.com
 tilba.qa-iad.amobee.com
 tls.adpiano.com
+tlx-packet.3lift.com
 tmp-heliosiq.adtechus.com
 tomo.qa-iad.amobee.com
 tonton.qa-iad.amobee.com
@@ -1717,6 +1764,7 @@ unsdksv.ios.ma.163.com
 upezzo.qa-iad.amobee.com
 url.apester.com
 us.content.cmp.advertising.com
+us-east.tlx.3lift.com
 users.bidsimulator.com
 users.dasha.apester.com
 users.pe.apester.com
@@ -1883,6 +1931,7 @@ www.bulkapi-rc.phx.bluekai.com
 www.buypixelads.com
 www.campaign-archive.com
 www.campaigns.bannersnack.com
+www.cashext.com
 www.cdn.adrta.com
 www.cdn.airfind.com
 www.cdn.bannersnack.com
@@ -1892,6 +1941,7 @@ www.cdns.brsrvr.com
 www.ci.appboy.com
 www.clarity.inmobi.cn
 www.clientsmedia2.adrime.com
+www.cms-xch-chicago.33across.com
 www.cn.bridgewell.com
 www.cntr.adrcntr.com
 www.collector.brandmetrics.com
@@ -1919,12 +1969,15 @@ www.dev.appboy.com
 www.dev.smedia.ca
 www.dev.trail.facebook-ads.adtz.com
 www.dev.trial-italia.facebook-ads.adtz.com
+www.divvycloud.cbsi.com
 www.dsp.analyticson.com
+www.eb.3lift.com
 www.edge.facebook-ads.adtz.com
 www.events.advidi.com
 www.events.amplitude.com
 www.evt.adrcntr.com
 www.firstfetchflash.club
+www.fwcs01.casalemedia.com
 www.gerrit.ops.appdynamics.com
 www.get.amplitude.com
 www.get.appsee.com
@@ -1984,6 +2037,7 @@ www.owa1.amobee.com
 www.pa3.b.audiencetag.com
 www.partnerlab.braze.com
 www.partners.analyticson.com
+www.partners.celebrus.com
 www.pdb.inmobi.cn
 www.phone.sf.adroll.com
 www.pixel.adpredictive.com

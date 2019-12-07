@@ -12,8 +12,8 @@
 0.0.0.0 0.accountkit.com
 0.0.0.0 0fgraph0-2.accountkit.com
 0.0.0.0 0fgraph04.accountkit.com
-0.0.0.0 0fgraph0.accountkit.com
 0.0.0.0 0fgraph-0.accountkit.com
+0.0.0.0 0fgraph0.accountkit.com
 0.0.0.0 0fgraph1-0.accountkit.com
 0.0.0.0 0fgraph1-2.accountkit.com
 0.0.0.0 0fgraph14.accountkit.com
@@ -30,14 +30,18 @@
 0.0.0.0 10646.bapi.adsafeprotected.com
 0.0.0.0 106-ct.c3tag.com
 0.0.0.0 10.72.180.60acdn.adnxs.com
+0.0.0.0 10.72.180.60ads.celtra.com
 0.0.0.0 10.72.180.60ams1-ib.adnxs.com
+0.0.0.0 10.72.180.60cache-ssl.celtra.com
 0.0.0.0 10.72.180.60cdn.adnxs.com
 0.0.0.0 10.72.180.60ib.adnxs.com
 0.0.0.0 10.72.180.60m.adnxs.com
 0.0.0.0 10.72.180.60nym1-ib.adnxs.com
 0.0.0.0 10.72.180.60rb.adnxs.com
 0.0.0.0 10.72.180.60secure.adnxs.com
+0.0.0.0 10.72.180.60track.celtra.com
 0.0.0.0 10811.bapi.adsafeprotected.com
+0.0.0.0 10daily.cbsi.com
 0.0.0.0 113-img.c3tag.com
 0.0.0.0 115.aweber.com
 0.0.0.0 1.163.com
@@ -151,6 +155,7 @@
 0.0.0.0 159001570.r.bat.bing.com
 0.0.0.0 159001587.r.bat.bing.com
 0.0.0.0 159002526.r.bat.bing.com
+0.0.0.0 15.cbarsrv.com
 0.0.0.0 160.41.54.45.rdns.adjust.com
 0.0.0.0 16248314.adventori.com
 0.0.0.0 163058328.r.bat.bing.com
@@ -228,6 +233,7 @@
 0.0.0.0 2472337.r.bat.bing.com
 0.0.0.0 247-ct.c3tag.com
 0.0.0.0 247realmedia.com
+0.0.0.0 247sports.cbsi.com
 0.0.0.0 247sportsprod.amobee.com
 0.0.0.0 2489558.r.bat.bing.com
 0.0.0.0 2522260.r.bat.bing.com
@@ -326,6 +332,7 @@
 0.0.0.0 354-ct.c3tag.com
 0.0.0.0 354-img.c3tag.com
 0.0.0.0 363-ct.c3tag.com
+0.0.0.0 365scores.celtra.com
 0.0.0.0 37001428.r.bat.bing.com
 0.0.0.0 37003849.r.bat.bing.com
 0.0.0.0 37004228.r.bat.bing.com
@@ -2715,10 +2722,99 @@
 0.0.0.0 a5011.casalemedia.com
 0.0.0.0 a5021.casalemedia.com
 0.0.0.0 a5026.casalemedia.com
+0.0.0.0 a5027.casalemedia.com
+0.0.0.0 a5029.casalemedia.com
 0.0.0.0 a502.casalemedia.com
+0.0.0.0 a5030.casalemedia.com
+0.0.0.0 a5036.casalemedia.com
+0.0.0.0 a5038.casalemedia.com
+0.0.0.0 a518.casalemedia.com
+0.0.0.0 a520.casalemedia.com
+0.0.0.0 a527.casalemedia.com
+0.0.0.0 a536.casalemedia.com
+0.0.0.0 a550.casalemedia.com
+0.0.0.0 a554.casalemedia.com
+0.0.0.0 a555.casalemedia.com
+0.0.0.0 a557.casalemedia.com
+0.0.0.0 a558.casalemedia.com
+0.0.0.0 a559.casalemedia.com
+0.0.0.0 a566.casalemedia.com
+0.0.0.0 a569.casalemedia.com
+0.0.0.0 a574.casalemedia.com
+0.0.0.0 a583.casalemedia.com
+0.0.0.0 a584.casalemedia.com
+0.0.0.0 a596.casalemedia.com
+0.0.0.0 a605.casalemedia.com
+0.0.0.0 a608.casalemedia.com
+0.0.0.0 a609.casalemedia.com
+0.0.0.0 a610.casalemedia.com
+0.0.0.0 a617.casalemedia.com
+0.0.0.0 a619.casalemedia.com
+0.0.0.0 a620.casalemedia.com
+0.0.0.0 a621.casalemedia.com
+0.0.0.0 a626.casalemedia.com
+0.0.0.0 a632.casalemedia.com
+0.0.0.0 a636.casalemedia.com
+0.0.0.0 a640.casalemedia.com
+0.0.0.0 a642.casalemedia.com
+0.0.0.0 a657.casalemedia.com
+0.0.0.0 a668.casalemedia.com
+0.0.0.0 a669.casalemedia.com
+0.0.0.0 a672.casalemedia.com
+0.0.0.0 a675.casalemedia.com
+0.0.0.0 a676.casalemedia.com
+0.0.0.0 a679.casalemedia.com
+0.0.0.0 a681.casalemedia.com
+0.0.0.0 a682.casalemedia.com
+0.0.0.0 a683.casalemedia.com
+0.0.0.0 a684.casalemedia.com
+0.0.0.0 a690.casalemedia.com
+0.0.0.0 a691.casalemedia.com
+0.0.0.0 a694.casalemedia.com
+0.0.0.0 a695.casalemedia.com
+0.0.0.0 a698.casalemedia.com
+0.0.0.0 a701.casalemedia.com
+0.0.0.0 a702.casalemedia.com
+0.0.0.0 a703.casalemedia.com
+0.0.0.0 a704.casalemedia.com
+0.0.0.0 a705.casalemedia.com
+0.0.0.0 a706.casalemedia.com
+0.0.0.0 a707.casalemedia.com
+0.0.0.0 a708.casalemedia.com
+0.0.0.0 a715.casalemedia.com
+0.0.0.0 a718.casalemedia.com
+0.0.0.0 a720.casalemedia.com
+0.0.0.0 a729.casalemedia.com
+0.0.0.0 a733.casalemedia.com
+0.0.0.0 a761.casalemedia.com
+0.0.0.0 a777.casalemedia.com
+0.0.0.0 a786.casalemedia.com
+0.0.0.0 a795.casalemedia.com
+0.0.0.0 a797.casalemedia.com
+0.0.0.0 a802.casalemedia.com
+0.0.0.0 a805.casalemedia.com
+0.0.0.0 a807.casalemedia.com
+0.0.0.0 a809.casalemedia.com
+0.0.0.0 a811.casalemedia.com
+0.0.0.0 a828.casalemedia.com
 0.0.0.0 a8723.com
+0.0.0.0 a877.casalemedia.com
+0.0.0.0 a911.casalemedia.com
+0.0.0.0 a914.casalemedia.com
+0.0.0.0 a915.casalemedia.com
+0.0.0.0 a923.casalemedia.com
+0.0.0.0 a928.casalemedia.com
+0.0.0.0 a940.casalemedia.com
+0.0.0.0 a943.casalemedia.com
+0.0.0.0 a967.casalemedia.com
+0.0.0.0 a971.casalemedia.com
+0.0.0.0 a982.casalemedia.com
+0.0.0.0 a983.casalemedia.com
+0.0.0.0 a984.casalemedia.com
+0.0.0.0 a995.casalemedia.com
 0.0.0.0 aa.adfarm1.adition.com
 0.0.0.0 aa.agkn.com
+0.0.0.0 aa.cbsi.com
 0.0.0.0 a.acrabakasaka.com
 0.0.0.0 a.adlithium.com
 0.0.0.0 a.adnxs.com
@@ -2740,6 +2836,7 @@
 0.0.0.0 aapp.adjust.com
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
+0.0.0.0 aarp.celtra.com
 0.0.0.0 aas-nv-a.aaxads.com
 0.0.0.0 aaxads.com
 0.0.0.0 aax.amazon-adsystem.amazon.com
@@ -2803,6 +2900,7 @@
 0.0.0.0 access.adtouchlabs.com
 0.0.0.0 access.adx1.com
 0.0.0.0 accessiblemetrics.com
+0.0.0.0 access-provisioner.celtra.com
 0.0.0.0 accordant.c3metrics.com
 0.0.0.0 account.admaster.com.cn
 0.0.0.0 account.bnet.163.com
@@ -2829,9 +2927,16 @@
 0.0.0.0 acs.adtdp.com
 0.0.0.0 actionnow.leadpages.co
 0.0.0.0 actions.adrd.co
+0.0.0.0 actions-am.cbarsrv.com
 0.0.0.0 actions-eu.admailtiser.com
+0.0.0.0 actions-eu.cbarsrv.com
+0.0.0.0 actions-latb.cbarsrv.com
+0.0.0.0 actions-nj.cbarsrv.com
 0.0.0.0 actions-ny.admailtiser.com
+0.0.0.0 actions-ny.cbarsrv.com
 0.0.0.0 activate.aami.com.au
+0.0.0.0 activate.cdw.com
+0.0.0.0 activate.cdwg.com
 0.0.0.0 activate.gio.com.au
 0.0.0.0 activateintl.leadpages.co
 0.0.0.0 activation.adobedtm.com
@@ -2958,6 +3063,7 @@
 0.0.0.0 adentifi.com
 0.0.0.0 adex.admailtiser.com
 0.0.0.0 adexchange.analyticson.com
+0.0.0.0 adfalcon.celtra.com
 0.0.0.0 adfarm1.adition.com
 0.0.0.0 adfiles.auditude.com
 0.0.0.0 adform.com
@@ -2972,6 +3078,8 @@
 0.0.0.0 adhsm.adhese.com
 0.0.0.0 adiant.com
 0.0.0.0 ad-image.host.bannerflow.com
+0.0.0.0 adimg.cbsi.com
+0.0.0.0 adindex.celtra.com
 0.0.0.0 adio.adswizz.com
 0.0.0.0 adio.deliveryengine.adswizz.com
 0.0.0.0 adition.com
@@ -2984,6 +3092,7 @@
 0.0.0.0 adlegend.com
 0.0.0.0 adlightning.com
 0.0.0.0 adlithium.com
+0.0.0.0 adlog.cbsi.com
 0.0.0.0 ad.lon5.auditude.com
 0.0.0.0 adlooxtracking.com
 0.0.0.0 admachinepop.xml.adx1.com
@@ -3031,6 +3140,7 @@
 0.0.0.0 adobe-reader-xi.apponic.com
 0.0.0.0 adocean-global.com
 0.0.0.0 adoftheyear.com
+0.0.0.0 adops.cbsinteractive.com
 0.0.0.0 adotask.adotube.com
 0.0.0.0 adotmob.com
 0.0.0.0 adotmob.comts_st1485245284563.tracker.adotmob.com
@@ -3041,6 +3151,7 @@
 0.0.0.0 adpiano.com
 0.0.0.0 adpita.adapf.com
 0.0.0.0 ad-pixel.com
+0.0.0.0 adplay.celtra.com
 0.0.0.0 adp-pmk.adtdp.com
 0.0.0.0 adp-pubd-static.adtdp.com
 0.0.0.0 adpredictive.com
@@ -3049,6 +3160,7 @@
 0.0.0.0 adpushup.com
 0.0.0.0 adpxl.co
 0.0.0.0 adpxljs.adpxl.co
+0.0.0.0 adrank.celtra.com
 0.0.0.0 adrcdn.com
 0.0.0.0 adrcntr.com
 0.0.0.0 adrd.co
@@ -3100,6 +3212,7 @@
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 adsame.cm.admaster.com.cn
 0.0.0.0 ads.amgdgt.com
+0.0.0.0 ads-amp.celtra.com
 0.0.0.0 ad.sandbox.auditude.com
 0.0.0.0 ads.answermedia.com
 0.0.0.0 ads-ap.adaptv.advertising.com
@@ -3115,6 +3228,8 @@
 0.0.0.0 adsbysmart.com
 0.0.0.0 ads-cadreon.adhese.com
 0.0.0.0 adscale-emea.adnxs.com
+0.0.0.0 ads-cdn.celtra.com
+0.0.0.0 ads.celtra.com
 0.0.0.0 ads-collishop.adhese.com
 0.0.0.0 ads-colruytgroup.adhese.com
 0.0.0.0 ad-score.com
@@ -3165,6 +3280,8 @@
 0.0.0.0 adserver-west.adtechus.com
 0.0.0.0 adserving.rockabox.co
 0.0.0.0 ads-eu.adaptv.advertising.com
+0.0.0.0 ads-experiment-1.celtra.com
+0.0.0.0 ads-experiment-2.celtra.com
 0.0.0.0 ads.feathr.co
 0.0.0.0 ads.gcs.bluecava.com
 0.0.0.0 ads.gcs-lb.bluecava.com
@@ -3189,8 +3306,8 @@
 0.0.0.0 ads-orangegames.adhese.com
 0.0.0.0 adsorb.com
 0.0.0.0 adsorigin.adverline.com
-0.0.0.0 ads-pebblemedia.adhese.com
 0.0.0.0 ads.pebblemedia.adhese.com
+0.0.0.0 ads-pebblemedia.adhese.com
 0.0.0.0 ads-pictela-net.geo.adtechus.com
 0.0.0.0 adsqn.com
 0.0.0.0 adsradios.adswizz.com
@@ -3249,6 +3366,7 @@
 0.0.0.0 adtechus.com
 0.0.0.0 ad-test.adtechus.com
 0.0.0.0 adt-fixer.adtdp.com
+0.0.0.0 adtheorent.celtra.com
 0.0.0.0 adtheorent.com
 0.0.0.0 adthrive.com
 0.0.0.0 adtilt.com
@@ -3380,6 +3498,7 @@
 0.0.0.0 airlab.163.com
 0.0.0.0 airpr.com
 0.0.0.0 airvertiseme.com
+0.0.0.0 airwaveapac.celtra.com
 0.0.0.0 ais.amobee.com
 0.0.0.0 aissreports.acxiom.com
 0.0.0.0 aisstest.acxiom.com
@@ -3421,6 +3540,7 @@
 0.0.0.0 allscripts-prod.saas.appdynamics.com
 0.0.0.0 allthingspups.leadpages.co
 0.0.0.0 alltough.leadpages.co
+0.0.0.0 almamedia-fi.celtra.com
 0.0.0.0 alndeealapacheimports.7p.com
 0.0.0.0 alocdn.com
 0.0.0.0 al-p.alcmpn.com
@@ -3501,6 +3621,7 @@
 0.0.0.0 amobee.com
 0.0.0.0 amp.3lift.com
 0.0.0.0 amp.admarvel.com
+0.0.0.0 amp.casalemedia.com
 0.0.0.0 amplify.amplitude.com
 0.0.0.0 amplitude.com
 0.0.0.0 am-pops.xml.adx1.com
@@ -3516,8 +3637,8 @@
 0.0.0.0 ams18.ib.adnxs.com
 0.0.0.0 ams19.ib.adnxs.com
 0.0.0.0 ams1.b.adnxs.com
-0.0.0.0 ams1.ib.adnxs.com
 0.0.0.0 ams1-ib.adnxs.com
+0.0.0.0 ams1.ib.adnxs.com
 0.0.0.0 ams1.mobile.adnxs.com
 0.0.0.0 ams1-mobile.adnxs.com
 0.0.0.0 ams1-tlx.3lift.com
@@ -3625,6 +3746,7 @@
 0.0.0.0 anydesk.apponic.com
 0.0.0.0 aoc.adx1.com
 0.0.0.0 aol-heliosiq.adtechus.com
+0.0.0.0 aol-uk.celtra.com
 0.0.0.0 aol-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 aol-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 aol-winners-us-east-1-rtb.adroll.com
@@ -3650,6 +3772,8 @@
 0.0.0.0 apester-tagan.adlightning.com
 0.0.0.0 ap.event.cmp.advertising.com
 0.0.0.0 apex.adpushup.com
+0.0.0.0 apex.cbsi.com
+0.0.0.0 api01.casalemedia.com
 0.0.0.0 api1947.d41.co
 0.0.0.0 api2196.d41.co
 0.0.0.0 api2474.d41.co
@@ -3711,10 +3835,11 @@
 0.0.0.0 api9761.d41.co
 0.0.0.0 api9865.d41.co
 0.0.0.0 api9931.d41.co
-0.0.0.0 api.ab4c.ad-brix.com
 0.0.0.0 apiab4c.ad-brix.com
+0.0.0.0 api.ab4c.ad-brix.com
 0.0.0.0 api.abtasty.com
 0.0.0.0 api.aca.ftv.bugsnag.appstore.a2z.com
+0.0.0.0 api.accuweather.comwf.cbarsrv.com
 0.0.0.0 api.acxiom.com
 0.0.0.0 api.adapf.com
 0.0.0.0 api.ad-brix.com
@@ -3777,6 +3902,7 @@
 0.0.0.0 api.bugsnag.com
 0.0.0.0 api.caipiao.163.com
 0.0.0.0 api.canarybay.innovation.abtasty.com
+0.0.0.0 api.celtra.com
 0.0.0.0 api-cirqua.adapf.com
 0.0.0.0 api.config.airfind.com
 0.0.0.0 api.crashing.qa.bounceexchange.com
@@ -3952,6 +4078,7 @@
 0.0.0.0 app.feathr.co
 0.0.0.0 app.gamer.163.com
 0.0.0.0 app.keywee.co
+0.0.0.0 applefox.7p.com
 0.0.0.0 appleimap.vip.126.com
 0.0.0.0 appleimap.vip.163.com
 0.0.0.0 apple-itunes.apponic.com
@@ -3989,6 +4116,7 @@
 0.0.0.0 apps.bizible.com
 0.0.0.0 apps.bounceexchange.com
 0.0.0.0 apps.bronto.com
+0.0.0.0 apps.celtra.com
 0.0.0.0 appsee.com
 0.0.0.0 apps.facebook.com.deroullatte.xyz.adx1.com
 0.0.0.0 appsflyer.com
@@ -4064,6 +4192,7 @@
 0.0.0.0 as.admaster.com.cn
 0.0.0.0 as.amanad.adtdp.com
 0.0.0.0 asap.coffee.brightedge.com
+0.0.0.0 as.casalemedia.com
 0.0.0.0 ascendant-nfm.apponic.com
 0.0.0.0 as.cwa.acxiom.com
 0.0.0.0 as-dmpsync.3lift.com
@@ -4078,6 +4207,7 @@
 0.0.0.0 asm3.z1.adserver.com
 0.0.0.0 aspp.atom.adjust.com
 0.0.0.0 as.rtb.adx1.com
+0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 assessment.acxiom.com
 0.0.0.0 asset.appdynamics.com
 0.0.0.0 asset.cdn.auditude.com
@@ -4155,6 +4285,7 @@
 0.0.0.0 audiences-alpha.bluekai.com
 0.0.0.0 audiences.bluekai.com
 0.0.0.0 audiences-bravo.bluekai.com
+0.0.0.0 audiences.celtra.com
 0.0.0.0 audiences-dmp-test.bluekai.com
 0.0.0.0 audiences-iad.bluekai.com
 0.0.0.0 audiences-lax.bluekai.com
@@ -4337,6 +4468,7 @@
 0.0.0.0 bbs.play.163.com
 0.0.0.0 bc0a.com
 0.0.0.0 bc.amanad.adtdp.com
+0.0.0.0 b.casalemedia.com
 0.0.0.0 b.c.bing.com
 0.0.0.0 bcc-report.campaign.adobe.com
 0.0.0.0 bcc-report-dev.campaign.adobe.com
@@ -4419,7 +4551,9 @@
 0.0.0.0 bi.advidi.com
 0.0.0.0 bicat.allinviews.com
 0.0.0.0 bicat.beeviewd.com
+0.0.0.0 bi.celtra.com
 0.0.0.0 bidagent.xadchina.cn
+0.0.0.0 bidbarrel.cbsnews.com
 0.0.0.0 bidder.bridgewell.com
 0.0.0.0 bidder-east2.aaxads.com
 0.0.0.0 bidder-east.aaxads.com
@@ -4443,6 +4577,8 @@
 0.0.0.0 bidtortest.admanmedia.com
 0.0.0.0 biggerpockets.leadpages.co
 0.0.0.0 biggunsmarketing.leadpages.co
+0.0.0.0 bigtop.dev.dig.cbsi.com
+0.0.0.0 bigtop.dig.cbsi.com
 0.0.0.0 bi.infra.apester.com
 0.0.0.0 bija-bennett.leadpages.co
 0.0.0.0 billboard.amobee.com
@@ -4463,6 +4599,9 @@
 0.0.0.0 bitcoin.leadpages.co
 0.0.0.0 bitenoble-voice.demo.apester.com
 0.0.0.0 bitrix.adx1.com
+0.0.0.0 bizboard2018.celtra.com
+0.0.0.0 bizboard2019.celtra.com
+0.0.0.0 bizboard.celtra.com
 0.0.0.0 bizible.com
 0.0.0.0 bizlooker.appsflyer.com
 0.0.0.0 bizofabundance.leadpages.co
@@ -4487,6 +4626,7 @@
 0.0.0.0 blackbox-v1.feathr.co
 0.0.0.0 blackjack.7p.com
 0.0.0.0 blis.com
+0.0.0.0 blismedia.celtra.com
 0.0.0.0 blismedia.com
 0.0.0.0 blissfuloasis.leadpages.co
 0.0.0.0 bliss.rtb.adx1.com
@@ -4588,6 +4728,7 @@
 0.0.0.0 br-aws-saopaulo-displaycompiler.adtooxcirrus.com
 0.0.0.0 braze.com
 0.0.0.0 brcv.adkmob.com
+0.0.0.0 break-even.celtra.com
 0.0.0.0 breakthroughbasketball.leadpages.co
 0.0.0.0 breakthrough.leadpages.co
 0.0.0.0 brealtime.com
@@ -4662,6 +4803,7 @@
 0.0.0.0 burlesonortho.leadpages.co
 0.0.0.0 bursaturktelekomcom.adhood.com
 0.0.0.0 businessboom.leadpages.co
+0.0.0.0 businessinsider.celtra.com
 0.0.0.0 buspro.aweber.com
 0.0.0.0 buy-ad.com
 0.0.0.0 buy.buysellads.com
@@ -4670,6 +4812,7 @@
 0.0.0.0 buzzdeck.com
 0.0.0.0 buzzfeed-tagan.adlightning.com
 0.0.0.0 bvu.adx1.com
+0.0.0.0 bwp.cbsi.com
 0.0.0.0 bwxsp.adx1.com
 0.0.0.0 bx24.adx1.com
 0.0.0.0 bytegain.com
@@ -4746,6 +4889,7 @@
 0.0.0.0 c.aaxads.com
 0.0.0.0 cableone.c3metrics.com
 0.0.0.0 cab-maker.apponic.com
+0.0.0.0 ca.celtra.com
 0.0.0.0 ca-central-1.gamma.pr.analytics.console.aws.a2z.com
 0.0.0.0 ca-central-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0 ca-central-1.target.aws.amazon.com
@@ -4754,6 +4898,9 @@
 0.0.0.0 cache.abtasty.com
 0.0.0.0 cache.addthis.com
 0.0.0.0 cache.adelement.com
+0.0.0.0 cache.celtra.com
+0.0.0.0 cache-ssl.celtra.com
+0.0.0.0 cachessl.celtra.com
 0.0.0.0 cache-test.addthis.com
 0.0.0.0 cache-uat.addthis.com
 0.0.0.0 caching.adrd.co
@@ -4799,6 +4946,8 @@
 0.0.0.0 campaigns.adpushup.com
 0.0.0.0 campaigns.bannersnack.com
 0.0.0.0 campaigns.bugsnag.com
+0.0.0.0 campaigns-cdn.celtra.com
+0.0.0.0 campaigns.celtra.com
 0.0.0.0 campaign.stg.apester.com
 0.0.0.0 campus.163.com
 0.0.0.0 canadianimmigrationpodcast.leadpages.co
@@ -4848,6 +4997,7 @@
 0.0.0.0 casestudies.applovin.com
 0.0.0.0 caseylewis.leadpages.co
 0.0.0.0 cashflowproperty.leadpages.co
+0.0.0.0 cashrequestonline.com
 0.0.0.0 casino-ro-casino-room.bannerflow.com
 0.0.0.0 cast-ad-j.adtdp.com
 0.0.0.0 cast-bid27-j.adtdp.com
@@ -4870,6 +5020,8 @@
 0.0.0.0 catapult.leadpages.co
 0.0.0.0 catcher.acxiom.com
 0.0.0.0 c.atdmt.com
+0.0.0.0 cawleyneatbwa-ie.celtra.com
+0.0.0.0 cbarsrv.com
 0.0.0.0 c.betrad.com
 0.0.0.0 cbg.163.com
 0.0.0.0 cbi.boldchat.com
@@ -4878,10 +5030,17 @@
 0.0.0.0 cbo.allinviews.com
 0.0.0.0 cbo.beeviewd.com
 0.0.0.0 cb-p.alcmpn.com
+0.0.0.0 cbsiadops.cbsi.com
+0.0.0.0 cbsi.com
+0.0.0.0 cbsileads.com
+0.0.0.0 cbslnk.cbsileads.com
+0.0.0.0 cbsnews.cbsi.com
+0.0.0.0 cbssports.cbsi.com
 0.0.0.0 c.bucksense.com
 0.0.0.0 c.bumlam.com
 0.0.0.0 cc.163.com
 0.0.0.0 ccardseu1.adx1.com
+0.0.0.0 c.casalemedia.com
 0.0.0.0 ccdn.adx1.com
 0.0.0.0 ccdn.brightedge.com
 0.0.0.0 ccs25iweb.acxiom.com
@@ -4991,10 +5150,11 @@
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.aralego.com
 0.0.0.0 cdn.arrivalist.com
-0.0.0.0 cdn-as.amanad.adtdp.com
 0.0.0.0 cdn.as.amanad.adtdp.com
+0.0.0.0 cdn-as.amanad.adtdp.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atdmt.com
+0.0.0.0 cdnativ.com
 0.0.0.0 cdn.atlassbx.com
 0.0.0.0 cdn.atwola.com
 0.0.0.0 cdnau1.abtasty.com
@@ -5025,6 +5185,7 @@
 0.0.0.0 cdn.caipiao.163.com
 0.0.0.0 cdncdn.adx1.com
 0.0.0.0 cdn.cdn.adx1.com
+0.0.0.0 cdn.celtra.com
 0.0.0.0 cdn.clinch.co
 0.0.0.0 cdn.cmp.advertising.com
 0.0.0.0 cdn.czx5eyk0exbhwp43ya.biz
@@ -5032,8 +5193,8 @@
 0.0.0.0 cdn-dashboard.c3metrics.com
 0.0.0.0 cdn.digitmate.bid
 0.0.0.0 cdn.districtm.ca
-0.0.0.0 cdn.dn.adx1.com
 0.0.0.0 cdndn.adx1.com
+0.0.0.0 cdn.dn.adx1.com
 0.0.0.0 cdndownload.c3metrics.com
 0.0.0.0 cdn.easyread.163.com
 0.0.0.0 cdneval.adnxs.com
@@ -5065,8 +5226,10 @@
 0.0.0.0 cdns-eu.brsrvr.com
 0.0.0.0 cdn-sic.33across.com
 0.0.0.0 cdn.silverpush.co
+0.0.0.0 cdnsoar.com
 0.0.0.0 cdn.staging.front.banners.advidi.com
 0.0.0.0 cdn-statics.admanmedia.com
+0.0.0.0 cdnsynd.com
 0.0.0.0 cdn.tacoda.at.atwola.com
 0.0.0.0 cdn-t.amazon-adsystem.com
 0.0.0.0 cdn.uc.atwola.com
@@ -5089,6 +5252,10 @@
 0.0.0.0 cedato-test.demo.apester.com
 0.0.0.0 cedb.bluekai.com
 0.0.0.0 cedexiscom.btttag.com
+0.0.0.0 celebrus.com
+0.0.0.0 celeritascdn.com
+0.0.0.0 celtra.com
+0.0.0.0 celtra-uber-personal-messaging.celtra.com
 0.0.0.0 central-agent-dsp.adapf.com
 0.0.0.0 centrex.adx1.com
 0.0.0.0 cepheus.iad.appboy.com
@@ -5146,6 +5313,7 @@
 0.0.0.0 chatbot.nie.163.com
 0.0.0.0 chat.zxkf.163.com
 0.0.0.0 ch.districtm.ca
+0.0.0.0 checkipv6.quickconnect.towf.cbarsrv.com
 0.0.0.0 checkout-boost.demo.beeketing.com
 0.0.0.0 check-printing-software-2000.apponic.com
 0.0.0.0 cheddartv-tagan.adlightning.com
@@ -5169,6 +5337,7 @@
 0.0.0.0 choosinggreatness.leadpages.co
 0.0.0.0 choosingnursing.leadpages.co
 0.0.0.0 chosencourse.leadpages.co
+0.0.0.0 chowhound.cbsi.com
 0.0.0.0 chrismttb.leadpages.co
 0.0.0.0 christianbroadcastne-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 christianbroadcastne-mkt-prod1-res.campaign.adobe.com
@@ -5230,6 +5399,7 @@
 0.0.0.0 click.admedia.com
 0.0.0.0 click.adpiano.com
 0.0.0.0 click.amanad.adtdp.com
+0.0.0.0 clickam.cbarsrv.com
 0.0.0.0 click.atdmt.com
 0.0.0.0 click.aweber.com
 0.0.0.0 click.bucksense.com
@@ -5237,9 +5407,10 @@
 0.0.0.0 click-east.acuityplatform.com
 0.0.0.0 clickeu.admailtiser.com
 0.0.0.0 click-euro.acuityplatform.com
+0.0.0.0 clicknj.cbarsrv.com
 0.0.0.0 clicks-4entertainment.adhese.com
-0.0.0.0 clicks.adsomenoise.adhese.com
 0.0.0.0 clicks-adsomenoise.adhese.com
+0.0.0.0 clicks.adsomenoise.adhese.com
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clicks-cadreon.adhese.com
 0.0.0.0 clicks-collishop.adhese.com
@@ -5256,8 +5427,8 @@
 0.0.0.0 clicks-orangegames.adhese.com
 0.0.0.0 clicks-pebblemedia.adhese.com
 0.0.0.0 clicks-rmb.adhese.com
-0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clicks-roularta.adhese.com
+0.0.0.0 clicks.roularta.adhese.com
 0.0.0.0 clicks-techeu.adhese.com
 0.0.0.0 clicks.thinkmedia.adhese.com
 0.0.0.0 clicks-trf.adhese.com
@@ -5272,6 +5443,7 @@
 0.0.0.0 client.airfind.com
 0.0.0.0 client.embed.orbee.co
 0.0.0.0 client-events.bookbub.com
+0.0.0.0 client-files.celtra.com
 0.0.0.0 clients.3d.amobee.com
 0.0.0.0 clients.adcolony.com
 0.0.0.0 clients.adrime.com
@@ -5298,6 +5470,7 @@
 0.0.0.0 cloudflare.abtasty.com
 0.0.0.0 cloudflare.cdneval.adnxs.com
 0.0.0.0 cloudfront.brainient.com
+0.0.0.0 cloudgz-ecs.gravityzone.bitdefender.comwf.cbarsrv.com
 0.0.0.0 cloud.mail.163.com
 0.0.0.0 cloud.silverpush.co
 0.0.0.0 cloud-test.adhese.com
@@ -5330,7 +5503,9 @@
 0.0.0.0 cm.lianmeng.360.cn
 0.0.0.0 cmp.advertising.com
 0.0.0.0 cm-p.alcmpn.com
+0.0.0.0 cmp-db.celtra.com
 0.0.0.0 cmp-dev.advertising.com
+0.0.0.0 cmsandbox.celtra.com
 0.0.0.0 cms.dun.163.com
 0.0.0.0 cms-xch.33across.com
 0.0.0.0 cms-xch-chicago.33across.com
@@ -5345,6 +5520,7 @@
 0.0.0.0 cn.avidly.com
 0.0.0.0 cn.bridgewell.com
 0.0.0.0 cn-east-3.c.163.com
+0.0.0.0 cnet.cbsi.com
 0.0.0.0 cnn.bounceexchange.com
 0.0.0.0 cnn.sdk.beemray.com
 0.0.0.0 cnova-mkt-prod1.campaign.adobe.com
@@ -5380,6 +5556,7 @@
 0.0.0.0 comcdn.adx1.com
 0.0.0.0 comeon-comeon.bannerflow.com
 0.0.0.0 com.foodsend.adx1.com
+0.0.0.0 comicbook.cbsi.com
 0.0.0.0 comment.api.163.com
 0.0.0.0 comment.auto.163.com
 0.0.0.0 comment.book.163.com
@@ -5396,12 +5573,16 @@
 0.0.0.0 community-staging.appdynamics.com
 0.0.0.0 compare.c3metrics.com
 0.0.0.0 compliance.aralego.com
+0.0.0.0 components.celtra.com
 0.0.0.0 composer.adcolony.com
 0.0.0.0 compuclever.leadpages.co
 0.0.0.0 conad-mid-stage1.campaign.adobe.com
+0.0.0.0 condenast.celtra.com
+0.0.0.0 condenastint.celtra.com
 0.0.0.0 confessionsofaparent.leadpages.co
 0.0.0.0 config20.adtilt.com
 0.0.0.0 config.ad-brix.com
+0.0.0.0 config.edge.skype.comwf.cbarsrv.com
 0.0.0.0 config.inmobi.cn
 0.0.0.0 config.mail.163.com
 0.0.0.0 config-partner-platform-client-933515454346.s3.amazonaws.com
@@ -5414,6 +5595,8 @@
 0.0.0.0 connect.bounceexchange.com
 0.0.0.0 connect-dashboard.beeketing.com
 0.0.0.0 connected.acxiom.com
+0.0.0.0 connectivitycheck.android.comopps.cbarsrv.com
+0.0.0.0 connectivitycheck.gstatic.comwf.cbarsrv.com
 0.0.0.0 connect.rom.miui.com.adserver.com
 0.0.0.0 connect.staging.bounceexchange.com
 0.0.0.0 consultant.adx1.com
@@ -5430,6 +5613,7 @@
 0.0.0.0 content.braze.com
 0.0.0.0 content.bronto.com
 0.0.0.0 content.buysellads.com
+0.0.0.0 content.celtra.com
 0.0.0.0 content-click.amanad.adtdp.com
 0.0.0.0 content.hybrid.ai
 0.0.0.0 content-imp.amanad.adtdp.com
@@ -5437,6 +5621,8 @@
 0.0.0.0 context.bestbuy.com
 0.0.0.0 controlcenter.brealtime.com
 0.0.0.0 control-test-ec.adaptv.advertising.com
+0.0.0.0 convammp.cbarsrv.com
+0.0.0.0 convchmp.cbarsrv.com
 0.0.0.0 conversation.feathr.co
 0.0.0.0 conversion.ace.advertising.com
 0.0.0.0 conversion.amobee.com
@@ -5445,7 +5631,12 @@
 0.0.0.0 convertalinktest.awin.com
 0.0.0.0 convert.bounceexchange.com
 0.0.0.0 conveump.admailtiser.com
+0.0.0.0 conveump.cbarsrv.com
+0.0.0.0 convhkmp.cbarsrv.com
+0.0.0.0 convlatbmp.cbarsrv.com
+0.0.0.0 convnjmp.cbarsrv.com
 0.0.0.0 convusmp.admailtiser.com
+0.0.0.0 convusmp.cbarsrv.com
 0.0.0.0 coocaa.admaster.com.cn
 0.0.0.0 coogee.autopilothq.com
 0.0.0.0 cookie.altitude-arena.com
@@ -5604,6 +5795,7 @@
 0.0.0.0 creative.js.adotube.com
 0.0.0.0 creativepreview-ui.awin.com
 0.0.0.0 creatives.bidtheatre.com
+0.0.0.0 creatives.cbsileads.com
 0.0.0.0 creatives.rockabox.co
 0.0.0.0 creativetools.adtheorent.com
 0.0.0.0 creative.us.cf.adotube.com
@@ -5614,6 +5806,7 @@
 0.0.0.0 creditmri-stage.arbigo.com
 0.0.0.0 credohouse.leadpages.co
 0.0.0.0 crid.bfmio.com
+0.0.0.0 cristamedia.celtra.com
 0.0.0.0 crm.adx1.com
 0.0.0.0 crm.adxtrem.com
 0.0.0.0 c.rockabox.co
@@ -5628,6 +5821,7 @@
 0.0.0.0 crt.silverpush.co
 0.0.0.0 crunch.devex.adblade.com
 0.0.0.0 crundingprod.amobee.com
+0.0.0.0 crus.cbarsrv.com
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 cs.adpiano.com
 0.0.0.0 cs.atdmt.com
@@ -5659,6 +5853,7 @@
 0.0.0.0 ct6b.addthis.com
 0.0.0.0 ct6z.addthis.com
 0.0.0.0 ct.c3tag.com
+0.0.0.0 ct.cbsi.com
 0.0.0.0 ctcmp01.acxiom.com
 0.0.0.0 ctcmt01.acxiom.com
 0.0.0.0 ctcogp01.acxiom.com
@@ -5769,6 +5964,7 @@
 0.0.0.0 d.applvn.com
 0.0.0.0 dariovignali.leadpages.co
 0.0.0.0 darkroom.analytics.console.aws.a2z.com
+0.0.0.0 darktrace.cbsi.com
 0.0.0.0 dartjewel-razor.demo.apester.com
 0.0.0.0 dash.adjust.com
 0.0.0.0 dash.applovin.com
@@ -5969,6 +6165,7 @@
 0.0.0.0 de.advertising.com
 0.0.0.0 dealmanager.buysellads.com
 0.0.0.0 dean.admanmedia.com
+0.0.0.0 dean.dev.dig.cbsi.com
 0.0.0.0 deantest.admanmedia.com
 0.0.0.0 de.at.atwola.com
 0.0.0.0 debug.adfarm1.adition.com
@@ -6017,6 +6214,7 @@
 0.0.0.0 dell-mid-stage3.campaign.adobe.com
 0.0.0.0 dellprod.saas.appdynamics.com
 0.0.0.0 deltaairlines.btttag.com
+0.0.0.0 delta.celebrus.com
 0.0.0.0 deltacomfort-mkt-prod1.campaign.adobe.com
 0.0.0.0 deltacomfort-mkt-stage1-res.campaign.adobe.com
 0.0.0.0 delta.native.ai
@@ -6110,6 +6308,7 @@
 0.0.0.0 deviceatlasdc.appspot.com
 0.0.0.0 device-detect.browsiprod.com
 0.0.0.0 device-fingerprintdb-v1.s3.amazonaws.com
+0.0.0.0 deviceful.celtra.com
 0.0.0.0 deviceinfo.capitalone.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
@@ -6145,6 +6344,7 @@
 0.0.0.0 devsql.adx1.com
 0.0.0.0 dev.starcom.facebook-ads.adtz.com
 0.0.0.0 dev-tags.adrd.co
+0.0.0.0 devtest.celebrus.com
 0.0.0.0 dev-track.adthrive.com
 0.0.0.0 dev.trial.facebook-ads.adtz.com
 0.0.0.0 dev-web2.adlithium.com
@@ -6180,6 +6380,7 @@
 0.0.0.0 direct-srv.buysellads.com
 0.0.0.0 dirham.7p.com
 0.0.0.0 discourse.amplitude.com
+0.0.0.0 discourse.celtra.com
 0.0.0.0 discover.adx1.com
 0.0.0.0 discover.apester.com
 0.0.0.0 discover-api.apester.com
@@ -6205,8 +6406,11 @@
 0.0.0.0 distro.agkn.com
 0.0.0.0 divinefeminineyoga.leadpages.co
 0.0.0.0 divinepurposeministries.7p.com
+0.0.0.0 divvycloud.cbsi.com
 0.0.0.0 diyinvest.leadpages.co
 0.0.0.0 dj-tobander.leadpages.co
+0.0.0.0 dl05.casalemedia.com
+0.0.0.0 dl11.casalemedia.com
 0.0.0.0 dl.163.com
 0.0.0.0 dl2.reg.163.com
 0.0.0.0 dl.admedia.com
@@ -6268,6 +6472,10 @@
 0.0.0.0 dmx-dev.districtm.ca
 0.0.0.0 dmx.districtm.ca
 0.0.0.0 dmx-staging.districtm.ca
+0.0.0.0 dn01.casalemedia.com
+0.0.0.0 dn03.casalemedia.com
+0.0.0.0 dn09.casalemedia.com
+0.0.0.0 dn14.casalemedia.com
 0.0.0.0 dn.adx1.com
 0.0.0.0 dnav.admedia.com
 0.0.0.0 dns001.apsalar.com
@@ -6341,6 +6549,7 @@
 0.0.0.0 ds.adapf.com
 0.0.0.0 dsa.hybrid.ai
 0.0.0.0 dsa-us.hybrid.ai
+0.0.0.0 ds.celtra.com
 0.0.0.0 ds-colruytgroup.adhese.com
 0.0.0.0 dsg2app.btttag.com
 0.0.0.0 dsg2.btttag.com
@@ -6367,6 +6576,8 @@
 0.0.0.0 dss.hybrid.ai
 0.0.0.0 dss-us.hybrid.ai
 0.0.0.0 dstrat.leadpages.co
+0.0.0.0 dsum.casalemedia.com
+0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dt.163.com
 0.0.0.0 dt2.163.com
 0.0.0.0 dt2.cbg.163.com
@@ -6376,6 +6587,7 @@
 0.0.0.0 dt.fw.adsafeprotected.com
 0.0.0.0 dtias.adsafeprotected.com
 0.0.0.0 dtm.advertising.com
+0.0.0.0 dtrack.celtra.com
 0.0.0.0 dtscout.rtb.adx1.com
 0.0.0.0 dtvc.adsafeprotected.com
 0.0.0.0 dtv.saas.appdynamics.com
@@ -6391,7 +6603,9 @@
 0.0.0.0 dun.163.com
 0.0.0.0 dustinseo.leadpages.co
 0.0.0.0 dvd.adelement.com
+0.0.0.0 dw.cbsi.com
 0.0.0.0 dwh-tracking.it.auth0.com
+0.0.0.0 dw.qa.cbsi.com
 0.0.0.0 dx.adpiano.com
 0.0.0.0 dx.alcmpn.com
 0.0.0.0 dxedge-prod-lb-946522505.us-east-1.elb.amazonaws.com
@@ -6414,6 +6628,7 @@
 0.0.0.0 dynastar.adventori.com
 0.0.0.0 dyn.bannerflow.com
 0.0.0.0 dyn-cdn.clinch.co
+0.0.0.0 dyson.dev.dig.cbsi.com
 0.0.0.0 e.163.com
 0.0.0.0 e1.addthis.com
 0.0.0.0 e23f2.7p.com
@@ -6442,6 +6657,10 @@
 0.0.0.0 eb2.3lift.com
 0.0.0.0 eb.alcmpn.com
 0.0.0.0 ebay.adnxs.com
+0.0.0.0 ebda-apac.casalemedia.com
+0.0.0.0 ebda-eu.casalemedia.com
+0.0.0.0 ebda-us-east.casalemedia.com
+0.0.0.0 ebda-us-west.casalemedia.com
 0.0.0.0 ebookdiscovery.leadpages.co
 0.0.0.0 ec2.3cinteractive.com
 0.0.0.0 ec2eu.adswizz.com
@@ -6553,6 +6772,7 @@
 0.0.0.0 enhanceyourmindset.leadpages.co
 0.0.0.0 enigma.adserver.com
 0.0.0.0 enricher.stg.apester.com
+0.0.0.0 ensighten.ccnag.com
 0.0.0.0 ent.163.com
 0.0.0.0 entercom.deliveryengine.adswizz.com
 0.0.0.0 enterprise.bannersnack.com
@@ -6584,6 +6804,7 @@
 0.0.0.0 eqb-ui-soak-03.wdc.bluekai.com
 0.0.0.0 eqb-ui-soak-04.wdc.bluekai.com
 0.0.0.0 equuleus.iad.appboy.com
+0.0.0.0 erindonahue.celtra.com
 0.0.0.0 erne.co
 0.0.0.0 er-p.alcmpn.com
 0.0.0.0 errlog.amanad.adtdp.com
@@ -6612,6 +6833,7 @@
 0.0.0.0 estoresite.aweber.com
 0.0.0.0 et2.w.inmobi.cn
 0.0.0.0 etihadairways-mkt-prod2-res.campaign.adobe.com
+0.0.0.0 etonline.cbsi.com
 0.0.0.0 et-p.alcmpn.com
 0.0.0.0 et.w.inmobi.cn
 0.0.0.0 et.w.vip.pek1.inmobi.cn
@@ -6622,6 +6844,7 @@
 0.0.0.0 eu-ams-1.admanmedia.com
 0.0.0.0 euasync01.admantx.com
 0.0.0.0 eucalypt.leadpages.co
+0.0.0.0 eu.cbarsrv.com
 0.0.0.0 eu-central-1-api.lift.acquia.com
 0.0.0.0 eu-central-1-capture.lift.acquia.com
 0.0.0.0 eu-central-1-decisionapi.lift.acquia.com
@@ -6730,6 +6953,7 @@
 0.0.0.0 ewrstage-rtbwin.applovin.com
 0.0.0.0 ews.adx1.com
 0.0.0.0 ewscripps-tagan.adlightning.com
+0.0.0.0 example.celtra.com
 0.0.0.0 excelcampus.leadpages.co
 0.0.0.0 excelmacromastery.leadpages.co
 0.0.0.0 exchangeyb.admailtiser.com
@@ -6749,6 +6973,7 @@
 0.0.0.0 expressllc-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 extapi-cmp.adsafeprotected.com
 0.0.0.0 extract.btserve.com
+0.0.0.0 eye.celtra.com
 0.0.0.0 eyetracking.innovation.abtasty.com
 0.0.0.0 ezpay.adx1.com
 0.0.0.0 f0.flyertown.ca
@@ -6759,6 +6984,7 @@
 0.0.0.0 f14-de.digitmate.bid
 0.0.0.0 f15.adventori.com
 0.0.0.0 f16.adventori.com
+0.0.0.0 f16.silaexpert02.frwf.cbarsrv.com
 0.0.0.0 f17.adventori.com
 0.0.0.0 f17-us-va.digitmate.bid
 0.0.0.0 f18.adventori.com
@@ -6835,6 +7061,7 @@
 0.0.0.0 f.bronto.com
 0.0.0.0 fbstats.adotube.com
 0.0.0.0 fcadev.saas.appdynamics.com
+0.0.0.0 f.cbarsrv.com
 0.0.0.0 fc-eu.adsymptotic.com
 0.0.0.0 fc-lb1.iad2.adsymptotic.com
 0.0.0.0 fc-lb2.iad2.adsymptotic.com
@@ -6867,6 +7094,7 @@
 0.0.0.0 file.beeketing.com
 0.0.0.0 file.boldchat.com
 0.0.0.0 file-cdn.beeketing.com
+0.0.0.0 filedownload.lenovo.comwf.cbarsrv.com
 0.0.0.0 files.airpr.com
 0.0.0.0 files.answermedia.com
 0.0.0.0 files.bannersnack.com
@@ -6875,6 +7103,7 @@
 0.0.0.0 files.browserhawk.com
 0.0.0.0 fileserver.adx1.com
 0.0.0.0 filestore.adition.com
+0.0.0.0 fileupload.cbsi.com
 0.0.0.0 film4u.7p.com
 0.0.0.0 filmbizdeizlenircom.adhood.com
 0.0.0.0 filmmakinglifestyle.leadpages.co
@@ -6887,6 +7116,7 @@
 0.0.0.0 fin.lianmeng.360.cn
 0.0.0.0 firefox-toolbar-multirow-bookmarks-toolbar.apponic.com
 0.0.0.0 firstamerican.saas.appdynamics.com
+0.0.0.0 firstlook.celtra.com
 0.0.0.0 fitnesse.adiant.com
 0.0.0.0 fitpros.leadpages.co
 0.0.0.0 five.cdn.auditude.com
@@ -6928,6 +7158,7 @@
 0.0.0.0 focusedbasedprofits.leadpages.co
 0.0.0.0 focusedbusiness.leadpages.co
 0.0.0.0 font.bannerflow.com
+0.0.0.0 fonts.cbsi.com
 0.0.0.0 fonts.sandbox.bannersnack.com
 0.0.0.0 fontsupload.staging.bannersnack.com
 0.0.0.0 font-vmg.s3.amazonaws.com
@@ -7462,8 +7693,8 @@
 0.0.0.0 ftptesting.c3metrics.com
 0.0.0.0 ftspwreset.acxiom.com
 0.0.0.0 fullscreen.xml.adx1.com
-0.0.0.0 fun-adx.admaster.com.cn
 0.0.0.0 fun.adx.admaster.com.cn
+0.0.0.0 fun-adx.admaster.com.cn
 0.0.0.0 fun.cm.admaster.com.cn
 0.0.0.0 funnelb.leadpages.co
 0.0.0.0 fusiondirectory.datadome.co
@@ -7477,6 +7708,7 @@
 0.0.0.0 fwapi.adsafeprotected.com
 0.0.0.0 fw.bapi.adsafeprotected.com
 0.0.0.0 fwcf.adsafeprotected.com
+0.0.0.0 fwcs01.casalemedia.com
 0.0.0.0 fwias.adsafeprotected.com
 0.0.0.0 fwmedia-mkt-prod2-cus.campaign.adobe.com
 0.0.0.0 fwvc.adsafeprotected.com
@@ -7502,6 +7734,7 @@
 0.0.0.0 game.cp.163.com
 0.0.0.0 gamer.163.com
 0.0.0.0 gamersfirst.7p.com
+0.0.0.0 gamespot.cbsi.com
 0.0.0.0 gamma40.leadpages.co
 0.0.0.0 gannett-heliosiq.adtechus.com
 0.0.0.0 gapi.beeketing.com
@@ -7552,6 +7785,7 @@
 0.0.0.0 geo.bannerflow.com
 0.0.0.0 geo.brainient.com
 0.0.0.0 geocdn.atlassbx.com
+0.0.0.0 geo.celtra.com
 0.0.0.0 geoedge.be
 0.0.0.0 geoinvesting.leadpages.co
 0.0.0.0 geoip.apester.com
@@ -7656,6 +7890,7 @@
 0.0.0.0 go.braze.com
 0.0.0.0 go.brightedge.com
 0.0.0.0 go.bronto.com
+0.0.0.0 go.celtra.com
 0.0.0.0 gogoogle.aniview.com
 0.0.0.0 gold.adroll.com
 0.0.0.0 golddust.leadpages.co
@@ -7696,6 +7931,7 @@
 0.0.0.0 grafana.k8s.region-001.s-use-1.braze.com
 0.0.0.0 grafana.k8s.stc-001.s-use-1.braze.com
 0.0.0.0 grafana.k8s.test-001.d-usw-2.braze.com
+0.0.0.0 grafana.monitoring.celtra.com
 0.0.0.0 grafana-mysql.infra.apester.com
 0.0.0.0 grafana.qa.bounceexchange.com
 0.0.0.0 grafana.stg.bounceexchange.com
@@ -7760,6 +7996,8 @@
 0.0.0.0 gz7.adx1.com
 0.0.0.0 h365.adx1.com
 0.0.0.0 h5.helix.inmobi.cn
+0.0.0.0 hackathon.celtra.com
+0.0.0.0 hackaton.celtra.com
 0.0.0.0 hackers.adpushup.com
 0.0.0.0 hackmaster.7p.com
 0.0.0.0 h.adx1.com
@@ -7769,6 +8007,7 @@
 0.0.0.0 hamanasi.btttag.com
 0.0.0.0 hamzaderneknet.adhood.com
 0.0.0.0 handbook.apester.com
+0.0.0.0 handbook.celtra.com
 0.0.0.0 handmadelife.leadpages.co
 0.0.0.0 handm-mkt-prod1-cus.campaign.adobe.com
 0.0.0.0 handymakr.leadpages.co
@@ -7813,6 +8052,8 @@
 0.0.0.0 healing.leadpages.co
 0.0.0.0 healthysteps.leadpages.co
 0.0.0.0 hearst1.eu.acxiom.com
+0.0.0.0 hearst.celtra.com
+0.0.0.0 hearstes.celtra.com
 0.0.0.0 heathrow1.eu.acxiom.com
 0.0.0.0 heatmap.buzzdeck.com
 0.0.0.0 hedefbuyumekcom.adhood.com
@@ -7868,6 +8109,7 @@
 0.0.0.0 hnd.3cinteractive.com
 0.0.0.0 hoag.iad.appboy.com
 0.0.0.0 hobby.163.com
+0.0.0.0 hogarth-au.celtra.com
 0.0.0.0 hoho.club
 0.0.0.0 hollandandbarrettbe.btttag.com
 0.0.0.0 hollandandbarrett.btttag.com
@@ -7934,8 +8176,12 @@
 0.0.0.0 ht.163.com
 0.0.0.0 ht.adx1.com
 0.0.0.0 ht.alcmpn.com
+0.0.0.0 ht.casalemedia.com
 0.0.0.0 htcdn.adx1.com
 0.0.0.0 htdn.adx1.com
+0.0.0.0 ht-lb.casalemedia.com
+0.0.0.0 htlb.casalemedia.com
+0.0.0.0 ht-lb-sec.casalemedia.com
 0.0.0.0 html5.adsrvr.cn
 0.0.0.0 html5.host.bannerflow.com
 0.0.0.0 htn.adx1.com
@@ -7945,6 +8191,7 @@
 0.0.0.0 httcdn.adx1.com
 0.0.0.0 httdn.adx1.com
 0.0.0.0 httn.adx1.com
+0.0.0.0 http.00.s.sophosxl.netopps.cbarsrv.com
 0.0.0.0 http.adx1.com
 0.0.0.0 httpcdn.adx1.com
 0.0.0.0 httpdn.adx1.com
@@ -7962,7 +8209,9 @@
 0.0.0.0 hub.automatad.com
 0.0.0.0 hub.awin.com
 0.0.0.0 hub.bannerflow.com
+0.0.0.0 hub.celtra.com
 0.0.0.0 hubert.iad-03.braze.com
+0.0.0.0 hub-user.celtra.com
 0.0.0.0 hudson.adx1.com
 0.0.0.0 hughculver.leadpages.co
 0.0.0.0 hugogirard.leadpages.co
@@ -8016,11 +8265,13 @@
 0.0.0.0 ibilisk.iad-01.braze.com
 0.0.0.0 ibis.iad-03.braze.com
 0.0.0.0 ibn.adx1.com
+0.0.0.0 ibsys.celtra.com
 0.0.0.0 i.bucksense.com
 0.0.0.0 ibv.doubleclick.rtb.adx1.com
 0.0.0.0 ic.adaraanalytics.com
 0.0.0.0 icaria.iad-01.braze.com
 0.0.0.0 icarus-wings.admanmedia.com
+0.0.0.0 i.casalemedia.com
 0.0.0.0 i.c.bing.com
 0.0.0.0 ice.aws.amobee.com
 0.0.0.0 ichica-wn-test1.adtdp.com
@@ -8044,11 +8295,13 @@
 0.0.0.0 id.adx1.com
 0.0.0.0 id.amgdgt.com
 0.0.0.0 idautomation-code-128-barcode-fonts.apponic.com
+0.0.0.0 i.d.cbsi.com
 0.0.0.0 idealindustries.campaign.adobe.com
 0.0.0.0 ideas.bronto.com
 0.0.0.0 identity.appdynamics.com
 0.0.0.0 identity.msrv.saas.appdynamics.com
 0.0.0.0 identity-staging.appdynamics.com
+0.0.0.0 idgcommunications.celtra.com
 0.0.0.0 id-marco-polo.adapf.com
 0.0.0.0 id-ns1.amgdgt.com
 0.0.0.0 idobi.adswizz.com
@@ -8071,6 +8324,7 @@
 0.0.0.0 ihoi.adx1.com
 0.0.0.0 ihsco.saas.appdynamics.com
 0.0.0.0 ii.adaraanalytics.com
+0.0.0.0 i.i.cbsi.com
 0.0.0.0 ii.mixmarket.biz
 0.0.0.0 ikanobanken-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 ikanobanken-mkt-prod1-res.campaign.adobe.com
@@ -8093,6 +8347,7 @@
 0.0.0.0 imagec15.247realmedia.com
 0.0.0.0 imagec16.247realmedia.com
 0.0.0.0 imagec17.247realmedia.com
+0.0.0.0 image.cbsi.com
 0.0.0.0 image.invitation.cantonfair.org.cn
 0.0.0.0 imagen01.247realmedia.com
 0.0.0.0 imagen03.247realmedia.com
@@ -8142,6 +8397,8 @@
 0.0.0.0 img.atdmt.com
 0.0.0.0 img.boostadvtrack.com
 0.0.0.0 img.c3tag.com
+0.0.0.0 img.casalemedia.com
+0.0.0.0 img.cbsi.com
 0.0.0.0 imgext.spartoo.at
 0.0.0.0 imgext.spartoo.be
 0.0.0.0 img-origin.prod.adtechus.com
@@ -8157,17 +8414,26 @@
 0.0.0.0 imperial.leadpages.co
 0.0.0.0 imply.blis.com
 0.0.0.0 imp.m.altitude-arena.com
+0.0.0.0 imprammp.cbarsrv.com
+0.0.0.0 imprchmp.cbarsrv.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impreump.admailtiser.com
+0.0.0.0 impreump.cbarsrv.com
+0.0.0.0 imprhkmp.cbarsrv.com
+0.0.0.0 impriatbmp.cbarsrv.com
+0.0.0.0 imprlatbmp.cbarsrv.com
+0.0.0.0 imprnjmp.cbarsrv.com
 0.0.0.0 improvementscatalog.btttag.com
 0.0.0.0 improvides.leadpages.co
 0.0.0.0 imprusmp.admailtiser.com
+0.0.0.0 imprusmp.cbarsrv.com
 0.0.0.0 imps.adentifi.com
 0.0.0.0 in.admedia.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 inbound.aweber.com
 0.0.0.0 inbound.campaign.adobe.com
 0.0.0.0 inc.adblade.com
+0.0.0.0 i.n.cbsi.com
 0.0.0.0 in.cdn.automatad.com
 0.0.0.0 incoming001.bronto.com
 0.0.0.0 incoming002.bronto.com
@@ -8219,6 +8485,7 @@
 0.0.0.0 inkorabbus.iad-03.braze.com
 0.0.0.0 inkscape.apponic.com
 0.0.0.0 inline.admedia.com
+0.0.0.0 inmobi.celtra.com
 0.0.0.0 inmobi.cn
 0.0.0.0 innersecrets.leadpages.co
 0.0.0.0 innovatemontana.leadpages.co
@@ -8226,6 +8493,7 @@
 0.0.0.0 innovative.saas.appdynamics.com
 0.0.0.0 inotes.na.dir.bung.com
 0.0.0.0 inside.adpushup.com
+0.0.0.0 insideedition.cbsi.com
 0.0.0.0 insidertips.leadpages.co
 0.0.0.0 insight.3cinteractive.com
 0.0.0.0 insight-760077375.us-east-1.elb.amazonaws.com
@@ -8234,6 +8502,7 @@
 0.0.0.0 insights.adswizz.com
 0.0.0.0 insights.bluekai.com
 0.0.0.0 insights-canary.viafoura.co
+0.0.0.0 insights.celebrus.com
 0.0.0.0 insights.viafoura.co
 0.0.0.0 insights.vip.aetnd.com
 0.0.0.0 inspiredlife.leadpages.co
@@ -8243,6 +8512,7 @@
 0.0.0.0 instantpersonalization.abtasty.com
 0.0.0.0 instant-virus-killer.apponic.com
 0.0.0.0 instore-audience.pb.adition.com
+0.0.0.0 instream.casalemedia.com
 0.0.0.0 insurancesolutions.acxiom.com
 0.0.0.0 intact.campaign.adobe.com
 0.0.0.0 int.admedia.com
@@ -8256,6 +8526,7 @@
 0.0.0.0 intelligence.amobee.com
 0.0.0.0 intelligentleads.acxiom.com
 0.0.0.0 intellimize.co
+0.0.0.0 intent.cbsi.com
 0.0.0.0 interaction.apester.com
 0.0.0.0 interaction.stg.apester.com
 0.0.0.0 interaction.viafoura.co
@@ -8293,17 +8564,20 @@
 0.0.0.0 iosads22.adcolony.com
 0.0.0.0 iosads24.adcolony.com
 0.0.0.0 ip.163.com
+0.0.0.0 ip2.casalemedia.com
 0.0.0.0 ipad.vip.126.com
 0.0.0.0 ipbelgium.deliveryengine.adswizz.com
+0.0.0.0 ip.casalemedia.com
 0.0.0.0 ipdata.co
 0.0.0.0 ipfind.co
 0.0.0.0 ip-grabber.apponic.com
 0.0.0.0 iphoneps.leadpages.co
 0.0.0.0 ipinyou.cm.admaster.com.cn
-0.0.0.0 iplay.163.com
 0.0.0.0 i.play.163.com
+0.0.0.0 iplay.163.com
 0.0.0.0 iplookup.adready.com
 0.0.0.0 ip-pinger.apponic.com
+0.0.0.0 ip-sec.casalemedia.com
 0.0.0.0 ipservice.163.com
 0.0.0.0 ips.innovation.abtasty.com
 0.0.0.0 ipv4.adrta.com
@@ -8340,6 +8614,9 @@
 0.0.0.0 ir.vip.126.com
 0.0.0.0 isapps.acxiom.com
 0.0.0.0 isappscert.acxiom.com
+0.0.0.0 isg01.casalemedia.com
+0.0.0.0 isg.cbsi.com
+0.0.0.0 isgprivacy.cbsi.com
 0.0.0.0 ishinelive.leadpages.co
 0.0.0.0 ismaili.7p.com
 0.0.0.0 is.mixmarket.biz
@@ -8352,6 +8629,8 @@
 0.0.0.0 it.advertisercommunity.com
 0.0.0.0 itau-mid-prod1-cus.campaign.adobe.com
 0.0.0.0 it.bucksense.com
+0.0.0.0 i.t.cbsi.com
+0.0.0.0 i.techrepublic.cbsi.com
 0.0.0.0 items.admedia.com
 0.0.0.0 itportal.acxiom.com
 0.0.0.0 itportaldocs.acxiom.com
@@ -8488,6 +8767,7 @@
 0.0.0.0 js.bizographics.com
 0.0.0.0 js.brealtime.com
 0.0.0.0 js.bronto.com
+0.0.0.0 js.casalemedia.com
 0.0.0.0 jsconfig.adsafeprotected.com
 0.0.0.0 js.datadome.co
 0.0.0.0 js.dev.brealtime.com
@@ -8495,6 +8775,7 @@
 0.0.0.0 jss.acxiom.com
 0.0.0.0 jss.adroll.com
 0.0.0.0 jss.aweber.com
+0.0.0.0 js-sec.casalemedia.com
 0.0.0.0 js-staging.ad-score.com
 0.0.0.0 js.w.inmobi.cn
 0.0.0.0 jtillc.leadpages.co
@@ -8507,6 +8788,7 @@
 0.0.0.0 jump.apsalar.com
 0.0.0.0 juniperips.conway.acxiom.com
 0.0.0.0 justdance.163.com
+0.0.0.0 justmob.celtra.com
 0.0.0.0 justsellhomes.leadpages.co
 0.0.0.0 jvinsidercircle.leadpages.co
 0.0.0.0 jvlistpro.aweber.com
@@ -8534,6 +8816,7 @@
 0.0.0.0 karamansonsuzhabercom.adhood.com
 0.0.0.0 karateamerica.leadpages.co
 0.0.0.0 karencovy.leadpages.co
+0.0.0.0 kargo.celtra.com
 0.0.0.0 karstenkoerwer.leadpages.co
 0.0.0.0 katespadewww.btttag.com
 0.0.0.0 kathrynjones.leadpages.co
@@ -8555,9 +8838,11 @@
 0.0.0.0 kehillah-vnei-yishrael-ahavath-shalom-rav.7p.com
 0.0.0.0 keiko11.leadpages.co
 0.0.0.0 keithhaddrill.leadpages.co
+0.0.0.0 kellycarmody.celtra.com
 0.0.0.0 kellyholmes.leadpages.co
 0.0.0.0 kenshoo.c3metrics.com
 0.0.0.0 keyrep.apponic.com
+0.0.0.0 keyring.cbsi.com
 0.0.0.0 keywee.co
 0.0.0.0 kf.163.com
 0.0.0.0 khafankadeh.7p.com
@@ -8794,6 +9079,7 @@
 0.0.0.0 livepreview.adform.com
 0.0.0.0 live.scvapi.eu.acxiom.com
 0.0.0.0 live-tag.bannersnack.com
+0.0.0.0 liveupdate.symantecliveupdate.comwf.cbarsrv.com
 0.0.0.0 livingly-tagan.adlightning.com
 0.0.0.0 livingspaces.btttag.com
 0.0.0.0 ljmasdf.blog.163.com
@@ -8867,6 +9153,7 @@
 0.0.0.0 lpacd.7p.com
 0.0.0.0 lp.advidi.com
 0.0.0.0 lp.apester.com
+0.0.0.0 lp.celtra.com
 0.0.0.0 lps.leadpages.co
 0.0.0.0 lrcm.amgdgt.com
 0.0.0.0 lrtest.admanmedia.com
@@ -8947,6 +9234,7 @@
 0.0.0.0 mads.advertising.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads.amazon.com
+0.0.0.0 mads.cbsi.com
 0.0.0.0 m.adsymptotic.com
 0.0.0.0 m.adx1.com
 0.0.0.0 mag108.leadpages.co
@@ -8993,6 +9281,8 @@
 0.0.0.0 mailbox.7p.com
 0.0.0.0 mail.brightedge.com
 0.0.0.0 mail.card6.adx1.com
+0.0.0.0 mail.cbsi.com
+0.0.0.0 mail.celebrus.com
 0.0.0.0 mail.development.braze.com
 0.0.0.0 mail.email.advertisingbox.com
 0.0.0.0 mail.erne.co
@@ -9001,6 +9291,7 @@
 0.0.0.0 mailing.awin.com
 0.0.0.0 mail-inspector.apponic.com
 0.0.0.0 mail-name.7p.com
+0.0.0.0 mailonline-uk.celtra.com
 0.0.0.0 mail.optout.aaxads.com
 0.0.0.0 mail-p1.adroll.com
 0.0.0.0 mail.qiye.163.com
@@ -9081,6 +9372,7 @@
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.cn
 0.0.0.0 match.bnmla.com
+0.0.0.0 match.cbarsrv.com
 0.0.0.0 materiales.adx1.com
 0.0.0.0 math-aids-biblehub-tagan.adlightning.com
 0.0.0.0 math-aids-onecountry-tagan.adlightning.com
@@ -9102,6 +9394,7 @@
 0.0.0.0 max.bronto.com
 0.0.0.0 maxcdn.airfind.com
 0.0.0.0 maxmilhas-mkt-prod1.campaign.adobe.com
+0.0.0.0 maxpreps.cbsi.com
 0.0.0.0 mayo.saas.appdynamics.com
 0.0.0.0 mayotest.saas.appdynamics.com
 0.0.0.0 mb2.adx1.com
@@ -9174,6 +9467,7 @@
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediation.adpushup.com
 0.0.0.0 meditationforeverydaylife.leadpages.co
+0.0.0.0 medusa-api.cbsileads.com
 0.0.0.0 meet.adx1.com
 0.0.0.0 meetatces.clinch.co
 0.0.0.0 meet.awin.com
@@ -9181,6 +9475,7 @@
 0.0.0.0 meetings.amplitude.com
 0.0.0.0 meetme.avc.acxiom.com
 0.0.0.0 meetmeprod.amobee.com
+0.0.0.0 meetups.celtra.com
 0.0.0.0 megroup.aweber.com
 0.0.0.0 meiersweltreisen.btttag.com
 0.0.0.0 meijergreatlakeslimitedpartnership-mkt-prod2.campaign.adobe.com
@@ -9278,6 +9573,7 @@
 0.0.0.0 mirrror.aweber.com
 0.0.0.0 misirun.adapf.com
 0.0.0.0 mis.mixmarket.biz
+0.0.0.0 misterbell.celtra.com
 0.0.0.0 misumi.saas.appdynamics.com
 0.0.0.0 misum-pov.saas.appdynamics.com
 0.0.0.0 mitu-tagan.adlightning.com
@@ -9286,6 +9582,7 @@
 0.0.0.0 mixtape.leadpages.co
 0.0.0.0 mkey.163.com
 0.0.0.0 mkt.adx1.com
+0.0.0.0 mkt.celtra.com
 0.0.0.0 mkto.bronto.com
 0.0.0.0 mkto-panda123.music.blog
 0.0.0.0 ml.adrelevantis.com
@@ -9329,11 +9626,13 @@
 0.0.0.0 mobile.facebook.com.and.ovh.adx1.com
 0.0.0.0 mobilekohls.btttag.com
 0.0.0.0 mobileposse-tagan.adlightning.com
+0.0.0.0 mobileprism.deco.cbsi.com
 0.0.0.0 mobileproxy.bluekai.com
 0.0.0.0 mobilespreeconf.adjust.com
 0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 mobile-static-src.adsafeprotected.com
 0.0.0.0 mobile.uu.163.com
+0.0.0.0 mobkoi-uk.celtra.com
 0.0.0.0 mob-uu.dev.webapp.163.com
 0.0.0.0 mockapi.bfmio.com
 0.0.0.0 modernize13271z.btttag.com
@@ -9392,6 +9691,8 @@
 0.0.0.0 mpp4.adx1.com
 0.0.0.0 mp-p.alcmpn.com
 0.0.0.0 mpression.adjust.com
+0.0.0.0 mprlatbmp.cbarsrv.com
+0.0.0.0 mprnjmp.cbarsrv.com
 0.0.0.0 mpush.163.com
 0.0.0.0 mraidjs.adtilt.com
 0.0.0.0 mr.c.bing.com
@@ -9747,6 +10048,7 @@
 0.0.0.0 nectarsleep500z.btttag.com
 0.0.0.0 ned.admanmedia.com
 0.0.0.0 nemesis.admarvel.com
+0.0.0.0 neo4j.dev.dig.cbsi.com
 0.0.0.0 neo.amobee.com
 0.0.0.0 neo-career.adapf.com
 0.0.0.0 neozabbix.apsalar.com
@@ -9758,6 +10060,7 @@
 0.0.0.0 net.admedia.com
 0.0.0.0 netcat.apponic.com
 0.0.0.0 netscape.apponic.com
+0.0.0.0 net-tr.casalemedia.com
 0.0.0.0 netvios.163.com
 0.0.0.0 netweb.7p.com
 0.0.0.0 networkstats.advidi.com
@@ -9777,8 +10080,10 @@
 0.0.0.0 news.adx1.com
 0.0.0.0 news.blis.com
 0.0.0.0 news.cbg.163.com
+0.0.0.0 news.cbsi.com
 0.0.0.0 news.fa.163.com
 0.0.0.0 newsfeed.adx1.com
+0.0.0.0 news.genapi.euwf.cbarsrv.com
 0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 newslettersystem.leadpages.co
 0.0.0.0 newsmaxmedia.campaign.adobe.com
@@ -9795,6 +10100,8 @@
 0.0.0.0 next.native.ai
 0.0.0.0 nextsteppage.leadpages.co
 0.0.0.0 nexus.acxiom.com
+0.0.0.0 nfl.dev.dig.cbsi.com
+0.0.0.0 nfl.dig.cbsi.com
 0.0.0.0 nft.adsttc.com
 0.0.0.0 nfuse.adx1.com
 0.0.0.0 nf.vip.126.com
@@ -9815,6 +10122,7 @@
 0.0.0.0 nj.amobee.com
 0.0.0.0 nl.advertising.com
 0.0.0.0 nl.alcmpn.com
+0.0.0.0 nl.celtra.com
 0.0.0.0 nlearn.adjust.com
 0.0.0.0 nnn.sele.co
 0.0.0.0 no.advertising.com
@@ -9848,6 +10156,7 @@
 0.0.0.0 nova.deliveryengine.adswizz.com
 0.0.0.0 novoeu.saas.appdynamics.com
 0.0.0.0 npc.gux.163.com
+0.0.0.0 npm.celtra.com
 0.0.0.0 npm.districtm.ca
 0.0.0.0 npr.deliveryengine.adswizz.com
 0.0.0.0 npr-news.streaming.adswizz.com
@@ -9956,6 +10265,7 @@
 0.0.0.0 nurtureyournetwork.leadpages.co
 0.0.0.0 nvda-mkt-stage1-res.campaign.adobe.com
 0.0.0.0 nvidia-graphics-driver-windows-10-64-bit.apponic.com
+0.0.0.0 ny13.casalemedia.com
 0.0.0.0 nyc.events.brightedge.com
 0.0.0.0 nyidt.adsafeprotected.com
 0.0.0.0 nyifw.adsafeprotected.com
@@ -9966,17 +10276,18 @@
 0.0.0.0 nyl.acxiom.com
 0.0.0.0 nym1.adnxs.com
 0.0.0.0 nym1.b.adnxs.com
-0.0.0.0 nym1--ib.adnxs.com
 0.0.0.0 nym1-ib.adnxs.com
+0.0.0.0 nym1--ib.adnxs.com
 0.0.0.0 nym1.ib.adnxs.com
-0.0.0.0 nym1.mobile.adnxs.com
 0.0.0.0 nym1-mobile.adnxs.com
+0.0.0.0 nym1.mobile.adnxs.com
 0.0.0.0 nym2.adnxs.com
 0.0.0.0 nym2.ib.adnxs.com
 0.0.0.0 nym2-tr.adnxs.com
 0.0.0.0 nym.adnxs.com
 0.0.0.0 nytimes.adready.com
 0.0.0.0 nyu.c3metrics.com
+0.0.0.0 nzme.celtra.com
 0.0.0.0 nzme.deliveryengine.adswizz.com
 0.0.0.0 o1619.abmail.internal.braze.com
 0.0.0.0 o1.email.applovin.com
@@ -10174,6 +10485,7 @@
 0.0.0.0 ol.uk.at.atwola.com
 0.0.0.0 omax.admarvel.com
 0.0.0.0 omax-apac.admarvel.com
+0.0.0.0 om.cbsi.com
 0.0.0.0 omgmta.qq.com.adserver.com
 0.0.0.0 on.aggregateknowledge.com
 0.0.0.0 onclusive-publisher-test.airpr.com
@@ -10188,6 +10500,8 @@
 0.0.0.0 online-dating.7p.com
 0.0.0.0 on-prem-testing.bugsnag.com
 0.0.0.0 ons1.saas.appdynamics.com
+0.0.0.0 onvlatbmp.cbarsrv.com
+0.0.0.0 oops.cbarsrv.com
 0.0.0.0 op.campus.163.com
 0.0.0.0 open.163.com
 0.0.0.0 openadid.adnxs.com
@@ -10213,6 +10527,7 @@
 0.0.0.0 opera-mini.apponic.com
 0.0.0.0 opera-next.apponic.com
 0.0.0.0 opmlabs.leadpages.co
+0.0.0.0 opps.cbarsrv.com
 0.0.0.0 ops.amplitude.com
 0.0.0.0 ops.appdynamics.com
 0.0.0.0 opstest.valo.ai
@@ -10249,6 +10564,7 @@
 0.0.0.0 origin.addthis.com
 0.0.0.0 origin.algovid.com
 0.0.0.0 origin.bkrtx.com
+0.0.0.0 origin-img.cbsi.com
 0.0.0.0 originstutoring.leadpages.co
 0.0.0.0 orion.iad.appboy.com
 0.0.0.0 orion.intelligence.amobee.com
@@ -10272,8 +10588,11 @@
 0.0.0.0 outlook-a.adx1.com
 0.0.0.0 outlook-linker.apponic.com
 0.0.0.0 outreachoffers.leadpages.co
+0.0.0.0 outstream.casalemedia.com
+0.0.0.0 out-there-media.celtra.com
 0.0.0.0 overlay.admedia.com
 0.0.0.0 owa1.amobee.com
+0.0.0.0 owl.cbsi.com
 0.0.0.0 owserv.aniview.com
 0.0.0.0 ox-d.adizio.com
 0.0.0.0 p12339.acuityplatform.com
@@ -10369,6 +10688,7 @@
 0.0.0.0 partners.abtasty.com
 0.0.0.0 partners.ad-brix.com
 0.0.0.0 partners.adjust.com
+0.0.0.0 partners.celebrus.com
 0.0.0.0 partner.w.cp.163.com
 0.0.0.0 pa.silverpush.co
 0.0.0.0 passbacks.districtm.ca
@@ -10415,6 +10735,7 @@
 0.0.0.0 pbx.adx1.com
 0.0.0.0 pc.alcmpn.com
 0.0.0.0 pc.arrivalist.com
+0.0.0.0 p.cdnsynd.com
 0.0.0.0 pcor3.manifest.auditude.com
 0.0.0.0 pcor4.manifest.auditude.com
 0.0.0.0 pcor5.manifest.auditude.com
@@ -10474,6 +10795,7 @@
 0.0.0.0 photos-us.bazaarvoice.com
 0.0.0.0 ph-p.alcmpn.com
 0.0.0.0 phpmyadmin.staging.bannersnack.com
+0.0.0.0 phx1-mx.cbsi.com
 0.0.0.0 pi.adx1.com
 0.0.0.0 pi.alcmpn.com
 0.0.0.0 piamcadams.leadpages.co
@@ -10650,15 +10972,15 @@
 0.0.0.0 pool-colruytgroup.adhese.com
 0.0.0.0 pool-demo.adhese.com
 0.0.0.0 pool-doc.adhese.com
-0.0.0.0 pool-ipm.adhese.com
 0.0.0.0 pool.ipm.adhese.com
+0.0.0.0 pool-ipm.adhese.com
 0.0.0.0 pool-lannoo.adhese.com
 0.0.0.0 pool-mannenmedia.adhese.com
 0.0.0.0 pool-mediafin.adhese.com
 0.0.0.0 pool-newsmonkey.adhese.com
 0.0.0.0 pool-orangegames.adhese.com
-0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool-pebblemedia.adhese.com
+0.0.0.0 pool.pebblemedia.adhese.com
 0.0.0.0 pool-redgames.adhese.com
 0.0.0.0 pool-rmb.adhese.com
 0.0.0.0 pool-roularta.adhese.com
@@ -10679,6 +11001,7 @@
 0.0.0.0 pop.adrcdn.com
 0.0.0.0 pop.adverline.com
 0.0.0.0 pop.adx1.com
+0.0.0.0 popculture.cbsi.com
 0.0.0.0 pophm.qiye.163.com
 0.0.0.0 pophz.qiye.163.com
 0.0.0.0 poplar.geek.163.com
@@ -10711,6 +11034,7 @@
 0.0.0.0 post.adxyield.com
 0.0.0.0 post.adzmath.com
 0.0.0.0 post.agentanalytics.com
+0.0.0.0 post.cdnsynd.com
 0.0.0.0 postmaster.bannersnack.com
 0.0.0.0 post.update.3lift.com
 0.0.0.0 post.update.adroll.com
@@ -10783,6 +11107,7 @@
 0.0.0.0 preview.adotmob.com
 0.0.0.0 preview.console.appnexus.com
 0.0.0.0 preview-m.next.163.com
+0.0.0.0 preview-sandbox.celtra.com
 0.0.0.0 preview.sele.co
 0.0.0.0 preview.trigr.co
 0.0.0.0 preview.uatrmb.adhese.com
@@ -10849,6 +11174,7 @@
 0.0.0.0 products.awin.com
 0.0.0.0 producttest.atom.adjust.com
 0.0.0.0 profile.adkmob.com
+0.0.0.0 programmatic-test.celtra.com
 0.0.0.0 projectedreach.bluekai.com
 0.0.0.0 projectedreach-int.bluekai.com
 0.0.0.0 prometheus.beeketing.com
@@ -10939,6 +11265,7 @@
 0.0.0.0 pulse.7p.com
 0.0.0.0 pulse.amobee.com
 0.0.0.0 pulse.apester.com
+0.0.0.0 pulse.casalemedia.com
 0.0.0.0 pulsedm-ap.amobee.com
 0.0.0.0 pulsedm-ap-test.amobee.com
 0.0.0.0 pulsepoint-platform.rtb.adx1.com
@@ -10946,10 +11273,13 @@
 0.0.0.0 pulse.synergy.net.au
 0.0.0.0 puma.adotube.com
 0.0.0.0 punchbowl.alcmpn.com
+0.0.0.0 purchmedia.celtra.com
+0.0.0.0 pursuit.dev.dig.cbsi.com
 0.0.0.0 push.adventurefeeds.com
 0.0.0.0 push-api.avidly.com
 0.0.0.0 push.aralego.com
 0.0.0.0 pushbank.services.adx1.com
+0.0.0.0 push.bitdefender.netwf.cbarsrv.com
 0.0.0.0 push.bluekai.com
 0.0.0.0 push-dmp.aralego.com
 0.0.0.0 pv.amanad.adtdp.com
@@ -11016,6 +11346,7 @@
 0.0.0.0 quanzi.platform.mall.163.com
 0.0.0.0 queenofquinoa.leadpages.co
 0.0.0.0 queroinvestiragora.leadpages.co
+0.0.0.0 queryless.secure.cbsi.com
 0.0.0.0 query.silverpush.co
 0.0.0.0 queue.beeketing.com
 0.0.0.0 quick-facebook-chat.demo.beeketing.com
@@ -11076,6 +11407,7 @@
 0.0.0.0 rc2.tr.blismedia.com
 0.0.0.0 rc.adition.com
 0.0.0.0 rc.api.adx1.com
+0.0.0.0 r.casalemedia.com
 0.0.0.0 rc.d41.co
 0.0.0.0 rce.reamp.com.br
 0.0.0.0 rcibanque-mkt-prod1-lb.campaign.adobe.com
@@ -11227,6 +11559,7 @@
 0.0.0.0 res.ayads.co
 0.0.0.0 researchmethodologist.leadpages.co
 0.0.0.0 resenhavirtual.leadpages.co
+0.0.0.0 reservation.squashjeudepaume.comwf.cbarsrv.com
 0.0.0.0 resizeall.bannersnack.com
 0.0.0.0 resizeall.staging.bannersnack.com
 0.0.0.0 resize.sandbox.bannersnack.com
@@ -11248,6 +11581,7 @@
 0.0.0.0 retargetproduit.adverline.com
 0.0.0.0 ret.browserhawk.com
 0.0.0.0 reuniontech-tagan.adlightning.com
+0.0.0.0 rev.cbsi.com
 0.0.0.0 reveal.districtm.ca
 0.0.0.0 review1.gs.wscs.163.com
 0.0.0.0 review.gs.wscs.163.com
@@ -11259,6 +11593,7 @@
 0.0.0.0 rewarding4.sele.co
 0.0.0.0 rewarding5.sele.co
 0.0.0.0 rex.bnmla.com
+0.0.0.0 rex.dev.dig.cbsi.com
 0.0.0.0 rex-east.bnmla.com
 0.0.0.0 rex-west.bnmla.com
 0.0.0.0 rfgthyjuki.7p.com
@@ -11270,6 +11605,7 @@
 0.0.0.0 richland.adx1.com
 0.0.0.0 richpryn.leadpages.co
 0.0.0.0 rick.adx1.com
+0.0.0.0 ricochet.cbsi.com
 0.0.0.0 rid.reamp.com.br
 0.0.0.0 rita.admanmedia.com
 0.0.0.0 rm2.adtilt.com
@@ -11295,10 +11631,12 @@
 0.0.0.0 rocket.adserver.com
 0.0.0.0 rockyourbodfitness.leadpages.co
 0.0.0.0 rodogoy.leadpages.co
+0.0.0.0 rogers.celtra.com
 0.0.0.0 roh.163.com
 0.0.0.0 roi.airpr.com
 0.0.0.0 roi.bizible.com
 0.0.0.0 roimedia-tagan.adlightning.com
+0.0.0.0 rok.cbsi.com
 0.0.0.0 roktb.adx1.com
 0.0.0.0 rollhands.adroll.com
 0.0.0.0 rollins.c3metrics.com
@@ -11314,6 +11652,7 @@
 0.0.0.0 rosselgroup.sdk.beemray.com
 0.0.0.0 rossignol.adventori.com
 0.0.0.0 rotanev.iad-03.braze.com
+0.0.0.0 rovio.celtra.com
 0.0.0.0 roxot-player.demo.apester.com
 0.0.0.0 roxot-sdk.demo.apester.com
 0.0.0.0 royproduction.7p.com
@@ -11333,6 +11672,7 @@
 0.0.0.0 rs.adledge.com
 0.0.0.0 rs-ap.adtdp.com
 0.0.0.0 r.scoota.co
+0.0.0.0 r-sec.casalemedia.com
 0.0.0.0 rs-j.adtdp.com
 0.0.0.0 rs.orbee.co
 0.0.0.0 rs-p.alcmpn.com
@@ -11388,8 +11728,8 @@
 0.0.0.0 rtbstaging.admaxim.com
 0.0.0.0 rtbtrack-fr.admaxim.com
 0.0.0.0 rtbtrack-uk.admaxim.com
-0.0.0.0 rtbui.adelement.com
 0.0.0.0 rtb-ui.adelement.com
+0.0.0.0 rtbui.adelement.com
 0.0.0.0 rtb-us.adelement.com
 0.0.0.0 rtb-usw1.adelement.com
 0.0.0.0 rtb-uswest.adventurefeeds.com
@@ -11524,6 +11864,7 @@
 0.0.0.0 s-98.algovid.com
 0.0.0.0 s-99.algovid.com
 0.0.0.0 s9.addthis.com
+0.0.0.0 saa.cbsi.com
 0.0.0.0 saas.appdynamics.com
 0.0.0.0 saastest.appdynamics.com
 0.0.0.0 saavn.adswizz.com
@@ -11626,6 +11967,7 @@
 0.0.0.0 scan20.adx1.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 scb-mid-stage1-1.campaign.adobe.com
+0.0.0.0 s.cdnsynd.com
 0.0.0.0 scdn.uc.atwola.com
 0.0.0.0 scentbird216911z.btttag.com
 0.0.0.0 scentbird.btttag.com
@@ -11637,6 +11979,7 @@
 0.0.0.0 scoota.co
 0.0.0.0 scope.infra.apester.com
 0.0.0.0 scottgregoryteam.leadpages.co
+0.0.0.0 scout.cbsi.com
 0.0.0.0 sc-p.alcmpn.com
 0.0.0.0 scraper.innovation.abtasty.com
 0.0.0.0 screenshot.3lift.com
@@ -11660,6 +12003,7 @@
 0.0.0.0 sdk.beemray.com
 0.0.0.0 sdk.bucksense.com
 0.0.0.0 sdk-calcalist.demo.apester.com
+0.0.0.0 sdk.casalemedia.com
 0.0.0.0 sdk-cdn.beeketing.com
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-02.braze.com
@@ -11734,6 +12078,7 @@
 0.0.0.0 secure-track.admaxim.com
 0.0.0.0 securev4vcapi.adcolony.com
 0.0.0.0 secure.xml.adx1.com
+0.0.0.0 securitycenter.cbsi.com
 0.0.0.0 secus.admailtiser.com
 0.0.0.0 sedcure.adnxs.com
 0.0.0.0 se-de-ect.adtooxcloud.com
@@ -11903,6 +12248,8 @@
 0.0.0.0 sib.adnxs.com
 0.0.0.0 sic.33across.com
 0.0.0.0 sic-akamai.33across.com
+0.0.0.0 sidearm.dev.moneyball.cbsi.com
+0.0.0.0 sidearm.moneyball.cbsi.com
 0.0.0.0 sidekiq-status.appboy.com
 0.0.0.0 sig.appsflyer.com
 0.0.0.0 sig.atdmt.com
@@ -11918,8 +12265,8 @@
 0.0.0.0 simpleview.adready.com
 0.0.0.0 simterm01.acxiom.com
 0.0.0.0 sin1.g.adnxs.com
-0.0.0.0 sin1-ib.adnxs.com
 0.0.0.0 sin1.ib.adnxs.com
+0.0.0.0 sin1-ib.adnxs.com
 0.0.0.0 sin1-mobile.adnxs.com
 0.0.0.0 sin-1mobile.adnxs.com
 0.0.0.0 sin1.mobile.adnxs.com
@@ -11953,6 +12300,7 @@
 0.0.0.0 siteapp.admaster.com.cn
 0.0.0.0 site-help.admaster.com.cn
 0.0.0.0 sitescout.adserver.com
+0.0.0.0 six.cdn-net.com
 0.0.0.0 sj11.bnmla.com
 0.0.0.0 sjedt.adsafeprotected.com
 0.0.0.0 sjefw.adsafeprotected.com
@@ -12151,6 +12499,7 @@
 0.0.0.0 sohutv.cm.admaster.com.cn
 0.0.0.0 so.lianmeng.360.cn
 0.0.0.0 solutions.boldchat.com
+0.0.0.0 som.cbsi.com
 0.0.0.0 sonar.adiant.com
 0.0.0.0 sonar.adswizz.com
 0.0.0.0 sonar-sandbox.datadome.co
@@ -12203,6 +12552,7 @@
 0.0.0.0 spotx-jinni.rtb.adx1.com
 0.0.0.0 spowa.acxiom.com
 0.0.0.0 spp.163.com
+0.0.0.0 spreadsheet-converter.celtra.com
 0.0.0.0 spring-img-test.ad-score.com
 0.0.0.0 sprintirate.acxiom.com
 0.0.0.0 sprintscs-mkt-prod4-1.campaign.adobe.com
@@ -12262,6 +12612,7 @@
 0.0.0.0 ssl.adtouchlabs.com
 0.0.0.0 ssl.adx1.com
 0.0.0.0 sslcdn.adstudiomobile.com
+0.0.0.0 ssl.celtra.com
 0.0.0.0 ssl-failsafe3-api.adyoulike.com
 0.0.0.0 ssl-failsafe4-api.adyoulike.com
 0.0.0.0 ssl.hb.adx1.com
@@ -12270,8 +12621,12 @@
 0.0.0.0 sslproxy-prod.adobedtm.com
 0.0.0.0 ssltest.adobedtm.com
 0.0.0.0 ssl.xml.adx1.com
+0.0.0.0 sso.ap-southeast-1.celtra.com
+0.0.0.0 sso.ap-southeast-2.celtra.com
 0.0.0.0 sso.brightedge.com
+0.0.0.0 sso.eu-central-1.celtra.com
 0.0.0.0 ssomgr-api.amobee.com
+0.0.0.0 sso.us-east-1.celtra.com
 0.0.0.0 ssp.admanmedia.com
 0.0.0.0 ss-p.alcmpn.com
 0.0.0.0 ssphwy.com.admedia.com
@@ -12281,8 +12636,11 @@
 0.0.0.0 ssq.tr.blismedia.com
 0.0.0.0 ssr.163.com
 0.0.0.0 ssrv.adjust.com
+0.0.0.0 s.sspqns.comwf.cbarsrv.com
 0.0.0.0 sstats.bbt.com
 0.0.0.0 sstats.cartoonnetwork.com
+0.0.0.0 ssum.casalemedia.com
+0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 ssv.admaster.com.cn
 0.0.0.0 st1v2.campaign-archive.com
 0.0.0.0 stacyboegem.leadpages.co
@@ -12375,6 +12733,7 @@
 0.0.0.0 staging-jp.apsalar.com
 0.0.0.0 staging-k8s.beeketing.com
 0.0.0.0 staging-landing.beeketing.com
+0.0.0.0 staging-mobilecms.cbsi.com
 0.0.0.0 staging-queue.beeketing.com
 0.0.0.0 staging-reports.arrivalist.com
 0.0.0.0 staging.services-fr.adx1.com
@@ -12394,6 +12753,7 @@
 0.0.0.0 standard.adapf.com
 0.0.0.0 staples.btttag.com
 0.0.0.0 star.adcash.com
+0.0.0.0 starmediagroup.celtra.com
 0.0.0.0 star.pt.163.com
 0.0.0.0 startupbros.leadpages.co
 0.0.0.0 startupsales.leadpages.co
@@ -12438,6 +12798,7 @@
 0.0.0.0 static.bumlam.com
 0.0.0.0 static.buysellads.com
 0.0.0.0 staticc.adacado.com
+0.0.0.0 static.cbsileads.com
 0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static.cdn.adblade.com
 0.0.0.0 staticcfstg.adsafeprotected.com
@@ -12499,6 +12860,7 @@
 0.0.0.0 status.bidtheatre.com
 0.0.0.0 status.bronto.com
 0.0.0.0 status.bugsnag.com
+0.0.0.0 status.celtra.com
 0.0.0.0 status.datadome.co
 0.0.0.0 status.ipdata.co
 0.0.0.0 status.wpm.neustar.biz
@@ -12604,10 +12966,12 @@
 0.0.0.0 supercore.adm-vids.com
 0.0.0.0 superretail-prod.saas.appdynamics.com
 0.0.0.0 superstar.pt.163.com
+0.0.0.0 supervision.thiris.comopps.cbarsrv.com
 0.0.0.0 supply-tool.inmobi.cn
 0.0.0.0 support-developer.applovin.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 support-pro.bannerflow.com
+0.0.0.0 support-uber.celtra.com
 0.0.0.0 supportweb.acxiom.com
 0.0.0.0 supportwebcert.acxiom.com
 0.0.0.0 surakarta.7p.com
@@ -12628,6 +12992,7 @@
 0.0.0.0 svn18.rd.campaign.adobe.com
 0.0.0.0 sv-p.alcmpn.com
 0.0.0.0 svr.admailtiser.com
+0.0.0.0 sv.symcd.comwf.cbarsrv.com
 0.0.0.0 swagger.adx1.com
 0.0.0.0 sweden.adtooxcloud.com
 0.0.0.0 sweeney.appboy.com
@@ -12671,6 +13036,7 @@
 0.0.0.0 syreetasmith.leadpages.co
 0.0.0.0 syshealth.capitalone.acxiom.com
 0.0.0.0 syslog.adx1.com
+0.0.0.0 system.casalemedia.com
 0.0.0.0 szshort.weixin.qq.com.adserver.com
 0.0.0.0 t1.adserver.com
 0.0.0.0 t2343794212540025297.id.amgdgt.com
@@ -12735,6 +13101,8 @@
 0.0.0.0 t9102557006732536478.id.amgdgt.com
 0.0.0.0 t9122291355509691254.id.amgdgt.com
 0.0.0.0 tableau.adroll.com
+0.0.0.0 tableau.cbsi.com
+0.0.0.0 tableaudev.cbsi.com
 0.0.0.0 tableau.heathrow.eu.acxiom.com
 0.0.0.0 taboola-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 taboola-winners-eu-west-1-rtb.adroll.com
@@ -12848,12 +13216,14 @@
 0.0.0.0 tc.airfrance.com
 0.0.0.0 tc-bic.appspot.com
 0.0.0.0 tcceast.adx1.com
+0.0.0.0 t.cdnsynd.com
 0.0.0.0 tcirquedusolecdscomprod2433t.btttag.com
 0.0.0.0 tcp-test-tool.apponic.com
 0.0.0.0 td.deliveryengine.adswizz.com
 0.0.0.0 t.dlx.addthis.com
 0.0.0.0 tdominionentehomes1355t.btttag.com
 0.0.0.0 t.e1.panerabread.com.cname.campaign.adobe.com
+0.0.0.0 tealium.cbsnews.com
 0.0.0.0 team.c3metrics.com
 0.0.0.0 teams.adx1.com
 0.0.0.0 tearsheet.onevideo.advertising.com
@@ -12863,6 +13233,7 @@
 0.0.0.0 tech.atom.adjust.com
 0.0.0.0 tech.bannerflow.com
 0.0.0.0 technology-nbcuniversal.saas.appdynamics.com
+0.0.0.0 techrepublic.cbsi.com
 0.0.0.0 techsmith-screen-capture-codec.apponic.com
 0.0.0.0 teddytor.abtasty.com
 0.0.0.0 tedmundsedmundswww2171t.btttag.com
@@ -12992,6 +13363,7 @@
 0.0.0.0 tickets.adrd.co
 0.0.0.0 ticktoc.saas.appdynamics.com
 0.0.0.0 tie.163.com
+0.0.0.0 tile-service.weather.microsoft.comwf.cbarsrv.com
 0.0.0.0 tillster.iad-03.braze.com
 0.0.0.0 timbol.iad-03.braze.com
 0.0.0.0 timeinc-under-20.bannerflow.com
@@ -13071,6 +13443,7 @@
 0.0.0.0 track.beachfrontreach.com
 0.0.0.0 track.beeketing.com
 0.0.0.0 track.brealtime.com
+0.0.0.0 track.celtra.com
 0.0.0.0 track-dev.scoota.co
 0.0.0.0 tracker.adbiq.com
 0.0.0.0 tracker.adotmob.com
@@ -13130,8 +13503,8 @@
 0.0.0.0 travelocity-t.campaign.adobe.com
 0.0.0.0 traweb.adx1.com
 0.0.0.0 tr.blismedia.com
-0.0.0.0 trd-dsp.ad-brix.com
 0.0.0.0 trd.dsp.ad-brix.com
+0.0.0.0 trd-dsp.ad-brix.com
 0.0.0.0 trd-trk.ad-brix.com
 0.0.0.0 treadingmyownpath.leadpages.co
 0.0.0.0 t.rec.g.163.com
@@ -13140,6 +13513,8 @@
 0.0.0.0 trevorpage.leadpages.co
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 triblive-tagan.adlightning.com
+0.0.0.0 tribune.celtra.com
+0.0.0.0 trigonads.celtra.com
 0.0.0.0 trigr.co
 0.0.0.0 trinet-prod.saas.appdynamics.com
 0.0.0.0 trinitymirror.sdk.beemray.com
@@ -13167,6 +13542,7 @@
 0.0.0.0 trunktest.adition.com
 0.0.0.0 truste.c3metrics.com
 0.0.0.0 trustx-tagan.adlightning.com
+0.0.0.0 truyopoc.cbsi.com
 0.0.0.0 trxtraining.c3metrics.com
 0.0.0.0 try.abtasty.com
 0.0.0.0 try.appboy.com
@@ -13195,6 +13571,8 @@
 0.0.0.0 turgayaksoyblogspotcom.adhood.com
 0.0.0.0 turn.c3metrics.com
 0.0.0.0 turner-tagan.adlightning.com
+0.0.0.0 tv.cbsi.com
+0.0.0.0 tvguide.cbsi.com
 0.0.0.0 twc.adx1.com
 0.0.0.0 twcctz50.aweber.com
 0.0.0.0 twistynoodle-tagan.adlightning.com
@@ -13242,6 +13620,7 @@
 0.0.0.0 uatplatform.adtheorent.com
 0.0.0.0 ubatkuat.7p.com
 0.0.0.0 u.btserve.com
+0.0.0.0 u.cdnsynd.com
 0.0.0.0 uce.7p.com
 0.0.0.0 ucl.mixmarket.biz
 0.0.0.0 ucrm2.bounceexchange.com
@@ -13289,6 +13668,8 @@
 0.0.0.0 unibet-unibet.bannerflow.com
 0.0.0.0 uniceffrance01.campaign.adobe.com
 0.0.0.0 uniceffrance01-mkt-prod1-t.campaign.adobe.com
+0.0.0.0 unilever-bizboard.celtra.com
+0.0.0.0 unilever.celtra.com
 0.0.0.0 unisdk.game.163.com
 0.0.0.0 unitedprod.saas.appdynamics.com
 0.0.0.0 univision.adready.com
@@ -13302,6 +13683,8 @@
 0.0.0.0 upbeatdancestudio.leadpages.co
 0.0.0.0 update.3lift.com
 0.0.0.0 update.client.163.com
+0.0.0.0 update.cloud.2d585.cdn.bitdefender.netopps.cbarsrv.com
+0.0.0.0 update.fiducial-informatique.fropps.cbarsrv.com
 0.0.0.0 updates.bugsnag.com
 0.0.0.0 update.wtag.adaptv.advertising.com
 0.0.0.0 upi.adblade.com
@@ -13359,6 +13742,7 @@
 0.0.0.0 usbid.mdsp.avazutracking.net.admedia.com
 0.0.0.0 usbweb01.acxiom.com
 0.0.0.0 usbweb02.acxiom.com
+0.0.0.0 us.cbarsrv.com
 0.0.0.0 uscell.airfind.com
 0.0.0.0 uscell.dev.airfind.com
 0.0.0.0 uscell.staging.airfind.com
@@ -13520,6 +13904,7 @@
 0.0.0.0 v-47.algovid.com
 0.0.0.0 v-48.algovid.com
 0.0.0.0 v-49.algovid.com
+0.0.0.0 v4.avs.activscreen.comopps.cbarsrv.com
 0.0.0.0 v-50.algovid.com
 0.0.0.0 v-51.algovid.com
 0.0.0.0 v-52.algovid.com
@@ -13541,6 +13926,7 @@
 0.0.0.0 v8soft.blog.163.com
 0.0.0.0 v8-us.beemray.com
 0.0.0.0 v8-us.sdk.beemray.com
+0.0.0.0 va01.casalemedia.com
 0.0.0.0 v.adblade.com
 0.0.0.0 v.admaster.com.cn
 0.0.0.0 v.admedia.com
@@ -13663,8 +14049,8 @@
 0.0.0.0 vexchangeadmdev.adx1.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfesprod.amobee.com
+0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -13680,6 +14066,8 @@
 0.0.0.0 vi.advertisercommunity.com
 0.0.0.0 viber-emea.adnxs.com
 0.0.0.0 viber-us-east.adnxs.com
+0.0.0.0 vicemedia-global.celtra.com
+0.0.0.0 vicemedia-latam.celtra.com
 0.0.0.0 vicon-english-turkish-dictionary.apponic.com
 0.0.0.0 vid0264.d41.co
 0.0.0.0 vid0349.d41.co
@@ -13785,6 +14173,7 @@
 0.0.0.0 vogue20.adx1.com
 0.0.0.0 voice.uu.163.com
 0.0.0.0 volaris.btttag.com
+0.0.0.0 volvo.celebrus.com
 0.0.0.0 vonage.c3metrics.com
 0.0.0.0 vorlon-qa.snackly.co
 0.0.0.0 vote2016.adx1.com
@@ -13796,6 +14185,7 @@
 0.0.0.0 vpaid2.adsafeprotected.com
 0.0.0.0 vpaid3.adsafeprotected.com
 0.0.0.0 vpaid.adsafeprotected.com
+0.0.0.0 vpaid.cbarsrv.com
 0.0.0.0 vpc.altitude-arena.com
 0.0.0.0 vpc-prod-adsdk-lb-0-564898962.us-east-1.elb.amazonaws.com
 0.0.0.0 vpn1.clinch.co
@@ -13820,8 +14210,8 @@
 0.0.0.0 vremini.stg.apester.com
 0.0.0.0 vrequest.sele.co
 0.0.0.0 vr-p.alcmpn.com
-0.0.0.0 vrtb.admedia.com
 0.0.0.0 v.rtb.admedia.com
+0.0.0.0 vrtb.admedia.com
 0.0.0.0 vrtcal-tagan.adlightning.com
 0.0.0.0 vrtest.valo.ai
 0.0.0.0 vsb.bnmla.com
@@ -13874,6 +14264,7 @@
 0.0.0.0 watcher.adlithium.com
 0.0.0.0 watchorn.leadpages.co
 0.0.0.0 watsons.bridgewell.com
+0.0.0.0 watson.telemetry.microsoft.comopps.cbarsrv.com
 0.0.0.0 waupaca.leadpages.co
 0.0.0.0 wb2.bestadbid.com
 0.0.0.0 wbapo.saas.appdynamics.com
@@ -13924,6 +14315,7 @@
 0.0.0.0 webcamdv.apponic.com
 0.0.0.0 webcamnow-video-broadcaster.apponic.com
 0.0.0.0 webcdn.admanmedia.com
+0.0.0.0 web.celtra.com
 0.0.0.0 webcgi.163.com
 0.0.0.0 webchunker.streaming.adswizz.com
 0.0.0.0 webconser1.acxiom.com
@@ -13976,9 +14368,13 @@
 0.0.0.0 werner.7p.com
 0.0.0.0 wesleyfinancialgroup.leadpages.co
 0.0.0.0 westsoundpromotions.leadpages.co
+0.0.0.0 wfbssvc61.icrc.trendmicro.comwf.cbarsrv.com
+0.0.0.0 wf.cbarsrv.com
+0.0.0.0 wfrm-emeaa.trendmicro.comopps.cbarsrv.com
 0.0.0.0 wftpd-server.apponic.com
 0.0.0.0 wh2.cbg.163.com
 0.0.0.0 whatcounts_saas.s3.amazonaws.com
+0.0.0.0 whatismyip.akamai.comwf.cbarsrv.com
 0.0.0.0 whatisorange.leadpages.co
 0.0.0.0 wh.cbg.163.com
 0.0.0.0 whirlpool-mkt-prod1-lb.campaign.adobe.com
@@ -14010,6 +14406,7 @@
 0.0.0.0 winscp.apponic.com
 0.0.0.0 winsock-packet-editor-wpe-pro.apponic.com
 0.0.0.0 winwords.adhood.com
+0.0.0.0 wired2fish.cbsi.com
 0.0.0.0 wise-data-recovery-portable.apponic.com
 0.0.0.0 wisemedia.cm.admaster.com.cn
 0.0.0.0 wisteria15781z.btttag.com
@@ -14031,6 +14428,7 @@
 0.0.0.0 wmt1.acxiom.com
 0.0.0.0 wolfrose-healer.demo.apester.com
 0.0.0.0 womenshop.7p.com
+0.0.0.0 woobi-eu.casalemedia.com
 0.0.0.0 wordweb.apponic.com
 0.0.0.0 work.silverpush.co
 0.0.0.0 worksop.7p.com
@@ -14084,6 +14482,7 @@
 0.0.0.0 www.1173.xml.adx1.com
 0.0.0.0 www.123employee.leadpages.co
 0.0.0.0 www13.adverline.com
+0.0.0.0 www.15.cbarsrv.com
 0.0.0.0 www.163.com
 0.0.0.0 www1.adverline.com
 0.0.0.0 www1.adx1.com
@@ -14214,6 +14613,8 @@
 0.0.0.0 www.ads.adelement.com
 0.0.0.0 www.ads.afa.adhese.com
 0.0.0.0 www.adsafeprotected.com
+0.0.0.0 www.ads-amp.celtra.com
+0.0.0.0 www.ads.celtra.com
 0.0.0.0 www.ad-score.com
 0.0.0.0 www.adserver.advertisingbox.com
 0.0.0.0 www.adserver.com
@@ -14327,6 +14728,7 @@
 0.0.0.0 www.awin.com
 0.0.0.0 www.awltovhc.com
 0.0.0.0 www.ayads.co
+0.0.0.0 www.azko.frwf.cbarsrv.com
 0.0.0.0 www.backend-staging.services.adx1.com
 0.0.0.0 www.b.adnxs.com
 0.0.0.0 www.b.adx1.com
@@ -14398,6 +14800,8 @@
 0.0.0.0 www.c3metrics.com
 0.0.0.0 www.c3tag.com
 0.0.0.0 www.c7a54a18ef10e6b744d6f367a3313cfc.api.appsee.com
+0.0.0.0 www.cache.celtra.com
+0.0.0.0 www.cache-ssl.celtra.com
 0.0.0.0 www.cadillac-mexico.facebook-ads.adtz.com
 0.0.0.0 www.camtimber.7p.com
 0.0.0.0 www.canada2.facebook-ads.adtz.com
@@ -14413,6 +14817,8 @@
 0.0.0.0 www.cart.hb.adx1.com
 0.0.0.0 www.cart.kumma-hb.hb.adx1.com
 0.0.0.0 www.cart.pop-under.xml.adx1.com
+0.0.0.0 www.casalemedia.com
+0.0.0.0 www.cashrequestonline.com
 0.0.0.0 www.catalog.adx1.com
 0.0.0.0 www.catalog.am-display.hb.adx1.com
 0.0.0.0 www.catalog.am-native.hb.adx1.com
@@ -14421,7 +14827,10 @@
 0.0.0.0 www.catalog.kumma-hb.hb.adx1.com
 0.0.0.0 www.catalog.pop-under.xml.adx1.com
 0.0.0.0 www.catholicanswers.leadpages.co
+0.0.0.0 www.cbarsrv.com
 0.0.0.0 www.c.bing.com
+0.0.0.0 www.cbsi.com
+0.0.0.0 www.cbsileads.com
 0.0.0.0 www.cd-cpa.facebook-ads.adtz.com
 0.0.0.0 www.cd-creditocliente.facebook-ads.adtz.com
 0.0.0.0 www.cd-intercompany.facebook-ads.adtz.com
@@ -14431,9 +14840,12 @@
 0.0.0.0 www.cdn.adx1.com
 0.0.0.0 www.cdn.adx1.comcdn.adx1.com
 0.0.0.0 www.cdn.adx1n.adx1.com
+0.0.0.0 www.cdnativ.com
 0.0.0.0 www.cdnn.adx1.com
 0.0.0.0 www.cd-recala.facebook-ads.adtz.com
 0.0.0.0 www.cekaf.7p.com
+0.0.0.0 www.celebrus.com
+0.0.0.0 www.celeritascdn.com
 0.0.0.0 www.cesargil.leadpages.co
 0.0.0.0 www.chevrolet-mexico.facebook-ads.adtz.com
 0.0.0.0 www.chevroletmundial-mexico.facebook-ads.adtz.com
@@ -14585,6 +14997,7 @@
 0.0.0.0 www.gm-mexico.facebook-ads.adtz.com
 0.0.0.0 www.gohenry.facebook-ads.adtz.com
 0.0.0.0 www.gohenry.pinterest.adtz.com
+0.0.0.0 www.google.frwf.cbarsrv.com
 0.0.0.0 www.greenpage.leadpages.co
 0.0.0.0 www.gressheart.blog.163.com
 0.0.0.0 www.groupm-clientcredit-adtz.facebook-ads.adtz.com
@@ -14709,6 +15122,7 @@
 0.0.0.0 www.marcocasario.leadpages.co
 0.0.0.0 www.martinkronicle.leadpages.co
 0.0.0.0 www.maryrosehoja.leadpages.co
+0.0.0.0 www.match.cbarsrv.com
 0.0.0.0 www.max-mara.pinterest.adtz.com
 0.0.0.0 www.mediaitalia.facebook-ads.adtz.com
 0.0.0.0 www.media-lab.ai
@@ -14984,6 +15398,7 @@
 0.0.0.0 www.wedeterna-in.facebook-ads.adtz.com
 0.0.0.0 www.wepmarketing2000.leadpages.co
 0.0.0.0 www.westwingx.leadpages.co
+0.0.0.0 www.wf.cbarsrv.com
 0.0.0.0 www.wink2.facebook-ads.adtz.com
 0.0.0.0 www.wink2-heineken.facebook-ads.adtz.com
 0.0.0.0 www.winkabi.facebook-ads.adtz.com
@@ -15172,6 +15587,7 @@
 0.0.0.0 zcdn.adx1.com
 0.0.0.0 zc.reg.163.com
 0.0.0.0 zd.cbg.163.com
+0.0.0.0 zdnet.cbsi.com
 0.0.0.0 zelos.iad-03.braze.com
 0.0.0.0 zemeho.adswizz.com
 0.0.0.0 zenovia.leadpages.co
