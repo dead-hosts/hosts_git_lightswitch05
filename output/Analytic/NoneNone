@@ -49,6 +49,7 @@ a690.casalemedia.com                                                            
 a940.casalemedia.com                                                                                 ACTIVE      XXX        2019-12-07T16:36:14.280671
 a.beeketing.com                                                                                      ACTIVE      XXX        2019-12-07T09:44:08.422129
 access.eloqua.com                                                                                    ACTIVE      XXX        2019-12-07T22:02:28.994854
+accounts.eyereturn.com                                                                               ACTIVE      XXX        2019-12-08T03:08:57.209105
 acquia-api.conductrics.com                                                                           ACTIVE      XXX        2019-12-07T19:02:55.872231
 acs.adtdp.com                                                                                        ACTIVE      XXX        2019-12-07T06:43:49.588095
 a.ctasnet.com                                                                                        ACTIVE      XXX        2019-12-07T20:37:03.633926
@@ -83,6 +84,7 @@ agents.extremereach.com                                                         
 ahk.ctnsnet.com                                                                                      ACTIVE      XXX        2019-12-07T20:37:04.695679
 ai170.mta.exacttarget.com                                                                            ACTIVE      XXX        2019-12-08T00:56:57.297102
 airflow.data.drift.com                                                                               ACTIVE      XXX        2019-12-07T21:35:27.087045
+amazonapps.fgl.com                                                                                   ACTIVE      XXX        2019-12-08T03:09:23.918325
 amipm.adsafeprotected.com                                                                            ACTIVE      XXX        2019-12-07T06:19:17.545698
 ams.amobee.com                                                                                       ACTIVE      XXX        2019-12-07T08:21:09.648044
 amsstage-rtb.applovin.com                                                                            ACTIVE      XXX        2019-12-07T08:46:45.421209
@@ -150,6 +152,8 @@ audiences-test-oiada.bluekai.com                                                
 audit.app.manage.ensighten.com                                                                       ACTIVE      XXX        2019-12-07T22:56:30.271125
 auth.aweber.com                                                                                      ACTIVE      XXX        2019-12-07T09:25:25.627548
 auth.internal.beeketing.com                                                                          ACTIVE      XXX        2019-12-07T09:58:42.064626
+auth.k8s-prod.fiksu.com                                                                              ACTIVE      XXX        2019-12-08T03:09:26.943880
+auth.k8s-test.fiksu.com                                                                              ACTIVE      XXX        2019-12-08T03:09:28.427629
 auth.poc.exacttarget.com                                                                             ACTIVE      XXX        2019-12-08T01:46:54.510060
 auth.s11.exacttarget.com                                                                             ACTIVE      XXX        2019-12-08T01:47:11.189400
 auth.s8.exacttarget.com                                                                              ACTIVE      XXX        2019-12-08T01:47:23.300498
@@ -258,15 +262,18 @@ cntr.adrime.com                                                                 
 co1aqu.atdmt.com                                                                                     ACTIVE      XXX        2019-12-07T09:24:39.075437
 co2aqu.atdmt.com                                                                                     ACTIVE      XXX        2019-12-07T09:24:39.317350
 codeload.github.exacttarget.com                                                                      ACTIVE      XXX        2019-12-08T00:04:18.024322
+collector.eyereturn.com                                                                              ACTIVE      XXX        2019-12-08T03:08:57.618882
 comicbook.cbsi.com                                                                                   ACTIVE      XXX        2019-12-07T16:36:25.541658
 compass.eloqua.com                                                                                   ACTIVE      XXX        2019-12-07T22:02:29.513546
 connect.adxpose.com                                                                                  ACTIVE      XXX        2019-12-07T07:33:36.419282
+contestengine.eyereturn.com                                                                          ACTIVE      XXX        2019-12-08T03:08:57.779762
 conversion.amobee.com                                                                                ACTIVE      XXX        2019-12-07T08:21:12.349087
 core-api.bounceexchange.com                                                                          ACTIVE      XXX        2019-12-07T10:18:37.133586
 core-api.staging.bounceexchange.com                                                                  ACTIVE      XXX        2019-12-07T10:58:09.671682
 core.bounceexchange.com                                                                              ACTIVE      XXX        2019-12-07T10:18:36.935908
 coreserver.keurig.com.cns.coremetrics.com                                                            ACTIVE      XXX        2019-12-07T20:10:43.075130
 core.staging.bounceexchange.com                                                                      ACTIVE      XXX        2019-12-07T10:58:09.503501
+cplog.flashget.com                                                                                   ACTIVE      XXX        2019-12-08T03:09:38.086794
 cr101.mta.exacttarget.com                                                                            ACTIVE      XXX        2019-12-08T00:56:59.756994
 cr102.mta.exacttarget.com                                                                            ACTIVE      XXX        2019-12-08T00:56:59.918408
 cr107.mta.exacttarget.com                                                                            ACTIVE      XXX        2019-12-08T00:57:00.080173
@@ -344,6 +351,7 @@ de3gslb1.coremetrics.com                                                        
 de3pubdns1.coremetrics.com                                                                           ACTIVE      XXX        2019-12-07T20:10:46.486793
 de55.mta.exacttarget.com                                                                             ACTIVE      XXX        2019-12-08T00:57:08.215590
 dean.dev.dig.cbsi.com                                                                                ACTIVE      XXX        2019-12-07T16:36:26.843033
+delivery.first-impression.com                                                                        ACTIVE      XXX        2019-12-08T03:09:36.680991
 demandblog.demandbase.com                                                                            ACTIVE      XXX        2019-12-07T21:02:22.372302
 detalent04.extremereach.com                                                                          ACTIVE      XXX        2019-12-08T02:31:34.139541
 detalent05.extremereach.com                                                                          ACTIVE      XXX        2019-12-08T02:31:34.339224
@@ -356,9 +364,12 @@ dev.demo.appdynamics.com                                                        
 devefence.engageclick.com                                                                            ACTIVE      XXX        2019-12-07T22:56:18.288576
 dev-ls.api.chatid.com                                                                                ACTIVE      XXX        2019-12-07T17:23:15.816683
 dev.material.mobile.ensighten.com                                                                    ACTIVE      XXX        2019-12-07T22:56:31.253804
+dev.sftp.extremereach.com                                                                            ACTIVE      XXX        2019-12-08T03:08:54.571909
 devsite.amobee.com                                                                                   ACTIVE      XXX        2019-12-07T08:21:34.879501
 devsvn.extremereach.com                                                                              ACTIVE      XXX        2019-12-08T02:31:37.680514
 devtest.celebrus.com                                                                                 ACTIVE      XXX        2019-12-07T16:36:35.566187
+dex.k8s-prod.fiksu.com                                                                               ACTIVE      XXX        2019-12-08T03:09:27.367542
+dex.k8s-test.fiksu.com                                                                               ACTIVE      XXX        2019-12-08T03:09:28.590107
 df101.mta.exacttarget.com                                                                            ACTIVE      XXX        2019-12-08T00:57:08.379861
 df102.mta.exacttarget.com                                                                            ACTIVE      XXX        2019-12-08T00:57:08.553585
 df111.mta.exacttarget.com                                                                            ACTIVE      XXX        2019-12-08T00:57:08.717510
@@ -457,6 +468,7 @@ ea-ind.exacttarget.com                                                          
 ea-las.exacttarget.com                                                                               ACTIVE      XXX        2019-12-08T00:04:16.403850
 east.aod.extremereach.com                                                                            ACTIVE      XXX        2019-12-08T02:31:29.252565
 east.ftp.extremereach.com                                                                            ACTIVE      XXX        2019-12-08T02:31:40.120346
+east.prtg.extremereach.com                                                                           ACTIVE      XXX        2019-12-08T03:08:53.572759
 ef193.mta.exacttarget.com                                                                            ACTIVE      XXX        2019-12-08T00:57:13.178482
 el67.mta.exacttarget.com                                                                             ACTIVE      XXX        2019-12-08T00:57:13.348973
 el68.mta.exacttarget.com                                                                             ACTIVE      XXX        2019-12-08T00:57:13.509481
@@ -491,6 +503,7 @@ eu.cbarsrv.com                                                                  
 eum-api.appdynamics.com                                                                              ACTIVE      XXX        2019-12-07T08:46:24.562351
 eventqueries.bluekai.com                                                                             ACTIVE      XXX        2019-12-07T10:17:45.347034
 eventqueries-int.bluekai.com                                                                         ACTIVE      XXX        2019-12-07T10:17:45.545217
+event-tracker.k8s-prod.fiksu.com                                                                     ACTIVE      XXX        2019-12-08T03:09:27.792140
 evoko.awin.com                                                                                       ACTIVE      XXX        2019-12-07T09:43:48.475140
 ewrstage-rtb.applovin.com                                                                            ACTIVE      XXX        2019-12-07T08:46:46.997343
 excess.duolingo.com                                                                                  ACTIVE      XXX        2019-12-07T22:01:32.533278
@@ -573,6 +586,7 @@ grafana.k8s.cluster-001.s-use-1.braze.com                                       
 grafana.k8s.region-001.s-use-1.braze.com                                                             ACTIVE      XXX        2019-12-07T10:58:27.521088
 grafana.k8s.stc-001.s-use-1.braze.com                                                                ACTIVE      XXX        2019-12-07T10:58:28.353252
 grafana.k8s.test-001.d-usw-2.braze.com                                                               ACTIVE      XXX        2019-12-07T10:58:17.691476
+grafana.k8s-test.fiksu.com                                                                           ACTIVE      XXX        2019-12-08T03:09:28.955422
 grape.k8s.test-001.d-usw-2.braze.com                                                                 ACTIVE      XXX        2019-12-07T10:58:17.859777
 greg-tv.blismedia.com                                                                                ACTIVE      XXX        2019-12-07T09:59:49.877607
 gtm01.exacttarget.com                                                                                ACTIVE      XXX        2019-12-08T00:04:20.866354
@@ -599,6 +613,7 @@ ice.aws.amobee.com                                                              
 i.chartboost.com                                                                                     ACTIVE      XXX        2019-12-07T17:23:12.793350
 identify.api.drift.com                                                                               ACTIVE      XXX        2019-12-07T21:35:22.760587
 id-ns1.amgdgt.com                                                                                    ACTIVE      XXX        2019-12-07T08:21:07.033723
+illuminati.fgl.com                                                                                   ACTIVE      XXX        2019-12-08T03:09:24.326442
 image.s1.qa2.exacttarget.com                                                                         ACTIVE      XXX        2019-12-08T01:47:02.231111
 image.s2.qa2.exacttarget.com                                                                         ACTIVE      XXX        2019-12-08T01:47:04.037282
 images.aggregateknowledge.com                                                                        ACTIVE      XXX        2019-12-07T07:33:45.799699
@@ -1045,6 +1060,7 @@ o1.email.applovin.com                                                           
 o1.email.avidly.com                                                                                  ACTIVE      XXX        2019-12-07T09:25:24.026284
 o1.mail.ensighten.com                                                                                ACTIVE      XXX        2019-12-07T22:56:29.770146
 o1.outbound.crashlytics.com                                                                          ACTIVE      XXX        2019-12-07T20:11:08.478438
+o1.smtp.eyereturn.com                                                                                ACTIVE      XXX        2019-12-08T03:09:00.325487
 o20.ck.n.convertkit.com                                                                              ACTIVE      XXX        2019-12-07T19:35:32.353717
 o22.ck.n.convertkit.com                                                                              ACTIVE      XXX        2019-12-07T19:35:32.609616
 o3.outbound.crashlytics.com                                                                          ACTIVE      XXX        2019-12-07T20:11:08.676985
@@ -1115,6 +1131,7 @@ presence.api.drift.com                                                          
 priority.appsflyer.com                                                                               ACTIVE      XXX        2019-12-07T09:10:09.749508
 probing-api.beta.stag.bounceexchange.com                                                             ACTIVE      XXX        2019-12-07T10:57:59.578858
 probing.beta.stag.bounceexchange.com                                                                 ACTIVE      XXX        2019-12-07T10:57:59.150789
+prod-aso-lb-v1.us-east-1d.kube.fiksu.com                                                             ACTIVE      XXX        2019-12-08T03:09:29.284736
 projectedreach.bluekai.com                                                                           ACTIVE      XXX        2019-12-07T10:17:49.823133
 projectedreach-int.bluekai.com                                                                       ACTIVE      XXX        2019-12-07T10:17:50.021462
 public-webservice.apdc1.adpushup.com                                                                 ACTIVE      XXX        2019-12-07T05:53:55.466030
@@ -1161,6 +1178,9 @@ reporting.p03.eloqua.com                                                        
 reporting.p07.eloqua.com                                                                             ACTIVE      XXX        2019-12-07T22:56:02.414447
 reports.crashlytics.com                                                                              ACTIVE      XXX        2019-12-07T20:11:09.460182
 report-scripts.adrcdn.com                                                                            ACTIVE      XXX        2019-12-07T05:54:00.113216
+reports.eyereturn.com                                                                                ACTIVE      XXX        2019-12-08T03:08:59.507897
+request-tracker.k8s-prod.fiksu.com                                                                   ACTIVE      XXX        2019-12-08T03:09:27.996462
+request-tracker.k8s-test.fiksu.com                                                                   ACTIVE      XXX        2019-12-08T03:09:29.116247
 resizeall.bannersnack.com                                                                            ACTIVE      XXX        2019-12-07T09:44:05.030085
 restapi.boa.exacttarget.com                                                                          ACTIVE      XXX        2019-12-08T00:04:12.343034
 rest.s50.exacttarget.com                                                                             ACTIVE      XXX        2019-12-08T01:47:19.190977
@@ -1177,6 +1197,10 @@ rs-stg-sync.adtdp.com                                                           
 rs-sync.adtdp.com                                                                                    ACTIVE      XXX        2019-12-07T06:43:59.664927
 rs-sync-y.adtdp.com                                                                                  ACTIVE      XXX        2019-12-07T06:43:59.873941
 rst.airfind.com                                                                                      ACTIVE      XXX        2019-12-07T07:33:54.157424
+rtb.eyedemand.com                                                                                    ACTIVE      XXX        2019-12-08T03:08:56.998431
+rtb.eyereturn.com                                                                                    ACTIVE      XXX        2019-12-08T03:08:59.751430
+rtb.fingereach.com                                                                                   ACTIVE      XXX        2019-12-08T03:09:33.954166
+rtb-pm1.eyereturn.com                                                                                ACTIVE      XXX        2019-12-08T03:08:59.921249
 rt.dc-storm.com                                                                                      ACTIVE      XXX        2019-12-07T21:02:00.324038
 rudytest10-api.beta.stag.bounceexchange.com                                                          ACTIVE      XXX        2019-12-07T10:58:00.421245
 rudytest10.beta.stag.bounceexchange.com                                                              ACTIVE      XXX        2019-12-07T10:58:00.001439
@@ -1227,6 +1251,7 @@ s838544759.m.en25.com                                                           
 sacfw1.c3metrics.com                                                                                 ACTIVE      XXX        2019-12-07T12:41:40.546345
 sacfw2.c3metrics.com                                                                                 ACTIVE      XXX        2019-12-07T12:41:40.797979
 sand.console.appnexus.com                                                                            ACTIVE      XXX        2019-12-07T09:09:51.068104
+sass.eyereturn.com                                                                                   ACTIVE      XXX        2019-12-08T03:09:00.123231
 satelliteflaca02.adtoox.com                                                                          ACTIVE      XXX        2019-12-07T06:44:42.999260
 satellitefour.adtoox.com                                                                             ACTIVE      XXX        2019-12-07T06:44:43.202492
 satellitespalta03.adtoox.com                                                                         ACTIVE      XXX        2019-12-07T06:44:43.411186
@@ -1285,6 +1310,8 @@ sjc-clarity02.contextweb.com                                                    
 sjepm.adsafeprotected.com                                                                            ACTIVE      XXX        2019-12-07T06:19:23.887624
 sl56f3x709.daphnecm.com                                                                              ACTIVE      XXX        2019-12-07T21:01:53.870070
 slave-1.cdn.engagecore.com                                                                           ACTIVE      XXX        2019-12-07T22:56:19.212143
+sma-rsw1.remote.extremereach.com                                                                     ACTIVE      XXX        2019-12-08T03:08:54.206681
+sma-rsw2.remote.extremereach.com                                                                     ACTIVE      XXX        2019-12-08T03:08:54.369028
 smartyads_display_vx.rtb.adx1.com                                                                    ACTIVE      XXX        2019-12-07T07:33:29.466211
 smartyads_vx.rtb.adx1.com                                                                            ACTIVE      XXX        2019-12-07T07:33:29.631780
 sms.test.exacttarget.com                                                                             ACTIVE      XXX        2019-12-08T02:31:07.477121
@@ -1385,6 +1412,7 @@ sngmonitor01.amobee.com                                                         
 sng-mx.amobee.com                                                                                    ACTIVE      XXX        2019-12-07T08:21:58.471942
 social.coremetrics.com                                                                               ACTIVE      XXX        2019-12-07T20:10:50.651975
 sock.s50.exacttarget.com                                                                             ACTIVE      XXX        2019-12-08T01:47:19.712541
+sophos.extremereach.com                                                                              ACTIVE      XXX        2019-12-08T03:08:55.077773
 sourceinventory.bluekai.com                                                                          ACTIVE      XXX        2019-12-07T10:17:51.426740
 sourceinventory-int.bluekai.com                                                                      ACTIVE      XXX        2019-12-07T10:17:51.670117
 specs.adrime.com                                                                                     ACTIVE      XXX        2019-12-07T05:54:04.668834
@@ -1416,6 +1444,7 @@ static-was2.dynamicyield.com                                                    
 stats.bluekai.com                                                                                    ACTIVE      XXX        2019-12-07T10:17:51.911346
 storage3-j2.brightedge.com                                                                           ACTIVE      XXX        2019-12-07T10:58:40.324606
 su.ff.avast.comads.creative-serving.com                                                              ACTIVE      XXX        2019-12-07T20:36:26.031382
+supertracker.flashget.com                                                                            ACTIVE      XXX        2019-12-08T03:09:38.303523
 surfaid.coremetrics.com                                                                              ACTIVE      XXX        2019-12-07T20:10:50.902970
 survey1.daphnecm.com                                                                                 ACTIVE      XXX        2019-12-07T21:01:54.085000
 survey.adsqn.com                                                                                     ACTIVE      XXX        2019-12-07T06:19:30.626544
@@ -1532,6 +1561,7 @@ webservice.s4.exacttarget.com                                                   
 webservice-sha2.boa.exacttarget.com                                                                  ACTIVE      XXX        2019-12-08T00:04:12.901926
 webservice.test.exacttarget.com                                                                      ACTIVE      XXX        2019-12-08T02:31:07.875004
 west.ftp.extremereach.com                                                                            ACTIVE      XXX        2019-12-08T02:31:40.574481
+west.prtg.extremereach.com                                                                           ACTIVE      XXX        2019-12-08T03:08:53.734630
 white.k8s.test-001.d-usw-2.braze.com                                                                 ACTIVE      XXX        2019-12-07T10:58:18.650246
 wi.adpiano.com                                                                                       ACTIVE      XXX        2019-12-07T05:53:52.798932
 widget.bugherd.com                                                                                   ACTIVE      XXX        2019-12-07T12:41:14.760716
@@ -1581,6 +1611,7 @@ www.centraltag.com                                                              
 www.crazyclickstats.com                                                                              ACTIVE      XXX        2019-12-07T20:11:10.326323
 www.creative-serving.com                                                                             ACTIVE      XXX        2019-12-07T20:36:27.783384
 www.ctasnet.com                                                                                      ACTIVE      XXX        2019-12-07T20:37:04.394501
+www.dex.k8s-test.fiksu.com                                                                           ACTIVE      XXX        2019-12-08T03:09:28.752414
 www.enhancedstats.com                                                                                ACTIVE      XXX        2019-12-07T22:56:23.409765
 www.enhancedtrk.com                                                                                  ACTIVE      XXX        2019-12-07T22:56:23.818249
 www.eqads.com                                                                                        ACTIVE      XXX        2019-12-08T00:03:37.118442

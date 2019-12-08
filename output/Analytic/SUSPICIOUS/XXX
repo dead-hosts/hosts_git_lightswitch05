@@ -49,6 +49,7 @@ a690.casalemedia.com
 a940.casalemedia.com
 a.beeketing.com
 access.eloqua.com
+accounts.eyereturn.com
 acquia-api.conductrics.com
 acs.adtdp.com
 a.ctasnet.com
@@ -83,6 +84,7 @@ agents.extremereach.com
 ahk.ctnsnet.com
 ai170.mta.exacttarget.com
 airflow.data.drift.com
+amazonapps.fgl.com
 amipm.adsafeprotected.com
 ams.amobee.com
 amsstage-rtb.applovin.com
@@ -150,6 +152,8 @@ audiences-test-oiada.bluekai.com
 audit.app.manage.ensighten.com
 auth.aweber.com
 auth.internal.beeketing.com
+auth.k8s-prod.fiksu.com
+auth.k8s-test.fiksu.com
 auth.poc.exacttarget.com
 auth.s11.exacttarget.com
 auth.s8.exacttarget.com
@@ -258,15 +262,18 @@ cntr.adrime.com
 co1aqu.atdmt.com
 co2aqu.atdmt.com
 codeload.github.exacttarget.com
+collector.eyereturn.com
 comicbook.cbsi.com
 compass.eloqua.com
 connect.adxpose.com
+contestengine.eyereturn.com
 conversion.amobee.com
 core-api.bounceexchange.com
 core-api.staging.bounceexchange.com
 core.bounceexchange.com
 coreserver.keurig.com.cns.coremetrics.com
 core.staging.bounceexchange.com
+cplog.flashget.com
 cr101.mta.exacttarget.com
 cr102.mta.exacttarget.com
 cr107.mta.exacttarget.com
@@ -344,6 +351,7 @@ de3gslb1.coremetrics.com
 de3pubdns1.coremetrics.com
 de55.mta.exacttarget.com
 dean.dev.dig.cbsi.com
+delivery.first-impression.com
 demandblog.demandbase.com
 detalent04.extremereach.com
 detalent05.extremereach.com
@@ -356,9 +364,12 @@ dev.demo.appdynamics.com
 devefence.engageclick.com
 dev-ls.api.chatid.com
 dev.material.mobile.ensighten.com
+dev.sftp.extremereach.com
 devsite.amobee.com
 devsvn.extremereach.com
 devtest.celebrus.com
+dex.k8s-prod.fiksu.com
+dex.k8s-test.fiksu.com
 df101.mta.exacttarget.com
 df102.mta.exacttarget.com
 df111.mta.exacttarget.com
@@ -457,6 +468,7 @@ ea-ind.exacttarget.com
 ea-las.exacttarget.com
 east.aod.extremereach.com
 east.ftp.extremereach.com
+east.prtg.extremereach.com
 ef193.mta.exacttarget.com
 el67.mta.exacttarget.com
 el68.mta.exacttarget.com
@@ -491,6 +503,7 @@ eu.cbarsrv.com
 eum-api.appdynamics.com
 eventqueries.bluekai.com
 eventqueries-int.bluekai.com
+event-tracker.k8s-prod.fiksu.com
 evoko.awin.com
 ewrstage-rtb.applovin.com
 excess.duolingo.com
@@ -564,8 +577,8 @@ gerrit.ops.appdynamics.com
 gist-assets.github.exacttarget.com
 gist.github.exacttarget.com
 gist-raw.github.exacttarget.com
-globe-prod.amobee.com
 globeprod.amobee.com
+globe-prod.amobee.com
 gob.curalate.com
 gp65.mta.exacttarget.com
 gp68.mta.exacttarget.com
@@ -573,6 +586,7 @@ grafana.k8s.cluster-001.s-use-1.braze.com
 grafana.k8s.region-001.s-use-1.braze.com
 grafana.k8s.stc-001.s-use-1.braze.com
 grafana.k8s.test-001.d-usw-2.braze.com
+grafana.k8s-test.fiksu.com
 grape.k8s.test-001.d-usw-2.braze.com
 greg-tv.blismedia.com
 gtm01.exacttarget.com
@@ -599,6 +613,7 @@ ice.aws.amobee.com
 i.chartboost.com
 identify.api.drift.com
 id-ns1.amgdgt.com
+illuminati.fgl.com
 image.s1.qa2.exacttarget.com
 image.s2.qa2.exacttarget.com
 images.aggregateknowledge.com
@@ -1045,6 +1060,7 @@ o1.email.applovin.com
 o1.email.avidly.com
 o1.mail.ensighten.com
 o1.outbound.crashlytics.com
+o1.smtp.eyereturn.com
 o20.ck.n.convertkit.com
 o22.ck.n.convertkit.com
 o3.outbound.crashlytics.com
@@ -1115,6 +1131,7 @@ presence.api.drift.com
 priority.appsflyer.com
 probing-api.beta.stag.bounceexchange.com
 probing.beta.stag.bounceexchange.com
+prod-aso-lb-v1.us-east-1d.kube.fiksu.com
 projectedreach.bluekai.com
 projectedreach-int.bluekai.com
 public-webservice.apdc1.adpushup.com
@@ -1161,6 +1178,9 @@ reporting.p03.eloqua.com
 reporting.p07.eloqua.com
 reports.crashlytics.com
 report-scripts.adrcdn.com
+reports.eyereturn.com
+request-tracker.k8s-prod.fiksu.com
+request-tracker.k8s-test.fiksu.com
 resizeall.bannersnack.com
 restapi.boa.exacttarget.com
 rest.s50.exacttarget.com
@@ -1177,6 +1197,10 @@ rs-stg-sync.adtdp.com
 rs-sync.adtdp.com
 rs-sync-y.adtdp.com
 rst.airfind.com
+rtb.eyedemand.com
+rtb.eyereturn.com
+rtb.fingereach.com
+rtb-pm1.eyereturn.com
 rt.dc-storm.com
 rudytest10-api.beta.stag.bounceexchange.com
 rudytest10.beta.stag.bounceexchange.com
@@ -1227,6 +1251,7 @@ s838544759.m.en25.com
 sacfw1.c3metrics.com
 sacfw2.c3metrics.com
 sand.console.appnexus.com
+sass.eyereturn.com
 satelliteflaca02.adtoox.com
 satellitefour.adtoox.com
 satellitespalta03.adtoox.com
@@ -1285,6 +1310,8 @@ sjc-clarity02.contextweb.com
 sjepm.adsafeprotected.com
 sl56f3x709.daphnecm.com
 slave-1.cdn.engagecore.com
+sma-rsw1.remote.extremereach.com
+sma-rsw2.remote.extremereach.com
 smartyads_display_vx.rtb.adx1.com
 smartyads_vx.rtb.adx1.com
 sms.test.exacttarget.com
@@ -1385,6 +1412,7 @@ sngmonitor01.amobee.com
 sng-mx.amobee.com
 social.coremetrics.com
 sock.s50.exacttarget.com
+sophos.extremereach.com
 sourceinventory.bluekai.com
 sourceinventory-int.bluekai.com
 specs.adrime.com
@@ -1416,6 +1444,7 @@ static-was2.dynamicyield.com
 stats.bluekai.com
 storage3-j2.brightedge.com
 su.ff.avast.comads.creative-serving.com
+supertracker.flashget.com
 surfaid.coremetrics.com
 survey1.daphnecm.com
 survey.adsqn.com
@@ -1484,8 +1513,8 @@ vc.bnmla.com
 vcenter.evowise.com
 vfdemed.amobee.com
 vfdeprod.amobee.com
-vfes-prod.amobee.com
 vfesprod.amobee.com
+vfes-prod.amobee.com
 vfes-te.amobee.com
 vfindprod.amobee.com
 vfitprod.amobee.com
@@ -1532,6 +1561,7 @@ webservice.s4.exacttarget.com
 webservice-sha2.boa.exacttarget.com
 webservice.test.exacttarget.com
 west.ftp.extremereach.com
+west.prtg.extremereach.com
 white.k8s.test-001.d-usw-2.braze.com
 wi.adpiano.com
 widget.bugherd.com
@@ -1581,6 +1611,7 @@ www.centraltag.com
 www.crazyclickstats.com
 www.creative-serving.com
 www.ctasnet.com
+www.dex.k8s-test.fiksu.com
 www.enhancedstats.com
 www.enhancedtrk.com
 www.eqads.com
