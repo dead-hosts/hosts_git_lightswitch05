@@ -69,6 +69,7 @@ ad.downloadyee.com
 ad.fractionalmedia.com
 adfs.qadynamics.marketo.com
 adintegration.lijit.com
+ad-l1.media6degrees.com
 ad.lgsmartad.com
 adm1.dynamicyield.com
 admin-api.g-us-v3.conductrics.com
@@ -77,6 +78,7 @@ adp-pmk.adtdp.com
 adp-sdlv.adtdp.com
 ads2.creative-serving.com
 ad.sandbox.auditude.com
+ads-cluster.mediaforge.com
 ads-ct.creative-serving.com
 ads-de.ret01.ligatus.com
 ads.eqads.com
@@ -89,6 +91,7 @@ ads-sc2-lb12.adsymptotic.com
 ad.stg.auditude.com
 ads-tr.ret01.ligatus.com
 adsx-admin.greystripe.com
+adtag.mediaiqdigital.com
 adt-app-api.adtdp.com
 adt-app-dlv.adtdp.com
 adt-app-sfp-api.adtdp.com
@@ -113,6 +116,7 @@ alertmanager.tier2.gae.staging-1.staging.leanplum.com
 am0.pfa.levexis.com
 amazonapps.fgl.com
 amipm.adsafeprotected.com
+amp-cl1.mediaforge.com
 ams2.100tb.heyzap.com
 ams3.100tb.heyzap.com
 ams4.100tb.heyzap.com
@@ -291,6 +295,7 @@ cast-wn-j.adtdp.com
 cc15.mta.exacttarget.com
 ccb7596e-84ef-4748-8a73-ed57b17ac2df-078d9f6a6dc1.cdn5.forter.com
 cd152.mta.exacttarget.com
+cdg-integration-x1.mediamath.com
 cdhmanager-prod.bronto.com
 cdn5.forter.com
 cdn8.forter.com
@@ -446,6 +451,7 @@ dba014.apsalar.com
 dc21.bnmla.com
 dc.adsqn.com
 dco.centraltag.com
+dco.mediaiqdigital.com
 de100.mta.exacttarget.com
 de119.mta.exacttarget.com
 de129.mta.exacttarget.com
@@ -492,6 +498,7 @@ dev.sftp.extremereach.com
 devsite.amobee.com
 dev.static.display.khingtracking.com
 devsvn.extremereach.com
+dev-tag-builder-api.mediaforge.com
 devtest.celebrus.com
 dev-www.macromill.com
 dex.k8s-prod.fiksu.com
@@ -529,9 +536,11 @@ dialin.awin.com
 dialin.exacttarget.com
 dialin.exponential.com
 dialin.foreseeresults.com
+dialin.maxpoint.com
 dialog.macromill.com
 digitrust.creative-serving.com
 directads.epom.com
+director.maxpoint.com
 directory.chatid.com
 directory-qa.api.chatid.com
 direct-srv.buysellads.com
@@ -646,6 +655,7 @@ et.w.dfw2.vip.inmobi.com
 eu-bidder.dyntrk.com
 eu.cbarsrv.com
 eum-api.appdynamics.com
+eu.mdtrf.com
 eu-west-1.banner-server.fyber.com
 event-deletion.staging-1.staging.leanplum.com
 event-management.leanplum.com
@@ -656,6 +666,8 @@ events.intuit.launchdarkly.com
 events.mapbox.com
 event-tracker.k8s-prod.fiksu.com
 evoko.awin.com
+ewr-honeybadger-n1.mediamath.com
+ewr-integration-x1.mediamath.com
 ewrstage-rtb.applovin.com
 excess.duolingo.com
 expo9.exponential.com
@@ -670,6 +682,7 @@ faw.forter.com
 fbl.s50.exacttarget.com
 fc-lb1.iad2.adsymptotic.com
 fc-lb2.iad2.adsymptotic.com
+fed.maxpoint.com
 feeds.bannerflow.com
 fg146.mta.exacttarget.com
 fg158.mta.exacttarget.com
@@ -796,6 +809,7 @@ gw-il.fyber.com
 gw-sf.fyber.com
 haproxy01-west-bidder.manage.com
 haproxy.ewr1.exelator.com
+hastebin.mediamath.com
 helium-api.chartboost.com
 highereddemo.eloqua.com
 higheredgallery.eloqua.com
@@ -854,6 +868,7 @@ in.hotjar.com
 insideedition.cbsi.com
 insight.p03.eloqua.com
 insight.secure.eloqua.com
+insights.maxpoint.com
 insight.www02.secure.eloqua.com
 integration.drift.com
 internal.instartlogic.com
@@ -872,6 +887,7 @@ jenkins2.secure.blismedia.com
 jenkins-staging.leanplum.com
 jobs008.apsalar.com
 jobs017.apsalar.com
+jp.tags.mediaforge.com
 js.moatads.comads.creative-serving.com
 jss.adroll.com
 jss.aweber.com
@@ -887,6 +903,7 @@ kp2.forter.com
 kpstat.forter.com
 ks01.ks.extremereach.com
 lab.atdmt.com
+la.mdtrf.com
 latency.banner-server.fyber.com
 latencychecker.bluekai.com
 ldap01.adroll.com
@@ -926,6 +943,7 @@ ls1x.chatid.com
 ls.chatid.com
 lyncaws2.exponential.com
 lyncdiscover.exacttarget.com
+lyncdiscover.maxpoint.com
 lyncpoolwebext.america.exacttarget.com
 lyncshare.exponential.com
 lyncwebapp.exponential.com
@@ -966,6 +984,8 @@ manage-legacy.ensighten.com
 marketing.coveo.com
 marketing.preprod.criteo.com
 marshalls.madmobile.com
+marvell-prod.campaigns.mediamath.com
+marvell-qa.campaigns.mediamath.com
 maxpreps.cbsi.com
 mbs.cloudberrylab.comads.creative-serving.com
 mc12.adsqn.com
@@ -986,6 +1006,7 @@ meet.exacttarget.com
 meet.exponential.com
 meet.foresee.com
 meet.foreseeresults.com
+meet.maxpoint.com
 members.s1.qa5.exacttarget.com
 mena.panelmena.gemius.com
 messaging.api.drift.com
@@ -1232,6 +1253,7 @@ ms.pages.test.exacttarget.com
 ms-stage.gumgum.com
 ms.test.exacttarget.com
 ms.ws.test.exacttarget.com
+mx.maxpoint.com
 mycroft.jivox.com
 mydaes3.extremereach.com
 mydaes4.extremereach.com
@@ -1252,6 +1274,10 @@ ne4.ap.nexus.ensighten.com
 ne5.ap.nexus.ensighten.com
 ne6.ap.nexus.ensighten.com
 nectar.juicemobile.com
+nemo-app-production.campaigns.mediamath.com
+nemo-app-qa.campaigns.mediamath.com
+nemo-serializer-production.campaigns.mediamath.com
+nemo-serializer-qa.campaigns.mediamath.com
 neo.amobee.com
 neo-ws.gosquared.com
 nessus2.lijit.com
@@ -1359,6 +1385,7 @@ nsof-web.dynamicyield.com
 nuqstage-rtb.applovin.com
 ny13.casalemedia.com
 nyipm.adsafeprotected.com
+ny.mdtrf.com
 nyt3.dc-storm.com
 o10.ck.n.convertkit.com
 o15.ck.n.convertkit.com
@@ -1395,9 +1422,12 @@ oda.hurra.com
 offerservices.marketingg2.com
 office.convertcart.com
 office-fr.criteo.com
+office.maxpoint.com
 officewebapps.foresee.com
 og-iad2.adsymptotic.com
 og-sc2.adsymptotic.com
+old.mediaiqdigital.com
+old-wiki.mediaiqdigital.com
 on-prem-testing.bugsnag.com
 openrtb.brealtime.com
 optimal-variant-server.prod-1.prod.leanplum.com
@@ -1447,6 +1477,7 @@ pixel-api.bridgewell.com
 pixel.audiensis.com
 pixel.dsp.linksynergy.com
 pixel.kiitties.com
+pixel.mediaiqdigital.com
 pixie.fyber.com
 planet-v.amobee.com
 platform.blis.com
@@ -1462,6 +1493,7 @@ polling.joystickinteractive.com
 pollserver.interpolls.com
 pong2.production.gannettdigital.com
 pool-eu-ie.creative-serving.com
+pool.maxpoint.com
 pop.adrcdn.com
 pop.adverline.com
 popculture.cbsi.com
@@ -1596,6 +1628,7 @@ rtb18.impresionesweb.com
 rtb19.impresionesweb.com
 rtb24.impresionesweb.com
 rtb26.impresionesweb.com
+rtbe-beta.media6degrees.com
 rtb.eyedemand.com
 rtb.eyereturn.com
 rtb.fingereach.com
@@ -1667,6 +1700,7 @@ satellitespalta03.adtoox.com
 satellitethree.adtoox.com
 sbr-template-dev.joystickinteractive.com
 sbr-template-stg.joystickinteractive.com
+scheduler.maxpoint.com
 scout.cbsi.com
 scpweb.s10.exacttarget.com
 scpweb.s1.exacttarget.com
@@ -1751,6 +1785,7 @@ sjc1.100tb.heyzap.com
 sjc2.100tb.heyzap.com
 sjc-clarity02.contextweb.com
 sjepm.adsafeprotected.com
+skype.maxpoint.com
 sl56f3x709.daphnecm.com
 slate-in.jivox.com
 slave-1.cdn.engagecore.com
@@ -1896,7 +1931,9 @@ staging.juicemobile.com
 staging-k8s.beeketing.com
 staging.levexis.com
 staging.madmobile.com
+staging.maxpoint.com
 staging-rocnation.lisnr.com
+staging-trac.mediaiqdigital.com
 static.audiensis.com
 static.bronto.com
 static.kochava.com
@@ -1965,6 +2002,7 @@ top.criteo.com
 touchvpn.conviva.com
 tour.appdynamics.com
 tps31.doubleverify.com
+tq.mdotlabs.com
 tracfone.amobee.com
 tracking.downloadyee.com
 trainerqa.brightedge.com
@@ -1978,6 +2016,7 @@ uat-adservers.connextra.com
 uat-datacapture.connextra.com
 uat-workbench.connextra.com
 ui2.ensighten.com
+ui.mdotlabs.com
 u.joystickinteractive.com
 um.eqads.com
 umprod.amobee.com
