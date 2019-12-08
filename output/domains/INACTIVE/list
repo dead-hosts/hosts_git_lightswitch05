@@ -738,6 +738,7 @@ assets3.brightedge.com
 assets.adtechus.com
 assets.applvn.com
 assets.ebuzzing.com
+assets-ue1.perf.pardot.com
 assist.itnow.netat1.listrakbi.com
 assoc-msdk-metrics-us.amazon-adsystem.com
 a-static.klaviyo.com
@@ -1107,6 +1108,7 @@ canada.dev.extremereach.com
 canada.extremereach.com.extremereach.com
 canary.ewr.mathmon.mediamath.com
 candycrush.maint.midasplayer.com
+canoehipchat.dev.pardot.com
 ca.np.adproxy.ndmdhs.com
 capitalone.acxiom.com
 caprofitx.adtdp.com
@@ -1592,7 +1594,10 @@ d.e0mn.com
 deadpool.ops.ir1.inmobi.com
 dealmanager.ligatus.com
 debra.navegg.com
+debug.aws.perf.pardot.com
 debug.engine.mobileapptracking.com
+debug-go.perf.pardot.com
+debug-preview.perf.pardot.com
 decidedna1.247realmedia.com
 decidedna2.247realmedia.com
 deco.cbsi.com
@@ -1895,10 +1900,16 @@ emaghu-bud.gravityrd-services.com
 email.advertising.com
 email.bizographics.com
 email.circlebackemail.appboy.com
+email-d1.pardot.com
+email-d2.pardot.com
+email-d4.pardot.com
 emailer2.joystickinteractive.com
 email.liverail.com
 email.mg.mparticle.com
 email.optimizely.com
+email-s1.pardot.com
+email-s2.pardot.com
+email-system.pardot.com
 embed.orbee.co
 emedco-cdn.madmobile.com
 emedco-staging.madmobile.com
@@ -2051,6 +2062,7 @@ feed.linksynergy.com
 feed-player-service.prod.ndnops.com
 feeds.joystickinteractive.com
 feeds.mediaforge.com
+feeds.pardot.com
 festival.lisnr.com
 fh2.midasplayer.com
 fhtcaptions.rt.cquotient.com
@@ -2406,8 +2418,8 @@ idsync.districtm.ca
 idsync.mparticle.com
 idtest.acxiom.com
 i.essads.com
-ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
+ifc2.vip.dfw1.inmobi.com
 ifc2.vip.hkg1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
@@ -2487,8 +2499,8 @@ ingest.at.atwola.com
 ingress-test-api.newstags.stag.bounceexchange.com
 ingress-test.newstags.stag.bounceexchange.com
 iniitian.saas.appdynamics.com
-i.n.jwpltx.com
 in.jwpltx.com
+i.n.jwpltx.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
 inmobi.web10-east.manage.com
@@ -2549,12 +2561,19 @@ internal.beeketing.com
 internal.bidstalk.com
 internal.datadome.co
 internal.dev.kargo.com
+internal-embedded.perf.pardot.com
 internal.mpx.mopub.com
 internal.outbrain.com
 internal.s50.exacttarget.com
 internals.adotmob.com
 internals.instartlogic.com
 internal.staging.kargo.com
+internal-ue1-lb1.pardot.com
+internal-ue1-lb2.pardot.com
+internal-ue1-lb3.pardot.com
+internal-ue1-lb4.pardot.com
+internal-ue1-lb5.pardot.com
+internal-ue1-lb6.pardot.com
 internal.v3.ads.mopub.com
 intern.atlassbx.com
 intern.ligatus.com
@@ -2678,6 +2697,7 @@ katespade.adlegend.com
 katespade.sp1.convertro.com
 kb2.mediamath.com
 kb.criteo.com
+kb.pardot.com
 kds-pixel-dev.stage.us-east-1.kops.kargo.com
 keen.sp1.convertro.com
 keeza.dev-iad.amobee.com
@@ -2997,6 +3017,7 @@ members.11.exacttarget.com
 members.poc.exacttarget.com
 mep.centraltag.com
 merlin.linksynergy.com
+mesh-ue1.pardot.com
 meta1.adlegend.com
 meta2.adlegend.com
 metabase.apester.com
@@ -3549,6 +3570,7 @@ peoples-staging.madmobile.com
 pepperp1.midasplayer.com
 pepperpanic.maint.midasplayer.com
 perfetti.preprod.azure.neodatagroup.com
+perf.pardot.com
 persgroep.mobpro.com
 perupa.qa-iad.amobee.com
 petpeoplemeet.adlegend.com
@@ -3572,8 +3594,14 @@ photos-bazaar-use1.nexus.bazaarvoice.com
 pictela-sb-ec.adtechus.com
 pi.dc-storm.com
 pingfed.openx.com
-pinyou.cm.cn.miaozhen.com
 pinyou-cm.cn.miaozhen.com
+pinyou.cm.cn.miaozhen.com
+pi-ue1-lb1.pardot.com
+pi-ue1-lb2.pardot.com
+pi-ue1-lb3.pardot.com
+pi-ue1-lb4.pardot.com
+pi-ue1-lb5.pardot.com
+pi-ue1-lb6.pardot.com
 pix-beta.impdesk.com
 pix.dco.advertising.com
 pixel2.hnyhnyhny.com
@@ -3583,6 +3611,7 @@ pixel.ingest.at.atwola.com
 pixel.jumptap.com
 pixel.mediamath.com
 pixel.monetize-me.com
+pixel.parsely.com
 pixel-sc2.adsymptotic.com
 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 pix-rc.impdesk.com
@@ -3813,8 +3842,8 @@ prophet.acxiom.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway-production.browsiprod.com
 provider-gateway.production.browsiprod.com
+provider-gateway-production.browsiprod.com
 proximiter-stg.joystickinteractive.com
 proximiter-temp.joystickinteractive.com
 proximiter-tmp.joystickinteractive.com
@@ -4221,10 +4250,10 @@ rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
 s-07.optvdo.com
 s-09.optvdo.com
 s10.allinviews.com
-s10.optvdo.com
 s-10.optvdo.com
-s12.optvdo.com
+s10.optvdo.com
 s-12.optvdo.com
+s12.optvdo.com
 s13.ayads.co
 s13.optvdo.com
 s16.optvdo.com
@@ -4786,6 +4815,7 @@ st-nginx-proxy.geoedge.be
 sto.midasplayer.com
 storage-cf.cloud.kargo.com
 storage-http2.cloud.kargo.com
+storage-next.pardot.com
 store-backend-beta.convertcart.com
 stpcaptions.rt.cquotient.com
 stp.hansel.cquotient.com
@@ -5090,8 +5120,8 @@ transfer.bluecava.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel.productads.hlserve.com
 travel-productads.hlserve.com
+travel.productads.hlserve.com
 tr.bnmla.com
 trello-callback.glance-internal.inmobi.com
 tr.gcp.blis.com
@@ -5361,6 +5391,7 @@ video.flashtalking.com
 video.inmobi.com
 videomax.neodatagroup.com
 vid.locsensads.com
+vid.pardot.com
 vietnamworks-sin.gravityrd-services.com
 view.comms.doubleclick.com
 view.skyrocket.adtdp.com
@@ -6191,6 +6222,7 @@ www.pay.getadmiral.com
 www.pdb.inmobi.cn
 www.pdb.uat.inmobi.com
 www.perfex.inmobi.com
+www.perf.pardot.com
 www.phone.sf.adroll.com
 www.ping.getadblock.com
 www.pinnacle.doubleverify.com
@@ -6202,6 +6234,7 @@ www.pixel.aspirei.com
 www.pixel.audiensis.com
 www.pixel.buypixelads.com
 www.pixel.netseer.com
+www.pixel-test.parsely.com
 www.pix.impdesk.com
 www.pix.silverpush.co
 www.platform.amobee.com
@@ -6524,6 +6557,7 @@ xdswrite.us.experimentation.intuit.com
 xer.first-impression.com
 xerox.links.channelintelligence.com
 xg.reddit.co
+xhprof-ue1.perf.pardot.com
 xlaa9098.citacx.acxiom.com
 x.ligatus.com
 xlla9583.citacx.acxiom.com
