@@ -97,6 +97,7 @@
 0.0.0.0 ahk.ctnsnet.com
 0.0.0.0 ai170.mta.exacttarget.com
 0.0.0.0 airflow.data.drift.com
+0.0.0.0 alertmanager.tier2.gae.prod-1.prod.leanplum.com
 0.0.0.0 amazonapps.fgl.com
 0.0.0.0 amipm.adsafeprotected.com
 0.0.0.0 ams2.100tb.heyzap.com
@@ -108,6 +109,7 @@
 0.0.0.0 analytics-api.justuno.com
 0.0.0.0 analytics.convertcart.com
 0.0.0.0 analytics.crazyclickstats.com
+0.0.0.0 analytics.kochava.com
 0.0.0.0 analytics.rancher.airfind.com
 0.0.0.0 anonymous.s50.exacttarget.com
 0.0.0.0 anycast.ci.adsafeprotected.com
@@ -120,6 +122,7 @@
 0.0.0.0 api.dc1.exacttarget.com
 0.0.0.0 api.dc2.exacttarget.com
 0.0.0.0 api.dc-storm.com
+0.0.0.0 api.decision-server.prod-1.prod.leanplum.com
 0.0.0.0 api.drift.com
 0.0.0.0 api.ensighten.com
 0.0.0.0 api-eu.conductrics.com
@@ -128,6 +131,7 @@
 0.0.0.0 api.gosquared.com
 0.0.0.0 api.g-us-v3.conductrics.com
 0.0.0.0 api.iterable.com
+0.0.0.0 api.leadfeeder.com
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 api.s1.qa2.exacttarget.com
@@ -154,10 +158,12 @@
 0.0.0.0 apps.secure.eloqua.com
 0.0.0.0 apps.www02.secure.eloqua.com
 0.0.0.0 archive.bronto.com
+0.0.0.0 argus.prod-1.prod.leanplum.com
 0.0.0.0 artifactory-qa-p01.exacttarget.com
 0.0.0.0 artifactory-qa-p02.exacttarget.com
 0.0.0.0 artifactory-qa-p03.exacttarget.com
 0.0.0.0 as114.epom.com
+0.0.0.0 asrftp4.ladsp.com
 0.0.0.0 assets.clevergirlscollective.com
 0.0.0.0 assets.github.exacttarget.com
 0.0.0.0 assoc-msdk-cn.amazon-adsystem.com
@@ -301,6 +307,7 @@
 0.0.0.0 clients6.google.comads.creative-serving.com
 0.0.0.0 clientsftp.foreseeresults.com
 0.0.0.0 clientsmedia.adrime.com
+0.0.0.0 clientstream.intuit.launchdarkly.com
 0.0.0.0 cloud.hurra.com
 0.0.0.0 cm.alamo.com.cns.coremetrics.com
 0.0.0.0 cm.daphnecm.com
@@ -317,6 +324,7 @@
 0.0.0.0 cntr.adrime.com
 0.0.0.0 co1aqu.atdmt.com
 0.0.0.0 co2aqu.atdmt.com
+0.0.0.0 code.kissmetrics.com
 0.0.0.0 codeload.github.exacttarget.com
 0.0.0.0 collector.eyereturn.com
 0.0.0.0 comicbook.cbsi.com
@@ -378,6 +386,7 @@
 0.0.0.0 d1.enhancedtrk.com
 0.0.0.0 dalpm.adsafeprotected.com
 0.0.0.0 darktrace.cbsi.com
+0.0.0.0 data-platform-jobs.prod.leanplum.com
 0.0.0.0 dataservices.bluekai.com
 0.0.0.0 db03.wdc.bluekai.com
 0.0.0.0 db102.mta.exacttarget.com
@@ -423,6 +432,7 @@
 0.0.0.0 devapp.extremereach.com
 0.0.0.0 dev.brightedge.com
 0.0.0.0 dev.demo.appdynamics.com
+0.0.0.0 dev.display.khingtracking.com
 0.0.0.0 devefence.engageclick.com
 0.0.0.0 dev.getadmiral.com
 0.0.0.0 dev.impresionesweb.com
@@ -434,6 +444,7 @@
 0.0.0.0 dev.pixel.fuel451.com
 0.0.0.0 dev.sftp.extremereach.com
 0.0.0.0 devsite.amobee.com
+0.0.0.0 dev.static.display.khingtracking.com
 0.0.0.0 devsvn.extremereach.com
 0.0.0.0 devtest.celebrus.com
 0.0.0.0 dex.k8s-prod.fiksu.com
@@ -556,6 +567,7 @@
 0.0.0.0 el75.mta.exacttarget.com
 0.0.0.0 email.dianomi.com
 0.0.0.0 email.exacttarget.com
+0.0.0.0 email-grafana.prod-1.prod.leanplum.com
 0.0.0.0 enrichment.api.drift.com
 0.0.0.0 ens-ca-central1-a.nexus.ensighten.com
 0.0.0.0 ens-us-central1-a.nexus.ensighten.com
@@ -582,14 +594,18 @@
 0.0.0.0 eu.cbarsrv.com
 0.0.0.0 eum-api.appdynamics.com
 0.0.0.0 eu-west-1.banner-server.fyber.com
+0.0.0.0 event-management.leanplum.com
+0.0.0.0 event-management-shadow.leanplum.com
 0.0.0.0 eventqueries.bluekai.com
 0.0.0.0 eventqueries-int.bluekai.com
+0.0.0.0 events.intuit.launchdarkly.com
 0.0.0.0 event-tracker.k8s-prod.fiksu.com
 0.0.0.0 evoko.awin.com
 0.0.0.0 ewrstage-rtb.applovin.com
 0.0.0.0 excess.duolingo.com
 0.0.0.0 expo9.exponential.com
 0.0.0.0 expwye-rsw1.corp.er.extremereach.com
+0.0.0.0 external-appcluster-kp1g.kochava.com
 0.0.0.0 extranet.dotomi.com
 0.0.0.0 f11.adventori.com
 0.0.0.0 f12.adventori.com
@@ -616,6 +632,7 @@
 0.0.0.0 firewall.juicemobile.com
 0.0.0.0 fls-cn.amazon-adsystem.com
 0.0.0.0 fmx-req.fractionalmedia.com
+0.0.0.0 focus.kissmetrics.com
 0.0.0.0 foo-test.joystickinteractive.com
 0.0.0.0 foreman.amobee.com
 0.0.0.0 fq112.mta.exacttarget.com
@@ -678,12 +695,20 @@
 0.0.0.0 gp68.mta.exacttarget.com
 0.0.0.0 gpu4001.ds.ams1.inmobi.com
 0.0.0.0 gpu4001.ds.ev1.inmobi.com
+0.0.0.0 grafana.campaign-analytics.prod.leanplum.com
+0.0.0.0 grafana.dp.prod-1.prod.leanplum.com
+0.0.0.0 grafana.estimator.prod-1.prod.leanplum.com
 0.0.0.0 grafana.fyber.com
+0.0.0.0 grafana.gae.prod-1.prod.leanplum.com
+0.0.0.0 grafana.ie.prod-1.prod.leanplum.com
+0.0.0.0 grafana.isau.prod.leanplum.com
 0.0.0.0 grafana.k8s.cluster-001.s-use-1.braze.com
 0.0.0.0 grafana.k8s.region-001.s-use-1.braze.com
 0.0.0.0 grafana.k8s.stc-001.s-use-1.braze.com
 0.0.0.0 grafana.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 grafana.k8s-test.fiksu.com
+0.0.0.0 grafana.prod-1.prod.leanplum.com
+0.0.0.0 grafana.prod.leanplum.com
 0.0.0.0 grape.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 graylog.ops.ams1.inmobi.com
 0.0.0.0 graylog.ops.dfw1.inmobi.com
@@ -711,6 +736,7 @@
 0.0.0.0 hot-shit.beta.stag.bounceexchange.com
 0.0.0.0 hot-shit-router.beta.stag.bounceexchange.com
 0.0.0.0 hound.bnmla.com
+0.0.0.0 hq.kissmetrics.com
 0.0.0.0 hub.internal.connatix.com
 0.0.0.0 hv9ztf47cl.daphnecm.com
 0.0.0.0 i1.goadservices.com
@@ -736,6 +762,7 @@
 0.0.0.0 imces.dfw1.vip.inmobi.com
 0.0.0.0 imces.vip.dfw1.inmobi.com
 0.0.0.0 imh.poc.exacttarget.com
+0.0.0.0 impersonation-preview.leanplum.com
 0.0.0.0 inbound-reply.s1.exacttarget.com
 0.0.0.0 inbound-reply.s4.exacttarget.com
 0.0.0.0 inbound-reply.s6.exacttarget.com
@@ -758,6 +785,7 @@
 0.0.0.0 i.w.dfw1.vip.inmobi.com
 0.0.0.0 ix-contents.brightedge.com
 0.0.0.0 jenkins2.secure.blismedia.com
+0.0.0.0 jenkins-staging.leanplum.com
 0.0.0.0 jobs008.apsalar.com
 0.0.0.0 jobs017.apsalar.com
 0.0.0.0 js.moatads.comads.creative-serving.com
@@ -885,6 +913,7 @@
 0.0.0.0 monitoring.context.bestbuy.com
 0.0.0.0 monitoring.eloqua.com
 0.0.0.0 monitoring.pl.context.bestbuy.com
+0.0.0.0 monitor.kochava.com
 0.0.0.0 monitor-sc.brightedge.com
 0.0.0.0 monitorsdk.appsflyer.com
 0.0.0.0 monitor-us-east-1.arbitron.adswizz.com
@@ -1175,6 +1204,7 @@
 0.0.0.0 ns1.exponential.com
 0.0.0.0 ns1.inmobi.com
 0.0.0.0 ns1.kargo.com
+0.0.0.0 ns1.kochava.com
 0.0.0.0 ns1.tg.adx1.com
 0.0.0.0 ns21.criteo.com
 0.0.0.0 ns22.criteo.com
@@ -1242,13 +1272,16 @@
 0.0.0.0 o1.email.gameanalytics.com
 0.0.0.0 o1.email.heapanalytics.com
 0.0.0.0 o1.email.heyzap.com
+0.0.0.0 o1.email.leadbolt.com
 0.0.0.0 o1.mail.ensighten.com
 0.0.0.0 o1.md.getsentry.com
 0.0.0.0 o1.outbound.crashlytics.com
 0.0.0.0 o1.smtp.eyereturn.com
 0.0.0.0 o20.ck.n.convertkit.com
 0.0.0.0 o22.ck.n.convertkit.com
+0.0.0.0 o2.email.kissmetrics.com
 0.0.0.0 o2.haloapps.com
+0.0.0.0 o3.campaigns2.kissmetrics.com
 0.0.0.0 o3.outbound.crashlytics.com
 0.0.0.0 o3.sg.clickmail.clickfunnels.com
 0.0.0.0 o4.sg.clickmail.clickfunnels.com
@@ -1300,6 +1333,7 @@
 0.0.0.0 pennmutual.hosting.exacttarget.com
 0.0.0.0 perceptor.bnmla.com
 0.0.0.0 pfa-online-integ2.amobee.com
+0.0.0.0 phabricator.leanplum.com
 0.0.0.0 phish.curalate.com
 0.0.0.0 phone.sf.adroll.com
 0.0.0.0 phx1-mx.cbsi.com
@@ -1307,6 +1341,7 @@
 0.0.0.0 pinpoint-dev.adready.com
 0.0.0.0 pixel-api.bridgewell.com
 0.0.0.0 pixel.audiensis.com
+0.0.0.0 pixel.kiitties.com
 0.0.0.0 pixie.fyber.com
 0.0.0.0 planet-v.amobee.com
 0.0.0.0 platform.blis.com
@@ -1338,7 +1373,13 @@
 0.0.0.0 profile.justuno.com
 0.0.0.0 projectedreach.bluekai.com
 0.0.0.0 projectedreach-int.bluekai.com
+0.0.0.0 prometheus.dp.prod-1.prod.leanplum.com
+0.0.0.0 prometheus.email.prod-1.prod.leanplum.com
 0.0.0.0 prometheus.fullstory.com
+0.0.0.0 prometheus.ie.prod-1.prod.leanplum.com
+0.0.0.0 prometheus.isau.prod.leanplum.com
+0.0.0.0 prometheus.tier1.gae.prod-1.prod.leanplum.com
+0.0.0.0 prometheus.tier2.gae.prod-1.prod.leanplum.com
 0.0.0.0 ps2.interpolls.com
 0.0.0.0 ps.interpolls.com
 0.0.0.0 pso.ws.ev1.inmobi.com
@@ -1360,6 +1401,7 @@
 0.0.0.0 pushbank.services.adx1.com
 0.0.0.0 push-dmp.aralego.com
 0.0.0.0 push.justuno.com
+0.0.0.0 push.klaviyo.com
 0.0.0.0 qa2-master1a.apsalar.com
 0.0.0.0 qa3-master1a.apsalar.com
 0.0.0.0 qa4-master1a.apsalar.com
@@ -1519,10 +1561,15 @@
 0.0.0.0 se2.ap.nexus.ensighten.com
 0.0.0.0 se3.ap.nexus.ensighten.com
 0.0.0.0 se4.ap.nexus.ensighten.com
+0.0.0.0 search9.keywordblocks.com
 0.0.0.0 search.airpr.com
 0.0.0.0 search.coremetrics.com
 0.0.0.0 secure0.adswizz.com
 0.0.0.0 seek.hosting.exacttarget.com
+0.0.0.0 segmentation-rabbit.isau.prod.leanplum.com
+0.0.0.0 segmentation-zeppelin-admin.isau.prod.leanplum.com
+0.0.0.0 segmentation-zeppelin.isau.prod.leanplum.com
+0.0.0.0 segmentation-zeppelin-jobs.isau.prod.leanplum.com
 0.0.0.0 selfservice.ensighten.com
 0.0.0.0 semprotest.hurra.com
 0.0.0.0 send.aweber.com
@@ -1536,6 +1583,7 @@
 0.0.0.0 sentry.hotjar.com
 0.0.0.0 seojs.pl.hurra.com
 0.0.0.0 service.centraltag.com
+0.0.0.0 service.ladsp.com
 0.0.0.0 services.iad.appboy.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-qa-p01.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-qa-p02.exacttarget.com
@@ -1549,6 +1597,7 @@
 0.0.0.0 sgn.exacttarget.com
 0.0.0.0 sg.tracking.emerse.com
 0.0.0.0 shared.mobile.ensighten.com
+0.0.0.0 shortener.klaviyo.com
 0.0.0.0 sidearm.dev.moneyball.cbsi.com
 0.0.0.0 sidearm.moneyball.cbsi.com
 0.0.0.0 singtelprod.amobee.com
@@ -1704,6 +1753,7 @@
 0.0.0.0 staging-k8s.beeketing.com
 0.0.0.0 static.audiensis.com
 0.0.0.0 static.bronto.com
+0.0.0.0 static.kochava.com
 0.0.0.0 static-lon1.dynamicyield.com
 0.0.0.0 staticvc.adsafeprotected.com
 0.0.0.0 static-was1.dynamicyield.com
@@ -1734,6 +1784,7 @@
 0.0.0.0 targeting.api.drift.com
 0.0.0.0 targeting.tronc.arcpublishing.com
 0.0.0.0 target-oregon-01.clickfunnels.com
+0.0.0.0 tasks.kissmetrics.com
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 t.cdnsynd.com
 0.0.0.0 tc.internal.connatix.com
@@ -1755,6 +1806,7 @@
 0.0.0.0 tmo99.t-mobile.com.cns.coremetrics.com
 0.0.0.0 tools.ensighten.com
 0.0.0.0 tools.greystripe.com
+0.0.0.0 tools.kissmetrics.com
 0.0.0.0 top.criteo.com
 0.0.0.0 touchvpn.conviva.com
 0.0.0.0 tour.appdynamics.com
@@ -1796,8 +1848,8 @@
 0.0.0.0 vcenter.evowise.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-prod.amobee.com
+0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -1926,6 +1978,7 @@
 0.0.0.0 www.iogous.com
 0.0.0.0 www-lhr1.awin1.com
 0.0.0.0 www.mail.corp.conviva.com
+0.0.0.0 www.marketing.kochava.com
 0.0.0.0 www.matching.granify.com
 0.0.0.0 www-qa.foreseeresults.com
 0.0.0.0 www.sipext.exacttarget.com
@@ -1939,6 +1992,7 @@
 0.0.0.0 xtinmta03-48.exacttarget.com
 0.0.0.0 xtinmta05-166.exacttarget.com
 0.0.0.0 y.amobee.com
+0.0.0.0 yeoldeblog.kissmetrics.com
 0.0.0.0 youtrack.internal.connatix.com
 0.0.0.0 youtrack.ops.connatix.com
 0.0.0.0 youtrack-ue2.internal.connatix.com
