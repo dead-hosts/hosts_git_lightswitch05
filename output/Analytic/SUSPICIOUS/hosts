@@ -49,6 +49,7 @@
 0.0.0.0 a690.casalemedia.com
 0.0.0.0 a940.casalemedia.com
 0.0.0.0 a.beeketing.com
+0.0.0.0 about.heapanalytics.com
 0.0.0.0 access.eloqua.com
 0.0.0.0 accounts.eyereturn.com
 0.0.0.0 acquia-api.conductrics.com
@@ -71,6 +72,7 @@
 0.0.0.0 ads-ct.creative-serving.com
 0.0.0.0 ads.eqads.com
 0.0.0.0 adserver.aptdynamics.com
+0.0.0.0 ads.httptrack.com
 0.0.0.0 ads-sc2-lb11.adsymptotic.com
 0.0.0.0 ads-sc2-lb12.adsymptotic.com
 0.0.0.0 ad.stg.auditude.com
@@ -93,6 +95,9 @@
 0.0.0.0 airflow.data.drift.com
 0.0.0.0 amazonapps.fgl.com
 0.0.0.0 amipm.adsafeprotected.com
+0.0.0.0 ams2.100tb.heyzap.com
+0.0.0.0 ams3.100tb.heyzap.com
+0.0.0.0 ams4.100tb.heyzap.com
 0.0.0.0 ams.amobee.com
 0.0.0.0 amsstage-rtb.applovin.com
 0.0.0.0 amsterdam.criteo.com
@@ -273,6 +278,7 @@
 0.0.0.0 clients6.google.comads.creative-serving.com
 0.0.0.0 clientsftp.foreseeresults.com
 0.0.0.0 clientsmedia.adrime.com
+0.0.0.0 cloud.hurra.com
 0.0.0.0 cm.alamo.com.cns.coremetrics.com
 0.0.0.0 cm.daphnecm.com
 0.0.0.0 cm.enterprise.com.cns.coremetrics.com
@@ -431,6 +437,7 @@
 0.0.0.0 dg32.mta.exacttarget.com
 0.0.0.0 dg7.mta.exacttarget.com
 0.0.0.0 dg92.mta.exacttarget.com
+0.0.0.0 d.haloapps.com
 0.0.0.0 di82.mta.exacttarget.com
 0.0.0.0 dialin.awin.com
 0.0.0.0 dialin.exacttarget.com
@@ -618,8 +625,8 @@
 0.0.0.0 gist-assets.github.exacttarget.com
 0.0.0.0 gist.github.exacttarget.com
 0.0.0.0 gist-raw.github.exacttarget.com
-0.0.0.0 globe-prod.amobee.com
 0.0.0.0 globeprod.amobee.com
+0.0.0.0 globe-prod.amobee.com
 0.0.0.0 gob.curalate.com
 0.0.0.0 gp65.mta.exacttarget.com
 0.0.0.0 gp68.mta.exacttarget.com
@@ -678,6 +685,7 @@
 0.0.0.0 inbound.s4.exacttarget.com
 0.0.0.0 inbound.s6.exacttarget.com
 0.0.0.0 incoming.bronto.com
+0.0.0.0 in.hotjar.com
 0.0.0.0 insideedition.cbsi.com
 0.0.0.0 insight.p03.eloqua.com
 0.0.0.0 insight.secure.eloqua.com
@@ -687,6 +695,7 @@
 0.0.0.0 iq.doubleverify.com
 0.0.0.0 isg01.casalemedia.com
 0.0.0.0 ithd.exacttarget.com
+0.0.0.0 itrack.httptrack.com
 0.0.0.0 ix-contents.brightedge.com
 0.0.0.0 jenkins2.secure.blismedia.com
 0.0.0.0 jobs008.apsalar.com
@@ -783,6 +792,7 @@
 0.0.0.0 mcdata.coremetrics.com
 0.0.0.0 mc-redbox.exacttarget.com
 0.0.0.0 mc.s1.qa5.exacttarget.com
+0.0.0.0 mdm.hurra.com
 0.0.0.0 media-ams5.msg.dotomi.com
 0.0.0.0 media.github.exacttarget.com
 0.0.0.0 media-sj2.msg.dotomi.com
@@ -802,6 +812,7 @@
 0.0.0.0 mivsa.foreseeresults.com
 0.0.0.0 mmmvar.amobee.com
 0.0.0.0 mmvivo.amobee.com
+0.0.0.0 mo.haloapps.com
 0.0.0.0 momentum1-mta1.aweber.com
 0.0.0.0 monitor.appsee.com
 0.0.0.0 monitoring.context.bestbuy.com
@@ -810,6 +821,7 @@
 0.0.0.0 monitor-sc.brightedge.com
 0.0.0.0 monitorsdk.appsflyer.com
 0.0.0.0 monitor-us-east-1.arbitron.adswizz.com
+0.0.0.0 mo.test.haloapps.com
 0.0.0.0 mri.hosting.exacttarget.com
 0.0.0.0 ms027.bronto.com
 0.0.0.0 ms028.bronto.com
@@ -1144,12 +1156,15 @@
 0.0.0.0 o1.email.applovin.com
 0.0.0.0 o1.email.avidly.com
 0.0.0.0 o1.email.gameanalytics.com
+0.0.0.0 o1.email.heapanalytics.com
+0.0.0.0 o1.email.heyzap.com
 0.0.0.0 o1.mail.ensighten.com
 0.0.0.0 o1.md.getsentry.com
 0.0.0.0 o1.outbound.crashlytics.com
 0.0.0.0 o1.smtp.eyereturn.com
 0.0.0.0 o20.ck.n.convertkit.com
 0.0.0.0 o22.ck.n.convertkit.com
+0.0.0.0 o2.haloapps.com
 0.0.0.0 o3.outbound.crashlytics.com
 0.0.0.0 o3.sg.clickmail.clickfunnels.com
 0.0.0.0 o4.sg.clickmail.clickfunnels.com
@@ -1158,6 +1173,7 @@
 0.0.0.0 o779.mail.updates.braze.com
 0.0.0.0 o7.email.bounceexchange.com
 0.0.0.0 o7.sg.clickmail.clickfunnels.com
+0.0.0.0 oda.hurra.com
 0.0.0.0 office.convertcart.com
 0.0.0.0 office-fr.criteo.com
 0.0.0.0 officewebapps.foresee.com
@@ -1212,6 +1228,8 @@
 0.0.0.0 platform.blis.com
 0.0.0.0 platform.development.blis.com
 0.0.0.0 platform.rc.blis.com
+0.0.0.0 pl-ns1.hurra.com
+0.0.0.0 pl-ns2.hurra.com
 0.0.0.0 pl.panelmena.gemius.com
 0.0.0.0 poi.blismedia.com
 0.0.0.0 pong2.production.gannettdigital.com
@@ -1280,6 +1298,7 @@
 0.0.0.0 request-tracker.k8s-prod.fiksu.com
 0.0.0.0 request-tracker.k8s-test.fiksu.com
 0.0.0.0 resizeall.bannersnack.com
+0.0.0.0 resque-moses.ec2.heyzap.com
 0.0.0.0 restapi.boa.exacttarget.com
 0.0.0.0 rest.s50.exacttarget.com
 0.0.0.0 returnpath.eloqua.com
@@ -1303,6 +1322,10 @@
 0.0.0.0 rtb.fingereach.com
 0.0.0.0 rtb-pm1.eyereturn.com
 0.0.0.0 rt.dc-storm.com
+0.0.0.0 rtgcss.httptrack.com
+0.0.0.0 rtgex.httptrack.com
+0.0.0.0 rtggen.httptrack.com
+0.0.0.0 rtgimg.httptrack.com
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rudytest10-api.beta.stag.bounceexchange.com
 0.0.0.0 rudytest10.beta.stag.bounceexchange.com
@@ -1378,6 +1401,7 @@
 0.0.0.0 secure0.adswizz.com
 0.0.0.0 seek.hosting.exacttarget.com
 0.0.0.0 selfservice.ensighten.com
+0.0.0.0 semprotest.hurra.com
 0.0.0.0 send.aweber.com
 0.0.0.0 send-beta.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 send-gamma.pinpoint.us-east-1.amazonaws.com
@@ -1386,6 +1410,8 @@
 0.0.0.0 sentinel.ensighten.com
 0.0.0.0 sentry.adthrive.com
 0.0.0.0 sentry.getadmiral.com
+0.0.0.0 sentry.hotjar.com
+0.0.0.0 seojs.pl.hurra.com
 0.0.0.0 service.centraltag.com
 0.0.0.0 services.iad.appboy.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-qa-p01.exacttarget.com
@@ -1412,6 +1438,8 @@
 0.0.0.0 sip.gethatch.com
 0.0.0.0 site.clickpoint.com
 0.0.0.0 sj11.bnmla.com
+0.0.0.0 sjc1.100tb.heyzap.com
+0.0.0.0 sjc2.100tb.heyzap.com
 0.0.0.0 sjc-clarity02.contextweb.com
 0.0.0.0 sjepm.adsafeprotected.com
 0.0.0.0 sl56f3x709.daphnecm.com
@@ -1554,6 +1582,7 @@
 0.0.0.0 static-was2.dynamicyield.com
 0.0.0.0 stats.bluekai.com
 0.0.0.0 storage3-j2.brightedge.com
+0.0.0.0 str.sip.hurra.com
 0.0.0.0 su.ff.avast.comads.creative-serving.com
 0.0.0.0 supertracker.flashget.com
 0.0.0.0 surfaid.coremetrics.com
@@ -1586,6 +1615,7 @@
 0.0.0.0 template-test.beta.stag.bounceexchange.com
 0.0.0.0 test-app.decibelinsight.com
 0.0.0.0 text.foreseeresults.com
+0.0.0.0 t.iaudienc.com
 0.0.0.0 timmy.amobee.com
 0.0.0.0 tip.atdmt.com
 0.0.0.0 tm.nexus2.ensighten.com
@@ -1629,8 +1659,8 @@
 0.0.0.0 vcenter.evowise.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfesprod.amobee.com
+0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -1653,6 +1683,8 @@
 0.0.0.0 w.ads2.eqads.com
 0.0.0.0 w-ads.eqads.com
 0.0.0.0 wb2.bestadbid.com
+0.0.0.0 wdc2.100tb.heyzap.com
+0.0.0.0 wdc3.100tb.heyzap.com
 0.0.0.0 wdcstage-rtb.applovin.com
 0.0.0.0 web001.apsalar.com
 0.0.0.0 web002.apsalar.com
@@ -1707,6 +1739,7 @@
 0.0.0.0 ws.test.exacttarget.com
 0.0.0.0 ws-thehartford.exacttarget.com
 0.0.0.0 wtredis001.apsalar.com
+0.0.0.0 www0.hurra.com
 0.0.0.0 www.1054478-28.chat.api.drift.com
 0.0.0.0 www.1062418-18.chat.api.drift.com
 0.0.0.0 www.1065452-2.chat.api.drift.com
