@@ -264,6 +264,7 @@
 0.0.0.0 ads.rkdms.com
 0.0.0.0 adsrv2.midasplayer.com
 0.0.0.0 ads-s3.adthrive.com
+0.0.0.0 ads.scanapps.com
 0.0.0.0 ads.silverpush.co
 0.0.0.0 ads.sjc.contextweb.com
 0.0.0.0 ads.test.adthrive.com
@@ -716,6 +717,7 @@
 0.0.0.0 app.quarticon.com
 0.0.0.0 app.response.demandbase.com
 0.0.0.0 apps.adtz.com
+0.0.0.0 app.scorecardresearch.com
 0.0.0.0 appsdev.appsflyer.com
 0.0.0.0 app.silverpush.co
 0.0.0.0 app-sjo5.marketo.com
@@ -727,6 +729,7 @@
 0.0.0.0 apps.propellerads.com
 0.0.0.0 app.stage.driftt.com
 0.0.0.0 apptesting.appsee.com
+0.0.0.0 app-tst.scorecardresearch.com
 0.0.0.0 app.up.163.com
 0.0.0.0 app.yjp.kissmetrics.com
 0.0.0.0 ap-south-1.gamma.analytics.console.aws.a2z.com
@@ -898,8 +901,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azure-res-provider.newrelic.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1.midasplayer.com
 0.0.0.0 ba1.midasplayer.com
 0.0.0.0 baba.dev-iad.amobee.com
@@ -949,10 +952,12 @@
 0.0.0.0 beacon-4.newrelic.com
 0.0.0.0 beacon-5.newrelic.com
 0.0.0.0 beacon-6.newrelic.com
+0.0.0.0 beacon.ads.scanapps.com
 0.0.0.0 beacon.airvertiseme.com
 0.0.0.0 beacon.bidsimulator.com
 0.0.0.0 beacon.hlserve.com
 0.0.0.0 beacon.newrelic.com
+0.0.0.0 beacon.scanapps.com
 0.0.0.0 beallsflorida.madmobile.com
 0.0.0.0 beam2.hlserve.com
 0.0.0.0 beats.sp1.convertro.com
@@ -1552,6 +1557,7 @@
 0.0.0.0 crunch-lmd2.ebuzzing.com
 0.0.0.0 crunch-lmd.ebuzzing.com
 0.0.0.0 cs.ace.advertising.com
+0.0.0.0 c.scorecard.com
 0.0.0.0 cs.iubenda.com
 0.0.0.0 csm.ny.us.criteo.com
 0.0.0.0 csm.sv.us.criteo.com
@@ -1916,6 +1922,7 @@
 0.0.0.0 dre.heapanalytics.com
 0.0.0.0 dretarget.eyereturn.com
 0.0.0.0 drone.convertcart.com
+0.0.0.0 dropbox.scarabresearch.com
 0.0.0.0 drupal.mindtake.com
 0.0.0.0 d.rxthdr.com
 0.0.0.0 ds.bluecava.com
@@ -2127,6 +2134,7 @@
 0.0.0.0 eumsm.eum-appdynamics.com
 0.0.0.0 eu-mymedia.sam4m.com
 0.0.0.0 eu.preprod.criteo.com
+0.0.0.0 eu-rec4.scarabresearch.com
 0.0.0.0 eurogamer.monetizer101.com
 0.0.0.0 eur-rlsso.qa.reachlocal.com
 0.0.0.0 eu-rtb.loopmertb.com
@@ -2173,6 +2181,7 @@
 0.0.0.0 expn.agkn.com
 0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 exporthtml5.bannersnack.com
+0.0.0.0 exscan.ads.scanapps.com
 0.0.0.0 ext.dynamicyield.com
 0.0.0.0 external.gemius.com
 0.0.0.0 external.inlocomedia.com
@@ -2605,8 +2614,8 @@
 0.0.0.0 i.essads.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -2709,6 +2718,12 @@
 0.0.0.0 inneractive.win.bidstalk.com
 0.0.0.0 i.n.ping-origin-prd.jwpltx.com
 0.0.0.0 in.player.h-cdn.com
+0.0.0.0 inplay-rcv01.scanscout.com
+0.0.0.0 inplay-rcv03.scanscout.com
+0.0.0.0 inplay-rcv04.scanscout.com
+0.0.0.0 inplay-rcv06.scanscout.com
+0.0.0.0 inplay-rcv07.scanscout.com
+0.0.0.0 inplay-rcv15.scanscout.com
 0.0.0.0 ins10.hotjar.com
 0.0.0.0 ins11.hotjar.com
 0.0.0.0 ins12.hotjar.com
@@ -3039,6 +3054,7 @@
 0.0.0.0 local.deviceatlas.com
 0.0.0.0 local.hotjar.com
 0.0.0.0 local.linksynergy.com
+0.0.0.0 local.scarabresearch.com
 0.0.0.0 log-01.ec2.us.east.liverail.com
 0.0.0.0 log.adsafeprotected.com
 0.0.0.0 log.beeketing.com
@@ -3575,6 +3591,7 @@
 0.0.0.0 ns9.linksynergy.com
 0.0.0.0 ns.lab2.adconion.com
 0.0.0.0 nt1.dc-storm.com
+0.0.0.0 ntas6.ads.scanapps.com
 0.0.0.0 nt.criteo.com
 0.0.0.0 nt.fuel451.com
 0.0.0.0 nt.jp.as.criteo.com
@@ -3714,6 +3731,7 @@
 0.0.0.0 origin.craft.advertising.com
 0.0.0.0 origin-ib.els.huluim.com
 0.0.0.0 origin.midasplayer.com
+0.0.0.0 origin-stage-app.scorecardresearch.com
 0.0.0.0 origin.uac.advertising.com
 0.0.0.0 origin-vlibs.advertising.com
 0.0.0.0 orionhttp.s50.exacttarget.com
@@ -3831,6 +3849,7 @@
 0.0.0.0 pdx.amazon-adsystem.com
 0.0.0.0 peaks201901311747328.saas.appdynamics.com
 0.0.0.0 pearlauto.sp1.convertro.com
+0.0.0.0 pegasus.ads.scanapps.com
 0.0.0.0 pe.np.adproxy.ndmdhs.com
 0.0.0.0 peoples-staging.madmobile.com
 0.0.0.0 pepperp1.midasplayer.com
@@ -4132,8 +4151,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -4402,6 +4421,7 @@
 0.0.0.0 recever.ctrix.com
 0.0.0.0 reciever.ctrix.com
 0.0.0.0 reco5.exposebox.com
+0.0.0.0 recommender.stage.scarabresearch.com
 0.0.0.0 recommend-events.apester.com
 0.0.0.0 recorder.meeting.abtasty.com
 0.0.0.0 rec.quarticon.com
@@ -4643,8 +4663,8 @@
 0.0.0.0 s-50.algovid.com
 0.0.0.0 s-50.optvdo.com
 0.0.0.0 s-51.algovid.com
-0.0.0.0 s51.optvdo.com
 0.0.0.0 s-51.optvdo.com
+0.0.0.0 s51.optvdo.com
 0.0.0.0 s-52.algovid.com
 0.0.0.0 s-52.optvdo.com
 0.0.0.0 s-53.algovid.com
@@ -4693,6 +4713,7 @@
 0.0.0.0 scaleout.hkg.events.bidstalk.com
 0.0.0.0 scam-api.beta.stag.bounceexchange.com
 0.0.0.0 scam.beta.stag.bounceexchange.com
+0.0.0.0 scannet.ads.scanapps.com
 0.0.0.0 scavenger.localytics.com
 0.0.0.0 scd.ingest.at.atwola.com
 0.0.0.0 scdmed01.nexage.com
@@ -5933,6 +5954,7 @@
 0.0.0.0 wp.bytegain.com
 0.0.0.0 wp.orbee.co
 0.0.0.0 wpplydrpad01.vidconlab.acxiom.com
+0.0.0.0 wps-vce-render-service.scarabresearch.com
 0.0.0.0 ws2.us-ec.adtechus.com
 0.0.0.0 ws-api.adtechus.com
 0.0.0.0 wsj-aramark.joystickinteractive.com
@@ -6327,6 +6349,7 @@
 0.0.0.0 www.dope.ops.inmobi.com
 0.0.0.0 www.doppler.hulu.com
 0.0.0.0 www.dreamville.lisnr.com
+0.0.0.0 www.dropbox.scarabresearch.com
 0.0.0.0 www.dsp.analyticson.com
 0.0.0.0 www.dsp.ligatus.com
 0.0.0.0 www.dsp-preprod.inmobi.com
@@ -6346,6 +6369,7 @@
 0.0.0.0 www.e.crashlytics.com
 0.0.0.0 www.edge.facebook-ads.adtz.com
 0.0.0.0 www.em.dynamicyield.com
+0.0.0.0 www.end.scorecardresearch.com
 0.0.0.0 www.eng.leanplum.com
 0.0.0.0 www.en-studiotraining.inmobi.com
 0.0.0.0 www.enterpriseenrollment.rubiconproject.com
@@ -6409,6 +6433,7 @@
 0.0.0.0 www.graylog.ops.pek1.inmobi.com
 0.0.0.0 www.grp.dynamicyield.com
 0.0.0.0 www.gs.api.igodigital.com
+0.0.0.0 www.g.scorecardresearch.com
 0.0.0.0 www.gs.platform.mediamind.com
 0.0.0.0 www.gw.fyber.com
 0.0.0.0 www.gw-il.fyber.com
@@ -6473,6 +6498,7 @@
 0.0.0.0 www.internal-clarity.idsp.inmobi.com
 0.0.0.0 www.internal.revcontent.com
 0.0.0.0 www.intersite.adrizer.com
+0.0.0.0 www.italy.scorecardresearch.com
 0.0.0.0 www.itsupport.outbrain.com
 0.0.0.0 www.jagi.buypixelads.com
 0.0.0.0 www.java.greystripe.com
