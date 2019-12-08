@@ -2658,8 +2658,8 @@ initjs-dev.gcp.rfksrv.com
 initjs-prod.gcp.rfksrv.com
 initjs-staging.gcp.rfksrv.com
 initjs-test.gcp.rfksrv.com
-i.n.jwpltx.com
 in.jwpltx.com
+i.n.jwpltx.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
 inmobi.web10-east.manage.com
@@ -3949,6 +3949,7 @@ privateexchange.dca.events.bidstalk.com
 private.linksynergy.com
 proactiv.rdr.channelintelligence.com
 process.convertcart.com
+prod15.rlets.com
 prod1.autopilothq.com
 prod2.autopilothq.com
 prod3.autopilothq.com
@@ -4516,10 +4517,10 @@ rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
 s-07.optvdo.com
 s-09.optvdo.com
 s10.allinviews.com
-s10.optvdo.com
 s-10.optvdo.com
-s-12.optvdo.com
+s10.optvdo.com
 s12.optvdo.com
+s-12.optvdo.com
 s13.ayads.co
 s13.optvdo.com
 s16.optvdo.com
@@ -5526,13 +5527,14 @@ us-east-1.beta.analytics.console.aws.a2z.com
 us-east-1.beta.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.gamma.analytics.console.aws.a2z.com
 us-east-1.gamma.routing.panorama.analytics.console.aws.a2z.com
+us-east-1.prod15.rlets.com
 us-east-1.prod.analytics.console.aws.a2z.com
 us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -5576,6 +5578,7 @@ us-west-2.dmp-api.ads.linkedin.com
 us-west-2.dmp-api-dev.ads.linkedin.com
 us-west-2.gamma.analytics.console.aws.a2z.com
 us-west-2.gamma.routing.panorama.analytics.console.aws.a2z.com
+us-west-2.prod15.rlets.com
 us-west-2.prod.analytics.console.aws.a2z.com
 us-west-2.test.analytics.console.aws.a2z.com
 us-west-2.test.routing.panorama.analytics.console.aws.a2z.com
@@ -6831,6 +6834,7 @@ www.trunkstable.atlassbx.com
 www.try.appboy.com
 www.try.bannerflow.com
 www.try.metrilo.com
+www.try.rollbar.com
 www.ts-decoder.openx.com
 www.tymon.intelsad.com
 www.ua.inmobi.com
