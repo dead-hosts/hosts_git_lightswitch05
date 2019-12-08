@@ -457,6 +457,7 @@
 0.0.0.0 api.tags.iad.bluekai.com
 0.0.0.0 api.tags.phx.bluekai.com.bk.phx.addthis.com
 0.0.0.0 api.tags-rc.iad.bluekai.com
+0.0.0.0 api.techsol.mediamath.com
 0.0.0.0 api-temp.mediamath.com
 0.0.0.0 api.terraform-outputs.env.sandbox53.localytics.com
 0.0.0.0 api.tushar-test.env.sandbox53.localytics.com
@@ -549,6 +550,7 @@
 0.0.0.0 asa5510-02.hq.adready.com
 0.0.0.0 a-sb-ec.adtechus.com
 0.0.0.0 as.criteo.com
+0.0.0.0 a.search.infra.mediamath.com
 0.0.0.0 ashk.innity.com
 0.0.0.0 ashuna.dev-iad.amobee.com
 0.0.0.0 asianpeoplemeet.adlegend.com
@@ -652,8 +654,8 @@
 0.0.0.0 azasc.iasds01.com
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 baba.dev-iad.amobee.com
 0.0.0.0 baba.qa-iad.amobee.com
 0.0.0.0 babyboomerpeoplemeet.adlegend.com
@@ -891,6 +893,7 @@
 0.0.0.0 campaigns.foresee.com
 0.0.0.0 canada.dev.extremereach.com
 0.0.0.0 canada.extremereach.com.extremereach.com
+0.0.0.0 canary.ewr.mathmon.mediamath.com
 0.0.0.0 capitalone.acxiom.com
 0.0.0.0 caprofitx.adtdp.com
 0.0.0.0 captive.adservice.google.com
@@ -1190,6 +1193,7 @@
 0.0.0.0 cust.exacttarget.com
 0.0.0.0 customer.dev.api.driftt.com
 0.0.0.0 customink.adlegend.com
+0.0.0.0 custom.techsol.mediamath.com
 0.0.0.0 cvdfm.adtdp.com
 0.0.0.0 c-vip1.eu.adsymptotic.com
 0.0.0.0 c-vip2.eu.adsymptotic.com
@@ -1435,6 +1439,7 @@
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 dooka.dev-iad.amobee.com
 0.0.0.0 dooka.qa-iad.amobee.com
+0.0.0.0 dop.mediav.com
 0.0.0.0 doubleclick-creative.bidstalk.com
 0.0.0.0 doubleclick.dca.bids.bidstalk.com
 0.0.0.0 doubleclick.dca.events.bidstalk.com
@@ -1621,6 +1626,7 @@
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
+0.0.0.0 event.mediav.com
 0.0.0.0 events.adform.com
 0.0.0.0 events.bidstalk.com
 0.0.0.0 events.exacttarget.com
@@ -1630,6 +1636,7 @@
 0.0.0.0 evesleepeu.sp1.convertro.com
 0.0.0.0 evolution.adwyze.com
 0.0.0.0 ewidget.dmpxs.com
+0.0.0.0 ewr.mathmon.mediamath.com
 0.0.0.0 ewr-rtsdb-x1.mediamath.com
 0.0.0.0 example.airpr.com
 0.0.0.0 exchange2.channelintelligence.com
@@ -1645,6 +1652,7 @@
 0.0.0.0 ext.ligatus.com
 0.0.0.0 extmap.an.ace.advertising.com
 0.0.0.0 extmap.rub.ace.advertising.com
+0.0.0.0 ext.mediav.com
 0.0.0.0 extranet.criteo.com
 0.0.0.0 eyeta.dev-iad.amobee.com
 0.0.0.0 eyeta.qa-iad.amobee.com
@@ -1696,6 +1704,7 @@
 0.0.0.0 flurry.web09-west.manage.com
 0.0.0.0 flurry.web11-west.manage.com
 0.0.0.0 flurry.web12-west.manage.com
+0.0.0.0 fml.haima.mediav.com
 0.0.0.0 focus.impdesk.com
 0.0.0.0 focus.meeting.abtasty.com
 0.0.0.0 foo1-k8s.dev-iad.amobee.com
@@ -1840,6 +1849,7 @@
 0.0.0.0 goog-gu3b.applovin.com
 0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 goubunto.aniview.com
+0.0.0.0 gouwu.mediav.com
 0.0.0.0 grafanaboard.appsflyer.com
 0.0.0.0 grafana.prd.fyber.com
 0.0.0.0 gratka-ams.gravityrd-services.com
@@ -1876,6 +1886,7 @@
 0.0.0.0 heisenberg-uswest.cdn.inmobi.com
 0.0.0.0 helios.ligatus.com
 0.0.0.0 helixuat.inmobi.cn
+0.0.0.0 hellsgate.aws.infra.mediamath.com
 0.0.0.0 hertz.adlegend.com
 0.0.0.0 hiddenvalley.madmobile.com
 0.0.0.0 highcdn.brainient.com
@@ -1950,14 +1961,15 @@
 0.0.0.0 id.beeketing.com
 0.0.0.0 i.dev.jwpltx.com
 0.0.0.0 id.ligatus.com
+0.0.0.0 id.mediav.com
 0.0.0.0 idolator.cloud.kargo.com
 0.0.0.0 idp.corp.inmobi.com
 0.0.0.0 idprod.acxiom.com
 0.0.0.0 idsync.districtm.ca
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -2024,8 +2036,8 @@
 0.0.0.0 ingress-test-api.newstags.stag.bounceexchange.com
 0.0.0.0 ingress-test.newstags.stag.bounceexchange.com
 0.0.0.0 iniitian.saas.appdynamics.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
 0.0.0.0 inmobi.web10-east.manage.com
@@ -2191,6 +2203,7 @@
 0.0.0.0 karpet.cloud.kargo.com
 0.0.0.0 katespade.adlegend.com
 0.0.0.0 katespade.sp1.convertro.com
+0.0.0.0 kb2.mediamath.com
 0.0.0.0 kb.criteo.com
 0.0.0.0 kds-pixel-dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 keen.sp1.convertro.com
@@ -2695,22 +2708,27 @@
 0.0.0.0 ns1.contextweb.com
 0.0.0.0 ns1.dg.ecom.acxiom.com
 0.0.0.0 ns1.mediaforge.com
+0.0.0.0 ns1.mediav.com
 0.0.0.0 ns2.addthis.com
 0.0.0.0 ns2.adroll.com
 0.0.0.0 ns2.awin.com
 0.0.0.0 ns2.dg.ecom.acxiom.com
 0.0.0.0 ns2.doubleclick.com
+0.0.0.0 ns2.mediav.com
 0.0.0.0 ns3.adlegend.com
 0.0.0.0 ns3.corp.adconion.com
 0.0.0.0 ns3.criteo.com
 0.0.0.0 ns3.ldap.adconion.com
+0.0.0.0 ns3.mediav.com
 0.0.0.0 ns4.corp.adconion.com
 0.0.0.0 ns4.ldap.adconion.com
 0.0.0.0 ns4.linksynergy.com
+0.0.0.0 ns4.mediav.com
 0.0.0.0 ns5.criteo.com
 0.0.0.0 ns5.linksynergy.com
 0.0.0.0 ns6.linksynergy.com
 0.0.0.0 ns7.linksynergy.com
+0.0.0.0 ns7.mediav.com
 0.0.0.0 ns8.linksynergy.com
 0.0.0.0 ns9.linksynergy.com
 0.0.0.0 ns.lab2.adconion.com
@@ -2767,6 +2785,7 @@
 0.0.0.0 ob.links.channelintelligence.com
 0.0.0.0 observium.prd.fyber.com
 0.0.0.0 obx.acxiom.com
+0.0.0.0 octane-api.mediamath.com
 0.0.0.0 ocum.corp.appdynamics.com
 0.0.0.0 o.dev.criteo.com
 0.0.0.0 offer.adpiano.com
@@ -2962,6 +2981,7 @@
 0.0.0.0 pixel.buypixelads.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 pixel.jumptap.com
+0.0.0.0 pixel.mediamath.com
 0.0.0.0 pixel-sc2.adsymptotic.com
 0.0.0.0 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 0.0.0.0 pix-rc.impdesk.com
@@ -3068,6 +3088,7 @@
 0.0.0.0 prod.kargo.com
 0.0.0.0 prod.lijit.com
 0.0.0.0 prod.liverail.com
+0.0.0.0 prod.mediamath.com
 0.0.0.0 prod.ping-origin-prd.jwpltx.com
 0.0.0.0 prod-public.cbe.mediamath.com
 0.0.0.0 prod.snackly.co
@@ -3080,6 +3101,7 @@
 0.0.0.0 production-bidding-agent.fyber.com
 0.0.0.0 production.cjadsystems.dotomi.com
 0.0.0.0 production.eu-west-2.kops.kargo.com
+0.0.0.0 production.ewr.mathmon.mediamath.com
 0.0.0.0 production.kargo.com
 0.0.0.0 products.hlserve.com
 0.0.0.0 product.staging.adwyze.com
@@ -3096,8 +3118,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -3237,6 +3259,7 @@
 0.0.0.0 qa-upstream.awin.com
 0.0.0.0 qcweb.macromill.com
 0.0.0.0 qe1.conviva.com
+0.0.0.0 qishi.haima.mediav.com
 0.0.0.0 qlikview.corp.ligatus.com
 0.0.0.0 q-origin-test.addthis.com
 0.0.0.0 q-test.addthis.com
@@ -3586,6 +3609,7 @@
 0.0.0.0 seagate.links.channelintelligence.com
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
+0.0.0.0 searcha.infra.mediamath.com
 0.0.0.0 search.at.atwola.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -3717,6 +3741,7 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.maxpoint.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
+0.0.0.0 sip.mediamind.com
 0.0.0.0 siri.adwyze.com
 0.0.0.0 sites.corp.ligatus.com
 0.0.0.0 sj16.bnmla.com
@@ -3829,6 +3854,7 @@
 0.0.0.0 ssl06.haloapps.com
 0.0.0.0 ssl07.haloapps.com
 0.0.0.0 ssl.adcash.com
+0.0.0.0 ssl.mediav.com
 0.0.0.0 sslvpn.foreseeresults.com
 0.0.0.0 ssl.zhidao.163.com
 0.0.0.0 ssp.advertising.com
@@ -4438,6 +4464,7 @@
 0.0.0.0 vds3.fingereach.com
 0.0.0.0 vds.fingereach.com
 0.0.0.0 vegas.hlserve.com
+0.0.0.0 velocidi.mediamath.com
 0.0.0.0 verity-api-internal.gumgum.com
 0.0.0.0 verity-api-test.gumgum.com
 0.0.0.0 vext.ligatus.com
@@ -4577,6 +4604,7 @@
 0.0.0.0 wifi.amobee.com
 0.0.0.0 wifiquiz.smedia.ca
 0.0.0.0 wildcard.hk.cn.criteo.com
+0.0.0.0 wildcard.mediamath.com
 0.0.0.0 wilsonsleather.sp1.convertro.com
 0.0.0.0 win.bidstalk.com
 0.0.0.0 windc01.foreseeresults.com
@@ -4735,6 +4763,7 @@
 0.0.0.0 www.a.rockabox.co
 0.0.0.0 www.assets.pcrl.co
 0.0.0.0 www.a-static.klaviyo.com
+0.0.0.0 www.attribution.mediamind.com
 0.0.0.0 www.audienceba.gemius.com
 0.0.0.0 www.audiencecz.gemius.com
 0.0.0.0 www.audienceeg.gemius.com
@@ -4858,6 +4887,7 @@
 0.0.0.0 www.crash-metrics.sdk.inmobi.com
 0.0.0.0 www.crave.dev.joystickinteractive.com
 0.0.0.0 www.crb.innovid.com
+0.0.0.0 www.creativezone.mediamind.com
 0.0.0.0 www.crmapi.idsp.inmobi.com
 0.0.0.0 www.crm-preview.dynamicyield.com
 0.0.0.0 www.crux.cloud.inmobi.com
@@ -4978,6 +5008,7 @@
 0.0.0.0 www.graylog.ops.pek1.inmobi.com
 0.0.0.0 www.grp.dynamicyield.com
 0.0.0.0 www.gs.api.igodigital.com
+0.0.0.0 www.gs.platform.mediamind.com
 0.0.0.0 www.gw.fyber.com
 0.0.0.0 www.gw-il.fyber.com
 0.0.0.0 www.gw-sf.fyber.com
@@ -5012,6 +5043,7 @@
 0.0.0.0 www.ifc-iip.w.inmobi.com
 0.0.0.0 www.igodigital.com
 0.0.0.0 www.i.jsrdn.com
+0.0.0.0 www.ilsip.mediamind.com
 0.0.0.0 www.images.awin1.com
 0.0.0.0 www.imces.inmobi.com
 0.0.0.0 www.import.igodigital.com
@@ -5116,6 +5148,7 @@
 0.0.0.0 www.metrics.daveandbusters.com
 0.0.0.0 www.metrics.fidelity.com
 0.0.0.0 www.metrics.kampyle.com
+0.0.0.0 www.mktg.mediamind.com
 0.0.0.0 www.mlc.maxpoint.com
 0.0.0.0 www.mldev.sigma.inmobi.com
 0.0.0.0 www.mm.marketo.com
@@ -5154,6 +5187,7 @@
 0.0.0.0 www.oppo.analytics.glance.inmobi.com
 0.0.0.0 www.opt.use.dynamicyield.com
 0.0.0.0 www-origin.appdynamics.com
+0.0.0.0 www.origin.demo.mediamind.com
 0.0.0.0 www.osxserver1.oit.lijit.com
 0.0.0.0 www.owa1.amobee.com
 0.0.0.0 www.pa3.b.audiencetag.com
@@ -5274,6 +5308,7 @@
 0.0.0.0 www.secure.impresionesweb.com
 0.0.0.0 www.secure.lijit.com
 0.0.0.0 www.secus.admailtiser.com
+0.0.0.0 www.selfservice.mediamind.com
 0.0.0.0 www.sentry.getadmiral.com
 0.0.0.0 www.serve.adgibbon.com
 0.0.0.0 www.server2.smedia.ca
@@ -5352,6 +5387,7 @@
 0.0.0.0 www.stg-ua.inmobi.com
 0.0.0.0 www.sting.de17aserver.com
 0.0.0.0 www.stripewh.getadmiral.com
+0.0.0.0 www.sts.mediamind.com
 0.0.0.0 www.studio.glance.inmobi.com
 0.0.0.0 www.superstudio.facebook-ads.adtz.com
 0.0.0.0 www.supply-tool.inmobi.cn
@@ -5411,6 +5447,7 @@
 0.0.0.0 www.urbn-live-stream-feeds.dynamicyield.com
 0.0.0.0 www.usermatix.corp.inmobi.com
 0.0.0.0 www.ushqlyncpool.foresee.com
+0.0.0.0 www.ussip.mediamind.com
 0.0.0.0 www.us.static.adjug.com
 0.0.0.0 www.us.view.adjug.com
 0.0.0.0 www.v1ad.adlegend.com

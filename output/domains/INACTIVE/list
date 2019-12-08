@@ -457,6 +457,7 @@ api.t.163.com
 api.tags.iad.bluekai.com
 api.tags.phx.bluekai.com.bk.phx.addthis.com
 api.tags-rc.iad.bluekai.com
+api.techsol.mediamath.com
 api-temp.mediamath.com
 api.terraform-outputs.env.sandbox53.localytics.com
 api.tushar-test.env.sandbox53.localytics.com
@@ -549,6 +550,7 @@ asa01-ashbur03.247realmedia.com
 asa5510-02.hq.adready.com
 a-sb-ec.adtechus.com
 as.criteo.com
+a.search.infra.mediamath.com
 ashk.innity.com
 ashuna.dev-iad.amobee.com
 asianpeoplemeet.adlegend.com
@@ -891,6 +893,7 @@ campaigns.curalate.com
 campaigns.foresee.com
 canada.dev.extremereach.com
 canada.extremereach.com.extremereach.com
+canary.ewr.mathmon.mediamath.com
 capitalone.acxiom.com
 caprofitx.adtdp.com
 captive.adservice.google.com
@@ -1190,6 +1193,7 @@ cust.ebuzzing.com
 cust.exacttarget.com
 customer.dev.api.driftt.com
 customink.adlegend.com
+custom.techsol.mediamath.com
 cvdfm.adtdp.com
 c-vip1.eu.adsymptotic.com
 c-vip2.eu.adsymptotic.com
@@ -1435,6 +1439,7 @@ dollar.adlegend.com
 domains.googlesyndication.com
 dooka.dev-iad.amobee.com
 dooka.qa-iad.amobee.com
+dop.mediav.com
 doubleclick-creative.bidstalk.com
 doubleclick.dca.bids.bidstalk.com
 doubleclick.dca.events.bidstalk.com
@@ -1621,6 +1626,7 @@ eu-west-3.prod.analytics.console.aws.a2z.com
 event.bidstalk.com
 event.cmp.advertising.com
 event-dev.api.driftt.com
+event.mediav.com
 events.adform.com
 events.bidstalk.com
 events.exacttarget.com
@@ -1630,6 +1636,7 @@ event-viewer.bytegain.com
 evesleepeu.sp1.convertro.com
 evolution.adwyze.com
 ewidget.dmpxs.com
+ewr.mathmon.mediamath.com
 ewr-rtsdb-x1.mediamath.com
 example.airpr.com
 exchange2.channelintelligence.com
@@ -1645,6 +1652,7 @@ ext-int-beta.convertcart.com
 ext.ligatus.com
 extmap.an.ace.advertising.com
 extmap.rub.ace.advertising.com
+ext.mediav.com
 extranet.criteo.com
 eyeta.dev-iad.amobee.com
 eyeta.qa-iad.amobee.com
@@ -1696,6 +1704,7 @@ flurry-bidder.manage.com
 flurry.web09-west.manage.com
 flurry.web11-west.manage.com
 flurry.web12-west.manage.com
+fml.haima.mediav.com
 focus.impdesk.com
 focus.meeting.abtasty.com
 foo1-k8s.dev-iad.amobee.com
@@ -1840,6 +1849,7 @@ goodyear.sp1.convertro.com
 goog-gu3b.applovin.com
 googleads.g.doubleclick.com
 goubunto.aniview.com
+gouwu.mediav.com
 grafanaboard.appsflyer.com
 grafana.prd.fyber.com
 gratka-ams.gravityrd-services.com
@@ -1876,6 +1886,7 @@ heisenberg.inmobi.com
 heisenberg-uswest.cdn.inmobi.com
 helios.ligatus.com
 helixuat.inmobi.cn
+hellsgate.aws.infra.mediamath.com
 hertz.adlegend.com
 hiddenvalley.madmobile.com
 highcdn.brainient.com
@@ -1950,16 +1961,17 @@ i.c.ping-origin-prd.jwpltx.com
 id.beeketing.com
 i.dev.jwpltx.com
 id.ligatus.com
+id.mediav.com
 idolator.cloud.kargo.com
 idp.corp.inmobi.com
 idprod.acxiom.com
 idsync.districtm.ca
 idtest.acxiom.com
 i.essads.com
-ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
-ifc2-vip-hkg1.inmobi.com
+ifc2.vip.dfw1.inmobi.com
 ifc2.vip.hkg1.inmobi.com
+ifc2-vip-hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -2191,6 +2203,7 @@ karlhouse.fanbread.com
 karpet.cloud.kargo.com
 katespade.adlegend.com
 katespade.sp1.convertro.com
+kb2.mediamath.com
 kb.criteo.com
 kds-pixel-dev.stage.us-east-1.kops.kargo.com
 keen.sp1.convertro.com
@@ -2695,22 +2708,27 @@ ns1.bridgewell.com
 ns1.contextweb.com
 ns1.dg.ecom.acxiom.com
 ns1.mediaforge.com
+ns1.mediav.com
 ns2.addthis.com
 ns2.adroll.com
 ns2.awin.com
 ns2.dg.ecom.acxiom.com
 ns2.doubleclick.com
+ns2.mediav.com
 ns3.adlegend.com
 ns3.corp.adconion.com
 ns3.criteo.com
 ns3.ldap.adconion.com
+ns3.mediav.com
 ns4.corp.adconion.com
 ns4.ldap.adconion.com
 ns4.linksynergy.com
+ns4.mediav.com
 ns5.criteo.com
 ns5.linksynergy.com
 ns6.linksynergy.com
 ns7.linksynergy.com
+ns7.mediav.com
 ns8.linksynergy.com
 ns9.linksynergy.com
 ns.lab2.adconion.com
@@ -2767,6 +2785,7 @@ obi.qat.addesk.advertising.com
 ob.links.channelintelligence.com
 observium.prd.fyber.com
 obx.acxiom.com
+octane-api.mediamath.com
 ocum.corp.appdynamics.com
 o.dev.criteo.com
 offer.adpiano.com
@@ -2962,6 +2981,7 @@ pixel.adssafeprotected.com
 pixel.buypixelads.com
 pixel.ingest.at.atwola.com
 pixel.jumptap.com
+pixel.mediamath.com
 pixel-sc2.adsymptotic.com
 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 pix-rc.impdesk.com
@@ -3068,6 +3088,7 @@ prod-k8s.prod-dub.atv.amobee.com
 prod.kargo.com
 prod.lijit.com
 prod.liverail.com
+prod.mediamath.com
 prod.ping-origin-prd.jwpltx.com
 prod-public.cbe.mediamath.com
 prod.snackly.co
@@ -3080,6 +3101,7 @@ production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
 production-bidding-agent.fyber.com
 production.cjadsystems.dotomi.com
 production.eu-west-2.kops.kargo.com
+production.ewr.mathmon.mediamath.com
 production.kargo.com
 products.hlserve.com
 product.staging.adwyze.com
@@ -3237,6 +3259,7 @@ qa-uk.adlearnop.advertising.com
 qa-upstream.awin.com
 qcweb.macromill.com
 qe1.conviva.com
+qishi.haima.mediav.com
 qlikview.corp.ligatus.com
 q-origin-test.addthis.com
 q-test.addthis.com
@@ -3586,6 +3609,7 @@ s.dlx.addthis.com
 seagate.links.channelintelligence.com
 sean.ittest.33across.com
 search.advertisingbox.com
+searcha.infra.mediamath.com
 search.at.atwola.com
 search.igodigital.com
 searsoutlet.rdr.channelintelligence.com
@@ -3717,6 +3741,7 @@ s.iogous.com
 sipexternal.foresee.com
 sipexternal.maxpoint.com
 _sipfederationtls._tcp.admedia.com
+sip.mediamind.com
 siri.adwyze.com
 sites.corp.ligatus.com
 sj16.bnmla.com
@@ -3829,6 +3854,7 @@ ssl05.haloapps.com
 ssl06.haloapps.com
 ssl07.haloapps.com
 ssl.adcash.com
+ssl.mediav.com
 sslvpn.foreseeresults.com
 ssl.zhidao.163.com
 ssp.advertising.com
@@ -4220,8 +4246,8 @@ transfer.bluecava.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel-productads.hlserve.com
 travel.productads.hlserve.com
+travel-productads.hlserve.com
 tr.bnmla.com
 trello-callback.glance-internal.inmobi.com
 tr.gcp.blis.com
@@ -4438,6 +4464,7 @@ vds2.fingereach.com
 vds3.fingereach.com
 vds.fingereach.com
 vegas.hlserve.com
+velocidi.mediamath.com
 verity-api-internal.gumgum.com
 verity-api-test.gumgum.com
 vext.ligatus.com
@@ -4577,6 +4604,7 @@ widgets.innity.com
 wifi.amobee.com
 wifiquiz.smedia.ca
 wildcard.hk.cn.criteo.com
+wildcard.mediamath.com
 wilsonsleather.sp1.convertro.com
 win.bidstalk.com
 windc01.foreseeresults.com
@@ -4735,6 +4763,7 @@ www.aralego.com
 www.a.rockabox.co
 www.assets.pcrl.co
 www.a-static.klaviyo.com
+www.attribution.mediamind.com
 www.audienceba.gemius.com
 www.audiencecz.gemius.com
 www.audienceeg.gemius.com
@@ -4858,6 +4887,7 @@ www.crash-metrics.sdk.inmobi.cn
 www.crash-metrics.sdk.inmobi.com
 www.crave.dev.joystickinteractive.com
 www.crb.innovid.com
+www.creativezone.mediamind.com
 www.crmapi.idsp.inmobi.com
 www.crm-preview.dynamicyield.com
 www.crux.cloud.inmobi.com
@@ -4978,6 +5008,7 @@ www.graylog.ops.dfw2.inmobi.com
 www.graylog.ops.pek1.inmobi.com
 www.grp.dynamicyield.com
 www.gs.api.igodigital.com
+www.gs.platform.mediamind.com
 www.gw.fyber.com
 www.gw-il.fyber.com
 www.gw-sf.fyber.com
@@ -5012,6 +5043,7 @@ www.ifc-ep.inmobi.com
 www.ifc-iip.w.inmobi.com
 www.igodigital.com
 www.i.jsrdn.com
+www.ilsip.mediamind.com
 www.images.awin1.com
 www.imces.inmobi.com
 www.import.igodigital.com
@@ -5116,6 +5148,7 @@ www.metrics.brightcove.com
 www.metrics.daveandbusters.com
 www.metrics.fidelity.com
 www.metrics.kampyle.com
+www.mktg.mediamind.com
 www.mlc.maxpoint.com
 www.mldev.sigma.inmobi.com
 www.mm.marketo.com
@@ -5154,6 +5187,7 @@ www.oldtown.joystickinteractive.com
 www.oppo.analytics.glance.inmobi.com
 www.opt.use.dynamicyield.com
 www-origin.appdynamics.com
+www.origin.demo.mediamind.com
 www.osxserver1.oit.lijit.com
 www.owa1.amobee.com
 www.pa3.b.audiencetag.com
@@ -5274,6 +5308,7 @@ www.secure.dtmpub.com
 www.secure.impresionesweb.com
 www.secure.lijit.com
 www.secus.admailtiser.com
+www.selfservice.mediamind.com
 www.sentry.getadmiral.com
 www.serve.adgibbon.com
 www.server2.smedia.ca
@@ -5352,6 +5387,7 @@ www.stg.oem.inmobi.com
 www.stg-ua.inmobi.com
 www.sting.de17aserver.com
 www.stripewh.getadmiral.com
+www.sts.mediamind.com
 www.studio.glance.inmobi.com
 www.superstudio.facebook-ads.adtz.com
 www.supply-tool.inmobi.cn
@@ -5411,6 +5447,7 @@ www.unlockme.corp.inmobi.com
 www.urbn-live-stream-feeds.dynamicyield.com
 www.usermatix.corp.inmobi.com
 www.ushqlyncpool.foresee.com
+www.ussip.mediamind.com
 www.us.static.adjug.com
 www.us.view.adjug.com
 www.v1ad.adlegend.com
