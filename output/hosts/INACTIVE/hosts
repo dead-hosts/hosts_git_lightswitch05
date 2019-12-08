@@ -859,8 +859,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azure-res-provider.newrelic.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1.midasplayer.com
 0.0.0.0 ba1.midasplayer.com
 0.0.0.0 baba.dev-iad.amobee.com
@@ -2098,6 +2098,7 @@
 0.0.0.0 factory.funnelenvy.com
 0.0.0.0 f.adbull.com
 0.0.0.0 falk.dca.events.bidstalk.com
+0.0.0.0 fam.pubocean.com
 0.0.0.0 fanbread-quizzes.fanbread.com
 0.0.0.0 fancy-cm.cn.miaozhen.com
 0.0.0.0 fancydsp.cm.cn.miaozhen.com
@@ -2483,10 +2484,10 @@
 0.0.0.0 idsync.mparticle.com
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -2526,6 +2527,7 @@
 0.0.0.0 img-7.3lift.com
 0.0.0.0 img-8.3lift.com
 0.0.0.0 img-9.3lift.com
+0.0.0.0 img.admin.publicidees.com
 0.0.0.0 img.applvn.com
 0.0.0.0 img.bizographics.com
 0.0.0.0 imgblur.adkmob.com
@@ -3953,8 +3955,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -4052,6 +4054,7 @@
 0.0.0.0 pspm.lab9.adconion.com
 0.0.0.0 p.static.ads-twitter.com
 0.0.0.0 pstorage.elfsight.com
+0.0.0.0 pt2tracker.com
 0.0.0.0 pt.iogous.com
 0.0.0.0 pubaccess.advertising.com
 0.0.0.0 pub.adkmob.com
@@ -4224,6 +4227,7 @@
 0.0.0.0 ref.amplitude.com
 0.0.0.0 reidentrdsprd1.acxiom.com
 0.0.0.0 releasenotes.autopilothq.com
+0.0.0.0 remoteaccess.pursuanthealth.com
 0.0.0.0 render.btserve.com
 0.0.0.0 renderer.dasha.apester.com
 0.0.0.0 renderer.pe.apester.com
@@ -4591,6 +4595,7 @@
 0.0.0.0 seg.nzaza.com
 0.0.0.0 selfserve.buysellads.com
 0.0.0.0 selfserve.ebuzzing.com
+0.0.0.0 selfservice.pursuanthealth.com
 0.0.0.0 sellers-dev.svc.kargo.com
 0.0.0.0 sellers-testing.svc.kargo.com
 0.0.0.0 sem.advertising.com
@@ -4849,6 +4854,7 @@
 0.0.0.0 staging.cms.mediaiqdigital.com
 0.0.0.0 staging.demandbase.com
 0.0.0.0 staging-dps.adotmob.com
+0.0.0.0 staging.eam.pubocean.com
 0.0.0.0 staging.extremereach.com
 0.0.0.0 staging.geoedge.be
 0.0.0.0 staging-gw13.conviva.com
@@ -5360,8 +5366,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -5706,7 +5712,17 @@
 0.0.0.0 ww3065.adsbysmart.cn
 0.0.0.0 ww3093.adsbysmart.cn
 0.0.0.0 ww3.convertcart.com
+0.0.0.0 ww62.tracking.publicidees.com
+0.0.0.0 ww62.ww62.ww62.ww62.ww92.ww92.ww62.ww62.ww92.ww62.tracking.publicidees.com
+0.0.0.0 ww62.ww62.ww62.ww92.ww92.ww62.ww62.ww92.ww62.tracking.publicidees.com
+0.0.0.0 ww62.ww62.ww92.ww62.tracking.publicidees.com
+0.0.0.0 ww62.ww62.ww92.ww92.ww62.ww62.ww92.ww62.tracking.publicidees.com
+0.0.0.0 ww62.ww92.ww62.tracking.publicidees.com
+0.0.0.0 ww62.ww92.ww92.ww62.ww62.ww92.ww62.tracking.publicidees.com
 0.0.0.0 ww92.adsbysmart.cn
+0.0.0.0 ww92.ww62.tracking.publicidees.com
+0.0.0.0 ww92.ww62.ww62.ww92.ww62.tracking.publicidees.com
+0.0.0.0 ww92.ww92.ww62.ww62.ww92.ww62.tracking.publicidees.com
 0.0.0.0 www.10896.engine.mobileapptracking.com
 0.0.0.0 www142.flashtalking.com
 0.0.0.0 www.1681.engine.mobileapptracking.com
@@ -6516,6 +6532,7 @@
 0.0.0.0 www.sp1.convertro.com
 0.0.0.0 www.srv.dynamicyield.com
 0.0.0.0 www.ssapi.dynamicyield.com
+0.0.0.0 www.sshowads.pubmatic.com
 0.0.0.0 www.sskzeu.ayads.co
 0.0.0.0 www.sslcdn.adstudiomobile.com
 0.0.0.0 www.ssl.pathful.com
@@ -6609,6 +6626,7 @@
 0.0.0.0 www.tracking.deadlinefunnel.com
 0.0.0.0 www.tracking.keywee.co
 0.0.0.0 www.tracking.metalyzer.com
+0.0.0.0 www.tracking.publicidees.com
 0.0.0.0 www.tr.admailtiser.com
 0.0.0.0 www.traffic.adventurefeeds.com
 0.0.0.0 www.traffic.mpnrs.com
