@@ -270,8 +270,12 @@ chat.api.chatid.com
 chat.api.drift.com
 chowhound.cbsi.com
 ci.fyber.com
+ci.heartbeat.inmobi.com
 cj135.mta.exacttarget.com
 cl125.mta.exacttarget.com
+clarity.corp.iap.inmobi.com
+clarity.idsp.inmobi.com
+clarity.mbu.inmobi.com
 classic-api.prod.adtechus.com
 classic-rest-api.prod.adtechus.com
 click.api.drift.com
@@ -390,6 +394,7 @@ de3gslb1.coremetrics.com
 de3pubdns1.coremetrics.com
 de55.mta.exacttarget.com
 dean.dev.dig.cbsi.com
+de.idsp-prod.east-us.idsp.inmobi.com
 delivery.first-impression.com
 demandblog.demandbase.com
 detalent04.extremereach.com
@@ -471,9 +476,13 @@ dns001.apsalar.com
 dns003.apsalar.com
 dns004.apsalar.com
 dns1.coremetrics.com
+dns1.inmobi.com
 dns2.coremetrics.com
+dns2.inmobi.com
 dns3.coremetrics.com
+dns3.inmobi.com
 dns4.coremetrics.com
+dns4.inmobi.com
 doubleclick.rtb.adx1.com
 dpa.dc6.eloqua.com
 dpa.tor6.eloqua.com
@@ -636,6 +645,7 @@ gob.curalate.com
 gp65.mta.exacttarget.com
 gp68.mta.exacttarget.com
 gpu4001.ds.ams1.inmobi.com
+gpu4001.ds.ev1.inmobi.com
 grafana.fyber.com
 grafana.k8s.cluster-001.s-use-1.braze.com
 grafana.k8s.region-001.s-use-1.braze.com
@@ -644,6 +654,9 @@ grafana.k8s.test-001.d-usw-2.braze.com
 grafana.k8s-test.fiksu.com
 grape.k8s.test-001.d-usw-2.braze.com
 graylog.ops.ams1.inmobi.com
+graylog.ops.dfw1.inmobi.com
+graylog.ops.dfw2.inmobi.com
+graylog.ops.pek1.inmobi.com
 greg-tv.blismedia.com
 gtm01.exacttarget.com
 gtm02.exacttarget.com
@@ -678,6 +691,7 @@ i.chartboost.com
 identifier.granify.com
 identify.api.drift.com
 id-ns1.amgdgt.com
+ifc3.vip.dfw1.inmobi.com
 ifc.auth.inmobi.com
 illuminati.fgl.com
 image.s1.qa2.exacttarget.com
@@ -685,6 +699,7 @@ image.s2.qa2.exacttarget.com
 images.aggregateknowledge.com
 images.bucksense.com
 images.ctasnet.com
+imces.vip.dfw1.inmobi.com
 imh.poc.exacttarget.com
 inbound-reply.s1.exacttarget.com
 inbound-reply.s4.exacttarget.com
@@ -773,6 +788,7 @@ mail1.static.convertkit.com
 mail1-va.gumgum.com
 mail2.mgt.coremetrics.com
 mail3.static.convertkit.com
+mail4.inmobi.com
 mail5.static.convertkit.com
 mail6.static.convertkit.com
 mail.adrcdn.com
@@ -803,6 +819,7 @@ mc.s1.qa5.exacttarget.com
 mdm.hurra.com
 media-ams5.msg.dotomi.com
 media.github.exacttarget.com
+mediaplanner.inmobi.com
 media-sj2.msg.dotomi.com
 meet.awin.com
 meet.exacttarget.com
@@ -820,6 +837,7 @@ microsoft.hosting.exacttarget.com
 mivsa.foreseeresults.com
 mixrch-chn.imrworldwide.com
 mmmvar.amobee.com
+mmp.inmobi.com
 mmvivo.amobee.com
 mo.haloapps.com
 momentum1-mta1.aweber.com
@@ -831,6 +849,8 @@ monitor-sc.brightedge.com
 monitorsdk.appsflyer.com
 monitor-us-east-1.arbitron.adswizz.com
 mo.test.haloapps.com
+mr01.inmobi.com
+mr02.inmobi.com
 mri.hosting.exacttarget.com
 ms027.bronto.com
 ms028.bronto.com
@@ -1052,6 +1072,7 @@ mydaes4.extremereach.com
 mydaes.extremereach.com
 mysite.eloqua.com
 myss.eloqua.com
+myvpn.inmobi.com
 nat-pool-fr-2.criteo.com
 nat-pool-fr-4.criteo.com
 nat-pool-fr-5.criteo.com
@@ -1090,6 +1111,7 @@ node8.fractionalmedia.com
 node9.fractionalmedia.com
 nonprod-api-selene.dev.adtechus.com
 nonprod-classic-api.dev.adtechus.com
+nonprod.sea.geoservice.inmobi.com
 notifications.clickfunnels.com
 ns01.amobee.com
 ns02.amobee.com
@@ -1106,6 +1128,7 @@ ns1.ensighten.com
 ns1.epom.com
 ns1.exacttarget.com
 ns1.exponential.com
+ns1.inmobi.com
 ns1.tg.adx1.com
 ns21.criteo.com
 ns22.criteo.com
@@ -1123,6 +1146,7 @@ ns2.coremetrics.com
 ns2.criteo.com
 ns2.ensighten.com
 ns2.exacttarget.com
+ns2.inmobi.com
 ns2.tg.adx1.com
 ns3.amgdgt.com
 ns3.amobee.com
@@ -1130,12 +1154,14 @@ ns3.bizible.com
 ns3.coremetrics.com
 ns3.ensighten.com
 ns3.exacttarget.com
+ns3.inmobi.com
 ns3.tg.adx1.com
 ns4.amgdgt.com
 ns4.amobee.com
 ns4.bizible.com
 ns4.coremetrics.com
 ns4.exacttarget.com
+ns4.inmobi.com
 ns5.clrstm.com
 ns6.clrstm.com
 ns6.criteo.com
@@ -1238,6 +1264,8 @@ planet-v.amobee.com
 platform.blis.com
 platform.development.blis.com
 platform.rc.blis.com
+plds4001.grid.dfw1.inmobi.com
+plds4010.grid.dfw1.inmobi.com
 pl-ns1.hurra.com
 pl-ns2.hurra.com
 pl.panelmena.gemius.com
@@ -1255,9 +1283,11 @@ priority.appsflyer.com
 probing-api.beta.stag.bounceexchange.com
 probing.beta.stag.bounceexchange.com
 prod-aso-lb-v1.us-east-1d.kube.fiksu.com
+prod.useast.geoservice.inmobi.com
 projectedreach.bluekai.com
 projectedreach-int.bluekai.com
 prometheus.fullstory.com
+pso.ws.ev1.inmobi.com
 public-webservice.apdc1.adpushup.com
 public-webservice.apdc2.adpushup.com
 public-webservice.apdc3.adpushup.com
@@ -1305,6 +1335,7 @@ reporting.p07.eloqua.com
 reports.crashlytics.com
 report-scripts.adrcdn.com
 reports.eyereturn.com
+reports.inmobi.com
 request-tracker.k8s-prod.fiksu.com
 request-tracker.k8s-test.fiksu.com
 resizeall.bannersnack.com
@@ -1410,6 +1441,7 @@ scpweb.s7.exacttarget.com
 scpweb.s8.exacttarget.com
 sdkm.w.ams1.avi.inmobi.com
 sdkm.w.ams1.azurelb.inmobi.com
+sdktm.vip.dfw1.inmobi.com
 se1.ap.nexus.ensighten.com
 se2.ap.nexus.ensighten.com
 se3.ap.nexus.ensighten.com
@@ -1633,6 +1665,7 @@ t.edgexads.com
 template-test-api.beta.stag.bounceexchange.com
 template-test.beta.stag.bounceexchange.com
 test-app.decibelinsight.com
+testjira.corp.ev1.inmobi.com
 text.foreseeresults.com
 t.iaudienc.com
 t.imganalytics.com
@@ -1674,14 +1707,15 @@ us-west-2.tracking.emerse.com
 utm-sdk.beeketing.com
 v2.adpiano.com
 validate.appsflyer.com
+vangogher-callback.glance-internal.inmobi.com
 vast-log.bridgewell.com
 vasttracktest.fuel451.com
 vc.bnmla.com
 vcenter.evowise.com
 vfdemed.amobee.com
 vfdeprod.amobee.com
-vfes-prod.amobee.com
 vfesprod.amobee.com
+vfes-prod.amobee.com
 vfes-te.amobee.com
 vfindprod.amobee.com
 vfitprod.amobee.com
