@@ -57,6 +57,7 @@ actions-eu.cbarsrv.com
 actions-ny.cbarsrv.com
 actions-ny.continular.com
 ad.downloadyee.com
+ad.fractionalmedia.com
 adm1.dynamicyield.com
 admin-api.g-us-v3.conductrics.com
 admin-reports.bluekai.com
@@ -74,6 +75,7 @@ adt-app-api.adtdp.com
 adt-app-dlv.adtdp.com
 adt-app-sfp-api.adtdp.com
 adt-fixer.adtdp.com
+adtrack.api.fuel451.com
 adt-sync.adtdp.com
 advandmedia-banner-mobile.rtb.adx1.com
 affiliate.connextra.com
@@ -107,6 +109,7 @@ api.drift.com
 api.ensighten.com
 api-eu.conductrics.com
 api.exponential.com
+api.fuel451.com
 api.g-us-v3.conductrics.com
 api-logger.curejoy.com
 api.poc.exacttarget.com
@@ -168,12 +171,16 @@ aw.dwin1.com
 aws2sip.exponential.com
 aws2webapp.exponential.com
 aws2webconf.exponential.com
+aws-production-banner-server-eu-west-1.banner-server.fyber.com
+aws-production-tracker-eu-west-1.tracker.fyber.com
+aws-production-video-broker-eu-west-1.video-v2.fyber.com
 awsrodc.demandbase.com
 azure.appdynamics.com
 b136c9c4-4798-4d9e-b9dd-972e3ce64d75-078d9f6a6dc1.cdn.forter.com
 ba2.mta.exacttarget.com
 ba3.mta.exacttarget.com
 babel.bluekai.com
+backstage-staging-ux.funnelenvy.com
 badge.clevergirlscollective.com
 bads.creative-serving.com
 bal-ac.brainient.com
@@ -210,6 +217,7 @@ bounce.s50.exacttarget.com
 bounce.s6.exacttarget.com
 bounce.s7.exacttarget.com
 br33.mta.exacttarget.com
+broker.video-v2.fyber.com
 brws.browserhawk.com
 budd-wn4.peak.brightedge.com
 c66.bugherd.com
@@ -245,6 +253,7 @@ ch1trk.atdmt.com
 chat.api.chatid.com
 chat.api.drift.com
 chowhound.cbsi.com
+ci.fyber.com
 cj135.mta.exacttarget.com
 cl125.mta.exacttarget.com
 classic-api.prod.adtechus.com
@@ -307,7 +316,9 @@ cr88.mta.exacttarget.com
 cr99.mta.exacttarget.com
 cr.appsee.com
 creative2.exponential.com
+crowd.fyber.com
 cs200.mta.exacttarget.com
+customersupport.fyber.com
 c-vip-lb1.sc2.adsymptotic.com
 c-vip-lb2.sc2.adsymptotic.com
 cw112.mta.exacttarget.com
@@ -374,6 +385,7 @@ dev.demo.appdynamics.com
 devefence.engageclick.com
 dev-ls.api.chatid.com
 dev.material.mobile.ensighten.com
+dev.pixel.fuel451.com
 dev.sftp.extremereach.com
 devsite.amobee.com
 devsvn.extremereach.com
@@ -441,6 +453,7 @@ dns4.coremetrics.com
 doubleclick.rtb.adx1.com
 dpa.dc6.eloqua.com
 dpa.tor6.eloqua.com
+dp-dashboard.fyber.com
 ds.creative-serving.com
 dsp.jenkins.secure.blismedia.com
 dtest.engagecore.com
@@ -512,6 +525,7 @@ etonline.cbsi.com
 eu-bidder.dyntrk.com
 eu.cbarsrv.com
 eum-api.appdynamics.com
+eu-west-1.banner-server.fyber.com
 eventqueries.bluekai.com
 eventqueries-int.bluekai.com
 event-tracker.k8s-prod.fiksu.com
@@ -543,6 +557,7 @@ files.chartboost.com
 fileupload.cbsi.com
 fingerprint.demandbase.com
 fls-cn.amazon-adsystem.com
+fmx-req.fractionalmedia.com
 foreman.amobee.com
 fq112.mta.exacttarget.com
 fq139.mta.exacttarget.com
@@ -591,11 +606,12 @@ gg.kp2.forter.com
 gist-assets.github.exacttarget.com
 gist.github.exacttarget.com
 gist-raw.github.exacttarget.com
-globeprod.amobee.com
 globe-prod.amobee.com
+globeprod.amobee.com
 gob.curalate.com
 gp65.mta.exacttarget.com
 gp68.mta.exacttarget.com
+grafana.fyber.com
 grafana.k8s.cluster-001.s-use-1.braze.com
 grafana.k8s.region-001.s-use-1.braze.com
 grafana.k8s.stc-001.s-use-1.braze.com
@@ -609,6 +625,9 @@ guiapi-development.bounceexchange.com
 guides.adtoox.com
 gui-dev.bounceexchange.com
 g-us-v3.conductrics.com
+gw.fyber.com
+gw-il.fyber.com
+gw-sf.fyber.com
 haproxy.ewr1.exelator.com
 helium-api.chartboost.com
 highereddemo.eloqua.com
@@ -668,6 +687,7 @@ kp2.forter.com
 kpstat.forter.com
 ks01.ks.extremereach.com
 lab.atdmt.com
+latency.banner-server.fyber.com
 latencychecker.bluekai.com
 ldap01.adroll.com
 ldap1.us-west-1.ec2.bluekai.com
@@ -1004,6 +1024,22 @@ nfl.dev.dig.cbsi.com
 nfl.dig.cbsi.com
 nj.amobee.com
 nm.eqads.com
+node10.fractionalmedia.com
+node11.fractionalmedia.com
+node12.fractionalmedia.com
+node14.fractionalmedia.com
+node15.fractionalmedia.com
+node19.fractionalmedia.com
+node1.fractionalmedia.com
+node21.fractionalmedia.com
+node23.fractionalmedia.com
+node28.fractionalmedia.com
+node31.fractionalmedia.com
+node5.fractionalmedia.com
+node6.fractionalmedia.com
+node7.fractionalmedia.com
+node8.fractionalmedia.com
+node9.fractionalmedia.com
 nonprod-api-selene.dev.adtechus.com
 nonprod-classic-api.dev.adtechus.com
 notifications.clickfunnels.com
@@ -1139,6 +1175,7 @@ pink.k8s.test-001.d-usw-2.braze.com
 pinpoint-dev.adready.com
 pixel-api.bridgewell.com
 pixel.audiensis.com
+pixie.fyber.com
 planet-v.amobee.com
 platform.blis.com
 platform.development.blis.com
@@ -1158,6 +1195,7 @@ probing.beta.stag.bounceexchange.com
 prod-aso-lb-v1.us-east-1d.kube.fiksu.com
 projectedreach.bluekai.com
 projectedreach-int.bluekai.com
+prometheus.fullstory.com
 public-webservice.apdc1.adpushup.com
 public-webservice.apdc2.adpushup.com
 public-webservice.apdc3.adpushup.com
@@ -1216,6 +1254,7 @@ revprod03.wdc.bluekai.com
 revprod04.wdc.bluekai.com
 revprod05.wdc.bluekai.com
 rex.dev.dig.cbsi.com
+rntsweb.dc2.fyber.com
 rodimus.forter.com
 rp-f5ddba66.crazyegg.com
 rs.nexus2.ensighten.com
@@ -1482,6 +1521,7 @@ sync.doubleverify.com
 synthetic.api.appdynamics.com
 tableau.cbsi.com
 tableaudev.cbsi.com
+tableau-test.fyber.com
 t.adsrvs.com
 t.adsximg.com
 t.adxyield.com
@@ -1514,6 +1554,7 @@ tps31.doubleverify.com
 tracfone.amobee.com
 tracking.downloadyee.com
 trainerqa.brightedge.com
+tube.fyber.com
 tuuid.creative-serving.com
 tv.cbsi.com
 tvguide.cbsi.com
@@ -1538,12 +1579,13 @@ utm-sdk.beeketing.com
 v2.adpiano.com
 validate.appsflyer.com
 vast-log.bridgewell.com
+vasttracktest.fuel451.com
 vc.bnmla.com
 vcenter.evowise.com
 vfdemed.amobee.com
 vfdeprod.amobee.com
-vfesprod.amobee.com
 vfes-prod.amobee.com
+vfesprod.amobee.com
 vfes-te.amobee.com
 vfindprod.amobee.com
 vfitprod.amobee.com
@@ -1552,9 +1594,11 @@ view.foreseeresults.com
 vip.adpiano.com
 visitor-presence.api.drift.com
 voyager.aweber.com
+vpaid.fuel451.com
 vpn2.govops.appdynamics.com
 vpn-fo.chartbeat.com
 vpn-fr.criteo.com
+vpng2.friendbuy.com
 vpn-iquest.exacttarget.com
 vpn-par.criteo.com
 vpn-sydney.exacttarget.com
