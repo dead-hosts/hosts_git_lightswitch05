@@ -12,6 +12,7 @@
 0.0.0.0 15.creativecdn.com
 0.0.0.0 3sixty.exacttarget.com
 0.0.0.0 3xpi21cueb.daphnecm.com
+0.0.0.0 4ecservices.goadservices.com
 0.0.0.0 a1406.casalemedia.com
 0.0.0.0 a1497.casalemedia.com
 0.0.0.0 a1584.casalemedia.com
@@ -56,6 +57,7 @@
 0.0.0.0 actions-eu.cbarsrv.com
 0.0.0.0 actions-ny.cbarsrv.com
 0.0.0.0 actions-ny.continular.com
+0.0.0.0 actions-ny.genorithm.com
 0.0.0.0 ad.downloadyee.com
 0.0.0.0 ad.fractionalmedia.com
 0.0.0.0 adm1.dynamicyield.com
@@ -118,6 +120,7 @@
 0.0.0.0 api.s4.exacttarget.com
 0.0.0.0 api-selene.prod.adtechus.com
 0.0.0.0 api.staging.bounceexchange.com
+0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 api.test.exacttarget.com
 0.0.0.0 apiw.ensighten.com
 0.0.0.0 apiw-test.ensighten.com
@@ -383,8 +386,12 @@
 0.0.0.0 dev.brightedge.com
 0.0.0.0 dev.demo.appdynamics.com
 0.0.0.0 devefence.engageclick.com
+0.0.0.0 dev.getadmiral.com
+0.0.0.0 dev.instructions.getadmiral.com
+0.0.0.0 dev.internal.getadmiral.com
 0.0.0.0 dev-ls.api.chatid.com
 0.0.0.0 dev.material.mobile.ensighten.com
+0.0.0.0 dev.my.getadmiral.com
 0.0.0.0 dev.pixel.fuel451.com
 0.0.0.0 dev.sftp.extremereach.com
 0.0.0.0 devsite.amobee.com
@@ -641,6 +648,7 @@
 0.0.0.0 hound.bnmla.com
 0.0.0.0 hub.internal.connatix.com
 0.0.0.0 hv9ztf47cl.daphnecm.com
+0.0.0.0 i1.goadservices.com
 0.0.0.0 ib.amobee.com
 0.0.0.0 ice.aws.amobee.com
 0.0.0.0 i.chartboost.com
@@ -700,6 +708,7 @@
 0.0.0.0 linx4.extremereach.com
 0.0.0.0 linx5.extremereach.com
 0.0.0.0 live.api.drift.com
+0.0.0.0 live.getsentry.com
 0.0.0.0 liveness-api.beta.stag.bounceexchange.com
 0.0.0.0 liveness.beta.stag.bounceexchange.com
 0.0.0.0 lmdb.apsalar.com
@@ -716,6 +725,7 @@
 0.0.0.0 login-stage.adtoox.com
 0.0.0.0 logs.adroll.com
 0.0.0.0 logs.iad.eloqua.com
+0.0.0.0 logs.panelkz.gemius.com
 0.0.0.0 looker.bounceexchange.com
 0.0.0.0 ls1x.chatid.com
 0.0.0.0 ls.chatid.com
@@ -770,6 +780,7 @@
 0.0.0.0 meet.foresee.com
 0.0.0.0 meet.foreseeresults.com
 0.0.0.0 members.s1.qa5.exacttarget.com
+0.0.0.0 mena.panelmena.gemius.com
 0.0.0.0 messaging.api.drift.com
 0.0.0.0 metranetprod.amobee.com
 0.0.0.0 metrics.api.drift.com
@@ -1117,7 +1128,9 @@
 0.0.0.0 o1.alerts.flurry.com
 0.0.0.0 o1.email.applovin.com
 0.0.0.0 o1.email.avidly.com
+0.0.0.0 o1.email.gameanalytics.com
 0.0.0.0 o1.mail.ensighten.com
+0.0.0.0 o1.md.getsentry.com
 0.0.0.0 o1.outbound.crashlytics.com
 0.0.0.0 o1.smtp.eyereturn.com
 0.0.0.0 o20.ck.n.convertkit.com
@@ -1155,8 +1168,11 @@
 0.0.0.0 owa2.coremetrics.com
 0.0.0.0 paas-san1.exacttarget.com
 0.0.0.0 pag.eloqua.com
+0.0.0.0 pages.gethatch.com
 0.0.0.0 pages.github.exacttarget.com
 0.0.0.0 pages.pd1.s1.qa2.exacttarget.com
+0.0.0.0 panelmena.gemius.com
+0.0.0.0 paneltr.gemius.com
 0.0.0.0 papajohns-chat.digitalroots.com
 0.0.0.0 paris2.criteo.com
 0.0.0.0 path.blismedia.com
@@ -1180,7 +1196,9 @@
 0.0.0.0 platform.blis.com
 0.0.0.0 platform.development.blis.com
 0.0.0.0 platform.rc.blis.com
+0.0.0.0 pl.panelmena.gemius.com
 0.0.0.0 poi.blismedia.com
+0.0.0.0 pong2.production.gannettdigital.com
 0.0.0.0 pool-eu-ie.creative-serving.com
 0.0.0.0 pop.adrcdn.com
 0.0.0.0 pop.adverline.com
@@ -1267,6 +1285,7 @@
 0.0.0.0 rtb.fingereach.com
 0.0.0.0 rtb-pm1.eyereturn.com
 0.0.0.0 rt.dc-storm.com
+0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rudytest10-api.beta.stag.bounceexchange.com
 0.0.0.0 rudytest10.beta.stag.bounceexchange.com
 0.0.0.0 s1073427956.m.en25.com
@@ -1348,6 +1367,7 @@
 0.0.0.0 sensu.amobee.com
 0.0.0.0 sentinel.ensighten.com
 0.0.0.0 sentry.adthrive.com
+0.0.0.0 sentry.getadmiral.com
 0.0.0.0 service.centraltag.com
 0.0.0.0 services.iad.appboy.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-qa-p01.exacttarget.com
@@ -1371,6 +1391,7 @@
 0.0.0.0 sipexternal.foreseeresults.com
 0.0.0.0 sipext.exacttarget.com
 0.0.0.0 sip.foreseeresults.com
+0.0.0.0 sip.gethatch.com
 0.0.0.0 site.clickpoint.com
 0.0.0.0 sj11.bnmla.com
 0.0.0.0 sjc-clarity02.contextweb.com
@@ -1384,6 +1405,8 @@
 0.0.0.0 sms.test.exacttarget.com
 0.0.0.0 smtp-01.aweber.com
 0.0.0.0 smtp-03.aweber.com
+0.0.0.0 smtp1.gemius.com
+0.0.0.0 smtp2.gemius.com
 0.0.0.0 smtp-coi-g02-005.aweber.com
 0.0.0.0 smtp-coi-g03-006.aweber.com
 0.0.0.0 smtp-coi-g03-008.aweber.com
@@ -1407,6 +1430,7 @@
 0.0.0.0 smtp-coi-wf-confirm-05-214.aweber.com
 0.0.0.0 smtp-coi-wf-confirmed-05-227.aweber.com
 0.0.0.0 smtp-corp-01.aweber.com
+0.0.0.0 smtp-out1.gemius.com
 0.0.0.0 smtp-soi-g01-101.aweber.com
 0.0.0.0 smtp-soi-g01-102.aweber.com
 0.0.0.0 smtp-soi-g02-103.aweber.com
@@ -1499,6 +1523,7 @@
 0.0.0.0 staging-ccs.conviva.com
 0.0.0.0 staging.demo.appdynamics.com
 0.0.0.0 staging.front.banners.advidi.com
+0.0.0.0 staging.getsentry.com
 0.0.0.0 staging-gw11.conviva.com
 0.0.0.0 staging-gw12.conviva.com
 0.0.0.0 staging-k8s.beeketing.com
