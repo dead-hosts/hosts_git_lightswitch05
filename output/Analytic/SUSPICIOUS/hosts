@@ -149,6 +149,7 @@
 0.0.0.0 api-loadtest-grpc.lightstep.com
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 api.logrocket.com
+0.0.0.0 api.mainad.com
 0.0.0.0 api-meta-grpc.lightstep.com
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 api.s1.qa2.exacttarget.com
@@ -308,6 +309,8 @@
 0.0.0.0 chowhound.cbsi.com
 0.0.0.0 ci.fyber.com
 0.0.0.0 ci.heartbeat.inmobi.com
+0.0.0.0 citrix2.marketingg2.com
+0.0.0.0 citrix.marketingg2.com
 0.0.0.0 cj135.mta.exacttarget.com
 0.0.0.0 cl125.mta.exacttarget.com
 0.0.0.0 clarity.corp.iap.inmobi.com
@@ -343,6 +346,7 @@
 0.0.0.0 cname03.cryptolootminer.com
 0.0.0.0 cnet.cbsi.com
 0.0.0.0 cn.macromill.com
+0.0.0.0 cn.mainad.com
 0.0.0.0 cntr.adrime.com
 0.0.0.0 co1aqu.atdmt.com
 0.0.0.0 co2aqu.atdmt.com
@@ -391,6 +395,7 @@
 0.0.0.0 creative.juicemobile.com
 0.0.0.0 crowd.fyber.com
 0.0.0.0 crux.cloud.inmobi.com
+0.0.0.0 cs1.madmobile.com
 0.0.0.0 cs200.mta.exacttarget.com
 0.0.0.0 customersupport.fyber.com
 0.0.0.0 c-vip-lb1.sc2.adsymptotic.com
@@ -473,7 +478,9 @@
 0.0.0.0 dev.material.mobile.ensighten.com
 0.0.0.0 dev-monitor.macromill.com
 0.0.0.0 dev.my.getadmiral.com
+0.0.0.0 dev.paywall.marketingg2.com
 0.0.0.0 dev.pixel.fuel451.com
+0.0.0.0 dev.recruit.macromill.com
 0.0.0.0 dev.sftp.extremereach.com
 0.0.0.0 devsite.amobee.com
 0.0.0.0 dev.static.display.khingtracking.com
@@ -638,6 +645,7 @@
 0.0.0.0 eventqueries.bluekai.com
 0.0.0.0 eventqueries-int.bluekai.com
 0.0.0.0 events.intuit.launchdarkly.com
+0.0.0.0 events.mapbox.com
 0.0.0.0 event-tracker.k8s-prod.fiksu.com
 0.0.0.0 evoko.awin.com
 0.0.0.0 ewrstage-rtb.applovin.com
@@ -697,6 +705,7 @@
 0.0.0.0 frontend6.innovid.com
 0.0.0.0 frontendqa.innovid.com
 0.0.0.0 fsrconfdca.foreseeresults.com
+0.0.0.0 ftp2.marketingg2.com
 0.0.0.0 ftp-api-01-prod.east.ftp.extremereach.com
 0.0.0.0 ftpchi1.extremereach.com
 0.0.0.0 ftpclient.effiliation.com
@@ -777,6 +786,7 @@
 0.0.0.0 gw.fyber.com
 0.0.0.0 gw-il.fyber.com
 0.0.0.0 gw-sf.fyber.com
+0.0.0.0 haproxy01-west-bidder.manage.com
 0.0.0.0 haproxy.ewr1.exelator.com
 0.0.0.0 helium-api.chartboost.com
 0.0.0.0 highereddemo.eloqua.com
@@ -915,7 +925,9 @@
 0.0.0.0 m116.en25.com
 0.0.0.0 m1.instartlogic.com
 0.0.0.0 maching.granify.com
+0.0.0.0 maddash.madmobile.com
 0.0.0.0 ma.eqads.com
+0.0.0.0 magic-analytics.magmic.com
 0.0.0.0 mail01.response.demandbase.com
 0.0.0.0 mail02.eloqua.com
 0.0.0.0 mail04.en25.com
@@ -936,6 +948,7 @@
 0.0.0.0 mail.en25.com
 0.0.0.0 mail.exacttarget.com
 0.0.0.0 mail.juicemobile.com
+0.0.0.0 mail.marketingg2.com
 0.0.0.0 mail.mgt.coremetrics.com
 0.0.0.0 mail.ny.contextweb.com
 0.0.0.0 mail-p1.adroll.com
@@ -943,6 +956,7 @@
 0.0.0.0 manage-legacy.ensighten.com
 0.0.0.0 marketing.coveo.com
 0.0.0.0 marketing.preprod.criteo.com
+0.0.0.0 marshalls.madmobile.com
 0.0.0.0 maxpreps.cbsi.com
 0.0.0.0 mbs.cloudberrylab.comads.creative-serving.com
 0.0.0.0 mc12.adsqn.com
@@ -1215,6 +1229,7 @@
 0.0.0.0 mysite.eloqua.com
 0.0.0.0 myss.eloqua.com
 0.0.0.0 myvpn.inmobi.com
+0.0.0.0 n1.macromill.com
 0.0.0.0 n2.interpolls.com
 0.0.0.0 nat1.sg1.inmobi.com
 0.0.0.0 nat-pool-fr-2.criteo.com
@@ -1366,6 +1381,7 @@
 0.0.0.0 o7.email.bounceexchange.com
 0.0.0.0 o7.sg.clickmail.clickfunnels.com
 0.0.0.0 oda.hurra.com
+0.0.0.0 offerservices.marketingg2.com
 0.0.0.0 office.convertcart.com
 0.0.0.0 office-fr.criteo.com
 0.0.0.0 officewebapps.foresee.com
@@ -1401,6 +1417,7 @@
 0.0.0.0 paris2.criteo.com
 0.0.0.0 partner.goadservices.com
 0.0.0.0 path.blismedia.com
+0.0.0.0 paywall.marketingg2.com
 0.0.0.0 pbr3-wn2.brightedge.com
 0.0.0.0 pbrowser-proxy22.brightedge.com
 0.0.0.0 pcconnection.hosting.exacttarget.com
@@ -1471,11 +1488,13 @@
 0.0.0.0 ps2.interpolls.com
 0.0.0.0 ps.interpolls.com
 0.0.0.0 pso.ws.ev1.inmobi.com
+0.0.0.0 pt.transam.macromill.com
 0.0.0.0 public-webservice.apdc1.adpushup.com
 0.0.0.0 public-webservice.apdc2.adpushup.com
 0.0.0.0 public-webservice.apdc3.adpushup.com
 0.0.0.0 public-webservice.apdc4.adpushup.com
 0.0.0.0 publisher.clickpoint.com
+0.0.0.0 publisher.mainad.com
 0.0.0.0 publisher-registration-api.awin.com
 0.0.0.0 pub-services.iad.braze.com
 0.0.0.0 pub-services.staging.iad.braze.com
@@ -1503,6 +1522,7 @@
 0.0.0.0 reactor-dev.joystickinteractive.com
 0.0.0.0 reactor-stg.joystickinteractive.com
 0.0.0.0 recommend.justuno.com
+0.0.0.0 rectv.macromill.com
 0.0.0.0 redirect.caline.adtdp.com
 0.0.0.0 redirects.advidi.com
 0.0.0.0 registry.bluekai.com
@@ -1573,6 +1593,7 @@
 0.0.0.0 rtgex.httptrack.com
 0.0.0.0 rtggen.httptrack.com
 0.0.0.0 rtgimg.httptrack.com
+0.0.0.0 rt.macromill.com
 0.0.0.0 rtmap.interpolls.com
 0.0.0.0 rtmp.jsrdn.com
 0.0.0.0 rubick.gameanalytics.com
@@ -1658,6 +1679,7 @@
 0.0.0.0 search9.keywordblocks.com
 0.0.0.0 search.airpr.com
 0.0.0.0 search.coremetrics.com
+0.0.0.0 secfile.macromill.com
 0.0.0.0 secure0.adswizz.com
 0.0.0.0 secure.lijit.com
 0.0.0.0 seek.hosting.exacttarget.com
@@ -1818,6 +1840,7 @@
 0.0.0.0 smtp-soi-wf-04-241.aweber.com
 0.0.0.0 smtp-soi-wf-05-243.aweber.com
 0.0.0.0 smtp-verifiedoptin-03.aweber.com
+0.0.0.0 snap.events.mapbox.com
 0.0.0.0 s.ncp.imrworldwide.com
 0.0.0.0 sngmonitor01.amobee.com
 0.0.0.0 sng-mx.amobee.com
@@ -1854,6 +1877,7 @@
 0.0.0.0 staging.juicemobile.com
 0.0.0.0 staging-k8s.beeketing.com
 0.0.0.0 staging.levexis.com
+0.0.0.0 staging.madmobile.com
 0.0.0.0 staging-rocnation.lisnr.com
 0.0.0.0 static.audiensis.com
 0.0.0.0 static.bronto.com
@@ -1902,6 +1926,8 @@
 0.0.0.0 test-app.decibelinsight.com
 0.0.0.0 testjira.corp.ev1.inmobi.com
 0.0.0.0 text.foreseeresults.com
+0.0.0.0 tfs2010.marketingg2.com
+0.0.0.0 tfs.marketingg2.com
 0.0.0.0 t.iaudienc.com
 0.0.0.0 t.imganalytics.com
 0.0.0.0 t.imgsynd.com
@@ -1919,6 +1945,7 @@
 0.0.0.0 tracfone.amobee.com
 0.0.0.0 tracking.downloadyee.com
 0.0.0.0 trainerqa.brightedge.com
+0.0.0.0 transfer.transam.macromill.com
 0.0.0.0 truthsquadlessfinishers.joystickinteractive.com
 0.0.0.0 tube.fyber.com
 0.0.0.0 tuuid.creative-serving.com
@@ -1988,8 +2015,8 @@
 0.0.0.0 vcenter.evowise.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-prod.amobee.com
+0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -1999,6 +2026,8 @@
 0.0.0.0 visitor-presence.api.drift.com
 0.0.0.0 voyager.aweber.com
 0.0.0.0 vpaid.fuel451.com
+0.0.0.0 vpn01.manage.com
+0.0.0.0 vpn02.manage.com
 0.0.0.0 vpn2.govops.appdynamics.com
 0.0.0.0 vpn-fo.chartbeat.com
 0.0.0.0 vpn-fr.criteo.com
@@ -2071,6 +2100,7 @@
 0.0.0.0 ws.s1.qa2.exacttarget.com
 0.0.0.0 ws.s2.qa2.exacttarget.com
 0.0.0.0 ws.s4.exacttarget.com
+0.0.0.0 wss.marketingg2.com
 0.0.0.0 ws.test.exacttarget.com
 0.0.0.0 ws-thehartford.exacttarget.com
 0.0.0.0 wtredis001.apsalar.com

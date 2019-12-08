@@ -169,13 +169,27 @@
 0.0.0.0 adtracker.webperspectives.ca
 0.0.0.0 advertisersapitest.doubleclick.com
 0.0.0.0 advertisers.doubleclick.com
+0.0.0.0 adx-apac3-bidder.manage.com
 0.0.0.0 adx.ap-southeast-1.infinity.lb.blismedia.com
 0.0.0.0 adx.dca.events.bidstalk.com
+0.0.0.0 adx-eu3-bidder.manage.com
 0.0.0.0 adx.helios.ligatus.com
 0.0.0.0 adx.hkg.events.bidstalk.com
 0.0.0.0 adx.ligadx.com
 0.0.0.0 adx.mixmarket.biz
 0.0.0.0 adxua.hkg.events.bidstalk.com
+0.0.0.0 adx.web01-east.manage.com
+0.0.0.0 adx.web01-eu.manage.com
+0.0.0.0 adx.web05-eu.manage.com
+0.0.0.0 adx.web06-east.manage.com
+0.0.0.0 adx.web07-eu.manage.com
+0.0.0.0 adx.web08-eu.manage.com
+0.0.0.0 adx.web20-east.manage.com
+0.0.0.0 adx.web29-east.manage.com
+0.0.0.0 adx.web38-east.manage.com
+0.0.0.0 adx.web39-east.manage.com
+0.0.0.0 adx.web40-east.manage.com
+0.0.0.0 adx-west3-bidder.manage.com
 0.0.0.0 adx.winners.us-east-1.rtb.adroll.com
 0.0.0.0 adyard-adfarm.ligatus.com
 0.0.0.0 aeccpa.acxiom.com
@@ -184,6 +198,11 @@
 0.0.0.0 aeg.lisnr.com
 0.0.0.0 aeocaptions.rt.cquotient.com
 0.0.0.0 aeo.rt.cquotient.com
+0.0.0.0 aeropostaleapp2.madmobile.com
+0.0.0.0 aeropostaleapp.madmobile.com
+0.0.0.0 aeropostaleapp-staging.madmobile.com
+0.0.0.0 aeropostale-cdn.madmobile.com
+0.0.0.0 aeropostale.madmobile.com
 0.0.0.0 aeropostale.sp1.convertro.com
 0.0.0.0 aerserv.dca.events.bidstalk.com
 0.0.0.0 aff.creativecdn.com
@@ -269,6 +288,10 @@
 0.0.0.0 ak-vid.applovin.com
 0.0.0.0 allabs-test.answermedia.com
 0.0.0.0 alliancerubber.links.channelintelligence.com
+0.0.0.0 allpostersca.madmobile.com
+0.0.0.0 allposters-cdn.madmobile.com
+0.0.0.0 allpostersfr.madmobile.com
+0.0.0.0 allposters.madmobile.com
 0.0.0.0 alpha.ace.advertising.com
 0.0.0.0 alpha.justuno.com
 0.0.0.0 alpha.leanplum.com
@@ -475,6 +498,11 @@
 0.0.0.0 apps.adtz.com
 0.0.0.0 appsdev.appsflyer.com
 0.0.0.0 app.silverpush.co
+0.0.0.0 appsponsor-bidder.manage.com
+0.0.0.0 appsponsor.web03-eu.manage.com
+0.0.0.0 appsponsor.web04-east.manage.com
+0.0.0.0 appsponsor.web08-eu.manage.com
+0.0.0.0 appsponsor.web12-eu.manage.com
 0.0.0.0 app.stage.driftt.com
 0.0.0.0 apptesting.appsee.com
 0.0.0.0 app.up.163.com
@@ -587,6 +615,8 @@
 0.0.0.0 autodiscover.o365.foresee.com
 0.0.0.0 _autodiscover._tcp.aggregateknowledge.com
 0.0.0.0 _autodiscover._tcp.agkn.com
+0.0.0.0 autonationapp1.madmobile.com
+0.0.0.0 autonation-cdn.madmobile.com
 0.0.0.0 auto-px.dynamicyield.com
 0.0.0.0 av.acxiom.com
 0.0.0.0 avis.adlegend.com
@@ -599,10 +629,13 @@
 0.0.0.0 aws-adserver-origin-ap-northeast-1.adtechjp.com
 0.0.0.0 aws-adserver-origin-ap-southeast-1.adtechjp.com
 0.0.0.0 aws.footprintdns.com
+0.0.0.0 aws.prod-mill.macromill.com
+0.0.0.0 aws.prod-mobile.macromill.com
 0.0.0.0 aws-production-banner-server-us-west-2.banner-server.fyber.com
 0.0.0.0 aws-production-tracker-us-west-2.tracker.fyber.com
 0.0.0.0 aws-production-video-broker-us-west-2.video-v2.fyber.com
 0.0.0.0 aws-staging-banner-eu-west-1.staging-banner.fyber.com
+0.0.0.0 awsstaging.madmobile.com
 0.0.0.0 axonix.dca.events.bidstalk.com
 0.0.0.0 axonixdirect.dca.events.bidstalk.com
 0.0.0.0 axonix.events.bidstalk.com
@@ -611,8 +644,8 @@
 0.0.0.0 azasc.iasds01.com
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 baba.dev-iad.amobee.com
 0.0.0.0 baba.qa-iad.amobee.com
 0.0.0.0 babyboomerpeoplemeet.adlegend.com
@@ -649,6 +682,7 @@
 0.0.0.0 beacon.airvertiseme.com
 0.0.0.0 beacon.bidsimulator.com
 0.0.0.0 beacon.hlserve.com
+0.0.0.0 beallsflorida.madmobile.com
 0.0.0.0 beam2.hlserve.com
 0.0.0.0 beats.sp1.convertro.com
 0.0.0.0 beaucoup.sp1.convertro.com
@@ -1039,6 +1073,7 @@
 0.0.0.0 cog2.bnmla.com
 0.0.0.0 cohorts.appsflyer.com
 0.0.0.0 colgate.links.channelintelligence.com
+0.0.0.0 collectionsetc.madmobile.com
 0.0.0.0 collective.bluecava.com
 0.0.0.0 collector.apester.com
 0.0.0.0 collector-grpc-latest.lightstep.com
@@ -1316,6 +1351,7 @@
 0.0.0.0 dev-k8s.beeketing.com
 0.0.0.0 dev-kraken03.wdc.bluekai.com
 0.0.0.0 dev.liverail.com
+0.0.0.0 dev.madmobile.com
 0.0.0.0 dev.mmp.adtz.com
 0.0.0.0 dev.msrv.saastest.appdynamics.com
 0.0.0.0 dev.my.dianomi.com
@@ -1338,6 +1374,7 @@
 0.0.0.0 diablo.links.channelintelligence.com
 0.0.0.0 diag.adsafeprotected.com
 0.0.0.0 dialin.acxiom.com
+0.0.0.0 diamondnexus.madmobile.com
 0.0.0.0 didit.levexis.com
 0.0.0.0 d.iesnare.com
 0.0.0.0 dikwass.qa-iad.amobee.com
@@ -1482,6 +1519,8 @@
 0.0.0.0 emailer2.joystickinteractive.com
 0.0.0.0 email.liverail.com
 0.0.0.0 embed.orbee.co
+0.0.0.0 emedco-cdn.madmobile.com
+0.0.0.0 emedco-staging.madmobile.com
 0.0.0.0 em.fanbread.com
 0.0.0.0 enc.imrworldwide.com
 0.0.0.0 endoftheroad.channelintelligence.com
@@ -1622,6 +1661,10 @@
 0.0.0.0 flink-test.datadome.co
 0.0.0.0 flink-test-ovh.datadome.co
 0.0.0.0 fl-mail01.channelintelligence.com
+0.0.0.0 flurry-bidder.manage.com
+0.0.0.0 flurry.web09-west.manage.com
+0.0.0.0 flurry.web11-west.manage.com
+0.0.0.0 flurry.web12-west.manage.com
 0.0.0.0 focus.impdesk.com
 0.0.0.0 focus.meeting.abtasty.com
 0.0.0.0 foo1-k8s.dev-iad.amobee.com
@@ -1800,7 +1843,9 @@
 0.0.0.0 helios.ligatus.com
 0.0.0.0 helixuat.inmobi.cn
 0.0.0.0 hertz.adlegend.com
+0.0.0.0 hiddenvalley.madmobile.com
 0.0.0.0 highcdn.brainient.com
+0.0.0.0 highsierra.madmobile.com
 0.0.0.0 hilfe.brainient.com
 0.0.0.0 hills.links.channelintelligence.com
 0.0.0.0 hindsight.getrockerbox.com
@@ -1820,6 +1865,7 @@
 0.0.0.0 hlc.rt.cquotient.com
 0.0.0.0 hnyhnyhny.com
 0.0.0.0 homedepot.rdr.channelintelligence.com
+0.0.0.0 homegoods.madmobile.com
 0.0.0.0 honeout.fanbread.com
 0.0.0.0 horchow.rdr.channelintelligence.com
 0.0.0.0 hor.rt.cquotient.com
@@ -1945,6 +1991,14 @@
 0.0.0.0 iniitian.saas.appdynamics.com
 0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 inmobi.web02-east.manage.com
+0.0.0.0 inmobi.web06-east.manage.com
+0.0.0.0 inmobi.web10-east.manage.com
+0.0.0.0 inmobi.web12-east.manage.com
+0.0.0.0 inmobi.web13-east.manage.com
+0.0.0.0 inmobi.web14-east.manage.com
+0.0.0.0 inmobi.web22-east.manage.com
+0.0.0.0 inmobi.web28-east.manage.com
 0.0.0.0 inneractive.dca.events.bidstalk.com
 0.0.0.0 inneractive.win.bidstalk.com
 0.0.0.0 i.n.ping-origin-prd.jwpltx.com
@@ -2003,6 +2057,8 @@
 0.0.0.0 intern.ligatus.com
 0.0.0.0 intern.liverail.com
 0.0.0.0 interracialpeoplemeet.adlegend.com
+0.0.0.0 interstatebatteries.madmobile.com
+0.0.0.0 inthecompanyofdogs.madmobile.com
 0.0.0.0 int.liverail.com
 0.0.0.0 intra.fyber.com
 0.0.0.0 intuit.adlegend.com
@@ -2047,6 +2103,7 @@
 0.0.0.0 jhhimagesharing.ambra.com
 0.0.0.0 johnfrieda.lisnr.com
 0.0.0.0 joinme.sp1.convertro.com
+0.0.0.0 jord2i.gutenbergtest.marfeelcdn.com
 0.0.0.0 jordyn-smith.fanbread.com
 0.0.0.0 joyedu.joystickinteractive.com
 0.0.0.0 jp.adlearnop.advertising.com
@@ -2092,6 +2149,7 @@
 0.0.0.0 kace1100-01.intern.ligatus.com
 0.0.0.0 kace.corp.ligatus.com
 0.0.0.0 kafka.connect.worker.flurry.com
+0.0.0.0 kansascitysteaks-cdn.madmobile.com
 0.0.0.0 kargonaut.dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 karlhouse.fanbread.com
 0.0.0.0 karpet.cloud.kargo.com
@@ -2389,6 +2447,7 @@
 0.0.0.0 meundies.friendbuy.com
 0.0.0.0 mf.adsymptotic.com
 0.0.0.0 mfr.247realmedia.com
+0.0.0.0 mg2art.marketingg2.com
 0.0.0.0 mg.3lift.com
 0.0.0.0 mgadmin.beeketing.com
 0.0.0.0 m.getadmiral.com
@@ -2406,10 +2465,12 @@
 0.0.0.0 ml.adpxl.co
 0.0.0.0 mldev.sigma.inmobi.com
 0.0.0.0 ml.listrakbi.com
+0.0.0.0 m.mets.madmobile.com
 0.0.0.0 mmex.pxl.ace.advertising.com
 0.0.0.0 mmi.macromill.com
 0.0.0.0 mm-k8s.dev-iad.amobee.com
 0.0.0.0 mmo2de.amobee.com
+0.0.0.0 m.monsterhigh.staging.madmobile.com
 0.0.0.0 mmp.adtz.com
 0.0.0.0 moat.pxl.ace.advertising.com
 0.0.0.0 mob.adcash.com
@@ -2429,11 +2490,21 @@
 0.0.0.0 monitor-mng.macromill.com
 0.0.0.0 monster.adlegend.com
 0.0.0.0 monster.ca.adlegend.com
+0.0.0.0 monsterhigh.staging.madmobile.com
 0.0.0.0 moo.sp1.convertro.com
 0.0.0.0 mopub.dca.events.bidstalk.com
 0.0.0.0 mopub.events.bidstalk.com
 0.0.0.0 mopub.notify.bidstalk.com
 0.0.0.0 mopubretargeting.dca.events.bidstalk.com
+0.0.0.0 mopub.web107-east.manage.com
+0.0.0.0 mopub.web125-east.manage.com
+0.0.0.0 mopub.web133-east.manage.com
+0.0.0.0 mopub.web135-east.manage.com
+0.0.0.0 mopub.web137-east.manage.com
+0.0.0.0 mopub.web138-east.manage.com
+0.0.0.0 mopub.web141-east.manage.com
+0.0.0.0 mopub.web143-east.manage.com
+0.0.0.0 mopub.web35-east.manage.com
 0.0.0.0 mopub.win.bidstalk.com
 0.0.0.0 m-origin-redirect.addthis.com
 0.0.0.0 morningflashsee.club
@@ -2506,6 +2577,7 @@
 0.0.0.0 n76.epom.com
 0.0.0.0 nada.orbee.co
 0.0.0.0 n.as1.dyntrk.com
+0.0.0.0 nasm-cdn.madmobile.com
 0.0.0.0 native.fuel451.com
 0.0.0.0 naturalizer.sp1.convertro.com
 0.0.0.0 naws.awin.com
@@ -2534,6 +2606,7 @@
 0.0.0.0 news.apester.com
 0.0.0.0 newsite.bidtheatre.com
 0.0.0.0 newsite.instartlogic.com
+0.0.0.0 newsite.madmobile.com
 0.0.0.0 news.justuno.com
 0.0.0.0 news.tagtoo.co
 0.0.0.0 newsupport.dynamicyield.com
@@ -2546,6 +2619,8 @@
 0.0.0.0 nexus2.ensighten.com
 0.0.0.0 nexus-us.ensighten.com
 0.0.0.0 nexus-us-midwest.ensighten.com
+0.0.0.0 nfm-cdn.madmobile.com
+0.0.0.0 nfm.madmobile.com
 0.0.0.0 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 0.0.0.0 nickolaus-hines.fanbread.com
 0.0.0.0 nicole-cord-cruz.fanbread.com
@@ -2558,6 +2633,7 @@
 0.0.0.0 nonprod.flurry.com
 0.0.0.0 nonprod.useast.geoservice.inmobi.com
 0.0.0.0 northerntool.rdr.channelintelligence.com
+0.0.0.0 northstyle.madmobile.com
 0.0.0.0 notifications.apester.com
 0.0.0.0 notifications.chartbeat.com
 0.0.0.0 notifyime-beta.convertcart.com
@@ -2799,6 +2875,8 @@
 0.0.0.0 partycityca.rdr.channelintelligence.com
 0.0.0.0 pas-beta.pinpoint.us-east-1.amazonaws.com
 0.0.0.0 pas-gamma.pinpoint.us-east-1.amazonaws.com
+0.0.0.0 payless-cdn.madmobile.com
+0.0.0.0 payless.madmobile.com
 0.0.0.0 pbbl.agkn.com
 0.0.0.0 pcca1.manifest.auditude.com
 0.0.0.0 pcca2.manifest.auditude.com
@@ -2814,6 +2892,7 @@
 0.0.0.0 pdx.amazon-adsystem.com
 0.0.0.0 peaks201901311747328.saas.appdynamics.com
 0.0.0.0 pearlauto.sp1.convertro.com
+0.0.0.0 peoples-staging.madmobile.com
 0.0.0.0 perupa.qa-iad.amobee.com
 0.0.0.0 petpeoplemeet.adlegend.com
 0.0.0.0 petplan.sp1.convertro.com
@@ -3105,6 +3184,7 @@
 0.0.0.0 qatest.ma.163.com
 0.0.0.0 qa-uk.adlearnop.advertising.com
 0.0.0.0 qa-upstream.awin.com
+0.0.0.0 qcweb.macromill.com
 0.0.0.0 qe1.conviva.com
 0.0.0.0 qlikview.corp.ligatus.com
 0.0.0.0 q-origin-test.addthis.com
@@ -3315,6 +3395,12 @@
 0.0.0.0 rubac.qa-iad.amobee.com
 0.0.0.0 rubicon.dca.events.bidstalk.com
 0.0.0.0 rubicon.hkg.events.bidstalk.com
+0.0.0.0 rubicon.web12-west.manage.com
+0.0.0.0 rubicon.web14-east.manage.com
+0.0.0.0 rubicon.web22-east.manage.com
+0.0.0.0 rubicon.web23-east.manage.com
+0.0.0.0 rubicon.web25-east.manage.com
+0.0.0.0 rubicon.web32-east.manage.com
 0.0.0.0 rub.pxl.ace.advertising.com
 0.0.0.0 rudys-test-api.beta.stag.bounceexchange.com
 0.0.0.0 rudys-test.beta.stag.bounceexchange.com
@@ -3390,6 +3476,8 @@
 0.0.0.0 sa-east-1.prod.analytics.console.aws.a2z.com
 0.0.0.0 sales-live-events1.use.dynamicyield.com
 0.0.0.0 salon-tagan.adlightning.com
+0.0.0.0 samsonite-cdn.madmobile.com
+0.0.0.0 samsonite.madmobile.com
 0.0.0.0 san.casalemedia.com
 0.0.0.0 san-cert.greystripe.com
 0.0.0.0 san.coremetrics.com
@@ -3564,6 +3652,7 @@
 0.0.0.0 shop.analyticson.com
 0.0.0.0 shopbop.sp1.convertro.com
 0.0.0.0 shopify.elfsight.com
+0.0.0.0 shopjustice-cdn.madmobile.com
 0.0.0.0 shouji.lianmeng.360.cn
 0.0.0.0 show1.admaster.com.cn
 0.0.0.0 shrapnel.bnmla.com
@@ -3981,6 +4070,9 @@
 0.0.0.0 tonton.qa-iad.amobee.com
 0.0.0.0 tools.ebuzzing.com
 0.0.0.0 tools-tracking.adform.com
+0.0.0.0 toshiba.madmobile.com
+0.0.0.0 toshiba.staging.madmobile.com
+0.0.0.0 totalwine.madmobile.com
 0.0.0.0 tower.adwyze.com
 0.0.0.0 toysrus.adlegend.com
 0.0.0.0 tpmn.hkg.events.bidstalk.com
@@ -4071,8 +4163,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trello-callback.glance-internal.inmobi.com
 0.0.0.0 tr.gcp.blis.com
@@ -4124,6 +4216,7 @@
 0.0.0.0 uaid.tmp.imrworldwide.com
 0.0.0.0 uat-b.hlserve.com
 0.0.0.0 uat-centraltag-service.dbidatatech.com
+0.0.0.0 uat.madmobile.com
 0.0.0.0 uat.opinions.inmobi.com
 0.0.0.0 u.fastly-insights.com
 0.0.0.0 ufs.adkmob.com
@@ -4137,6 +4230,7 @@
 0.0.0.0 uk.adlearnop.advertising.com
 0.0.0.0 ulink.adjust.com
 0.0.0.0 umka.qa-iad.amobee.com
+0.0.0.0 um.macromill.com
 0.0.0.0 umpee.qa-iad.amobee.com
 0.0.0.0 ums.adtechjp.com
 0.0.0.0 ums-sb-ec.adtechus.com
@@ -4171,8 +4265,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -4513,6 +4607,7 @@
 0.0.0.0 www.adsx-admin.greystripe.com
 0.0.0.0 www.adtracker.inmobi.com
 0.0.0.0 www.adv.api.admedia.com
+0.0.0.0 www.advertiser.mainad.com
 0.0.0.0 www.advertisersegment.inmobi.com
 0.0.0.0 www.adwords.smedia.ca
 0.0.0.0 www.a.elfsight.com
@@ -4651,6 +4746,9 @@
 0.0.0.0 www.cimetrix.inmobi.com
 0.0.0.0 www.cincinnati.localiq.com
 0.0.0.0 www.citoengine.corp.inmobi.com
+0.0.0.0 www.citrix2.marketingg2.com
+0.0.0.0 www.citrix3.marketingg2.com
+0.0.0.0 www.citrix.marketingg2.com
 0.0.0.0 www.c.jsrdn.com
 0.0.0.0 www.clarity.beta.corp.inmobi.com
 0.0.0.0 www.clarity.corp.iap.inmobi.com
@@ -4971,6 +5069,7 @@
 0.0.0.0 www.obelix.mc.inmobi.com
 0.0.0.0 www.ocum.corp.appdynamics.com
 0.0.0.0 www.oem.inmobi.com
+0.0.0.0 www.offerservices.marketingg2.com
 0.0.0.0 www.office.analyticson.com
 0.0.0.0 www.officewebapps.foresee.com
 0.0.0.0 www.oldtown.joystickinteractive.com
@@ -5033,6 +5132,7 @@
 0.0.0.0 www.p.silverpush.co
 0.0.0.0 www.pso-imbot.inmobi.com
 0.0.0.0 www.pso.inmobi.com
+0.0.0.0 www.publisher.mainad.com
 0.0.0.0 www.pulsedm-ap.amobee.com
 0.0.0.0 www.pulse.inmobi.com
 0.0.0.0 www.pulse-uat.inmobi.com
@@ -5061,6 +5161,7 @@
 0.0.0.0 www.res2.scsstatic.ch
 0.0.0.0 www.resources.inmobi.com
 0.0.0.0 www.rest.dynamicyield.com
+0.0.0.0 www.retail.madmobile.com
 0.0.0.0 www.rlec-use.dynamicyield.com
 0.0.0.0 www.rm.analyticson.com
 0.0.0.0 www.rm.inmobi.com
@@ -5194,6 +5295,8 @@
 0.0.0.0 www.testbanners.analyticson.com
 0.0.0.0 www.testjira.corp.ev1.inmobi.com
 0.0.0.0 www.testns.instartlogic.com
+0.0.0.0 www.tfs2010.marketingg2.com
+0.0.0.0 www.tfs.marketingg2.com
 0.0.0.0 www.t.getadmiral.com
 0.0.0.0 www.tm.inmobi.com
 0.0.0.0 www.tm.smedia.ca
@@ -5302,6 +5405,10 @@
 0.0.0.0 zabbix.bluekai.com
 0.0.0.0 zagg.rdr.channelintelligence.com
 0.0.0.0 zales.activate.ensighten.com
+0.0.0.0 zales-build.madmobile.com
+0.0.0.0 zales-cdn.madmobile.com
+0.0.0.0 zales-dev.madmobile.com
+0.0.0.0 zales.madmobile.com
 0.0.0.0 z.applvn.com
 0.0.0.0 zeiterasearch.extremereach.com
 0.0.0.0 zeppelin.nj3.amobee.com
