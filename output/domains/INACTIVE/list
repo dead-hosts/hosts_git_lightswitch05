@@ -66,6 +66,7 @@ t.update.ib.adnxs.com
 31.creativecdn.com
 3pt.prod.paperg.com
 3pt.staging.paperg.com
+3pt-staging.placelocal.com
 3qdigital.adlegend.com
 3zly2uywmndncwuddnaonbxdti8tq3yqb3wfpz2p.datadome.co
 40.fanbread.com
@@ -112,6 +113,7 @@ ac.brainient.com
 accobrands.links.channelintelligence.com
 accounts.appboy.com
 account-settings.appsflyer.com
+accounts.petametrics.com
 accuracy.bluecava.com
 ace1.advertising.com
 ace.advertising.com
@@ -235,6 +237,7 @@ ads.n131adserv.com
 ads.ntc.ace.advertising.com
 ads.onemobile.nexage.com
 ads.outriggermedia.com
+ads.permutive.com
 adsrv2.midasplayer.com
 ads-s3.adthrive.com
 ads.silverpush.co
@@ -266,6 +269,7 @@ adx.helios.ligatus.com
 adx.hkg.events.bidstalk.com
 adx.ligadx.com
 adx.mixmarket.biz
+adx.petametrics.com
 adxua.hkg.events.bidstalk.com
 adx.web01-east.manage.com
 adx.web01-eu.manage.com
@@ -462,6 +466,7 @@ analytics.adlightning.com
 analytics.adtechus.com
 analytics.apester.com
 analytics-dash.airpr.com
+analytics.dev.pixlee.com
 analytics.elfsight.com
 analytics-loadtest.lisnr.com
 analytics.newsinc.com
@@ -562,6 +567,8 @@ api.eb-test.firehound.staging.paperg.com
 api.ebuzzing.com
 api.epom.com
 api.essads.com
+api-eu-central-1.petametrics.com
+api-eu-west-1.petametrics.com
 api-ex.metaps.com
 api-exr-dev.metaps.com
 api-exr.metaps.com
@@ -836,8 +843,8 @@ azasc.iasds01.com
 azjsc.iasds01.com
 azkaban.adwyze.com
 azure-res-provider.newrelic.com
-b1473-k8s.dev-iad.amobee.com
 b-1473-k8s.dev-iad.amobee.com
+b1473-k8s.dev-iad.amobee.com
 b1.midasplayer.com
 ba1.midasplayer.com
 baba.dev-iad.amobee.com
@@ -991,9 +998,12 @@ blmcaptions.rt.cquotient.com
 blm.rt.cquotient.com
 blockchain.metaps.com
 blockshopper-d3.openxenterprise.com
+blog2.placed.com
+blog-dev.piximedia.com
 blog-hosted.klaviyo.com
 blogtalkradio.sp1.convertro.com
 blog-test.autopilothq.com
+blogtest.placed.com
 blradcvw02.corp.inmobi.com
 blradcvw03.corp.inmobi.com
 blratavw01.corp.inmobi.com
@@ -1463,6 +1473,7 @@ cts-log.channelintelligence.com
 cts-secure.channelintelligence.com
 ctv.aertb.com
 cunda.advolution.biz
+curation.permutive.com
 curiositystream.adlegend.com
 current.app.optimizely.com
 current-azure-ext.newrelic.com
@@ -1706,6 +1717,7 @@ devops-dashboard.mgmt.us-east-1.kops.kargo.com
 devops-dashboard.prod.paperg.com
 devopspro.adform.com
 dev.outbrain.com
+dev.pixlee.com
 dev-playground.scoota.co
 dev-rec.aralego.com
 dev.redirection.adtz.com
@@ -1835,6 +1847,7 @@ dynamic-template-engine.staging.paperg.com
 dyn.atdmt.com
 dyn.cunda.advolution.biz
 dyn-message.mathtag.com
+dyn.perfectaudience.com
 dyn-pixel.mathtag.com
 e0.cn.miaozhen.com
 e3.geo.adpushup.com
@@ -2111,6 +2124,7 @@ fp.bluecava.com
 fp.fuel451.com
 fp.interpolls.com
 fpoc-origin-dev.jwpltx.com
+fpo.petametrics.com
 fps-prd.production.fyber.com
 fr1.ligatus.com
 fra-lb10.eu.adsymptotic.com
@@ -2210,6 +2224,7 @@ git-dev.mediaforge.com
 gitea.convertcart.com
 github.corp.inmobi.com
 gitz.adform.com
+gjenkins.placed.com
 g.kr.miaozhen.com
 gl-7001dc16.curalate.com
 glamrscom-ams.gravityrd-services.com
@@ -2262,6 +2277,7 @@ goodyear.sp1.convertro.com
 goog-gu3b.applovin.com
 googleads.g.doubleclick.com
 go.paradym.com
+go.pixlee.com
 goubunto.aniview.com
 gouwu.mediav.com
 gpe.midasplayer.com
@@ -2418,8 +2434,8 @@ idsync.districtm.ca
 idsync.mparticle.com
 idtest.acxiom.com
 i.essads.com
-ifc2-vip-dfw1.inmobi.com
 ifc2.vip.dfw1.inmobi.com
+ifc2-vip-dfw1.inmobi.com
 ifc2.vip.hkg1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
@@ -2499,8 +2515,8 @@ ingest.at.atwola.com
 ingress-test-api.newstags.stag.bounceexchange.com
 ingress-test.newstags.stag.bounceexchange.com
 iniitian.saas.appdynamics.com
-in.jwpltx.com
 i.n.jwpltx.com
+in.jwpltx.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
 inmobi.web10-east.manage.com
@@ -2555,6 +2571,8 @@ intel-mock-api.dynamicyield.com
 intel-mock.dynamicyield.com
 interaction.dasha.apester.com
 interaction.pe.apester.com
+interaction.permutive.com
+interactions.permutive.com
 interactivebrokers.adlegend.com
 intergi-sb-ec.adtechus.com
 internal.beeketing.com
@@ -2732,6 +2750,7 @@ lab5.adconion.com
 lab9.adconion.com
 lab.adform.com
 labpages.braze.com
+lab.petametrics.com
 labs.ebuzzing.com
 la-chi.outbrain.com
 l.adadyn.com
@@ -2908,6 +2927,7 @@ mail.getadmiral.com
 mail.marketo.com
 mail.mf-strategies.com
 mail.mm.marketo.com
+mail.pinnaclecustomermetrics.com
 mail.search.advertisingbox.com
 ma.inmobi.com
 maintenance.criteo.com
@@ -3612,6 +3632,7 @@ pixel.jumptap.com
 pixel.mediamath.com
 pixel.monetize-me.com
 pixel.parsely.com
+pixel.perceptlink.com
 pixel-sc2.adsymptotic.com
 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
 pix-rc.impdesk.com
@@ -3829,6 +3850,7 @@ production.ewr.mathmon.mediamath.com
 production.kargo.com
 products.hlserve.com
 product.staging.adwyze.com
+product-taggingg.pixlee.com
 prod.us-west-1.kops.kargo.com
 project.datadome.co
 pr-old.adform.com
@@ -3949,6 +3971,7 @@ public.mpxbidder.master.postgres.mopub.com
 public-service-gateway.dr.newrelic.com
 publisher.advertising.com
 publisher.mobpro.com
+publisher.permutive.com
 pubmatic.hkg.events.bidstalk.com
 pubmatic-winners-ap-southeast-1-rtb.adroll.com
 pubnative.dca.events.bidstalk.com
@@ -3998,6 +4021,7 @@ q-origin-test.addthis.com
 qq.m.cn.miaozhen.com
 q-test.addthis.com
 quantify.dev.paperg.com
+query-us-east-1.petametrics.com
 queuer-elb.sandbox53.localytics.com
 quill.rdr.channelintelligence.com
 quintana.impresionesweb.com
@@ -4250,8 +4274,8 @@ rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
 s-07.optvdo.com
 s-09.optvdo.com
 s10.allinviews.com
-s-10.optvdo.com
 s10.optvdo.com
+s-10.optvdo.com
 s-12.optvdo.com
 s12.optvdo.com
 s13.ayads.co
@@ -4324,8 +4348,8 @@ s4unit02.citacx.acxiom.com
 s-50.algovid.com
 s-50.optvdo.com
 s-51.algovid.com
-s51.optvdo.com
 s-51.optvdo.com
+s51.optvdo.com
 s-52.algovid.com
 s-52.optvdo.com
 s-53.algovid.com
@@ -5120,8 +5144,8 @@ transfer.bluecava.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel-productads.hlserve.com
 travel.productads.hlserve.com
+travel-productads.hlserve.com
 tr.bnmla.com
 trello-callback.glance-internal.inmobi.com
 tr.gcp.blis.com
@@ -5235,8 +5259,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.analytics.console.aws.a2z.com
+us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -5473,6 +5497,7 @@ webdisk.fluxloop.com
 webdisk.ibrahimjabbari.com
 webdisk.mf-strategies.com
 webdisk.mm.marketo.com
+webdisk.pinnaclecustomermetrics.com
 web.leanplum.com
 webmedia01.adlegend.com
 webserve-0249090.usw2.dynamicyield.com
@@ -5707,6 +5732,7 @@ www.api.lisnr.com
 www.api.mdotlabs.com
 www.api.mixpanel.com
 www.api.opinion.inmobi.com
+www.api.pixlee.com
 www.api.uat.opinion.inmobi.com
 www.api.uat.opinions.inmobi.com
 www.apolicarpio.facebook-ads.adtz.com
@@ -6223,8 +6249,10 @@ www.pdb.inmobi.cn
 www.pdb.uat.inmobi.com
 www.perfex.inmobi.com
 www.perf.pardot.com
+www.petametrics.com
 www.phone.sf.adroll.com
 www.ping.getadblock.com
+www.pinnaclecustomermetrics.com
 www.pinnacle.doubleverify.com
 www.pixel.adcrowd.com
 www.pixel.adpredictive.com
@@ -6377,6 +6405,7 @@ www.srv.dynamicyield.com
 www.ssapi.dynamicyield.com
 www.sskzeu.ayads.co
 www.sslcdn.adstudiomobile.com
+www.ssl.pathful.com
 www.sslvpn.foreseeresults.com
 www.sso.auth.mparticle.com
 www.sso.foreseeresults.com
