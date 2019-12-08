@@ -58,6 +58,7 @@
 0.0.0.0 actions-ny.cbarsrv.com
 0.0.0.0 actions-ny.continular.com
 0.0.0.0 actions-ny.genorithm.com
+0.0.0.0 actions-ny.gogorithm.com
 0.0.0.0 ad.downloadyee.com
 0.0.0.0 ad.fractionalmedia.com
 0.0.0.0 adm1.dynamicyield.com
@@ -73,6 +74,7 @@
 0.0.0.0 ads-sc2-lb11.adsymptotic.com
 0.0.0.0 ads-sc2-lb12.adsymptotic.com
 0.0.0.0 ad.stg.auditude.com
+0.0.0.0 adsx-admin.greystripe.com
 0.0.0.0 adt-app-api.adtdp.com
 0.0.0.0 adt-app-dlv.adtdp.com
 0.0.0.0 adt-app-sfp-api.adtdp.com
@@ -80,6 +82,7 @@
 0.0.0.0 adtrack.api.fuel451.com
 0.0.0.0 adt-sync.adtdp.com
 0.0.0.0 advandmedia-banner-mobile.rtb.adx1.com
+0.0.0.0 advertising-api.gumgum.com
 0.0.0.0 affiliate.connextra.com
 0.0.0.0 afpapacprod.amobee.com
 0.0.0.0 ag125.mta.exacttarget.com
@@ -112,6 +115,7 @@
 0.0.0.0 api-eu.conductrics.com
 0.0.0.0 api.exponential.com
 0.0.0.0 api.fuel451.com
+0.0.0.0 api.gosquared.com
 0.0.0.0 api.g-us-v3.conductrics.com
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 api.poc.exacttarget.com
@@ -120,6 +124,7 @@
 0.0.0.0 api.s4.exacttarget.com
 0.0.0.0 api-selene.prod.adtechus.com
 0.0.0.0 api.staging.bounceexchange.com
+0.0.0.0 api-staging.gosquared.com
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 api.test.exacttarget.com
 0.0.0.0 apiw.ensighten.com
@@ -613,8 +618,8 @@
 0.0.0.0 gist-assets.github.exacttarget.com
 0.0.0.0 gist.github.exacttarget.com
 0.0.0.0 gist-raw.github.exacttarget.com
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 gob.curalate.com
 0.0.0.0 gp65.mta.exacttarget.com
 0.0.0.0 gp68.mta.exacttarget.com
@@ -649,9 +654,14 @@
 0.0.0.0 hub.internal.connatix.com
 0.0.0.0 hv9ztf47cl.daphnecm.com
 0.0.0.0 i1.goadservices.com
+0.0.0.0 i2.goadservices.com
+0.0.0.0 i3.goadservices.com
+0.0.0.0 i4.goadservices.com
+0.0.0.0 i5.goadservices.com
 0.0.0.0 ib.amobee.com
 0.0.0.0 ice.aws.amobee.com
 0.0.0.0 i.chartboost.com
+0.0.0.0 identifier.granify.com
 0.0.0.0 identify.api.drift.com
 0.0.0.0 id-ns1.amgdgt.com
 0.0.0.0 illuminati.fgl.com
@@ -736,12 +746,14 @@
 0.0.0.0 lyncwebapp.exponential.com
 0.0.0.0 lyncws.foreseeresults.com
 0.0.0.0 m116.en25.com
+0.0.0.0 maching.granify.com
 0.0.0.0 ma.eqads.com
 0.0.0.0 mail01.response.demandbase.com
 0.0.0.0 mail02.eloqua.com
 0.0.0.0 mail04.en25.com
 0.0.0.0 mail1.aweber.com
 0.0.0.0 mail1.static.convertkit.com
+0.0.0.0 mail1-va.gumgum.com
 0.0.0.0 mail2.mgt.coremetrics.com
 0.0.0.0 mail3.static.convertkit.com
 0.0.0.0 mail5.static.convertkit.com
@@ -1009,7 +1021,9 @@
 0.0.0.0 ms243.bronto.com
 0.0.0.0 ms245.bronto.com
 0.0.0.0 ms247.bronto.com
+0.0.0.0 ms.gumgum.com
 0.0.0.0 ms.pages.test.exacttarget.com
+0.0.0.0 ms-stage.gumgum.com
 0.0.0.0 ms.test.exacttarget.com
 0.0.0.0 ms.ws.test.exacttarget.com
 0.0.0.0 mydaes3.extremereach.com
@@ -1026,6 +1040,7 @@
 0.0.0.0 ne5.ap.nexus.ensighten.com
 0.0.0.0 ne6.ap.nexus.ensighten.com
 0.0.0.0 neo.amobee.com
+0.0.0.0 neo-ws.gosquared.com
 0.0.0.0 net-tr.casalemedia.com
 0.0.0.0 networkstats.advidi.com
 0.0.0.0 n.eu2.dynstc.com
@@ -1175,6 +1190,7 @@
 0.0.0.0 paneltr.gemius.com
 0.0.0.0 papajohns-chat.digitalroots.com
 0.0.0.0 paris2.criteo.com
+0.0.0.0 partner.goadservices.com
 0.0.0.0 path.blismedia.com
 0.0.0.0 pbr3-wn2.brightedge.com
 0.0.0.0 pbrowser-proxy22.brightedge.com
@@ -1255,6 +1271,7 @@
 0.0.0.0 reply.s50.exacttarget.com
 0.0.0.0 report.crashlytics.com
 0.0.0.0 reporting.adtheorent.com
+0.0.0.0 reporting.goodwaygroup.com
 0.0.0.0 reporting.p03.eloqua.com
 0.0.0.0 reporting.p07.eloqua.com
 0.0.0.0 reports.crashlytics.com
@@ -1275,6 +1292,7 @@
 0.0.0.0 rntsweb.dc2.fyber.com
 0.0.0.0 rodimus.forter.com
 0.0.0.0 rp-f5ddba66.crazyegg.com
+0.0.0.0 rp.gwallet.com
 0.0.0.0 rs.nexus2.ensighten.com
 0.0.0.0 rs-stg-sync.adtdp.com
 0.0.0.0 rs-sync.adtdp.com
@@ -1513,6 +1531,7 @@
 0.0.0.0 ssapi.dynamicyield.com
 0.0.0.0 ssp-creatives.chartboost.com
 0.0.0.0 ssp-events.chartboost.com
+0.0.0.0 stage.app.granify.com
 0.0.0.0 stage.beta.api.adx1.com
 0.0.0.0 stage-ls.api.chatid.com
 0.0.0.0 staging2.crazyegg.com
@@ -1572,6 +1591,7 @@
 0.0.0.0 tm.nexus2.ensighten.com
 0.0.0.0 tmo99.t-mobile.com.cns.coremetrics.com
 0.0.0.0 tools.ensighten.com
+0.0.0.0 tools.greystripe.com
 0.0.0.0 top.criteo.com
 0.0.0.0 touchvpn.conviva.com
 0.0.0.0 tour.appdynamics.com
@@ -1712,6 +1732,7 @@
 0.0.0.0 www.ads-ct.creative-serving.com
 0.0.0.0 www.appboycdn.com
 0.0.0.0 www.bfmio.com
+0.0.0.0 www.cdn.granify.com
 0.0.0.0 www.centraltag.com
 0.0.0.0 www.crazyclickstats.com
 0.0.0.0 www.creative-serving.com
@@ -1721,8 +1742,10 @@
 0.0.0.0 www.enhancedtrk.com
 0.0.0.0 www.eqads.com
 0.0.0.0 www.forms.aweber.com
+0.0.0.0 www.goadservices.com
 0.0.0.0 www-lhr1.awin1.com
 0.0.0.0 www.mail.corp.conviva.com
+0.0.0.0 www.matching.granify.com
 0.0.0.0 www-qa.foreseeresults.com
 0.0.0.0 www.sipext.exacttarget.com
 0.0.0.0 www.staging.brightedge.com
