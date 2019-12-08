@@ -319,6 +319,7 @@ api.productdata.awin.com
 api-public-fast.addthis.com
 api-public-test.addthis.com
 api.qa.drift.com
+api.qa.exacttarget.com
 api.reports.advertising.com
 apis.adsymptotic.com
 api.shannon.test.appsee.com
@@ -350,6 +351,7 @@ applovin.dca.events.bidstalk.com
 applovin.hkg.events.bidstalk.com
 appodeal.dca.events.bidstalk.com
 app.pangeo.geoedge.be
+app.qa.exacttarget.com
 app.response.demandbase.com
 apps.adtz.com
 appsdev.appsflyer.com
@@ -421,6 +423,9 @@ auth.global.exacttarget.com
 auth.meeting.abtasty.com
 authorisation.analyticson.com
 authorization.affiliates.advidi.com
+auth.qa1.exacttarget.com
+auth.qa2.exacttarget.com
+auth.qa3.exacttarget.com
 auth-san.exacttarget.com
 autodiscover.airvertiseme.com
 autodiscover.analyticson.com
@@ -1072,6 +1077,7 @@ editor-cms.awin.com
 editor.convertcart.com
 editor.dasha.apester.com
 editor.pe.apester.com
+editorsupport.s50.exacttarget.com
 ee01gws.advertising.com
 ee01hmq.advertising.com
 ee01job.advertising.com
@@ -1105,6 +1111,7 @@ es1.convertcart.com
 esp.bounceexchange.com
 es-test-azure.datadome.co
 estest.convertcart.com
+etappx.qa.exacttarget.com
 etinswdem01.exacttarget.com
 etmall.bridgewell.com
 eu.acxiom.com
@@ -1372,6 +1379,7 @@ image.comms.doubleclick.com
 images.agkn.com
 images.awin1.com
 images-beta.convertcart.com
+images.s50.exacttarget.com
 img-1.3lift.com
 img-2.3lift.com
 img-3.3lift.com
@@ -1429,6 +1437,7 @@ intergi-sb-ec.adtechus.com
 internal.beeketing.com
 internal.bidstalk.com
 internal.datadome.co
+internal.s50.exacttarget.com
 internals.adotmob.com
 intern.atlassbx.com
 interracialpeoplemeet.adlegend.com
@@ -1645,6 +1654,7 @@ mail.search.advertisingbox.com
 maintenance.criteo.com
 mambay.dev-iad.amobee.com
 mamonde.links.channelintelligence.com
+manage-api.s50.exacttarget.com
 manage-beta.ensighten.com
 manavkat.darkroom.analytics.console.aws.a2z.com
 manifest.da2.auditude.com
@@ -1695,6 +1705,7 @@ megatron.bnmla.com
 mei.163.com
 melia.sp1.convertro.com
 members.11.exacttarget.com
+members.poc.exacttarget.com
 mep.centraltag.com
 meta1.adlegend.com
 meta2.adlegend.com
@@ -1969,9 +1980,12 @@ optimize.ensighten.com
 opx-winners-ap-southeast-1-rtb.adroll.com
 origin.adcash.com
 origin.adlegend.com
+origin-akamai-members.s50.exacttarget.com
+origin-auth.s2.qa3.exacttarget.com
 origin.craft.advertising.com
 origin.uac.advertising.com
 origin-vlibs.advertising.com
+orionhttp.s50.exacttarget.com
 orionimg.adkmob.com
 os.apester.com
 o.staging.criteo.com
@@ -2001,6 +2015,8 @@ p-ads54.eu.adsymptotic.com
 p-ads74.eu.adsymptotic.com
 pages.brightfunnel.com
 pages.gitlab.sele.co
+pages.pd1.qa.exacttarget.com
+pages.pd1.s2.qa2.exacttarget.com
 painted2018081600230618.saas.appdynamics.com
 pangeopro.geoedge.be
 panopticxcustomertest.acxiom.com
@@ -2130,6 +2146,9 @@ pr-a.adtechus.com
 pr.atwola.com
 prebid.adnxs.co
 predaddit.reddit.co
+prem.qa1.exacttarget.com
+prem.qa2.exacttarget.com
+prem.qa3.exacttarget.com
 preprod-backoffice.datadome.co
 preprod.criteo.com
 preprod-dashboard.datadome.co
@@ -2173,8 +2192,8 @@ prophet.acxiom.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway-production.browsiprod.com
 provider-gateway.production.browsiprod.com
+provider-gateway-production.browsiprod.com
 proxy.dynamicyield.com
 proxy-ssl.beeviewd.com
 proxy-ssl.bestcontentonline.com
@@ -2362,6 +2381,7 @@ rest.aggregateknowledge.com
 rest.agkn.com
 rest.api.chatid.com
 rest-api.datadome.co
+rest.qa.exacttarget.com
 retention.appsflyer.com
 reve.dev-iad.amobee.com
 reve.qa-iad.amobee.com
@@ -2495,6 +2515,7 @@ schedule.vidconlab.acxiom.com
 schemas.applovin.com
 scim.internal.adroll.com
 scjohnson.links.channelintelligence.com
+scpweb.s3.qa2.exacttarget.com
 screenshot.convertcart.com
 s.cunda.advolution.biz
 sdcert.acxiom.com
@@ -2966,8 +2987,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -3129,6 +3150,7 @@ webserve-da888e9.euw1.dynamicyield.com
 webserve-f33d6d69.use.dynamicyield.com
 webserve-f9c5b52.use.dynamicyield.com
 webserve-faa4eb4.use.dynamicyield.com
+webservice.qa.exacttarget.com
 web.stag2.bounceexchange.com
 web.staging.bidstalk.com
 webtoimage.channelintelligence.com
@@ -3160,6 +3182,7 @@ wp.orbee.co
 wpplydrpad01.vidconlab.acxiom.com
 ws2.us-ec.adtechus.com
 ws-api.adtechus.com
+ws.qa.exacttarget.com
 ws.us-ec.adtechus.com
 wtags.bluekai.com
 wtb.channelintelligence.com
