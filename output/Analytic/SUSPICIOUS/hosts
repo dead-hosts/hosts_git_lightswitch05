@@ -125,12 +125,14 @@
 0.0.0.0 api.fuel451.com
 0.0.0.0 api.gosquared.com
 0.0.0.0 api.g-us-v3.conductrics.com
+0.0.0.0 api.iterable.com
 0.0.0.0 api-logger.curejoy.com
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 api.s1.qa2.exacttarget.com
 0.0.0.0 api.s2.qa2.exacttarget.com
 0.0.0.0 api.s4.exacttarget.com
 0.0.0.0 api-selene.prod.adtechus.com
+0.0.0.0 api.stage.justpremium.com
 0.0.0.0 api.staging.bounceexchange.com
 0.0.0.0 api-staging.gosquared.com
 0.0.0.0 api-telemetry.servers.getgo.com
@@ -158,6 +160,7 @@
 0.0.0.0 assets.github.exacttarget.com
 0.0.0.0 assoc-msdk-cn.amazon-adsystem.com
 0.0.0.0 att-uat.analytics-egain.com
+0.0.0.0 auctions.joystickinteractive.com
 0.0.0.0 audiences-alpha.bluekai.com
 0.0.0.0 audiences-bravo.bluekai.com
 0.0.0.0 audiences.celtra.com
@@ -205,6 +208,8 @@
 0.0.0.0 basket.effiliation.com
 0.0.0.0 batcher03.wdc.bluekai.com
 0.0.0.0 batcher.bluekai.com
+0.0.0.0 beachbody-dev.joystickinteractive.com
+0.0.0.0 beachbody-stg.joystickinteractive.com
 0.0.0.0 beacon.apptrckr.com
 0.0.0.0 beam.innity.com
 0.0.0.0 benny-master1a.apsalar.com
@@ -227,6 +232,7 @@
 0.0.0.0 bmo.hosting.exacttarget.com
 0.0.0.0 boostprod.amobee.com
 0.0.0.0 borg.brainient.com
+0.0.0.0 bot.stage.justpremium.com
 0.0.0.0 bounce.exacttarget.com
 0.0.0.0 bounce-mx.exacttarget.com
 0.0.0.0 bounce.s10.exacttarget.com
@@ -271,6 +277,7 @@
 0.0.0.0 ch1trk.atdmt.com
 0.0.0.0 chat.api.chatid.com
 0.0.0.0 chat.api.drift.com
+0.0.0.0 chef.iubenda.com
 0.0.0.0 chowhound.cbsi.com
 0.0.0.0 ci.fyber.com
 0.0.0.0 ci.heartbeat.inmobi.com
@@ -343,6 +350,7 @@
 0.0.0.0 cr99.mta.exacttarget.com
 0.0.0.0 cr.appsee.com
 0.0.0.0 creative2.exponential.com
+0.0.0.0 creative.juicemobile.com
 0.0.0.0 crowd.fyber.com
 0.0.0.0 crux.cloud.inmobi.com
 0.0.0.0 cs200.mta.exacttarget.com
@@ -468,8 +476,11 @@
 0.0.0.0 discover.bluekai.com
 0.0.0.0 discover-soak.bluekai.com
 0.0.0.0 dj2.mta.exacttarget.com
+0.0.0.0 dk-coca-cola-dev.joystickinteractive.com
+0.0.0.0 dk-coca-cola-stg.joystickinteractive.com
 0.0.0.0 dl05.casalemedia.com
 0.0.0.0 dl11.casalemedia.com
+0.0.0.0 dlp-stg.joystickinteractive.com
 0.0.0.0 dmpbeta28.bluekai.com
 0.0.0.0 dmps2000.wdc.bluekai.com
 0.0.0.0 dmpspare03.wdc.bluekai.com
@@ -579,6 +590,7 @@
 0.0.0.0 f11.adventori.com
 0.0.0.0 f12.adventori.com
 0.0.0.0 f13.adventori.com
+0.0.0.0 fanticipation.joystickinteractive.com
 0.0.0.0 faw.forter.com
 0.0.0.0 fbl.s50.exacttarget.com
 0.0.0.0 fc-lb1.iad2.adsymptotic.com
@@ -597,8 +609,10 @@
 0.0.0.0 files.chartboost.com
 0.0.0.0 fileupload.cbsi.com
 0.0.0.0 fingerprint.demandbase.com
+0.0.0.0 firewall.juicemobile.com
 0.0.0.0 fls-cn.amazon-adsystem.com
 0.0.0.0 fmx-req.fractionalmedia.com
+0.0.0.0 foo-test.joystickinteractive.com
 0.0.0.0 foreman.amobee.com
 0.0.0.0 fq112.mta.exacttarget.com
 0.0.0.0 fq139.mta.exacttarget.com
@@ -653,8 +667,8 @@
 0.0.0.0 gist-assets.github.exacttarget.com
 0.0.0.0 gist.github.exacttarget.com
 0.0.0.0 gist-raw.github.exacttarget.com
-0.0.0.0 globe-prod.amobee.com
 0.0.0.0 globeprod.amobee.com
+0.0.0.0 globe-prod.amobee.com
 0.0.0.0 gob.curalate.com
 0.0.0.0 gp65.mta.exacttarget.com
 0.0.0.0 gp68.mta.exacttarget.com
@@ -750,6 +764,7 @@
 0.0.0.0 k8s.beeketing.com
 0.0.0.0 k8s.jenkins.infra-east-1.braze.com
 0.0.0.0 kace.exacttarget.com
+0.0.0.0 kellyryan-dev.joystickinteractive.com
 0.0.0.0 kp1.forter.com
 0.0.0.0 kp2.forter.com
 0.0.0.0 kpstat.forter.com
@@ -818,6 +833,7 @@
 0.0.0.0 mail.demandbase.com
 0.0.0.0 mail.en25.com
 0.0.0.0 mail.exacttarget.com
+0.0.0.0 mail.juicemobile.com
 0.0.0.0 mail.mgt.coremetrics.com
 0.0.0.0 mail.ny.contextweb.com
 0.0.0.0 mail-p1.adroll.com
@@ -1086,6 +1102,7 @@
 0.0.0.0 ms-stage.gumgum.com
 0.0.0.0 ms.test.exacttarget.com
 0.0.0.0 ms.ws.test.exacttarget.com
+0.0.0.0 mycroft.jivox.com
 0.0.0.0 mydaes3.extremereach.com
 0.0.0.0 mydaes4.extremereach.com
 0.0.0.0 mydaes.extremereach.com
@@ -1103,6 +1120,7 @@
 0.0.0.0 ne4.ap.nexus.ensighten.com
 0.0.0.0 ne5.ap.nexus.ensighten.com
 0.0.0.0 ne6.ap.nexus.ensighten.com
+0.0.0.0 nectar.juicemobile.com
 0.0.0.0 neo.amobee.com
 0.0.0.0 neo-ws.gosquared.com
 0.0.0.0 netops.imiclk.com
@@ -1293,6 +1311,7 @@
 0.0.0.0 pl-ns2.hurra.com
 0.0.0.0 pl.panelmena.gemius.com
 0.0.0.0 poi.blismedia.com
+0.0.0.0 polling.joystickinteractive.com
 0.0.0.0 pollserver.interpolls.com
 0.0.0.0 pong2.production.gannettdigital.com
 0.0.0.0 pool-eu-ie.creative-serving.com
@@ -1339,6 +1358,9 @@
 0.0.0.0 queryless.secure.cbsi.com
 0.0.0.0 rancher-k8s.demandbase.com
 0.0.0.0 raw.github.exacttarget.com
+0.0.0.0 reactor-api.joystickinteractive.com
+0.0.0.0 reactor-dev.joystickinteractive.com
+0.0.0.0 reactor-stg.joystickinteractive.com
 0.0.0.0 redirect.caline.adtdp.com
 0.0.0.0 redirects.advidi.com
 0.0.0.0 registry.bluekai.com
@@ -1379,7 +1401,12 @@
 0.0.0.0 rodimus.forter.com
 0.0.0.0 rp-f5ddba66.crazyegg.com
 0.0.0.0 rp.gwallet.com
+0.0.0.0 rpo-epk-dev.joystickinteractive.com
+0.0.0.0 rpo-epk-stg.joystickinteractive.com
+0.0.0.0 rpo-ioi-dev.joystickinteractive.com
+0.0.0.0 rpo-ioi-stg.joystickinteractive.com
 0.0.0.0 rs.nexus2.ensighten.com
+0.0.0.0 rssad.iogous.com
 0.0.0.0 rs-stg-sync.adtdp.com
 0.0.0.0 rs-sync.adtdp.com
 0.0.0.0 rs-sync-y.adtdp.com
@@ -1400,6 +1427,7 @@
 0.0.0.0 rtggen.httptrack.com
 0.0.0.0 rtgimg.httptrack.com
 0.0.0.0 rtmap.interpolls.com
+0.0.0.0 rtmp.jsrdn.com
 0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rudytest10-api.beta.stag.bounceexchange.com
 0.0.0.0 rudytest10.beta.stag.bounceexchange.com
@@ -1455,6 +1483,8 @@
 0.0.0.0 satellitefour.adtoox.com
 0.0.0.0 satellitespalta03.adtoox.com
 0.0.0.0 satellitethree.adtoox.com
+0.0.0.0 sbr-template-dev.joystickinteractive.com
+0.0.0.0 sbr-template-stg.joystickinteractive.com
 0.0.0.0 scout.cbsi.com
 0.0.0.0 scpweb.s10.exacttarget.com
 0.0.0.0 scpweb.s1.exacttarget.com
@@ -1518,12 +1548,14 @@
 0.0.0.0 sip.foreseeresults.com
 0.0.0.0 sip.gethatch.com
 0.0.0.0 site.clickpoint.com
+0.0.0.0 sites-stg.joystickinteractive.com
 0.0.0.0 sj11.bnmla.com
 0.0.0.0 sjc1.100tb.heyzap.com
 0.0.0.0 sjc2.100tb.heyzap.com
 0.0.0.0 sjc-clarity02.contextweb.com
 0.0.0.0 sjepm.adsafeprotected.com
 0.0.0.0 sl56f3x709.daphnecm.com
+0.0.0.0 slate-in.jivox.com
 0.0.0.0 slave-1.cdn.engagecore.com
 0.0.0.0 sma-rsw1.remote.extremereach.com
 0.0.0.0 sma-rsw2.remote.extremereach.com
@@ -1656,6 +1688,7 @@
 0.0.0.0 staging-gw11.conviva.com
 0.0.0.0 staging-gw12.conviva.com
 0.0.0.0 staging.insightexpressai.com
+0.0.0.0 staging.juicemobile.com
 0.0.0.0 staging-k8s.beeketing.com
 0.0.0.0 static.audiensis.com
 0.0.0.0 static.bronto.com
@@ -1673,6 +1706,7 @@
 0.0.0.0 survey.adsqn.com
 0.0.0.0 suwfw1.c3metrics.com
 0.0.0.0 suwfw2.c3metrics.com
+0.0.0.0 sw.interpolls.com
 0.0.0.0 sync.doubleverify.com
 0.0.0.0 synthetic.api.appdynamics.com
 0.0.0.0 tableau.cbsi.com
@@ -1696,6 +1730,7 @@
 0.0.0.0 t.edgexads.com
 0.0.0.0 template-test-api.beta.stag.bounceexchange.com
 0.0.0.0 template-test.beta.stag.bounceexchange.com
+0.0.0.0 test2.irganalytics.com
 0.0.0.0 test-app.decibelinsight.com
 0.0.0.0 testjira.corp.ev1.inmobi.com
 0.0.0.0 text.foreseeresults.com
@@ -1715,6 +1750,7 @@
 0.0.0.0 tracfone.amobee.com
 0.0.0.0 tracking.downloadyee.com
 0.0.0.0 trainerqa.brightedge.com
+0.0.0.0 truthsquadlessfinishers.joystickinteractive.com
 0.0.0.0 tube.fyber.com
 0.0.0.0 tuuid.creative-serving.com
 0.0.0.0 tv.cbsi.com
@@ -1723,6 +1759,7 @@
 0.0.0.0 uat-datacapture.connextra.com
 0.0.0.0 uat-workbench.connextra.com
 0.0.0.0 ui2.ensighten.com
+0.0.0.0 u.joystickinteractive.com
 0.0.0.0 um.eqads.com
 0.0.0.0 umprod.amobee.com
 0.0.0.0 unibet.feeds.bannerflow.com
@@ -1747,8 +1784,8 @@
 0.0.0.0 vcenter.evowise.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfesprod.amobee.com
+0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -1770,7 +1807,9 @@
 0.0.0.0 vulcan.phx.bluekai.com
 0.0.0.0 w.ads2.eqads.com
 0.0.0.0 w-ads.eqads.com
+0.0.0.0 wateraid-admin-dev.joystickinteractive.com
 0.0.0.0 wb2.bestadbid.com
+0.0.0.0 wb.interpolls.com
 0.0.0.0 wdc2.100tb.heyzap.com
 0.0.0.0 wdc3.100tb.heyzap.com
 0.0.0.0 wdcstage-rtb.applovin.com
@@ -1816,6 +1855,7 @@
 0.0.0.0 winexch12dca.foreseeresults.com
 0.0.0.0 winexch1dca.foreseeresults.com
 0.0.0.0 wired2fish.cbsi.com
+0.0.0.0 wmdensure-stg.joystickinteractive.com
 0.0.0.0 woocommerce2.convertcart.com
 0.0.0.0 workday.exponential.com
 0.0.0.0 workdaylab.exponential.com
@@ -1866,8 +1906,11 @@
 0.0.0.0 www.enhancedstats.com
 0.0.0.0 www.enhancedtrk.com
 0.0.0.0 www.eqads.com
+0.0.0.0 www.firewall.juicemobile.com
+0.0.0.0 www.foo-test.joystickinteractive.com
 0.0.0.0 www.forms.aweber.com
 0.0.0.0 www.goadservices.com
+0.0.0.0 www.iogous.com
 0.0.0.0 www-lhr1.awin1.com
 0.0.0.0 www.mail.corp.conviva.com
 0.0.0.0 www.matching.granify.com

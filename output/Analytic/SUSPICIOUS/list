@@ -125,12 +125,14 @@ api.exponential.com
 api.fuel451.com
 api.gosquared.com
 api.g-us-v3.conductrics.com
+api.iterable.com
 api-logger.curejoy.com
 api.poc.exacttarget.com
 api.s1.qa2.exacttarget.com
 api.s2.qa2.exacttarget.com
 api.s4.exacttarget.com
 api-selene.prod.adtechus.com
+api.stage.justpremium.com
 api.staging.bounceexchange.com
 api-staging.gosquared.com
 api-telemetry.servers.getgo.com
@@ -158,6 +160,7 @@ assets.clevergirlscollective.com
 assets.github.exacttarget.com
 assoc-msdk-cn.amazon-adsystem.com
 att-uat.analytics-egain.com
+auctions.joystickinteractive.com
 audiences-alpha.bluekai.com
 audiences-bravo.bluekai.com
 audiences.celtra.com
@@ -205,6 +208,8 @@ banners.advidi.com
 basket.effiliation.com
 batcher03.wdc.bluekai.com
 batcher.bluekai.com
+beachbody-dev.joystickinteractive.com
+beachbody-stg.joystickinteractive.com
 beacon.apptrckr.com
 beam.innity.com
 benny-master1a.apsalar.com
@@ -227,6 +232,7 @@ blueprod.amobee.com
 bmo.hosting.exacttarget.com
 boostprod.amobee.com
 borg.brainient.com
+bot.stage.justpremium.com
 bounce.exacttarget.com
 bounce-mx.exacttarget.com
 bounce.s10.exacttarget.com
@@ -271,6 +277,7 @@ ch1aqu.atdmt.com
 ch1trk.atdmt.com
 chat.api.chatid.com
 chat.api.drift.com
+chef.iubenda.com
 chowhound.cbsi.com
 ci.fyber.com
 ci.heartbeat.inmobi.com
@@ -343,6 +350,7 @@ cr88.mta.exacttarget.com
 cr99.mta.exacttarget.com
 cr.appsee.com
 creative2.exponential.com
+creative.juicemobile.com
 crowd.fyber.com
 crux.cloud.inmobi.com
 cs200.mta.exacttarget.com
@@ -468,8 +476,11 @@ direct-srv.buysellads.com
 discover.bluekai.com
 discover-soak.bluekai.com
 dj2.mta.exacttarget.com
+dk-coca-cola-dev.joystickinteractive.com
+dk-coca-cola-stg.joystickinteractive.com
 dl05.casalemedia.com
 dl11.casalemedia.com
+dlp-stg.joystickinteractive.com
 dmpbeta28.bluekai.com
 dmps2000.wdc.bluekai.com
 dmpspare03.wdc.bluekai.com
@@ -579,6 +590,7 @@ extranet.dotomi.com
 f11.adventori.com
 f12.adventori.com
 f13.adventori.com
+fanticipation.joystickinteractive.com
 faw.forter.com
 fbl.s50.exacttarget.com
 fc-lb1.iad2.adsymptotic.com
@@ -597,8 +609,10 @@ file2.api.drift.com
 files.chartboost.com
 fileupload.cbsi.com
 fingerprint.demandbase.com
+firewall.juicemobile.com
 fls-cn.amazon-adsystem.com
 fmx-req.fractionalmedia.com
+foo-test.joystickinteractive.com
 foreman.amobee.com
 fq112.mta.exacttarget.com
 fq139.mta.exacttarget.com
@@ -653,8 +667,8 @@ gg.kp2.forter.com
 gist-assets.github.exacttarget.com
 gist.github.exacttarget.com
 gist-raw.github.exacttarget.com
-globeprod.amobee.com
 globe-prod.amobee.com
+globeprod.amobee.com
 gob.curalate.com
 gp65.mta.exacttarget.com
 gp68.mta.exacttarget.com
@@ -750,6 +764,7 @@ jump.apsalar.com
 k8s.beeketing.com
 k8s.jenkins.infra-east-1.braze.com
 kace.exacttarget.com
+kellyryan-dev.joystickinteractive.com
 kp1.forter.com
 kp2.forter.com
 kpstat.forter.com
@@ -818,6 +833,7 @@ mail.daphnecm.com
 mail.demandbase.com
 mail.en25.com
 mail.exacttarget.com
+mail.juicemobile.com
 mail.mgt.coremetrics.com
 mail.ny.contextweb.com
 mail-p1.adroll.com
@@ -1086,6 +1102,7 @@ ms.pages.test.exacttarget.com
 ms-stage.gumgum.com
 ms.test.exacttarget.com
 ms.ws.test.exacttarget.com
+mycroft.jivox.com
 mydaes3.extremereach.com
 mydaes4.extremereach.com
 mydaes.extremereach.com
@@ -1103,6 +1120,7 @@ ne1.ap.nexus.ensighten.com
 ne4.ap.nexus.ensighten.com
 ne5.ap.nexus.ensighten.com
 ne6.ap.nexus.ensighten.com
+nectar.juicemobile.com
 neo.amobee.com
 neo-ws.gosquared.com
 netops.imiclk.com
@@ -1293,6 +1311,7 @@ pl-ns1.hurra.com
 pl-ns2.hurra.com
 pl.panelmena.gemius.com
 poi.blismedia.com
+polling.joystickinteractive.com
 pollserver.interpolls.com
 pong2.production.gannettdigital.com
 pool-eu-ie.creative-serving.com
@@ -1339,6 +1358,9 @@ qa-traefik.chicoryapp.com
 queryless.secure.cbsi.com
 rancher-k8s.demandbase.com
 raw.github.exacttarget.com
+reactor-api.joystickinteractive.com
+reactor-dev.joystickinteractive.com
+reactor-stg.joystickinteractive.com
 redirect.caline.adtdp.com
 redirects.advidi.com
 registry.bluekai.com
@@ -1379,7 +1401,12 @@ rntsweb.dc2.fyber.com
 rodimus.forter.com
 rp-f5ddba66.crazyegg.com
 rp.gwallet.com
+rpo-epk-dev.joystickinteractive.com
+rpo-epk-stg.joystickinteractive.com
+rpo-ioi-dev.joystickinteractive.com
+rpo-ioi-stg.joystickinteractive.com
 rs.nexus2.ensighten.com
+rssad.iogous.com
 rs-stg-sync.adtdp.com
 rs-sync.adtdp.com
 rs-sync-y.adtdp.com
@@ -1400,6 +1427,7 @@ rtgex.httptrack.com
 rtggen.httptrack.com
 rtgimg.httptrack.com
 rtmap.interpolls.com
+rtmp.jsrdn.com
 rubick.gameanalytics.com
 rudytest10-api.beta.stag.bounceexchange.com
 rudytest10.beta.stag.bounceexchange.com
@@ -1455,6 +1483,8 @@ satelliteflaca02.adtoox.com
 satellitefour.adtoox.com
 satellitespalta03.adtoox.com
 satellitethree.adtoox.com
+sbr-template-dev.joystickinteractive.com
+sbr-template-stg.joystickinteractive.com
 scout.cbsi.com
 scpweb.s10.exacttarget.com
 scpweb.s1.exacttarget.com
@@ -1518,12 +1548,14 @@ sipext.exacttarget.com
 sip.foreseeresults.com
 sip.gethatch.com
 site.clickpoint.com
+sites-stg.joystickinteractive.com
 sj11.bnmla.com
 sjc1.100tb.heyzap.com
 sjc2.100tb.heyzap.com
 sjc-clarity02.contextweb.com
 sjepm.adsafeprotected.com
 sl56f3x709.daphnecm.com
+slate-in.jivox.com
 slave-1.cdn.engagecore.com
 sma-rsw1.remote.extremereach.com
 sma-rsw2.remote.extremereach.com
@@ -1656,6 +1688,7 @@ staging.getsentry.com
 staging-gw11.conviva.com
 staging-gw12.conviva.com
 staging.insightexpressai.com
+staging.juicemobile.com
 staging-k8s.beeketing.com
 static.audiensis.com
 static.bronto.com
@@ -1673,6 +1706,7 @@ survey1.daphnecm.com
 survey.adsqn.com
 suwfw1.c3metrics.com
 suwfw2.c3metrics.com
+sw.interpolls.com
 sync.doubleverify.com
 synthetic.api.appdynamics.com
 tableau.cbsi.com
@@ -1696,6 +1730,7 @@ techrepublic.cbsi.com
 t.edgexads.com
 template-test-api.beta.stag.bounceexchange.com
 template-test.beta.stag.bounceexchange.com
+test2.irganalytics.com
 test-app.decibelinsight.com
 testjira.corp.ev1.inmobi.com
 text.foreseeresults.com
@@ -1715,6 +1750,7 @@ tps31.doubleverify.com
 tracfone.amobee.com
 tracking.downloadyee.com
 trainerqa.brightedge.com
+truthsquadlessfinishers.joystickinteractive.com
 tube.fyber.com
 tuuid.creative-serving.com
 tv.cbsi.com
@@ -1723,6 +1759,7 @@ uat-adservers.connextra.com
 uat-datacapture.connextra.com
 uat-workbench.connextra.com
 ui2.ensighten.com
+u.joystickinteractive.com
 um.eqads.com
 umprod.amobee.com
 unibet.feeds.bannerflow.com
@@ -1747,8 +1784,8 @@ vc.bnmla.com
 vcenter.evowise.com
 vfdemed.amobee.com
 vfdeprod.amobee.com
-vfes-prod.amobee.com
 vfesprod.amobee.com
+vfes-prod.amobee.com
 vfes-te.amobee.com
 vfindprod.amobee.com
 vfitprod.amobee.com
@@ -1770,7 +1807,9 @@ vulcan-int.bluekai.com
 vulcan.phx.bluekai.com
 w.ads2.eqads.com
 w-ads.eqads.com
+wateraid-admin-dev.joystickinteractive.com
 wb2.bestadbid.com
+wb.interpolls.com
 wdc2.100tb.heyzap.com
 wdc3.100tb.heyzap.com
 wdcstage-rtb.applovin.com
@@ -1816,6 +1855,7 @@ winexch11dca.foreseeresults.com
 winexch12dca.foreseeresults.com
 winexch1dca.foreseeresults.com
 wired2fish.cbsi.com
+wmdensure-stg.joystickinteractive.com
 woocommerce2.convertcart.com
 workday.exponential.com
 workdaylab.exponential.com
@@ -1866,8 +1906,11 @@ www.dfw1.vip.inmobi.com
 www.enhancedstats.com
 www.enhancedtrk.com
 www.eqads.com
+www.firewall.juicemobile.com
+www.foo-test.joystickinteractive.com
 www.forms.aweber.com
 www.goadservices.com
+www.iogous.com
 www-lhr1.awin1.com
 www.mail.corp.conviva.com
 www.matching.granify.com
