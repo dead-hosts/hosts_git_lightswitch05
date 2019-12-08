@@ -97,6 +97,7 @@
 0.0.0.0 aes.kargo.com
 0.0.0.0 affiliate.connextra.com
 0.0.0.0 afpapacprod.amobee.com
+0.0.0.0 aftp.linksynergy.com
 0.0.0.0 ag125.mta.exacttarget.com
 0.0.0.0 ag.ctasnet.com
 0.0.0.0 agents.extremereach.com
@@ -588,6 +589,7 @@
 0.0.0.0 email.dianomi.com
 0.0.0.0 email.exacttarget.com
 0.0.0.0 email-grafana.prod-1.prod.leanplum.com
+0.0.0.0 embed.lisnr.com
 0.0.0.0 enrichment.api.drift.com
 0.0.0.0 ens-ca-central1-a.nexus.ensighten.com
 0.0.0.0 ens-us-central1-a.nexus.ensighten.com
@@ -700,6 +702,8 @@
 0.0.0.0 gc194.mta.exacttarget.com
 0.0.0.0 gc78.mta.exacttarget.com
 0.0.0.0 gc87.mta.exacttarget.com
+0.0.0.0 gcmail1.linksynergy.com
+0.0.0.0 gcws0002.linksynergy.com
 0.0.0.0 gdpr-requests.utils.appdynamics.com
 0.0.0.0 genymotion-001.infra-east-1.appboy.com
 0.0.0.0 genymotion-001.staging-east-1.appboy.com
@@ -709,8 +713,8 @@
 0.0.0.0 gist-assets.github.exacttarget.com
 0.0.0.0 gist.github.exacttarget.com
 0.0.0.0 gist-raw.github.exacttarget.com
-0.0.0.0 globe-prod.amobee.com
 0.0.0.0 globeprod.amobee.com
+0.0.0.0 globe-prod.amobee.com
 0.0.0.0 gob.curalate.com
 0.0.0.0 gp65.mta.exacttarget.com
 0.0.0.0 gp68.mta.exacttarget.com
@@ -781,6 +785,7 @@
 0.0.0.0 identifier.granify.com
 0.0.0.0 identify.api.drift.com
 0.0.0.0 id-ns1.amgdgt.com
+0.0.0.0 idx.listrakbi.com
 0.0.0.0 iekubedemo-prometheus.prometheus.staging-1.staging.leanplum.com
 0.0.0.0 ifc3.vip.dfw1.inmobi.com
 0.0.0.0 ifc.auth.inmobi.com
@@ -814,6 +819,7 @@
 0.0.0.0 insight.www02.secure.eloqua.com
 0.0.0.0 integration.drift.com
 0.0.0.0 internal.instartlogic.com
+0.0.0.0 iowa.localiq.com
 0.0.0.0 iportal.coremetrics.com
 0.0.0.0 iq.doubleverify.com
 0.0.0.0 isg01.casalemedia.com
@@ -937,6 +943,7 @@
 0.0.0.0 metranetprod.amobee.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metric-stage.adtoox.com
+0.0.0.0 mftp.linksynergy.com
 0.0.0.0 microsend.hosting.exacttarget.com
 0.0.0.0 microsoft.hosting.exacttarget.com
 0.0.0.0 mivsa.foreseeresults.com
@@ -1382,6 +1389,7 @@
 0.0.0.0 pinpoint-dev.adready.com
 0.0.0.0 pixel-api.bridgewell.com
 0.0.0.0 pixel.audiensis.com
+0.0.0.0 pixel.dsp.linksynergy.com
 0.0.0.0 pixel.kiitties.com
 0.0.0.0 pixie.fyber.com
 0.0.0.0 planet-v.amobee.com
@@ -1431,6 +1439,7 @@
 0.0.0.0 prometheus.tier2.gae.prod-1.prod.leanplum.com
 0.0.0.0 prometheus.tier2.gae.qa-1.qa.leanplum.com
 0.0.0.0 prometheus.tier2.gae.staging-1.staging.leanplum.com
+0.0.0.0 prospect-cm.dsp.linksynergy.com
 0.0.0.0 ps2.interpolls.com
 0.0.0.0 ps.interpolls.com
 0.0.0.0 pso.ws.ev1.inmobi.com
@@ -1470,6 +1479,7 @@
 0.0.0.0 redirects.advidi.com
 0.0.0.0 registry.bluekai.com
 0.0.0.0 registry.dstillery.com
+0.0.0.0 registry.lisnr.com
 0.0.0.0 relay.evowise.com
 0.0.0.0 remote3.doubleverify.com
 0.0.0.0 render.github.exacttarget.com
@@ -1504,6 +1514,8 @@
 0.0.0.0 revprod05.wdc.bluekai.com
 0.0.0.0 rex.dev.dig.cbsi.com
 0.0.0.0 rntsweb.dc2.fyber.com
+0.0.0.0 roc.lisnr.com
+0.0.0.0 rocnation.lisnr.com
 0.0.0.0 rodimus.forter.com
 0.0.0.0 rp-f5ddba66.crazyegg.com
 0.0.0.0 rp.gwallet.com
@@ -1652,6 +1664,8 @@
 0.0.0.0 sftpfeed01-ty5.criteo.com
 0.0.0.0 sgn.exacttarget.com
 0.0.0.0 sg.tracking.emerse.com
+0.0.0.0 shakira2.lisnr.com
+0.0.0.0 shakira.lisnr.com
 0.0.0.0 shared.mobile.ensighten.com
 0.0.0.0 shortener.klaviyo.com
 0.0.0.0 sidearm.dev.moneyball.cbsi.com
@@ -1810,6 +1824,7 @@
 0.0.0.0 staging.juicemobile.com
 0.0.0.0 staging-k8s.beeketing.com
 0.0.0.0 staging.levexis.com
+0.0.0.0 staging-rocnation.lisnr.com
 0.0.0.0 static.audiensis.com
 0.0.0.0 static.bronto.com
 0.0.0.0 static.kochava.com
@@ -1932,14 +1947,18 @@
 0.0.0.0 vap5iad3.lijit.com
 0.0.0.0 vap5sfo1.lijit.com
 0.0.0.0 vap5sna1.lijit.com
+0.0.0.0 vap6iad1.lijit.com
+0.0.0.0 vap6iad3.lijit.com
+0.0.0.0 vap6sna1.lijit.com
+0.0.0.0 vapden1.lijit.com
 0.0.0.0 vast-log.bridgewell.com
 0.0.0.0 vasttracktest.fuel451.com
 0.0.0.0 vc.bnmla.com
 0.0.0.0 vcenter.evowise.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-prod.amobee.com
+0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -2066,6 +2085,7 @@
 0.0.0.0 www.forms.aweber.com
 0.0.0.0 www.goadservices.com
 0.0.0.0 www.iogous.com
+0.0.0.0 www.iowa.localiq.com
 0.0.0.0 www-lhr1.awin1.com
 0.0.0.0 www.mail.corp.conviva.com
 0.0.0.0 www.marketing.kochava.com
