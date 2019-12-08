@@ -101,6 +101,7 @@ adrcn.ma.163.com
 adr.heyzap.com
 ads1.fingereach.com
 ads2.fingereach.com
+ads2.locsensads.com
 ads3.fingereach.com
 ads.adasiaholdings.com
 ads.aertb.com
@@ -306,6 +307,7 @@ analytics.skyrocket.adtdp.com
 analytics-stage.lisnr.com
 analytics-testing.lisnr.com
 analytics-test.lisnr.com
+analyticstest.localytics.com
 analytics-web5679.lisnr.com
 analytics-web5680.lisnr.com
 analytics-web5838.lisnr.com
@@ -376,7 +378,10 @@ api.beta.extremereach.com
 api.bidstalk.com
 api.bizographics.com
 api.bytegain.com
+api.chillyc.env.sandbox53.localytics.com
+api.chris.env.sandbox53.localytics.com
 api.connatix.com
+api.dans-parsley-change-test.env.sandbox53.localytics.com
 api-dev.demandbase.com
 api-development-us-west-2.lisnr.com
 api-dev.ensighten.com
@@ -389,20 +394,31 @@ api.essads.com
 api-external-test.demandbase.com
 api.extremereach.com.extremereach.com
 api.feathr.co
+api.final.env.sandbox53.localytics.com
 api.getadmiral.com
 api.getrockerbox.com
 api-glb-ash.smoot.apple.comat1.listrakbi.com
 api.int.drift.com
 api.intel.dynamicyield.com
+api.joanna.env.sandbox53.localytics.com
+api.joanna-test.env.sandbox53.localytics.com
+api.joe.env.sandbox53.localytics.com
+api.josh.env.sandbox53.localytics.com
 api-latest-grpc.lightstep.com
 api-latest.lightstep.com
+api.locsensads.com
+api.lootsie.com
 ap.impdesk.com
+api.nonewlines.env.sandbox53.localytics.com
+api.prod.env.53.localytics.com
 api.productdata.awin.com
 api-public-fast.addthis.com
 api-public-test.addthis.com
 api.qa.drift.com
 api.qa.exacttarget.com
+api.raphael.env.sandbox53.localytics.com
 api.reports.advertising.com
+api.rishi.env.sandbox53.localytics.com
 apis.adsymptotic.com
 api.shannon.test.appsee.com
 api.silverpush.co
@@ -413,10 +429,17 @@ api.t.163.com
 api.tags.iad.bluekai.com
 api.tags.phx.bluekai.com.bk.phx.addthis.com
 api.tags-rc.iad.bluekai.com
+api.terraform-outputs.env.sandbox53.localytics.com
+api.tushar-test.env.sandbox53.localytics.com
+api.tutorial.env.sandbox53.localytics.com
+api.tutorial-sharing-again.env.sandbox53.localytics.com
+api.tutorial-sharing.env.sandbox53.localytics.com
 api.uat.opinions.inmobi.com
 api-us1.lift.acquia.com
 api-v2.instartlogic.com
+api-v2.lootsie.com
 api.webchunker.streaming.adswizz.com
+api.ysamlan-initial-test.env.sandbox53.localytics.com
 ap.ligatus.com
 ap-northeast-1.gamma.analytics.console.aws.a2z.com
 ap-northeast-1.prod.analytics.console.aws.a2z.com
@@ -445,6 +468,7 @@ applovin.dca.bids.bidstalk.com
 applovin.dca.events.bidstalk.com
 applovin.hkg.events.bidstalk.com
 appodeal.dca.events.bidstalk.com
+appodeal.loopmertb.com
 app.pangeo.geoedge.be
 app.qa.exacttarget.com
 app.response.demandbase.com
@@ -522,6 +546,7 @@ at-a-scd.atwola.com
 atlas.ensighten.com
 atlassian2.fyber.com
 atlassian.fyber.com
+at.lokaplatform.com
 atom.link.apsalar.com
 atwola-sb-ec.adtechus.com
 atwola-sb-wc.adtechus.com
@@ -749,6 +774,7 @@ brm-core-websphere-0.brsrvr.com
 broker-builder.staging-video-v2.fyber.com
 brother.links.channelintelligence.com
 brownshoe.sp1.convertro.com
+browser-sdk.lootsie.com
 bruleemedia-tagan.adlightning.com
 brx.pxl.ace.advertising.com
 bsapi-test-ssl.brsrvr.com
@@ -970,11 +996,13 @@ clients.advertising.com
 clients.answerscloud.com
 clientstats.advertising.com
 client-uat-fast.addthis.com
+client-um.macromill.com
 c.ligatus.com
 clitest.linksynergy.com
 clk.adpiano.com
 cloud.adthrive.com
 cloudconnectors.eloqua.com
+cloud.lokaplatform.com
 cma-dev.stage.us-east-1.kops.kargo.com
 cma-mgmt-dev.stage.us-east-1.kops.kargo.com
 cma-mgmt-new.stage.us-east-1.kops.kargo.com
@@ -1003,7 +1031,9 @@ cms-editor.awin.com
 cn1pubdns1.coremetrics.com
 cn2pubdns1.coremetrics.com
 cname.getrockerbox.com
+cn-enquete.macromill.com
 cnf.altitude-arena.com
+cn-monitor.macromill.com
 cn.support.appsflyer.com
 code.elfsight.com
 cog2.bnmla.com
@@ -1041,6 +1071,7 @@ content.cmp.advertising.com
 content.glance.inmobi.com
 content.heapanalytics.com
 content.links.channelintelligence.com
+content.lokaplatform.com
 convdb.buysellads.com
 conversation.dev.api.driftt.com
 conv.log.go.com
@@ -1064,6 +1095,7 @@ cpa.analyticson.com
 cpalaghiu.adotube.com
 cp.ligatus.com
 cpl.rt.cquotient.com
+cra.locsensads.com
 crash.amplitude.com
 crave.dev.joystickinteractive.com
 crawler.smedia.ca
@@ -1138,11 +1170,13 @@ data.cn.cmcore.com
 data-collector.streaming.adswizz.com
 data-ftp-legacy.criteo.com
 data.innovativemetrics.com
+data.m-freeway.com
 dataproxy.heapanalytics.com
 dataroom.apester.com
 data-staging.scoota.co
 datatrack-hk.admaxim.com
 datavisualization.acxiom.com
+data-viz-challenge.localytics.com
 da.us.criteo.com
 da-v-eu.amazon-adsystem.com
 da-v-fe.amazon-adsystem.com
@@ -1214,9 +1248,11 @@ demo2.instartlogic.com
 demo5.instartlogic.com
 demo7.instartlogic.com
 demo8.instartlogic.com
+demo-admin.macromill.com
 demo-api.newstags.stag.bounceexchange.com
 democraticpeoplemeet.adlegend.com
 demo-jp.adlearnop.advertising.com
+demo-monitor.macromill.com
 demon2.dev-iad.amobee.com
 demoralize-api.beta.stag.bounceexchange.com
 demoralize.beta.stag.bounceexchange.com
@@ -1498,6 +1534,7 @@ eu.impdesk.com
 eu.kampyle.com
 eumsm.eum-appdynamics.com
 eu.preprod.criteo.com
+eu-rtb.loopmertb.com
 eu.services.247realmedia.com
 eu-test.addthis.com
 eu-tools.247realmedia.com
@@ -1615,6 +1652,7 @@ fra-lb9.eu.adsymptotic.com
 fr.eu.criteo.com
 freud.links.channelintelligence.com
 fr.eu.preprod.criteo.com
+frontbeta.localytics.com
 frontend.snackly.co
 frontprod.datadome.co
 fr.support.appsflyer.com
@@ -1694,6 +1732,9 @@ glb-ads.tresensa.adtechus.com
 glbimg.adtechus.com
 glbl.adlegend.com
 gl.imrworldwide.com
+global-admin.macromill.com
+global.macromill.com
+global-monitor.macromill.com
 glossy.adroll.com
 gls.rt.cquotient.com
 gmf.celebrus.com
@@ -1742,6 +1783,7 @@ gw.api.163.com
 h1.fastly-insights.com
 h2.fastly-insights.com
 hackathon.dynamicyield.com
+hackathon.localytics.com
 hacks.chartbeat.com
 hahajknew.bnmla.com
 haroldcdn.hlserve.com
@@ -1836,8 +1878,8 @@ idtest.acxiom.com
 i.essads.com
 ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
-ifc2.vip.hkg1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
+ifc2.vip.hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -2027,7 +2069,9 @@ jwncaptions.rt.cquotient.com
 jwn.hansel.cquotient.com
 k1473-k8s.dev-iad.amobee.com
 k14-k8s.dev-iad.amobee.com
+k2.macromill.com
 k300.apester.com
+k7.macromill.com
 k8dev.adsrvr.cn
 k8prd.adsrvr.cn
 k8s.cluster-001.p-use-1.braze.com
@@ -2189,6 +2233,7 @@ logo.demandbase.com
 logs2.appsflyer.com
 logs.connatix.com
 logs.getsitecontrol.com
+logs.logrocket.com
 logs.t.altitude-arena.com
 loki.corp.inmobi.com
 lombard2017111917482011.saas.appdynamics.com
@@ -2220,6 +2265,7 @@ lyncwsint.foresee.com
 ma79.163.com
 ma79.game.163.com
 machinima.fanbread.com
+macs-migration.macromill.com
 m.adkmob.com
 m.admaxim.com
 mads.at.atwola.com
@@ -2272,6 +2318,7 @@ masterdata.adform.com
 master.stage.us-east-1.kops.kargo.com
 match.adlegend.com
 materiais.inlocomedia.com
+materials.lokaplatform.com
 matomo.apester.com
 mattmessinger.fanbread.com
 m.awin1.com
@@ -2360,6 +2407,7 @@ ml.adpxl.co
 mldev.sigma.inmobi.com
 ml.listrakbi.com
 mmex.pxl.ace.advertising.com
+mmi.macromill.com
 mm-k8s.dev-iad.amobee.com
 mmo2de.amobee.com
 mmp.adtz.com
@@ -2378,6 +2426,7 @@ moniquemadrid-com.fanbread.com
 monitor.convertcart.com
 monitoring.adwyze.com
 monitoring.c3metrics.com
+monitor-mng.macromill.com
 monster.adlegend.com
 monster.ca.adlegend.com
 moo.sp1.convertro.com
@@ -2659,6 +2708,8 @@ optimization.channelintelligence.com
 optimize.ensighten.com
 opx-winners-ap-southeast-1-rtb.adroll.com
 orami-sin.gravityrd-services.com
+orders.localiq.com
+orders.qa.localiq.com
 origin.adcash.com
 origin.adlegend.com
 origin-akamai-members.s50.exacttarget.com
@@ -2919,8 +2970,8 @@ prophet.acxiom.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway-production.browsiprod.com
 provider-gateway.production.browsiprod.com
+provider-gateway-production.browsiprod.com
 proximiter-stg.joystickinteractive.com
 proximiter-temp.joystickinteractive.com
 proximiter-tmp.joystickinteractive.com
@@ -3058,6 +3109,7 @@ qe1.conviva.com
 qlikview.corp.ligatus.com
 q-origin-test.addthis.com
 q-test.addthis.com
+queuer-elb.sandbox53.localytics.com
 quill.rdr.channelintelligence.com
 quintana.impresionesweb.com
 quiz.wp.orbee.co
@@ -3135,6 +3187,7 @@ rancher.mgmt.us-east-1.kops.kargo.com
 randy-temp-1.joystickinteractive.com
 r.appsflyer.com
 ratapa.dev-iad.amobee.com
+rater.localytics.com
 rbac00-k8s.dev-iad.amobee.com
 rbac0-k8s.dev-iad.amobee.com
 rbac1-k8s.dev-iad.amobee.com
@@ -3179,6 +3232,7 @@ report.adtz.com
 report-a.ligatus.com
 report-d2.ligatus.com
 reporting.adtouchlabs.com
+reporting.locsensads.com
 reporting.secure.eloqua.com
 reporting.www02.secure.eloqua.com
 reports.adconion.com
@@ -3253,6 +3307,7 @@ rtb-trk.adcolony.com
 rtbwin-506c.applovin.com
 rtcc.fyber.com
 rt.cquotient.com
+rtmp.lokaplatform.com
 rtp.cert.acxiom.com
 rtpdemo.acxiom.com
 rts-lga-lb.contextweb.com
@@ -3351,6 +3406,7 @@ sc.aertb.com
 scaleout.hkg.events.bidstalk.com
 scam-api.beta.stag.bounceexchange.com
 scam.beta.stag.bounceexchange.com
+scavenger.localytics.com
 scd.ingest.at.atwola.com
 scdn.mm.atwola.com
 scexp001.exelator.com
@@ -3484,6 +3540,7 @@ services.klaviyo.com
 service.stg-aws.fyber.com
 settings.firebase.crashlytics.com
 s-et.w.inmobi.cn
+sf-cci.lokaplatform.com
 sfdc.clearbit.com
 s-file.innovid.com
 sfmc-docker-prod-local.artifactory-xt-p01.exacttarget.com
@@ -3649,6 +3706,9 @@ stage.convertro.com
 stage.driftt.com
 stage.guce.convertro.com
 stage.mail.elfsight.com
+stage-prime-api.lootsie.com
+stage-prime-www.lootsie.com
+stager2.53.localytics.com
 stage-secure.leadback.advertising.com
 stage.us-east-1.kops.kargo.com
 stage.us-west-1.kops.kargo.com
@@ -3811,6 +3871,7 @@ tag.tag-routing.beta.stag.bounceexchange.com
 tag.tag-test.beta.stag.bounceexchange.com
 tag-test-api.beta.stag.bounceexchange.com
 tag-test.beta.stag.bounceexchange.com
+tag-us.loopmertb.com
 t.ambra.com
 tando.dev-iad.amobee.com
 tando.qa-iad.amobee.com
@@ -3836,6 +3897,9 @@ techsource.247realmedia.com
 teleflora.sp1.convertro.com
 telemetry.sdk.ams1.appgw.inmobi.com
 telemetry.sdk.dfw1.vip.inmobi.com
+telenor-analytics.localytics.com
+telenor-creatives.53.localytics.com
+telenor-profile.localytics.com
 temo.analyticson.com
 templates-beta.convertcart.com
 temp-p1.eu.adsymptotic.com
@@ -3855,7 +3919,9 @@ test2-dex-k8s.dev-iad.amobee.com
 test4.instartlogic.com
 test5.instartlogic.com
 test-adserver.adtechus.com
+testads.locsensads.com
 testbanners.analyticson.com
+testbids.locsensads.com
 testcert.247realmedia.com
 test-cert.dev-iad.amobee.com
 testdata.cn.coremetrics.com
@@ -3994,6 +4060,7 @@ tracking.downloadyeah.com
 tracking.hyde.ligatus.com
 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
 track.ligatus.com
+track.locsensads.com
 track-staging.scoota.co
 track-uswest.admaxim.com
 trackv3.aniview.com
@@ -4032,8 +4099,11 @@ trk.helios.ligatus.com
 trk.hellos.ligatus.com
 trkx-east.kissmetrics.com
 trk.yjp.kissmetrics.com
+tr.locsensads.com
 troy-nalls.fanbread.com
 trueffect.adlegend.com
+trunk-front.lokaplatform.com
+trunk-front-staging.lokaplatform.com
 trunk.guce.convertro.com
 trunkstable.atlassbx.com
 try.hotjar.com
@@ -4244,6 +4314,7 @@ video.bidsimulator.com
 video.cloud.kargo.com
 video.flashtalking.com
 video.inmobi.com
+vid.locsensads.com
 vietnamworks-sin.gravityrd-services.com
 view.comms.doubleclick.com
 view.skyrocket.adtdp.com
@@ -4285,6 +4356,7 @@ wbw.imrworldwide.com
 wc.adapf.com
 w.e0mn.com
 web005.apsalar.com
+webapp.lootsie.com
 web-beta.convertcart.com
 webconf.acxiom.com
 web.convertcart.com
@@ -4364,6 +4436,7 @@ wmt.hlserve.com
 wolf.163.com
 women.fanbread.com
 woolworths.sp1.convertro.com
+workflows.sandbox53.localytics.com
 wpadmin.privacynews.acxiom.com
 wp.apester.com
 wpblog.getadmiral.com
@@ -4599,6 +4672,7 @@ www.clitest.linksynergy.com
 www.cloudflarewh.getadmiral.com
 www.cms-xch-chicago.33across.com
 www.cn.bridgewell.com
+www.cn.macromill.com
 www.cntr.adrcntr.com
 www.coadvertise.com
 www.code.deadlinefunnel.com
@@ -4802,6 +4876,7 @@ www.js-cdn.dynatrace.com
 www.jsrdn.com
 www.jss.adroll.com
 www.jss.aweber.com
+www.k4.macromill.com
 www.kibana.prd.fyber.com
 www.koindut.com
 www.lab.braze.com
@@ -4831,6 +4906,7 @@ www.log.reflow.co
 www.loki.corp.inmobi.com
 www.looker.amobee.com
 www.lookup.bluecava.com
+www.lootsie.com
 www.lyncpool.foreseeresults.com
 www.mail.adotube.com
 www.mail.adswizz.com
@@ -4971,6 +5047,7 @@ www.rcom.dynamicyield.com
 www.rcom-staging.dynamicyield.com
 www.rc-studio.inmobi.com
 www.reaper.pulse.inmobi.com
+www.recruitment.localiq.com
 www.recs.igodigital.com
 www.recs-ws.atgsvcs.com
 www.reddit.co

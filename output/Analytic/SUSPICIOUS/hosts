@@ -53,6 +53,7 @@
 0.0.0.0 about.heapanalytics.com
 0.0.0.0 access.eloqua.com
 0.0.0.0 access.inmobi.com
+0.0.0.0 accounting-reference.macromill.com
 0.0.0.0 accounts.eyereturn.com
 0.0.0.0 acquia-api.conductrics.com
 0.0.0.0 acs.adtdp.com
@@ -147,6 +148,7 @@
 0.0.0.0 api.lijit.com
 0.0.0.0 api-loadtest-grpc.lightstep.com
 0.0.0.0 api-logger.curejoy.com
+0.0.0.0 api.logrocket.com
 0.0.0.0 api-meta-grpc.lightstep.com
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 api.s1.qa2.exacttarget.com
@@ -319,6 +321,7 @@
 0.0.0.0 click.api.drift.com
 0.0.0.0 clickjs.cnzz.com
 0.0.0.0 client.dotomi.com
+0.0.0.0 client-mypage.macromill.com
 0.0.0.0 clients.3d.amobee.com
 0.0.0.0 clients6.google.comads.creative-serving.com
 0.0.0.0 clientsftp.foreseeresults.com
@@ -335,8 +338,11 @@
 0.0.0.0 cms.dianomi.com
 0.0.0.0 cms.eqads.com
 0.0.0.0 cn5.mta.exacttarget.com
+0.0.0.0 cn-admin.macromill.com
+0.0.0.0 cn-admin-panel.macromill.com
 0.0.0.0 cname03.cryptolootminer.com
 0.0.0.0 cnet.cbsi.com
+0.0.0.0 cn.macromill.com
 0.0.0.0 cntr.adrime.com
 0.0.0.0 co1aqu.atdmt.com
 0.0.0.0 co2aqu.atdmt.com
@@ -357,6 +363,8 @@
 0.0.0.0 coverageanalysis.staging-1.staging.leanplum.com
 0.0.0.0 coverageanalysis-ui.staging-1.staging.leanplum.com
 0.0.0.0 cplog.flashget.com
+0.0.0.0 cqu-ingest.logrocket.com
+0.0.0.0 cqu.logrocket.com
 0.0.0.0 cr101.mta.exacttarget.com
 0.0.0.0 cr102.mta.exacttarget.com
 0.0.0.0 cr107.mta.exacttarget.com
@@ -445,6 +453,7 @@
 0.0.0.0 de.idsp-prod.east-us.idsp.inmobi.com
 0.0.0.0 delivery.first-impression.com
 0.0.0.0 demandblog.demandbase.com
+0.0.0.0 deployer.53.localytics.com
 0.0.0.0 detalent04.extremereach.com
 0.0.0.0 detalent05.extremereach.com
 0.0.0.0 dev.adthrive.com
@@ -456,11 +465,13 @@
 0.0.0.0 dev.display.khingtracking.com
 0.0.0.0 devefence.engageclick.com
 0.0.0.0 dev.getadmiral.com
+0.0.0.0 dev.honote.macromill.com
 0.0.0.0 dev.impresionesweb.com
 0.0.0.0 dev.instructions.getadmiral.com
 0.0.0.0 dev.internal.getadmiral.com
 0.0.0.0 dev-ls.api.chatid.com
 0.0.0.0 dev.material.mobile.ensighten.com
+0.0.0.0 dev-monitor.macromill.com
 0.0.0.0 dev.my.getadmiral.com
 0.0.0.0 dev.pixel.fuel451.com
 0.0.0.0 dev.sftp.extremereach.com
@@ -468,6 +479,7 @@
 0.0.0.0 dev.static.display.khingtracking.com
 0.0.0.0 devsvn.extremereach.com
 0.0.0.0 devtest.celebrus.com
+0.0.0.0 dev-www.macromill.com
 0.0.0.0 dex.k8s-prod.fiksu.com
 0.0.0.0 dex.k8s-test.fiksu.com
 0.0.0.0 df101.mta.exacttarget.com
@@ -503,6 +515,7 @@
 0.0.0.0 dialin.exacttarget.com
 0.0.0.0 dialin.exponential.com
 0.0.0.0 dialin.foreseeresults.com
+0.0.0.0 dialog.macromill.com
 0.0.0.0 digitrust.creative-serving.com
 0.0.0.0 directads.epom.com
 0.0.0.0 directory.chatid.com
@@ -528,6 +541,8 @@
 0.0.0.0 dns001.apsalar.com
 0.0.0.0 dns003.apsalar.com
 0.0.0.0 dns004.apsalar.com
+0.0.0.0 dns01.macromill.com
+0.0.0.0 dns02.macromill.com
 0.0.0.0 dns1.coremetrics.com
 0.0.0.0 dns1.inmobi.com
 0.0.0.0 dns2.coremetrics.com
@@ -545,6 +560,7 @@
 0.0.0.0 dtest.engagecore.com
 0.0.0.0 dtias.adsafeprotected.com
 0.0.0.0 dtvc.adsafeprotected.com
+0.0.0.0 dubai.locationserve.com
 0.0.0.0 dyson.dev.dig.cbsi.com
 0.0.0.0 e011.en25.com
 0.0.0.0 e063.en25.com
@@ -713,8 +729,9 @@
 0.0.0.0 gist-assets.github.exacttarget.com
 0.0.0.0 gist.github.exacttarget.com
 0.0.0.0 gist-raw.github.exacttarget.com
-0.0.0.0 globeprod.amobee.com
+0.0.0.0 globalnow.macromill.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 gob.curalate.com
 0.0.0.0 gp65.mta.exacttarget.com
 0.0.0.0 gp68.mta.exacttarget.com
@@ -745,6 +762,7 @@
 0.0.0.0 grafana.staging-1.staging.leanplum.com
 0.0.0.0 grafana.staging.leanplum.com
 0.0.0.0 grape.k8s.test-001.d-usw-2.braze.com
+0.0.0.0 graphql.logrocket.com
 0.0.0.0 graylog.ops.ams1.inmobi.com
 0.0.0.0 graylog.ops.dfw1.inmobi.com
 0.0.0.0 graylog.ops.dfw2.inmobi.com
@@ -789,7 +807,9 @@
 0.0.0.0 iekubedemo-prometheus.prometheus.staging-1.staging.leanplum.com
 0.0.0.0 ifc3.vip.dfw1.inmobi.com
 0.0.0.0 ifc.auth.inmobi.com
+0.0.0.0 illimity.logrocket.com
 0.0.0.0 illuminati.fgl.com
+0.0.0.0 i.logrocket.com
 0.0.0.0 image.s1.qa2.exacttarget.com
 0.0.0.0 image.s2.qa2.exacttarget.com
 0.0.0.0 images.aggregateknowledge.com
@@ -819,6 +839,9 @@
 0.0.0.0 insight.www02.secure.eloqua.com
 0.0.0.0 integration.drift.com
 0.0.0.0 internal.instartlogic.com
+0.0.0.0 intg-awne-dsm01.macromill.com
+0.0.0.0 intg-awne-swk01.macromill.com
+0.0.0.0 intg-awne-zab01.macromill.com
 0.0.0.0 iowa.localiq.com
 0.0.0.0 iportal.coremetrics.com
 0.0.0.0 iq.doubleverify.com
@@ -876,8 +899,11 @@
 0.0.0.0 login-stage.adtoox.com
 0.0.0.0 logs.adroll.com
 0.0.0.0 logs.iad.eloqua.com
+0.0.0.0 logs.loggly.com
 0.0.0.0 logs.panelkz.gemius.com
+0.0.0.0 logs-test256.loggly.com
 0.0.0.0 looker.bounceexchange.com
+0.0.0.0 louisiana.localiq.com
 0.0.0.0 ls1x.chatid.com
 0.0.0.0 ls.chatid.com
 0.0.0.0 lyncaws2.exponential.com
@@ -944,6 +970,7 @@
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metric-stage.adtoox.com
 0.0.0.0 mftp.linksynergy.com
+0.0.0.0 mhs-reference.macromill.com
 0.0.0.0 microsend.hosting.exacttarget.com
 0.0.0.0 microsoft.hosting.exacttarget.com
 0.0.0.0 mivsa.foreseeresults.com
@@ -951,6 +978,7 @@
 0.0.0.0 mmmvar.amobee.com
 0.0.0.0 mmp.inmobi.com
 0.0.0.0 mmvivo.amobee.com
+0.0.0.0 mnri.macromill.com
 0.0.0.0 mo.haloapps.com
 0.0.0.0 momentum1-mta1.aweber.com
 0.0.0.0 monitor.appsee.com
@@ -1513,6 +1541,7 @@
 0.0.0.0 revprod04.wdc.bluekai.com
 0.0.0.0 revprod05.wdc.bluekai.com
 0.0.0.0 rex.dev.dig.cbsi.com
+0.0.0.0 r.logrocket.com
 0.0.0.0 rntsweb.dc2.fyber.com
 0.0.0.0 roc.lisnr.com
 0.0.0.0 rocnation.lisnr.com
@@ -1820,6 +1849,7 @@
 0.0.0.0 staging.getsentry.com
 0.0.0.0 staging-gw11.conviva.com
 0.0.0.0 staging-gw12.conviva.com
+0.0.0.0 staging-i.logrocket.com
 0.0.0.0 staging.insightexpressai.com
 0.0.0.0 staging.juicemobile.com
 0.0.0.0 staging-k8s.beeketing.com
@@ -1834,6 +1864,7 @@
 0.0.0.0 static-was2.dynamicyield.com
 0.0.0.0 stats.bluekai.com
 0.0.0.0 storage3-j2.brightedge.com
+0.0.0.0 story-front.lokaplatform.com
 0.0.0.0 str.sip.hurra.com
 0.0.0.0 su.ff.avast.comads.creative-serving.com
 0.0.0.0 supertracker.flashget.com
@@ -1957,8 +1988,8 @@
 0.0.0.0 vcenter.evowise.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfesprod.amobee.com
+0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
@@ -2087,6 +2118,7 @@
 0.0.0.0 www.iogous.com
 0.0.0.0 www.iowa.localiq.com
 0.0.0.0 www-lhr1.awin1.com
+0.0.0.0 www.louisiana.localiq.com
 0.0.0.0 www.mail.corp.conviva.com
 0.0.0.0 www.marketing.kochava.com
 0.0.0.0 www.matching.granify.com

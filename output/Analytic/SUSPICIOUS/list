@@ -53,6 +53,7 @@ a.beeketing.com
 about.heapanalytics.com
 access.eloqua.com
 access.inmobi.com
+accounting-reference.macromill.com
 accounts.eyereturn.com
 acquia-api.conductrics.com
 acs.adtdp.com
@@ -147,6 +148,7 @@ api.leadfeeder.com
 api.lijit.com
 api-loadtest-grpc.lightstep.com
 api-logger.curejoy.com
+api.logrocket.com
 api-meta-grpc.lightstep.com
 api.poc.exacttarget.com
 api.s1.qa2.exacttarget.com
@@ -319,6 +321,7 @@ classic-rest-api.prod.adtechus.com
 click.api.drift.com
 clickjs.cnzz.com
 client.dotomi.com
+client-mypage.macromill.com
 clients.3d.amobee.com
 clients6.google.comads.creative-serving.com
 clientsftp.foreseeresults.com
@@ -335,8 +338,11 @@ cmp.daphnecm.com
 cms.dianomi.com
 cms.eqads.com
 cn5.mta.exacttarget.com
+cn-admin.macromill.com
+cn-admin-panel.macromill.com
 cname03.cryptolootminer.com
 cnet.cbsi.com
+cn.macromill.com
 cntr.adrime.com
 co1aqu.atdmt.com
 co2aqu.atdmt.com
@@ -357,6 +363,8 @@ core.staging.bounceexchange.com
 coverageanalysis.staging-1.staging.leanplum.com
 coverageanalysis-ui.staging-1.staging.leanplum.com
 cplog.flashget.com
+cqu-ingest.logrocket.com
+cqu.logrocket.com
 cr101.mta.exacttarget.com
 cr102.mta.exacttarget.com
 cr107.mta.exacttarget.com
@@ -445,6 +453,7 @@ dean.dev.dig.cbsi.com
 de.idsp-prod.east-us.idsp.inmobi.com
 delivery.first-impression.com
 demandblog.demandbase.com
+deployer.53.localytics.com
 detalent04.extremereach.com
 detalent05.extremereach.com
 dev.adthrive.com
@@ -456,11 +465,13 @@ dev.demo.appdynamics.com
 dev.display.khingtracking.com
 devefence.engageclick.com
 dev.getadmiral.com
+dev.honote.macromill.com
 dev.impresionesweb.com
 dev.instructions.getadmiral.com
 dev.internal.getadmiral.com
 dev-ls.api.chatid.com
 dev.material.mobile.ensighten.com
+dev-monitor.macromill.com
 dev.my.getadmiral.com
 dev.pixel.fuel451.com
 dev.sftp.extremereach.com
@@ -468,6 +479,7 @@ devsite.amobee.com
 dev.static.display.khingtracking.com
 devsvn.extremereach.com
 devtest.celebrus.com
+dev-www.macromill.com
 dex.k8s-prod.fiksu.com
 dex.k8s-test.fiksu.com
 df101.mta.exacttarget.com
@@ -503,6 +515,7 @@ dialin.awin.com
 dialin.exacttarget.com
 dialin.exponential.com
 dialin.foreseeresults.com
+dialog.macromill.com
 digitrust.creative-serving.com
 directads.epom.com
 directory.chatid.com
@@ -528,6 +541,8 @@ dn14.casalemedia.com
 dns001.apsalar.com
 dns003.apsalar.com
 dns004.apsalar.com
+dns01.macromill.com
+dns02.macromill.com
 dns1.coremetrics.com
 dns1.inmobi.com
 dns2.coremetrics.com
@@ -545,6 +560,7 @@ dsp.jenkins.secure.blismedia.com
 dtest.engagecore.com
 dtias.adsafeprotected.com
 dtvc.adsafeprotected.com
+dubai.locationserve.com
 dyson.dev.dig.cbsi.com
 e011.en25.com
 e063.en25.com
@@ -713,8 +729,9 @@ gg.kp2.forter.com
 gist-assets.github.exacttarget.com
 gist.github.exacttarget.com
 gist-raw.github.exacttarget.com
-globe-prod.amobee.com
+globalnow.macromill.com
 globeprod.amobee.com
+globe-prod.amobee.com
 gob.curalate.com
 gp65.mta.exacttarget.com
 gp68.mta.exacttarget.com
@@ -745,6 +762,7 @@ grafana.qa-1.qa.leanplum.com
 grafana.staging-1.staging.leanplum.com
 grafana.staging.leanplum.com
 grape.k8s.test-001.d-usw-2.braze.com
+graphql.logrocket.com
 graylog.ops.ams1.inmobi.com
 graylog.ops.dfw1.inmobi.com
 graylog.ops.dfw2.inmobi.com
@@ -789,7 +807,9 @@ idx.listrakbi.com
 iekubedemo-prometheus.prometheus.staging-1.staging.leanplum.com
 ifc3.vip.dfw1.inmobi.com
 ifc.auth.inmobi.com
+illimity.logrocket.com
 illuminati.fgl.com
+i.logrocket.com
 image.s1.qa2.exacttarget.com
 image.s2.qa2.exacttarget.com
 images.aggregateknowledge.com
@@ -819,6 +839,9 @@ insight.secure.eloqua.com
 insight.www02.secure.eloqua.com
 integration.drift.com
 internal.instartlogic.com
+intg-awne-dsm01.macromill.com
+intg-awne-swk01.macromill.com
+intg-awne-zab01.macromill.com
 iowa.localiq.com
 iportal.coremetrics.com
 iq.doubleverify.com
@@ -876,8 +899,11 @@ login-apps.eloqua.com
 login-stage.adtoox.com
 logs.adroll.com
 logs.iad.eloqua.com
+logs.loggly.com
 logs.panelkz.gemius.com
+logs-test256.loggly.com
 looker.bounceexchange.com
+louisiana.localiq.com
 ls1x.chatid.com
 ls.chatid.com
 lyncaws2.exponential.com
@@ -944,6 +970,7 @@ metranetprod.amobee.com
 metrics.api.drift.com
 metric-stage.adtoox.com
 mftp.linksynergy.com
+mhs-reference.macromill.com
 microsend.hosting.exacttarget.com
 microsoft.hosting.exacttarget.com
 mivsa.foreseeresults.com
@@ -951,6 +978,7 @@ mixrch-chn.imrworldwide.com
 mmmvar.amobee.com
 mmp.inmobi.com
 mmvivo.amobee.com
+mnri.macromill.com
 mo.haloapps.com
 momentum1-mta1.aweber.com
 monitor.appsee.com
@@ -1513,6 +1541,7 @@ revprod03.wdc.bluekai.com
 revprod04.wdc.bluekai.com
 revprod05.wdc.bluekai.com
 rex.dev.dig.cbsi.com
+r.logrocket.com
 rntsweb.dc2.fyber.com
 roc.lisnr.com
 rocnation.lisnr.com
@@ -1820,6 +1849,7 @@ staging.front.banners.advidi.com
 staging.getsentry.com
 staging-gw11.conviva.com
 staging-gw12.conviva.com
+staging-i.logrocket.com
 staging.insightexpressai.com
 staging.juicemobile.com
 staging-k8s.beeketing.com
@@ -1834,6 +1864,7 @@ static-was1.dynamicyield.com
 static-was2.dynamicyield.com
 stats.bluekai.com
 storage3-j2.brightedge.com
+story-front.lokaplatform.com
 str.sip.hurra.com
 su.ff.avast.comads.creative-serving.com
 supertracker.flashget.com
@@ -2087,6 +2118,7 @@ www.goadservices.com
 www.iogous.com
 www.iowa.localiq.com
 www-lhr1.awin1.com
+www.louisiana.localiq.com
 www.mail.corp.conviva.com
 www.marketing.kochava.com
 www.matching.granify.com
