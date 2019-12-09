@@ -39962,98 +39962,7 @@
         "1573162918": {
             "apt-bud-2-ext.adsrvr.org": "INACTIVE"
         },
-        "1574629274": {
-            "test1.applicationinsights.io": "INACTIVE",
-            "usgovva-cds-encryption.applicationinsights.io": "INACTIVE"
-        },
-        "1574629275": {
-            "www.pics.avs.io": "INACTIVE"
-        },
-        "1574635620": {
-            "www.gotime.backtrace.io": "INACTIVE"
-        },
-        "1574636362": {
-            "loghost.in.backtrace.io": "INACTIVE"
-        },
-        "1574636367": {
-            "npm-registry.backtrace.io": "INACTIVE"
-        },
-        "1574636368": {
-            "saml-2.backtrace.io": "INACTIVE"
-        },
-        "1574636369": {
-            "saml00.backtrace.io": "INACTIVE"
-        },
-        "1574636371": {
-            "sp.backtrace.io": "INACTIVE"
-        },
-        "1574636374": {
-            "proxytest1.sptest.backtrace.io": "INACTIVE"
-        },
-        "1574636375": {
-            "nsandru.test.backtrace.io": "INACTIVE",
-            "nsandru2.test.backtrace.io": "INACTIVE"
-        },
-        "1574636376": {
-            "nsandru1.test.backtrace.io": "INACTIVE",
-            "nsandru3.test.backtrace.io": "INACTIVE"
-        },
-        "1574636377": {
-            "www.try.backtrace.io": "INACTIVE"
-        },
-        "1574636378": {
-            "api.bidr.io": "INACTIVE"
-        },
-        "1574636380": {
-            "prod.bidr.io": "INACTIVE"
-        },
-        "1574636381": {
-            "ad-stinger.prod.bidr.io": "INACTIVE",
-            "dealerx.prod.bidr.io": "INACTIVE",
-            "event.prod.bidr.io": "INACTIVE"
-        },
-        "1574636382": {
-            "event-canary.prod.bidr.io": "INACTIVE"
-        },
-        "1574636383": {
-            "cnv.event-canary.prod.bidr.io": "INACTIVE",
-            "events.prod.bidr.io": "INACTIVE"
-        },
-        "1574636384": {
-            "stinger-ad.bidr.io": "INACTIVE"
-        },
-        "1574636385": {
-            "us-east-1.segment-asg.bidr.io": "INACTIVE"
-        },
-        "1574651539": {
-            "anx-1.stinger-ad.bidr.io": "INACTIVE",
-            "anx-2.stinger-ad.bidr.io": "INACTIVE"
-        },
-        "1574651540": {
-            "anx-3.stinger-ad.bidr.io": "INACTIVE",
-            "anx-ams1.stinger-ad.bidr.io": "INACTIVE",
-            "anx-fra1.stinger-ad.bidr.io": "INACTIVE"
-        },
-        "1574651541": {
-            "anx-lax1.stinger-ad.bidr.io": "INACTIVE",
-            "anx-nym2.stinger-ad.bidr.io": "INACTIVE"
-        },
-        "1574651542": {
-            "anx-nym1.stinger-ad.bidr.io": "INACTIVE",
-            "ap-northeast-1.stinger-ad.bidr.io": "INACTIVE"
-        },
-        "1574651543": {
-            "eu-west-1.stinger-ad.bidr.io": "INACTIVE",
-            "ironsource.ap-northeast-1.stinger-ad.bidr.io": "INACTIVE"
-        },
-        "1574651544": {
-            "facebook.eu-west-1.stinger-ad.bidr.io": "INACTIVE"
-        },
-        "1574651545": {
-            "pathmatics.eu-west-1.stinger-ad.bidr.io": "INACTIVE"
-        },
         "1574651546": {
-            "piximedia.eu-west-1.stinger-ad.bidr.io": "INACTIVE",
             "stinger.stinger-ad.bidr.io": "INACTIVE"
         },
         "1574651547": {
@@ -59657,6 +59566,77 @@
         },
         "1575917551": {
             "storageanalytics.applicationinsights.io": "INACTIVE"
+        },
+        "1575918239": {
+            "test1.applicationinsights.io": "INACTIVE",
+            "usgovva-cds-encryption.applicationinsights.io": "INACTIVE"
+        },
+        "1575918240": {
+            "www.pics.avs.io": "INACTIVE"
+        },
+        "1575918241": {
+            "loghost.in.backtrace.io": "INACTIVE",
+            "www.gotime.backtrace.io": "INACTIVE"
+        },
+        "1575918243": {
+            "npm-registry.backtrace.io": "INACTIVE",
+            "saml-2.backtrace.io": "INACTIVE"
+        },
+        "1575918244": {
+            "saml00.backtrace.io": "INACTIVE",
+            "sp.backtrace.io": "INACTIVE"
+        },
+        "1575918246": {
+            "nsandru.test.backtrace.io": "INACTIVE",
+            "proxytest1.sptest.backtrace.io": "INACTIVE"
+        },
+        "1575918247": {
+            "nsandru1.test.backtrace.io": "INACTIVE",
+            "nsandru2.test.backtrace.io": "INACTIVE",
+            "nsandru3.test.backtrace.io": "INACTIVE",
+            "www.try.backtrace.io": "INACTIVE"
+        },
+        "1575918248": {
+            "api.bidr.io": "INACTIVE"
+        },
+        "1575918249": {
+            "ad-stinger.prod.bidr.io": "INACTIVE",
+            "dealerx.prod.bidr.io": "INACTIVE",
+            "prod.bidr.io": "INACTIVE"
+        },
+        "1575918250": {
+            "event-canary.prod.bidr.io": "INACTIVE",
+            "event.prod.bidr.io": "INACTIVE"
+        },
+        "1575918251": {
+            "cnv.event-canary.prod.bidr.io": "INACTIVE",
+            "events.prod.bidr.io": "INACTIVE"
+        },
+        "1575918252": {
+            "anx-1.stinger-ad.bidr.io": "INACTIVE",
+            "anx-2.stinger-ad.bidr.io": "INACTIVE",
+            "stinger-ad.bidr.io": "INACTIVE",
+            "us-east-1.segment-asg.bidr.io": "INACTIVE"
+        },
+        "1575918253": {
+            "anx-3.stinger-ad.bidr.io": "INACTIVE",
+            "anx-ams1.stinger-ad.bidr.io": "INACTIVE",
+            "anx-fra1.stinger-ad.bidr.io": "INACTIVE",
+            "anx-lax1.stinger-ad.bidr.io": "INACTIVE"
+        },
+        "1575918254": {
+            "anx-nym1.stinger-ad.bidr.io": "INACTIVE",
+            "anx-nym2.stinger-ad.bidr.io": "INACTIVE",
+            "ap-northeast-1.stinger-ad.bidr.io": "INACTIVE"
+        },
+        "1575918255": {
+            "eu-west-1.stinger-ad.bidr.io": "INACTIVE",
+            "facebook.eu-west-1.stinger-ad.bidr.io": "INACTIVE",
+            "ironsource.ap-northeast-1.stinger-ad.bidr.io": "INACTIVE"
+        },
+        "1575918256": {
+            "pathmatics.eu-west-1.stinger-ad.bidr.io": "INACTIVE",
+            "piximedia.eu-west-1.stinger-ad.bidr.io": "INACTIVE"
         }
     }
 }
