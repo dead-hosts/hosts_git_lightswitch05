@@ -334,7 +334,9 @@
 0.0.0.0 adserv.adpredictive.com
 0.0.0.0 adserve.advertising.com
 0.0.0.0 adserve.nexage.com
+0.0.0.0 adserver-a-amt.adtech.de
 0.0.0.0 adserver.adbull.com
+0.0.0.0 adserver-a-frr.adtech.de
 0.0.0.0 adserver-a-mtc.adtechus.com
 0.0.0.0 adserver-a-northeast-1.adtechjp.com
 0.0.0.0 adserver.aol.advertising.com
@@ -344,16 +346,19 @@
 0.0.0.0 adserver-cdn.sitescoutadserver.com
 0.0.0.0 adserver-cdn.sitescout.com
 0.0.0.0 adserver.devel.adswizz.com
+0.0.0.0 adserver-dpamt.adtech.de
 0.0.0.0 adserver-hk.admaxim.com
 0.0.0.0 adserver.hotfix.adswizz.com
 0.0.0.0 ad-server.infinity.blismedia.com
 0.0.0.0 adserver.innovativemetrics.com
 0.0.0.0 adserver-jp.vizury.com
 0.0.0.0 adserver.monarchads.com
+0.0.0.0 adserver-nbamt.adtech.de
 0.0.0.0 adserver.nexage.com
 0.0.0.0 adserver-origin.adtechjp.com
 0.0.0.0 adserver-origin-ap-northeast-1.adtechjp.com
 0.0.0.0 adserver-origin-ap-southeast-1.adtechjp.com
+0.0.0.0 adserver-origin-frr.adtech.de
 0.0.0.0 adserverrouter02.prod.vungle.com
 0.0.0.0 adserver-router04-public.prod.vungle.com
 0.0.0.0 adserverrouter07.prod.vungle.com
@@ -369,7 +374,9 @@
 0.0.0.0 adserverrouter30.prod.vungle.com
 0.0.0.0 adserverrouter31.prod.vungle.com
 0.0.0.0 adserverrouter32.prod.vungle.com
+0.0.0.0 adserver-sb-ams.adtech.de
 0.0.0.0 adserver-sb-ec.adtechus.com
+0.0.0.0 adserver-sb-fra.adtech.de
 0.0.0.0 adserver-sb-wc.adtechus.com
 0.0.0.0 adservers.selfserve.rubiconproject.com
 0.0.0.0 adserver.staging.adswizz.com
@@ -684,6 +691,7 @@
 0.0.0.0 an.3lift.com
 0.0.0.0 ana.analyticson.com
 0.0.0.0 analytics.adlightning.com
+0.0.0.0 analytics.adtech.de
 0.0.0.0 analytics.adtechus.com
 0.0.0.0 analytics.apester.com
 0.0.0.0 analytics-dash.airpr.com
@@ -697,6 +705,7 @@
 0.0.0.0 analytics.ssbbartgroup.com
 0.0.0.0 analytics-stage.lisnr.com
 0.0.0.0 analytics-stats.pri.pagefair.com
+0.0.0.0 analyticstest.adtech.de
 0.0.0.0 analytics-testing.lisnr.com
 0.0.0.0 analytics-test.lisnr.com
 0.0.0.0 analyticstest.localytics.com
@@ -802,6 +811,7 @@
 0.0.0.0 api-development-us-west-2.lisnr.com
 0.0.0.0 api-dev.ensighten.com
 0.0.0.0 api.dna.247realmedia.com
+0.0.0.0 api-doc.adtech.de
 0.0.0.0 api-doc.adtechus.com
 0.0.0.0 api.driftt.com
 0.0.0.0 api.eb-test.firehound.staging.paperg.com
@@ -1087,7 +1097,9 @@
 0.0.0.0 at.optimahub.com
 0.0.0.0 attdcmtest.dev.paperg.com
 0.0.0.0 attribution.swiss.com
+0.0.0.0 atwola-sb-ams.adtech.de
 0.0.0.0 atwola-sb-ec.adtechus.com
+0.0.0.0 atwola-sb-fra.adtech.de
 0.0.0.0 atwola-sb-wc.adtechus.com
 0.0.0.0 au-cn.w.inmobi.com
 0.0.0.0 auction-master.ads.prd.ie.internal.unity3d.com
@@ -1227,6 +1239,7 @@
 0.0.0.0 bankofamerica.sp1.convertro.com
 0.0.0.0 bannerfarm.ace.advertising.com
 0.0.0.0 banners.analyticson.com
+0.0.0.0 bannertest.adtech.de
 0.0.0.0 bannertest.adtechus.com
 0.0.0.0 bar.dev-iad.amobee.com
 0.0.0.0 bar-dev.joystickinteractive.com
@@ -1298,14 +1311,19 @@
 0.0.0.0 beta2.ace.advertising.com
 0.0.0.0 beta2-dashboard.datadome.co
 0.0.0.0 beta2-dashboard-rest-api.datadome.co
+0.0.0.0 betaadserv001.adtech.de
+0.0.0.0 beta-adserver.adtech.de
 0.0.0.0 beta-adserver.adtechus.com
 0.0.0.0 beta-editorial.outbrain.com
+0.0.0.0 beta-imageserver.adtech.de
 0.0.0.0 beta-imageserver.adtechus.com
 0.0.0.0 beta-jp.adlearnop.advertising.com
 0.0.0.0 beta-lombardi.advertising.com
 0.0.0.0 beta-p.shopcurbside.com
 0.0.0.0 beta-shop.shopcurbside.com
 0.0.0.0 beta-s.shopcurbside.com
+0.0.0.0 betathome-sb-ams.adtech.de
+0.0.0.0 betathome-sb-fra.adtech.de
 0.0.0.0 beta-uk.adlearnop.advertising.com
 0.0.0.0 b.fiksu.com
 0.0.0.0 b.fqtag.com
@@ -1588,6 +1606,8 @@
 0.0.0.0 capi.zemanta.com
 0.0.0.0 caprofitx.adtdp.com
 0.0.0.0 captive.adservice.google.com
+0.0.0.0 caradisiac-sb-ams.adtech.de
+0.0.0.0 caradisiac-sb-fra.adtech.de
 0.0.0.0 carat-cm.cn.miaozhen.com
 0.0.0.0 caravel.adthrive.com
 0.0.0.0 carefree.links.channelintelligence.com
@@ -2109,6 +2129,7 @@
 0.0.0.0 data3.bluekai.com
 0.0.0.0 data4.bluekai.com
 0.0.0.0 data5.bluekai.com
+0.0.0.0 data.adtech.de
 0.0.0.0 data.adtechus.com
 0.0.0.0 data.advertising.com
 0.0.0.0 data.ap.propellerads.com
@@ -2242,6 +2263,7 @@
 0.0.0.0 delta.links.channelintelligence.com
 0.0.0.0 delta.sitescoutadserver.com
 0.0.0.0 demandbase.demandbase.com
+0.0.0.0 demand-service.adtech.de
 0.0.0.0 demand-service.adtechus.com
 0.0.0.0 demo1.dev-iad.amobee.com
 0.0.0.0 demo2.dev-iad.amobee.com
@@ -2424,6 +2446,7 @@
 0.0.0.0 dnt.bestcontentonline.com
 0.0.0.0 dnt.placeyourview.com
 0.0.0.0 do-builder.beeketing.com
+0.0.0.0 doc.adtech.de
 0.0.0.0 dockerhub.corp.inmobi.com
 0.0.0.0 docker-local.artifactory.adform.com
 0.0.0.0 docker-registry.adswizz.com
@@ -3056,11 +3079,15 @@
 0.0.0.0 glance-workbench.sigma.inmobi.com
 0.0.0.0 glbad.adtechjp.com
 0.0.0.0 glb-ads2.atwola.adtechus.com
+0.0.0.0 glb-ads.adplus.adtech.de
+0.0.0.0 glb-ads.adstarslive.adtech.de
+0.0.0.0 glb-ads.aftonbladet.adtech.de
 0.0.0.0 glb-ads.atrhw.adtechus.com
 0.0.0.0 glb-ads.coupons.adtechus.com
 0.0.0.0 glb-ads.gamerdna.adtechus.com
 0.0.0.0 glb-ads.iannounce.adtechus.com
 0.0.0.0 glb-ads.tresensa.adtechus.com
+0.0.0.0 glbimg.adtech.de
 0.0.0.0 glbimg.adtechus.com
 0.0.0.0 glbl.adlegend.com
 0.0.0.0 glb.r.skimresources.com
@@ -3275,6 +3302,8 @@
 0.0.0.0 iad.mediaplex.bfp.dotomi.weighted.com
 0.0.0.0 iad.reachlocal.com
 0.0.0.0 iam-preprod.inmobi.com
+0.0.0.0 iam-sb-ams.adtech.de
+0.0.0.0 iam-sb-fra.adtech.de
 0.0.0.0 i.apester.com
 0.0.0.0 ia.thunderhead.com
 0.0.0.0 i.awin.com
@@ -3319,10 +3348,10 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 iei.rlcdn.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -3346,6 +3375,7 @@
 0.0.0.0 images.awin1.com
 0.0.0.0 images-beta.convertcart.com
 0.0.0.0 images.campaigns.foresee.com
+0.0.0.0 imageserv.adtech.de
 0.0.0.0 imageserverqa.midasplayer.com
 0.0.0.0 images-geo.outbrain.com
 0.0.0.0 images.info.returnpath.com
@@ -3370,10 +3400,12 @@
 0.0.0.0 img-8.3lift.com
 0.0.0.0 img-9.3lift.com
 0.0.0.0 img.admin.publicidees.com
+0.0.0.0 img.adtech.de
 0.0.0.0 img.applvn.com
 0.0.0.0 img.bizographics.com
 0.0.0.0 imgblur.adkmob.com
 0.0.0.0 imgcdn.zebestof.com
+0.0.0.0 img-dc2.adtech.de
 0.0.0.0 img-ex.metaps.com
 0.0.0.0 img.imgsniper.com
 0.0.0.0 img.mkto-b0065.com
@@ -3387,6 +3419,7 @@
 0.0.0.0 img.staging.paperg.com
 0.0.0.0 img.zemanta.com
 0.0.0.0 imi.sp1.convertro.com
+0.0.0.0 immobilienscout24-sb-ams.adtech.de
 0.0.0.0 imp2.bizographics.com
 0.0.0.0 impact-proxy.playbuzz.com
 0.0.0.0 imp.adrd.co
@@ -3396,6 +3429,7 @@
 0.0.0.0 impressions-gc.appsflyer.com
 0.0.0.0 imp.skyrocket.adtdp.com
 0.0.0.0 imsoldcom.yusp.com
+0.0.0.0 imspro.adtech.de
 0.0.0.0 imspro.adtechus.com
 0.0.0.0 imx.dca.events.bidstalk.com
 0.0.0.0 imx.hkg.events.bidstalk.com
@@ -3562,7 +3596,10 @@
 0.0.0.0 iponhu.yusp.com
 0.0.0.0 i.prod.ping-origin-prd.jwpltx.com
 0.0.0.0 ipv6.device-metrics-us.amazon.com
+0.0.0.0 iqreport.adtech.de
 0.0.0.0 iqreport.adtechus.com
+0.0.0.0 iqreport-dc1.adtech.de
+0.0.0.0 iqreport-dc2.adtech.de
 0.0.0.0 ir.audience.newscgp.com
 0.0.0.0 i.reamp.com.br
 0.0.0.0 irlist.microadinc.com
@@ -4464,6 +4501,7 @@
 0.0.0.0 node-nl-oobae4.sitescout.com
 0.0.0.0 node-nl-thu3xa.sitescout.com
 0.0.0.0 node.playbuzz.com
+0.0.0.0 nonprod-classic-rest-api.dev.adtech.de
 0.0.0.0 nonprod-classic-rest-api.dev.adtechus.com
 0.0.0.0 nonprod.flurry.com
 0.0.0.0 nonprod.useast.geoservice.inmobi.com
@@ -5255,8 +5293,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
@@ -5783,10 +5821,10 @@
 0.0.0.0 s-07.optvdo.com
 0.0.0.0 s-09.optvdo.com
 0.0.0.0 s10.allinviews.com
-0.0.0.0 s-10.optvdo.com
 0.0.0.0 s10.optvdo.com
-0.0.0.0 s-12.optvdo.com
+0.0.0.0 s-10.optvdo.com
 0.0.0.0 s12.optvdo.com
+0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.urbaninsight.com
 0.0.0.0 s13.ayads.co
 0.0.0.0 s13.optvdo.com
@@ -6426,8 +6464,8 @@
 0.0.0.0 static-2.3lift.com
 0.0.0.0 static2.sharethrough.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.black.erne.co
 0.0.0.0 static.blog.sharethis.com
@@ -7041,6 +7079,7 @@
 0.0.0.0 um.macromill.com
 0.0.0.0 umpee.qa-iad.amobee.com
 0.0.0.0 ums.adtechjp.com
+0.0.0.0 ums.glb.adtech.de
 0.0.0.0 ums-sb-ec.adtechus.com
 0.0.0.0 ums-toy.adtechjp.com
 0.0.0.0 unbeatablesale.rdr.channelintelligence.com
@@ -7300,8 +7339,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -7513,8 +7552,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vid.locsensads.com
 0.0.0.0 vid.pardot.com
 0.0.0.0 vidyorouter2.rubiconproject.com
@@ -8076,6 +8115,7 @@
 0.0.0.0 www.cdn8.usw.forter.com
 0.0.0.0 www.cdn.adasiaholdings.com
 0.0.0.0 www.cdn.adrta.com
+0.0.0.0 www.cdn.adspirit.de
 0.0.0.0 www.cdn.airfind.com
 0.0.0.0 www.cdn.bannersnack.com
 0.0.0.0 www.cdn.bizible.com
