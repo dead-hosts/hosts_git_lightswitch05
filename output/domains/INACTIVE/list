@@ -809,8 +809,8 @@ api.sharethis.com
 api.silverpush.co
 apis.sharethrough.com
 api-ssl.demandbase.com
-apis-staging.sharethrough.com
 apis.staging.sharethrough.com
+apis-staging.sharethrough.com
 api.staging.connatix.com
 api-staging.playbuzz.com
 api-staging-us-west-2.lisnr.com
@@ -975,8 +975,8 @@ assets1.brightedge.com
 assets2.brightedge.com
 assets2.huluim.com
 assets3.brightedge.com
-assets.acceptance.sharethrough.com
 assets-acceptance.sharethrough.com
+assets.acceptance.sharethrough.com
 assets.adtechus.com
 assets.applvn.com
 assets.ebuzzing.com
@@ -1099,8 +1099,8 @@ azasc.iasds01.com
 azjsc.iasds01.com
 azkaban.adwyze.com
 azure-res-provider.newrelic.com
-b1473-k8s.dev-iad.amobee.com
 b-1473-k8s.dev-iad.amobee.com
+b1473-k8s.dev-iad.amobee.com
 b1.midasplayer.com
 ba1.midasplayer.com
 baba.dev-iad.amobee.com
@@ -1223,6 +1223,7 @@ bifrost-ash.247realmedia.com
 bifrost-lon.247realmedia.com
 bifrost-ny.247realmedia.com
 bifrost-pa.247realmedia.com
+bigfish-dev-gce.weborama.com
 bigscience.bytegain.com
 big.telemetry.microsoft.com
 bi.installfarm.com
@@ -1592,6 +1593,7 @@ cdntest-01.scupio.com
 cdntest-190917.scupio.com
 cdn-thumbs.brainient.com
 cdn.thunderhead.com
+cdn.track.webgains.com
 cdn-ugc.brainient.com
 cdn-video.amgvgt.com
 cdn.vungle.com
@@ -1837,6 +1839,7 @@ content.rce.veeseo.com
 content.rejoiner.com
 content.rubiconproject.com
 content-staging.sharethrough.com
+context.webgains.com
 control.springserve.com
 controltower.dz.optimizely.com
 convdb.buysellads.com
@@ -1845,6 +1848,7 @@ conversionmachine.sitescoutadserver.com
 conv.log.go.com
 cookiesync-mynativeplatform-347915877.us-east-1.elb.amazonaws.com
 coolmath-d3.openxenterprise.com
+copacabana.weborama.com
 coray.ayads.co
 core.adotube.com
 core.adtechjp.com
@@ -1992,6 +1996,7 @@ dataproxy.heapanalytics.com
 data-qa.midasplayer.com
 dataroom.apester.com
 datascience-prd.svc.tapad.com
+datascience.weborama.com
 data-service2.mopub.com
 data-service.mopub.com
 data-staging.scoota.co
@@ -2198,6 +2203,7 @@ dev-kraken03.wdc.bluekai.com
 dev.lab.tune.com
 dev.liverail.com
 dev.madmobile.com
+dev-main.webgains.com
 dev.midasplayer.com
 dev.mmp.adtz.com
 dev.msrv.saastest.appdynamics.com
@@ -2777,8 +2783,10 @@ frontdoor-develrc-new.us-east.appbe.optimizely.com
 frontdoor-develrc-new.us-west-2.appbe.optimizely.com
 frontdoor-develrc-new.us-west.appbe.optimizely.com
 frontend-prd.svc.tapad.com
+frontend-preprod.weborama.com
 frontend.snackly.co
 frontend-stg.svc.tapad.com
+frontend.weborama.com
 frontprod.datadome.co
 fr.support.appsflyer.com
 fruitbouquets.rdr.channelintelligence.com
@@ -3127,10 +3135,10 @@ idsync.mparticle.com
 idtest.acxiom.com
 iei.rlcdn.com
 i.essads.com
-ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
-ifc2-vip-hkg1.inmobi.com
+ifc2.vip.dfw1.inmobi.com
 ifc2.vip.hkg1.inmobi.com
+ifc2-vip-hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -3225,8 +3233,8 @@ initjs-prod.gcp.rfksrv.com
 initjs-staging.gcp.rfksrv.com
 initjs-test.gcp.rfksrv.com
 init-latency-test.supersonicads.com
-i.n.jwpltx.com
 in.jwpltx.com
+i.n.jwpltx.com
 inline.sharethis.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
@@ -3284,6 +3292,7 @@ integralmkt-d3.openxenterprise.com
 integration-asa-api.aws.rubiconproject.com
 integration.connatix.com
 integration.corp.mixpanel.com
+integration.data.weborama.com
 integration-hub-dev.svc.kargo.com
 integration.one-demo.convertro.com
 integration.one-integration.ci.convertro.com
@@ -3539,6 +3548,9 @@ lb-jp.vidora.com
 lb.leads.demandbase.com
 lb.midasplayer.com
 lb.smrtb.com
+lb-us-east1-00.bigsea.weborama.com
+lb-us-east1-01.bigsea.weborama.com
+lb-us-east1-02.bigsea.weborama.com
 lct-fast.addthis.com
 ld1.criteo.com
 ld2.criteo.com
@@ -4686,6 +4698,7 @@ platfrom-api.placeyourview.com
 playables.fractionalmedia.com
 playbook.segment.com
 playbuzz.fanbread.com
+playdemic.r.wbinsights.com
 player.bestcontentonline.com
 player.ebuzzing.com
 player.installfarm.com
@@ -4765,6 +4778,7 @@ preprod-sso.leanplum.com
 presentation.analyticson.com
 press.blog.playhaven.com
 press.shopcurbside.com
+presto-gdpr-dev-encrypted.wbinsights.com
 presto-ldap.adotmob.com
 preview1.thunderhead.com
 preview2.thunderhead.com
@@ -4928,8 +4942,8 @@ prospector-cdn.salesloft.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 pro.vsassets.com
 proximiter-stg.joystickinteractive.com
 proximiter-temp.joystickinteractive.com
@@ -5407,8 +5421,8 @@ rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
 s-07.optvdo.com
 s-09.optvdo.com
 s10.allinviews.com
-s10.optvdo.com
 s-10.optvdo.com
+s10.optvdo.com
 s12.optvdo.com
 s-12.optvdo.com
 s12.urbaninsight.com
@@ -5484,8 +5498,8 @@ s4unit02.citacx.acxiom.com
 s-50.algovid.com
 s-50.optvdo.com
 s-51.algovid.com
-s51.optvdo.com
 s-51.optvdo.com
+s51.optvdo.com
 s-52.algovid.com
 s-52.optvdo.com
 s-53.algovid.com
@@ -5642,6 +5656,7 @@ secure.uac.advertising.com
 secure-uat.addthis.com
 secure.widget.dynamic.advertising.com
 secure-xy.imrworldwide.com
+segment.wbinsights.com
 seg.nzaza.com
 selfserve.buysellads.com
 selfserve.ebuzzing.com
@@ -6034,8 +6049,8 @@ static.propellerads.com
 static.quarticon.com
 static-sio.hotjar.com
 static.sociomantic.com
-static.staging.sharethrough.com
 static-staging.sharethrough.com
+static.staging.sharethrough.com
 static.tagoo.cc
 static.tagoo.co
 static.tagtoo.co
@@ -6820,6 +6835,7 @@ us.criteo.com
 us.e1-np.adproxy.ndmdhs.com
 us-east-1.beta.analytics.console.aws.a2z.com
 us-east-1.beta.routing.panorama.analytics.console.aws.a2z.com
+us-east1.bigsea.weborama.com
 us-east-1.gamma.analytics.console.aws.a2z.com
 us-east-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.prod15.rlets.com
@@ -7016,8 +7032,8 @@ video.cloud.kargo.com
 video.flashtalking.com
 video.inmobi.com
 videomax.neodatagroup.com
-videos-acceptance.sharethrough.com
 videos.acceptance.sharethrough.com
+videos-acceptance.sharethrough.com
 videos.sharethrough.com
 videos.springserve.com
 videos.staging.sharethrough.com
@@ -7505,6 +7521,7 @@ www.bi.demandbase.com
 www.bid.solocpm.com
 www.bidstalk.com
 www.bid.tapjoy.com
+www.bigsea-sandbox.weborama.com
 www.billboard.amobee.com
 www.blade.microad-cn.com
 www.block-test.developerdan.com
@@ -7558,6 +7575,7 @@ www.cdn-preview.dynamicyield.com
 www.cdns.brsrvr.com
 www.cdn.springserve.com
 www.cdn.stickyadstv.com
+www.cdn.track.webgains.com
 www.cdp-staging.dataexchange.inmobi.com
 www.cdx.ssacdn.com
 www.ced.sascdn.com
@@ -8275,6 +8293,7 @@ www.snapads.com
 www.sondheim.appboy.com
 www.sonic.rubiconproject.com
 www.sophos-secure.247realmedia.com
+www.soteria.webgains.com
 www.sp1.convertro.com
 www.spotxcdn.com
 www.srib.serving-sys.com
@@ -8344,6 +8363,7 @@ www.stg-ua.inmobi.com
 www.sting.de17aserver.com
 www.stripewh.getadmiral.com
 www.sts.mediamind.com
+www.sts.webgains.com
 www.studio.glance.inmobi.com
 www.sugar.paradym.com
 www.superstudio.facebook-ads.adtz.com
@@ -8401,6 +8421,7 @@ www.tracking.keywee.co
 www.tracking.metalyzer.com
 www.tracking.publicidees.com
 www.track.tkbo.com
+www.track.webgains.com
 www.tr.admailtiser.com
 www.traffic.adventurefeeds.com
 www.traffic.mpnrs.com
@@ -8439,6 +8460,7 @@ www.ussip.mediamind.com
 www.us.static.adjug.com
 www.us.veeseo.com
 www.us.view.adjug.com
+www.us.webgains.com
 www.v1ad.adlegend.com
 www.v.adsrvs.com
 www.vangogher.glance.inmobi.com
