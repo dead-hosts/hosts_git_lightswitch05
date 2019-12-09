@@ -39962,129 +39962,6 @@
         "1573162918": {
             "apt-bud-2-ext.adsrvr.org": "INACTIVE"
         },
-        "1574549599": {
-            "metrics.starz.com": "INACTIVE"
-        },
-        "1574549601": {
-            "i.tac.stfile.com": "INACTIVE"
-        },
-        "1574549602": {
-            "s.tac.stfile.com": "INACTIVE"
-        },
-        "1574549610": {
-            "ads57-us-east.stickyadstv.com": "INACTIVE"
-        },
-        "1574549613": {
-            "www.cdn.stickyadstv.com": "INACTIVE"
-        },
-        "1574549615": {
-            "elk.stickyadstv.com": "INACTIVE"
-        },
-        "1574549616": {
-            "grafana.stickyadstv.com": "INACTIVE",
-            "www.elk.stickyadstv.com": "INACTIVE"
-        },
-        "1574549634": {
-            "www.dc.stokke.com": "INACTIVE"
-        },
-        "1574549635": {
-            "intljs.stormiq.com": "INACTIVE",
-            "js.stormiq.com": "INACTIVE"
-        },
-        "1574549636": {
-            "pi.stormiq.com": "INACTIVE",
-            "t1.stormiq.com": "INACTIVE"
-        },
-        "1574549637": {
-            "t2.stormiq.com": "INACTIVE",
-            "three.stormiq.com": "INACTIVE"
-        },
-        "1574549638": {
-            "ads.suite6ixty6ix.com": "INACTIVE"
-        },
-        "1574549639": {
-            "post.update.suite6ixty6ix.com": "INACTIVE",
-            "s.update.suite6ixty6ix.com": "INACTIVE"
-        },
-        "1574549640": {
-            "t.update.suite6ixty6ix.com": "INACTIVE"
-        },
-        "1574549642": {
-            "push.sumo.com": "INACTIVE"
-        },
-        "1574549646": {
-            "postlog.supersonic.com": "INACTIVE"
-        },
-        "1574549647": {
-            "www.postlog.supersonic.com": "INACTIVE",
-            "www.referral.supersonic.com": "INACTIVE"
-        },
-        "1574549648": {
-            "ads.supersonicads.com": "INACTIVE"
-        },
-        "1574549650": {
-            "dev8.supersonicads.com": "INACTIVE",
-            "gateway.supersonicads.com": "INACTIVE"
-        },
-        "1574549651": {
-            "init-latency-test.supersonicads.com": "INACTIVE"
-        },
-        "1574549654": {
-            "ris-gateway.supersonicads.com": "INACTIVE"
-        },
-        "1574549655": {
-            "sonic-dev.supersonicads.com": "INACTIVE",
-            "sonic-us.supersonicads.com": "INACTIVE"
-        },
-        "1574549657": {
-            "td-click.sonic-us.supersonicads.com": "INACTIVE"
-        },
-        "1574549658": {
-            "td-click-haproxy.supersonicads.com": "INACTIVE",
-            "www.pixel.surpasshosting.com": "INACTIVE"
-        },
-        "1574549662": {
-            "cdn02.survicate.com": "INACTIVE"
-        },
-        "1574549663": {
-            "cdn01.survicate.com": "INACTIVE",
-            "pa.survicate.com": "INACTIVE"
-        },
-        "1574549664": {
-            "settings.survicate.com": "INACTIVE"
-        },
-        "1574549665": {
-            "staging-api.survicate.com": "INACTIVE"
-        },
-        "1574549666": {
-            "a.svrtb.com": "INACTIVE",
-            "t.svrtb.com": "INACTIVE"
-        },
-        "1574549667": {
-            "c.svrtb.com": "INACTIVE"
-        },
-        "1574549668": {
-            "a.elb.svtrd.com": "INACTIVE",
-            "cdn.svtrd.com": "INACTIVE"
-        },
-        "1574549669": {
-            "attribution.swiss.com": "INACTIVE",
-            "s.svtrd.com": "INACTIVE",
-            "t.elb.svtrd.com": "INACTIVE"
-        },
-        "1574549671": {
-            "abtest.activision.swrve.com": "INACTIVE",
-            "api.activision.swrve.com": "INACTIVE",
-            "debug.api.activision.swrve.com": "INACTIVE"
-        },
-        "1574549672": {
-            "content.activision.swrve.com": "INACTIVE",
-            "link.activision.swrve.com": "INACTIVE"
-        },
-        "1574549673": {
-            "amplify-eu.swrve.com": "INACTIVE",
-            "amplify.swrve.com": "INACTIVE"
-        },
         "1574550446": {
             "eu-api.swrve.com": "INACTIVE"
         },
@@ -60249,6 +60126,107 @@
         },
         "1575856627": {
             "analytics.ssbbartgroup.com": "INACTIVE"
+        },
+        "1575857314": {
+            "metrics.starz.com": "INACTIVE"
+        },
+        "1575857315": {
+            "s.tac.stfile.com": "INACTIVE"
+        },
+        "1575857316": {
+            "i.tac.stfile.com": "INACTIVE"
+        },
+        "1575857318": {
+            "ads57-us-east.stickyadstv.com": "INACTIVE"
+        },
+        "1575857319": {
+            "www.cdn.stickyadstv.com": "INACTIVE"
+        },
+        "1575857320": {
+            "elk.stickyadstv.com": "INACTIVE",
+            "grafana.stickyadstv.com": "INACTIVE",
+            "www.elk.stickyadstv.com": "INACTIVE"
+        },
+        "1575857325": {
+            "intljs.stormiq.com": "INACTIVE",
+            "www.dc.stokke.com": "INACTIVE"
+        },
+        "1575857326": {
+            "js.stormiq.com": "INACTIVE",
+            "pi.stormiq.com": "INACTIVE",
+            "t1.stormiq.com": "INACTIVE",
+            "t2.stormiq.com": "INACTIVE"
+        },
+        "1575857327": {
+            "three.stormiq.com": "INACTIVE"
+        },
+        "1575857328": {
+            "ads.suite6ixty6ix.com": "INACTIVE",
+            "post.update.suite6ixty6ix.com": "INACTIVE",
+            "s.update.suite6ixty6ix.com": "INACTIVE",
+            "t.update.suite6ixty6ix.com": "INACTIVE"
+        },
+        "1575857330": {
+            "push.sumo.com": "INACTIVE"
+        },
+        "1575857332": {
+            "postlog.supersonic.com": "INACTIVE",
+            "www.postlog.supersonic.com": "INACTIVE",
+            "www.referral.supersonic.com": "INACTIVE"
+        },
+        "1575857333": {
+            "ads.supersonicads.com": "INACTIVE",
+            "gateway.supersonicads.com": "INACTIVE"
+        },
+        "1575857334": {
+            "dev8.supersonicads.com": "INACTIVE",
+            "init-latency-test.supersonicads.com": "INACTIVE"
+        },
+        "1575857335": {
+            "ris-gateway.supersonicads.com": "INACTIVE",
+            "sonic-dev.supersonicads.com": "INACTIVE"
+        },
+        "1575857336": {
+            "sonic-us.supersonicads.com": "INACTIVE",
+            "td-click-haproxy.supersonicads.com": "INACTIVE",
+            "td-click.sonic-us.supersonicads.com": "INACTIVE"
+        },
+        "1575857337": {
+            "www.pixel.surpasshosting.com": "INACTIVE"
+        },
+        "1575857339": {
+            "cdn01.survicate.com": "INACTIVE",
+            "cdn02.survicate.com": "INACTIVE",
+            "pa.survicate.com": "INACTIVE"
+        },
+        "1575857340": {
+            "settings.survicate.com": "INACTIVE",
+            "staging-api.survicate.com": "INACTIVE"
+        },
+        "1575857341": {
+            "a.svrtb.com": "INACTIVE",
+            "c.svrtb.com": "INACTIVE",
+            "t.svrtb.com": "INACTIVE"
+        },
+        "1575857342": {
+            "a.elb.svtrd.com": "INACTIVE",
+            "cdn.svtrd.com": "INACTIVE",
+            "s.svtrd.com": "INACTIVE"
+        },
+        "1575857343": {
+            "abtest.activision.swrve.com": "INACTIVE",
+            "attribution.swiss.com": "INACTIVE",
+            "t.elb.svtrd.com": "INACTIVE"
+        },
+        "1575857344": {
+            "api.activision.swrve.com": "INACTIVE",
+            "content.activision.swrve.com": "INACTIVE",
+            "debug.api.activision.swrve.com": "INACTIVE",
+            "link.activision.swrve.com": "INACTIVE"
+        },
+        "1575857345": {
+            "amplify-eu.swrve.com": "INACTIVE",
+            "amplify.swrve.com": "INACTIVE"
         }
     }
 }
