@@ -321,6 +321,21 @@
 0.0.0.0 adserver-origin.adtechjp.com
 0.0.0.0 adserver-origin-ap-northeast-1.adtechjp.com
 0.0.0.0 adserver-origin-ap-southeast-1.adtechjp.com
+0.0.0.0 adserverrouter02.prod.vungle.com
+0.0.0.0 adserver-router04-public.prod.vungle.com
+0.0.0.0 adserverrouter07.prod.vungle.com
+0.0.0.0 adserverrouter11.prod.vungle.com
+0.0.0.0 adserverrouter12.prod.vungle.com
+0.0.0.0 adserverrouter13.prod.vungle.com
+0.0.0.0 adserverrouter18.prod.vungle.com
+0.0.0.0 adserverrouter21.prod.vungle.com
+0.0.0.0 adserver-router23-public.prod.vungle.com
+0.0.0.0 adserver-router25-public.prod.vungle.com
+0.0.0.0 adserverrouter28.prod.vungle.com
+0.0.0.0 adserverrouter29.prod.vungle.com
+0.0.0.0 adserverrouter30.prod.vungle.com
+0.0.0.0 adserverrouter31.prod.vungle.com
+0.0.0.0 adserverrouter32.prod.vungle.com
 0.0.0.0 adserver-sb-ec.adtechus.com
 0.0.0.0 adserver-sb-wc.adtechus.com
 0.0.0.0 adservers.selfserve.rubiconproject.com
@@ -2422,6 +2437,7 @@
 0.0.0.0 eim.sitescoutadserver.com
 0.0.0.0 eks.dynamicyield.com
 0.0.0.0 elasticstack.cbsi.com
+0.0.0.0 elastikube.vungle.com
 0.0.0.0 elb.viewtracker.tracking.awin.com
 0.0.0.0 elephant201902181910379.saas.appdynamics.com
 0.0.0.0 elk.stickyadstv.com
@@ -3209,8 +3225,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -3411,6 +3427,7 @@
 0.0.0.0 js-validator.qa.appbe.optimizely.com
 0.0.0.0 julia-temp-1.joystickinteractive.com
 0.0.0.0 juninloo.dev-iad.amobee.com
+0.0.0.0 jupyter.wbinsights.com
 0.0.0.0 jvc.links.channelintelligence.com
 0.0.0.0 jwhelan.rejoiner.com
 0.0.0.0 jwncaptions.rt.cquotient.com
@@ -3633,6 +3650,7 @@
 0.0.0.0 logging.at.atwola.com
 0.0.0.0 logging.glogging.ar.atwola.com
 0.0.0.0 logging.newstags.stag.bounceexchange.com
+0.0.0.0 logging.vungle.com
 0.0.0.0 logincrc.doubleclick.com
 0.0.0.0 logitech.sp1.convertro.com
 0.0.0.0 log.liverail.com
@@ -3648,6 +3666,7 @@
 0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.t.altitude-arena.com
 0.0.0.0 loki.corp.inmobi.com
+0.0.0.0 lol.vungle.com
 0.0.0.0 lombard2017111917482011.saas.appdynamics.com
 0.0.0.0 lon1.100tb.heyzap.com
 0.0.0.0 lon-isepsn01.ise.corp.midasplayer.com
@@ -4616,8 +4635,8 @@
 0.0.0.0 pictela-sb-ec.adtechus.com
 0.0.0.0 pi.dc-storm.com
 0.0.0.0 pingfed.openx.com
-0.0.0.0 pinyou-cm.cn.miaozhen.com
 0.0.0.0 pinyou.cm.cn.miaozhen.com
+0.0.0.0 pinyou-cm.cn.miaozhen.com
 0.0.0.0 pi.stormiq.com
 0.0.0.0 pi-ue1-lb1.pardot.com
 0.0.0.0 pi-ue1-lb2.pardot.com
@@ -4909,8 +4928,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
@@ -5390,8 +5409,8 @@
 0.0.0.0 s10.allinviews.com
 0.0.0.0 s-10.optvdo.com
 0.0.0.0 s10.optvdo.com
-0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.optvdo.com
+0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.urbaninsight.com
 0.0.0.0 s13.ayads.co
 0.0.0.0 s13.optvdo.com
@@ -5465,8 +5484,8 @@
 0.0.0.0 s-50.algovid.com
 0.0.0.0 s-50.optvdo.com
 0.0.0.0 s-51.algovid.com
-0.0.0.0 s51.optvdo.com
 0.0.0.0 s-51.optvdo.com
+0.0.0.0 s51.optvdo.com
 0.0.0.0 s-52.algovid.com
 0.0.0.0 s-52.optvdo.com
 0.0.0.0 s-53.algovid.com
@@ -5688,6 +5707,7 @@
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p05.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p06.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-s50.exacttarget.com
+0.0.0.0 sf.mm.vungle.com
 0.0.0.0 sfm.sitescoutadserver.com
 0.0.0.0 sfoadcpw02.corp.inmobi.com
 0.0.0.0 sfo-isepsn01.ise.corp.midasplayer.com
@@ -5734,6 +5754,7 @@
 0.0.0.0 sift-shopify.siftscience.com
 0.0.0.0 sina.cm.cn.miaozhen.com
 0.0.0.0 singleparentmeet.adlegend.com
+0.0.0.0 singtel.wavesecure.com
 0.0.0.0 s.intercomcdn.com
 0.0.0.0 s.iogous.com
 0.0.0.0 sipexternal.foresee.com
@@ -5997,8 +6018,8 @@
 0.0.0.0 static-2.3lift.com
 0.0.0.0 static2.sharethrough.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.black.erne.co
 0.0.0.0 static.blog.sharethis.com
@@ -6229,6 +6250,7 @@
 0.0.0.0 telenor-profile.localytics.com
 0.0.0.0 telenor-sweden.svc.tapad.com
 0.0.0.0 telenor-thailand.svc.tapad.com
+0.0.0.0 telkomsel.wavesecure.com
 0.0.0.0 temo.analyticson.com
 0.0.0.0 templates-beta.convertcart.com
 0.0.0.0 temp-p1.eu.adsymptotic.com
@@ -6431,8 +6453,8 @@
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.rce.veeseo.com
+0.0.0.0 tracking-rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -6449,8 +6471,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 trello-callback.glance-internal.inmobi.com
@@ -6806,8 +6828,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -6892,6 +6914,7 @@
 0.0.0.0 ux.appsee.com
 0.0.0.0 v1ad.adlegend.com
 0.0.0.0 v2ad.adlegend.com
+0.0.0.0 v2asr-54-152-198-0.prod.vungle.com
 0.0.0.0 v2.datadome.co
 0.0.0.0 v-30.algovid.com
 0.0.0.0 v-31.algovid.com
@@ -6993,12 +7016,12 @@
 0.0.0.0 video.flashtalking.com
 0.0.0.0 video.inmobi.com
 0.0.0.0 videomax.neodatagroup.com
-0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos-acceptance.sharethrough.com
+0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vid.locsensads.com
 0.0.0.0 vid.pardot.com
 0.0.0.0 vidyorouter2.rubiconproject.com
@@ -7051,6 +7074,7 @@
 0.0.0.0 vtrk.tpbid.com
 0.0.0.0 vtyo-rtb1.rfihub.com
 0.0.0.0 vulcan.wdc.bluekai.com
+0.0.0.0 vungle-cdn.vungle.com
 0.0.0.0 vx.jsrdn.com
 0.0.0.0 vz-assets.applovin.com
 0.0.0.0 vz-img.applovin.com
@@ -7906,6 +7930,7 @@
 0.0.0.0 www.login-dev.amobee.com
 0.0.0.0 www.log.intellimize.co
 0.0.0.0 www.log.reflow.co
+0.0.0.0 www.logs.palebrook.wbinsights.com
 0.0.0.0 www.loki.corp.inmobi.com
 0.0.0.0 www.looker.amobee.com
 0.0.0.0 www.looker.corp.mparticle.com
@@ -8394,6 +8419,7 @@
 0.0.0.0 www.try.tapad.com
 0.0.0.0 www.ts-decoder.openx.com
 0.0.0.0 www.turnuniversity.turn.com
+0.0.0.0 www.t.wayfair.com
 0.0.0.0 www.tymon.intelsad.com
 0.0.0.0 www.uaadcodedsp.rontar.com
 0.0.0.0 www.ua.inmobi.com
@@ -8445,6 +8471,7 @@
 0.0.0.0 www.watch.salesloft.com
 0.0.0.0 www.wateraid-admin.joystickinteractive.com
 0.0.0.0 www.wateraid-stg.joystickinteractive.com
+0.0.0.0 www.wavesecure.com
 0.0.0.0 www.web01.socialannex.com
 0.0.0.0 www.web02.socialannex.com
 0.0.0.0 www.web03.socialannex.com
