@@ -324,6 +324,7 @@
 0.0.0.0 ads3.fingereach.com
 0.0.0.0 ads57-us-east.stickyadstv.com
 0.0.0.0 ads.adasiaholdings.com
+0.0.0.0 ads.admetrics.events
 0.0.0.0 ads.aertb.com
 0.0.0.0 ad.sam4m.com
 0.0.0.0 ads.ams.contextweb.com
@@ -894,6 +895,7 @@
 0.0.0.0 api.shannon.test.appsee.com
 0.0.0.0 api.sharethis.com
 0.0.0.0 api.silverpush.co
+0.0.0.0 api.simpli.fi
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
 0.0.0.0 apis-staging.sharethrough.com
@@ -971,6 +973,7 @@
 0.0.0.0 app.qa.exacttarget.com
 0.0.0.0 app.quarticon.com
 0.0.0.0 app.response.demandbase.com
+0.0.0.0 apps.admetrics.events
 0.0.0.0 apps.adtz.com
 0.0.0.0 app.scorecardresearch.com
 0.0.0.0 appscripts.webspectator.com
@@ -1076,8 +1079,8 @@
 0.0.0.0 assets2.brightedge.com
 0.0.0.0 assets2.huluim.com
 0.0.0.0 assets3.brightedge.com
-0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets-acceptance.sharethrough.com
+0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets.adtechus.com
 0.0.0.0 assets.applvn.com
 0.0.0.0 assets.ebuzzing.com
@@ -1819,6 +1822,7 @@
 0.0.0.0 chef.rob.ops.kochava.com
 0.0.0.0 chidc2vr.outbrain.com
 0.0.0.0 chikua.qa-iad.amobee.com
+0.0.0.0 china.ads.simpli.fi
 0.0.0.0 chinesepeoplemeet.adlegend.com
 0.0.0.0 choueiri.adswizz.com
 0.0.0.0 chpower.links.channelintelligence.com
@@ -3021,6 +3025,7 @@
 0.0.0.0 frontdoor-develrc-new.us-east.appbe.optimizely.com
 0.0.0.0 frontdoor-develrc-new.us-west-2.appbe.optimizely.com
 0.0.0.0 frontdoor-develrc-new.us-west.appbe.optimizely.com
+0.0.0.0 frontend.m6r.eu
 0.0.0.0 frontend-prd.svc.tapad.com
 0.0.0.0 frontend-preprod.weborama.com
 0.0.0.0 frontend.snackly.co
@@ -3187,6 +3192,7 @@
 0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 go.paradym.com
 0.0.0.0 go.pixlee.com
+0.0.0.0 gotthard.tunnel.dc19.m6r.eu
 0.0.0.0 goubunto.aniview.com
 0.0.0.0 gouwu.mediav.com
 0.0.0.0 gparse.propellerads.com
@@ -3523,8 +3529,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -3810,6 +3816,7 @@
 0.0.0.0 kohls.rdr.channelintelligence.com
 0.0.0.0 kondomit.worldgravity.com
 0.0.0.0 kondomit.yusp.com
+0.0.0.0 kosmos.admetrics.events
 0.0.0.0 ko.support.appsflyer.com
 0.0.0.0 kotulas.rdr.channelintelligence.com
 0.0.0.0 krmdc.gaeadata.com
@@ -5390,8 +5397,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 pro.vsassets.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
@@ -6022,6 +6029,7 @@
 0.0.0.0 s8.optvdo.com
 0.0.0.0 s9.allinviews.com
 0.0.0.0 s9-fast.addthis.com
+0.0.0.0 saasfs3.slgnt.eu
 0.0.0.0 sacbee-d.neodatagroup.com
 0.0.0.0 sacbee-t.neodatagroup.com
 0.0.0.0 sac.ligatus.com
@@ -6600,8 +6608,8 @@
 0.0.0.0 static.quarticon.com
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static.sociomantic.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.stg.yieldmo.com
 0.0.0.0 static.tagoo.cc
 0.0.0.0 static.tagoo.co
@@ -7074,11 +7082,12 @@
 0.0.0.0 tracking.campaign-tracking-service.prod.paperg.com
 0.0.0.0 tracking.cp.ligatus.com
 0.0.0.0 tracking.downloadyeah.com
+0.0.0.0 tracking.eu1.m6r.eu
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking-rce.veeseo.com
+0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -7096,8 +7105,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 trello-callback.glance-internal.inmobi.com
@@ -7469,8 +7478,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -7682,8 +7691,8 @@
 0.0.0.0 videos.acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vid.locsensads.com
 0.0.0.0 vid.pardot.com
 0.0.0.0 vidyorouter2.rubiconproject.com
@@ -8266,6 +8275,7 @@
 0.0.0.0 www.cdn.dynamicyield.com
 0.0.0.0 www.cdn.inmobi.com
 0.0.0.0 www.cdn.merklesearch.com
+0.0.0.0 www.cdn-network.medialead.eu
 0.0.0.0 www.cdn-preview.dynamicyield.com
 0.0.0.0 www.cdns.brsrvr.com
 0.0.0.0 www.cdn.springserve.com
@@ -8752,6 +8762,7 @@
 0.0.0.0 www.nersertive.com
 0.0.0.0 www.nessus1.dfw2.lijit.com
 0.0.0.0 www.nessus2.lijit.com
+0.0.0.0 www.network.medialead.eu
 0.0.0.0 www.neweggstats.com
 0.0.0.0 www.newmail.socialannex.com
 0.0.0.0 www.newscgp.com
