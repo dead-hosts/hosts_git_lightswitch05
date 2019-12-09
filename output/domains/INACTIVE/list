@@ -192,6 +192,8 @@ t.update.ib.adnxs.com
 94d45.admaster.com.cn
 a0.fanbread.com
 a1.fanbread.com
+a1-service.adtelligence.de
+a1-tracking.adtelligence.de
 a2.beeg.com
 a2.fanbread.com
 a3.fanbread.com
@@ -237,6 +239,7 @@ actiontec.links.channelintelligence.com
 activate.virginaustralia.com
 activate.vmd.ctrix.com
 ad105.neodatagroup.com
+ad1.adfarm.adtelligence.de
 ad1.adlegend.com
 ad1.neodatagroup.com
 ad2.neodatagroup.com
@@ -453,6 +456,7 @@ adtracker.opineygane.com
 adtracker.valuedopinions.com
 adtracker.valuedopinions.com.au
 adtracker.webperspectives.ca
+adtstaging-service.adtelligence.de
 advertiser-cn.vizury.com
 advertisersapitest.doubleclick.com
 advertisers.doubleclick.com
@@ -881,8 +885,8 @@ api.sharethis.com
 api.silverpush.co
 apis.sharethrough.com
 api-ssl.demandbase.com
-apis.staging.sharethrough.com
 apis-staging.sharethrough.com
+apis.staging.sharethrough.com
 api.staging.connatix.com
 api-staging.playbuzz.com
 api-staging-us-west-2.lisnr.com
@@ -1060,15 +1064,15 @@ assets1.brightedge.com
 assets2.brightedge.com
 assets2.huluim.com
 assets3.brightedge.com
-assets.acceptance.sharethrough.com
 assets-acceptance.sharethrough.com
+assets.acceptance.sharethrough.com
 assets.adtechus.com
 assets.applvn.com
 assets.ebuzzing.com
 assets.quantcast.com
 assets.sharethrough.com
-assets.staging.sharethrough.com
 assets-staging.sharethrough.com
+assets.staging.sharethrough.com
 assets-ue1.perf.pardot.com
 assist.itnow.netat1.listrakbi.com
 assist.skimresources.com
@@ -3348,8 +3352,8 @@ idsync.mparticle.com
 idtest.acxiom.com
 iei.rlcdn.com
 i.essads.com
-ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
+ifc2.vip.dfw1.inmobi.com
 ifc2.vip.hkg1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
@@ -3412,7 +3416,11 @@ img.mkto-b0065.com
 img.mndtrk.com
 img.mobpro.com
 img-origin.adtechus.com
+img-origin-eu-central-1.prod.adtech.de
+img-origin-eu-west-1.prod.adtech.de
+img-origin-us-east-1.prod.adtech.de
 img-origin-us-east-1.prod.adtechus.com
+img-origin-us-west-1.prod.adtech.de
 img-origin-us-west-1.prod.adtechus.com
 img.propellerads.com
 imgproxy.playhaven.com
@@ -3462,8 +3470,8 @@ initjs-prod.gcp.rfksrv.com
 initjs-staging.gcp.rfksrv.com
 initjs-test.gcp.rfksrv.com
 init-latency-test.supersonicads.com
-i.n.jwpltx.com
 in.jwpltx.com
+i.n.jwpltx.com
 inline.sharethis.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
@@ -4138,6 +4146,7 @@ media8.adlegend.com
 media9.adlegend.com
 media.adasiaholdings.com
 media.adlegend.com
+media.adtech.de
 media.adtechus.com
 mediacomfr.mmgl.cd.serving-sys.com
 media.getsentry.com
@@ -4994,8 +5003,8 @@ pic.scupio.com
 pictela-sb-ec.adtechus.com
 pi.dc-storm.com
 pingfed.openx.com
-pinyou-cm.cn.miaozhen.com
 pinyou.cm.cn.miaozhen.com
+pinyou-cm.cn.miaozhen.com
 pi.stormiq.com
 pi-ue1-lb1.pardot.com
 pi-ue1-lb2.pardot.com
@@ -5105,6 +5114,7 @@ post.update.suite6ixty6ix.com
 post.update.zemanta.com
 ppe.applicationinsights.microsoft.com
 ppgw03.midasplayer.com
+pr-a.adtech.de
 pr-a.adtechus.com
 pr.atwola.com
 prclick.inmobi.com
@@ -5624,6 +5634,7 @@ repapi-bg.web.analytics.yahoo.com
 repapi-eu.web.analytics.yahoo.com
 repapi-ono.web.analytics.yahoo.com
 repapi-us.web.analytics.yahoo.com
+rep-ibi.adtech.de
 rep-ibi.adtechus.com
 replay.answerscloud.com
 replay.lb.foreseeresults.com
@@ -6151,6 +6162,7 @@ sg-pl-844.vizury.com
 sg-pl-d-c.vizury.com
 sg-pr.vizury.com
 sgpubrtb.onedigitalad.com
+sgsdata.adtech.de
 sgsdata.adtechus.com
 sg-stb.blis.com
 shadow.cloud.fyber.com
@@ -6464,8 +6476,8 @@ static04.sociomantic.com
 static-2.3lift.com
 static2.sharethrough.com
 statica.addtoany.com
-static.acceptance.sharethrough.com
 static-acceptance.sharethrough.com
+static.acceptance.sharethrough.com
 static.adpushup.com
 static.black.erne.co
 static.blog.sharethis.com
@@ -6747,6 +6759,7 @@ terminix.sp1.convertro.com
 terrafugiacom.mpeasylink.com
 test06062019.criteo.com
 test1.criteo.com
+test2-adserver.adtech.de
 test2-adserver.adtechus.com
 test2.analyticson.com
 test2-dex-k8s.dev-iad.amobee.com
@@ -7065,6 +7078,7 @@ ui-asrsv-69977628.sitescoutadserver.com
 ui.cp.tune.com
 ui-dsp-rtb.fyber.com
 ui-idx.inmobi.com
+uiservices.adtech.de
 uiservices.adtechus.com
 ui.staging-api-docs.fyber.com
 ui.weborama.com
@@ -7078,6 +7092,7 @@ umavn.worldgravity.com
 umka.qa-iad.amobee.com
 um.macromill.com
 umpee.qa-iad.amobee.com
+ums.adtech.de
 ums.adtechjp.com
 ums.glb.adtech.de
 ums-sb-ec.adtechus.com
@@ -7548,8 +7563,8 @@ video.flashtalking.com
 video.inmobi.com
 videology.ndf.weborama.com
 videomax.neodatagroup.com
-videos.acceptance.sharethrough.com
 videos-acceptance.sharethrough.com
+videos.acceptance.sharethrough.com
 videos.sharethrough.com
 videos.springserve.com
 videos.staging.sharethrough.com
@@ -7575,6 +7590,7 @@ vivad.at.atwola.com
 vivaki-cm.cn.miaozhen.com
 vivaki.ndf.weborama.com
 vizio.links.channelintelligence.com
+vlibs.eu-central-1.prod.adtech.de
 vm.boldchat.com
 vm.dev.midasplayer.com
 vn.tracking.fingereach.com
@@ -7730,6 +7746,8 @@ web.staging.bidstalk.com
 webster-ch.mindtake.com
 webster.mindtake.com
 webtoimage.channelintelligence.com
+webtraffic-sb-ams.adtech.de
+webtraffic-sb-fra.adtech.de
 weixin.miaozhen.com
 weltderwunder-videokatalog.veeseo.com
 wemedia.so.com
@@ -7789,7 +7807,9 @@ wpplydrpad01.vidconlab.acxiom.com
 wprp.zemanta.com
 wps-vce-render-service.scarabresearch.com
 wp-uploads.sharethis.com
+ws2.adtech.de
 ws2.us-ec.adtechus.com
+ws.adtech.de
 ws-api.adtechus.com
 wsc1_3.webspectator.com
 wsc1_4.webspectator.com
