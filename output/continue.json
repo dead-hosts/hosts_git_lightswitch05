@@ -49072,7 +49072,16 @@
             "android.k8s.region-001.s-euc-1.braze.eu",
             "apns.k8s.region-001.s-euc-1.braze.eu",
             "webhook.k8s.region-001.s-euc-1.braze.eu",
-            "webpush.k8s.region-001.s-euc-1.braze.eu"
+            "webpush.k8s.region-001.s-euc-1.braze.eu",
+            "www.braze.eu",
+            "analytics.lucidchart.eu",
+            "m6r.eu",
+            "tracking-failover-02.ams2.m6r.eu",
+            "tracking-failover-01.ams2.m6r.eu",
+            "tracking-failover-03.ams2.m6r.eu",
+            "tracking-failover-04.ams2.m6r.eu",
+            "cdn.m6r.eu",
+            "bbnaut.m6r.eu"
         ],
         "INACTIVE": [
             "iesolutions.7p.com",
@@ -58463,7 +58472,8 @@
             "grafana.k8s.cluster-001.s-euc-1.braze.eu",
             "k8s.region-001.s-euc-1.braze.eu",
             "grafana.k8s.region-001.s-euc-1.braze.eu",
-            "k8s.stc-001.s-euc-1.braze.eu"
+            "k8s.stc-001.s-euc-1.braze.eu",
+            "grafana.k8s.stc-001.s-euc-1.braze.eu"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
