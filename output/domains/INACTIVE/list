@@ -548,12 +548,14 @@ agora.advertising.com
 ahbuzz.sitescoutadserver.com
 ahs.sp1.convertro.com
 aibillingaadserviceprincipalcert.applicationinsights.io
+aibillingfairfax.billingserviceidentity.applicationinsights.io
 aibillingfairfaxtest.applicationinsights.io
 aib-stg.joystickinteractive.com
 aidl-dev1001.data.corp.inmobi.com
 aiev2extension.applicationinsights.io
 aimc-aimon-encryption.applicationinsights.io
 aimc-aimon-mdm.aimon.applicationinsights.io
+aimc-aimon.serviceidentity.aimon.applicationinsights.io
 aimcapi.applicationinsights.io
 aimon.applicationinsights.io
 a.iogous.com
@@ -571,6 +573,7 @@ aitg6.widerplanet.com
 aitg7.widerplanet.com
 aitg8.widerplanet.com
 aitg9.widerplanet.com
+aivaulttest.applicationinsights.io
 ajutor.brainient.com
 aka-cdn.geo.adtechus.com
 aka.flashtalking.com
@@ -685,6 +688,8 @@ allpostersca.madmobile.com
 allposters-cdn.madmobile.com
 allpostersfr.madmobile.com
 allposters.madmobile.com
+alm-eus-01-githuboauthsecondary.applicationinsights.io
+alm-eus-01-vstsoauthsecondary.applicationinsights.io
 alm.sitescoutadserver.com
 alm-wcus-01-githuboauth.aimon.applicationinsights.io
 alm-wcus-01-githuboauthsecondary.aimon.applicationinsights.io
@@ -1116,8 +1121,8 @@ assets.applvn.com
 assets.ebuzzing.com
 assets.quantcast.com
 assets.sharethrough.com
-assets-staging.sharethrough.com
 assets.staging.sharethrough.com
+assets-staging.sharethrough.com
 assets-ue1.perf.pardot.com
 assist.itnow.netat1.listrakbi.com
 assist.skimresources.com
@@ -1425,8 +1430,19 @@ big.telemetry.microsoft.com
 bi.installfarm.com
 bikhir-ams.gravityrd-services.com
 billboard.cloud.kargo.com
+billing-aad.applicationinsights.io
 billing-aimon-encryption.aimon.applicationinsights.io
 billing-aimon-mdm.aimon.applicationinsights.io
+billingea-blackforest-encryption.applicationinsights.io
+billingea-blackforest-mdm.applicationinsights.io
+billingea-fairfax-encryption.applicationinsights.io
+billingea-fairfax-mdm.applicationinsights.io
+billingea-fairfaxtest-encryption.applicationinsights.io
+billingea-fairfaxtest-mdm.applicationinsights.io
+billingea-mooncake-billingserviceidentity.applicationinsights.io
+billingea-mooncake-encryption.applicationinsights.io
+billingea-mooncake-mdm.applicationinsights.io
+billingserviceidentity.applicationinsights.io
 bi.mediaiqdigital.com
 bis2.allinviews.com
 bis2.bestcontentonline.com
@@ -1532,6 +1548,7 @@ brandsolutions.adform.com
 b.reachedge.qa.reachlocal.com
 breakingnews.sitescoutadserver.com
 breathe.c3metrics.com
+breeze-aimon-serviceprincipal.applicationinsights.io
 bre.fyber.com
 brf-corpca1.corp.mparticle.com
 brm-core-websphere-0.brsrvr.com
@@ -3503,9 +3520,9 @@ idr.ad.gt
 idrs.ad.gt
 idsa.ad.gt
 id.s.ad.gt
-i.ds.ad.gt
-id-s.ad.gt
 i-ds.ad.gt
+id-s.ad.gt
+i.ds.ad.gt
 idsd.ad.gt
 idse.ad.gt
 idsq.ad.gt
@@ -3538,8 +3555,8 @@ ies.ad.gt
 i.essads.com
 ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
-ifc2.vip.hkg1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
+ifc2.vip.hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -5008,6 +5025,7 @@ origin.spoods.rce.veeseo.com
 origin-stage-app.scorecardresearch.com
 origin.uac.advertising.com
 origin-vlibs.advertising.com
+orion-aimon-uswc-encryption.aimon.applicationinsights.io
 orionhttp.s50.exacttarget.com
 orionimg.adkmob.com
 orkodohu.worldgravity.com
@@ -5262,8 +5280,8 @@ pictela-sb-ec.adtechus.com
 pi.dc-storm.com
 pimages.xplosion.de
 pingfed.openx.com
-pinyou.cm.cn.miaozhen.com
 pinyou-cm.cn.miaozhen.com
+pinyou.cm.cn.miaozhen.com
 pi.stormiq.com
 pi-ue1-lb1.pardot.com
 pi-ue1-lb2.pardot.com
@@ -5755,6 +5773,7 @@ qualys.resonate.com
 quantify.dev.paperg.com
 query-us-east-1.petametrics.com
 queuer-elb.sandbox53.localytics.com
+quickpulse-aimon-uswc-encryption.aimon.applicationinsights.io
 quill.rdr.channelintelligence.com
 quintana.impresionesweb.com
 quiz.adtelligence.de
@@ -6112,8 +6131,8 @@ s-09.optvdo.com
 s10.allinviews.com
 s10.optvdo.com
 s-10.optvdo.com
-s-12.optvdo.com
 s12.optvdo.com
+s-12.optvdo.com
 s12.urbaninsight.com
 s13.ayads.co
 s13.optvdo.com
@@ -6605,6 +6624,7 @@ spe.atdmt.com
 spec.segment.com
 spectral.sitescoutadserver.com
 spectrum.adlegend.com
+spectrum.encryption.applicationinsights.io
 speedycash.sp1.convertro.com
 spiegel.rce.veeseo.com
 s.ping-origin-prd.jwpltx.com
@@ -6781,8 +6801,8 @@ static04.sociomantic.com
 static-2.3lift.com
 static2.sharethrough.com
 statica.addtoany.com
-static-acceptance.sharethrough.com
 static.acceptance.sharethrough.com
+static-acceptance.sharethrough.com
 static.adpushup.com
 static.black.erne.co
 static.blog.sharethis.com
@@ -6801,8 +6821,8 @@ static.quarticon.com
 static.simpli.fi
 static-sio.hotjar.com
 static.sociomantic.com
-static-staging.sharethrough.com
 static.staging.sharethrough.com
+static-staging.sharethrough.com
 static.stg.yieldmo.com
 static.tagoo.cc
 static.tagoo.co
@@ -7304,8 +7324,8 @@ trapgenie.sitescoutadserver.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel.productads.hlserve.com
 travel-productads.hlserve.com
+travel.productads.hlserve.com
 tr.bnmla.com
 trc-cc.taboola.com
 trello-callback.glance-internal.inmobi.com
@@ -7978,6 +7998,7 @@ wateraid-tmp.joystickinteractive.com
 wayne-goss.fanbread.com
 wbw.imrworldwide.com
 wc.adapf.com
+wcus-cds-data-encryption.aimon.applicationinsights.io
 wdc4.mediation.nexage.com
 wdc5.mediation.nexage.com
 wdc5.nexage.com
@@ -8320,6 +8341,7 @@ www.agility.nba.com
 www.agility.ncaa.com
 www.agility.tbs.com
 www.aidl-dev1001.data.corp.inmobi.com
+www.aimon.applicationinsights.io
 www.airvertiseme.com
 www.a.jsrdn.com
 www.akamaisecure.qualtrics.com
