@@ -39962,112 +39962,6 @@
         "1573162918": {
             "apt-bud-2-ext.adsrvr.org": "INACTIVE"
         },
-        "1574555881": {
-            "ops-prod-a.us-west-2.k8s.tune.com": "INACTIVE"
-        },
-        "1574555882": {
-            "dev.lab.tune.com": "INACTIVE",
-            "lab.tune.com": "INACTIVE",
-            "ops-stage-a.us-west-2.k8s.tune.com": "INACTIVE"
-        },
-        "1574555883": {
-            "labs.tune.com": "INACTIVE",
-            "mvapp.dev.lab.tune.com": "INACTIVE"
-        },
-        "1574555884": {
-            "analytics.ma.tune.com": "INACTIVE",
-            "configuration.ma.tune.com": "INACTIVE"
-        },
-        "1574555885": {
-            "connected.ma.tune.com": "INACTIVE",
-            "playlist.ma.tune.com": "INACTIVE",
-            "services.ma.tune.com": "INACTIVE"
-        },
-        "1574555886": {
-            "mc.tune.com": "INACTIVE"
-        },
-        "1574555887": {
-            "brandisolationtest1.ops.tune.com": "INACTIVE",
-            "peterr.acm-test.ops.tune.com": "INACTIVE"
-        },
-        "1574555888": {
-            "aws-cni-test.us-west-2.k8s.ops.tune.com": "INACTIVE",
-            "brandisolationtest2.ops.tune.com": "INACTIVE",
-            "tuneci.us-west-2.k8s.ci.ops.tune.com": "INACTIVE"
-        },
-        "1574555889": {
-            "ops-prod.us-west-2.k8s.ops.tune.com": "INACTIVE",
-            "ops-stage.us-west-2.k8s.ops.tune.com": "INACTIVE"
-        },
-        "1574555890": {
-            "tuneci.us-west-2.k8s.ops.tune.com": "INACTIVE",
-            "wildcard.ops.tune.com": "INACTIVE"
-        },
-        "1574555892": {
-            "adworks.turn.com": "INACTIVE"
-        },
-        "1574555893": {
-            "www.adworks.turn.com": "INACTIVE"
-        },
-        "1574555894": {
-            "mailrelay.atl1.turn.com": "INACTIVE",
-            "www.api.turn.com": "INACTIVE"
-        },
-        "1574555895": {
-            "autodiscover.turn.com": "INACTIVE"
-        },
-        "1574555896": {
-            "www.attadworks.turn.com": "INACTIVE"
-        },
-        "1574555897": {
-            "brandportal.turn.com": "INACTIVE",
-            "www.bomgar.turn.com": "INACTIVE"
-        },
-        "1574555898": {
-            "cas-bk.turn.com": "INACTIVE",
-            "www.brandportal.turn.com": "INACTIVE"
-        },
-        "1574555899": {
-            "cdns.turn.com": "INACTIVE",
-            "cloud.turn.com": "INACTIVE"
-        },
-        "1574555900": {
-            "www.cloud.turn.com": "INACTIVE",
-            "www.d.turn.com": "INACTIVE"
-        },
-        "1574555903": {
-            "ns1.hkg1.turn.com": "INACTIVE"
-        },
-        "1574555904": {
-            "labs.turn.com": "INACTIVE",
-            "legacy.turn.com": "INACTIVE"
-        },
-        "1574555905": {
-            "mail.turn.com": "INACTIVE",
-            "www.mail.turn.com": "INACTIVE"
-        },
-        "1574555906": {
-            "www.pgp-us.turn.com": "INACTIVE"
-        },
-        "1574555907": {
-            "pgp1-us.turn.com": "INACTIVE",
-            "www.pgp1-us.turn.com": "INACTIVE"
-        },
-        "1574555908": {
-            "ra01.turn.com": "INACTIVE",
-            "www.r.turn.com": "INACTIVE"
-        },
-        "1574555909": {
-            "www.ra01.turn.com": "INACTIVE"
-        },
-        "1574555911": {
-            "turn-mail.turn.com": "INACTIVE",
-            "www.sr.turn.com": "INACTIVE"
-        },
-        "1574555912": {
-            "turnuniversity.turn.com": "INACTIVE",
-            "www.turnuniversity.turn.com": "INACTIVE"
-        },
         "1574555914": {
             "www.analytics.turnto.com": "INACTIVE"
         },
@@ -60143,6 +60037,90 @@
         "1575863858": {
             "ho-dev-a.us-west-2.k8s.tune.com": "INACTIVE",
             "ops-prod-a.us-west-1.k8s.tune.com": "INACTIVE"
+        },
+        "1575864548": {
+            "lab.tune.com": "INACTIVE",
+            "ops-prod-a.us-west-2.k8s.tune.com": "INACTIVE",
+            "ops-stage-a.us-west-2.k8s.tune.com": "INACTIVE"
+        },
+        "1575864549": {
+            "analytics.ma.tune.com": "INACTIVE",
+            "dev.lab.tune.com": "INACTIVE",
+            "labs.tune.com": "INACTIVE",
+            "mvapp.dev.lab.tune.com": "INACTIVE"
+        },
+        "1575864550": {
+            "configuration.ma.tune.com": "INACTIVE",
+            "connected.ma.tune.com": "INACTIVE",
+            "playlist.ma.tune.com": "INACTIVE",
+            "services.ma.tune.com": "INACTIVE"
+        },
+        "1575864551": {
+            "mc.tune.com": "INACTIVE",
+            "peterr.acm-test.ops.tune.com": "INACTIVE"
+        },
+        "1575864552": {
+            "aws-cni-test.us-west-2.k8s.ops.tune.com": "INACTIVE",
+            "brandisolationtest1.ops.tune.com": "INACTIVE",
+            "brandisolationtest2.ops.tune.com": "INACTIVE",
+            "tuneci.us-west-2.k8s.ci.ops.tune.com": "INACTIVE"
+        },
+        "1575864553": {
+            "ops-prod.us-west-2.k8s.ops.tune.com": "INACTIVE",
+            "ops-stage.us-west-2.k8s.ops.tune.com": "INACTIVE",
+            "tuneci.us-west-2.k8s.ops.tune.com": "INACTIVE",
+            "wildcard.ops.tune.com": "INACTIVE"
+        },
+        "1575864555": {
+            "adworks.turn.com": "INACTIVE",
+            "www.adworks.turn.com": "INACTIVE",
+            "www.api.turn.com": "INACTIVE"
+        },
+        "1575864556": {
+            "autodiscover.turn.com": "INACTIVE",
+            "mailrelay.atl1.turn.com": "INACTIVE",
+            "www.attadworks.turn.com": "INACTIVE"
+        },
+        "1575864557": {
+            "brandportal.turn.com": "INACTIVE",
+            "cas-bk.turn.com": "INACTIVE",
+            "www.bomgar.turn.com": "INACTIVE"
+        },
+        "1575864558": {
+            "cdns.turn.com": "INACTIVE",
+            "www.brandportal.turn.com": "INACTIVE"
+        },
+        "1575864559": {
+            "cloud.turn.com": "INACTIVE",
+            "www.cloud.turn.com": "INACTIVE",
+            "www.d.turn.com": "INACTIVE"
+        },
+        "1575864560": {
+            "ns1.hkg1.turn.com": "INACTIVE"
+        },
+        "1575864561": {
+            "labs.turn.com": "INACTIVE",
+            "legacy.turn.com": "INACTIVE",
+            "mail.turn.com": "INACTIVE",
+            "www.mail.turn.com": "INACTIVE"
+        },
+        "1575864562": {
+            "pgp1-us.turn.com": "INACTIVE",
+            "www.pgp-us.turn.com": "INACTIVE",
+            "www.pgp1-us.turn.com": "INACTIVE"
+        },
+        "1575864563": {
+            "ra01.turn.com": "INACTIVE",
+            "www.r.turn.com": "INACTIVE"
+        },
+        "1575864564": {
+            "www.ra01.turn.com": "INACTIVE"
+        },
+        "1575864565": {
+            "turn-mail.turn.com": "INACTIVE",
+            "turnuniversity.turn.com": "INACTIVE",
+            "www.sr.turn.com": "INACTIVE",
+            "www.turnuniversity.turn.com": "INACTIVE"
         }
     }
 }
