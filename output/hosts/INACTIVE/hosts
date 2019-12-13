@@ -985,8 +985,8 @@
 0.0.0.0 api.simpli.fi
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 api-staging-us-west-2.lisnr.com
@@ -1340,8 +1340,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azure-res-provider.newrelic.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-apac1-win.zemanta.com
 0.0.0.0 b1-euc1-win.zemanta.com
 0.0.0.0 b1-euc2.zemanta.com
@@ -3641,6 +3641,7 @@
 0.0.0.0 haggler-smaato026-us-e-ec2.liftoff.io
 0.0.0.0 haggler-unity007-us-e-ec2.liftoff.io
 0.0.0.0 hahajknew.bnmla.com
+0.0.0.0 handelsblattglobal.cdn.adglare.net
 0.0.0.0 handelsblatt.rce.veeseo.com
 0.0.0.0 handelsblatt-videokatalog.veeseo.com
 0.0.0.0 happenlabs.count.ly
@@ -3829,8 +3830,8 @@
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
 0.0.0.0 i-ds.ad.gt
-0.0.0.0 id.s.ad.gt
 0.0.0.0 i.ds.ad.gt
+0.0.0.0 id.s.ad.gt
 0.0.0.0 id-s.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
@@ -3862,10 +3863,10 @@
 0.0.0.0 iei.rlcdn.com
 0.0.0.0 ies.ad.gt
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -3873,6 +3874,7 @@
 0.0.0.0 ifds.ad.gt
 0.0.0.0 iframe.sharethrough.com
 0.0.0.0 ifs.ad.gt
+0.0.0.0 igroupco.cdn.adglare.net
 0.0.0.0 ig.services.webspectator.com
 0.0.0.0 ihg.activate.ensighten.com
 0.0.0.0 iids.ad.gt
@@ -3988,8 +3990,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -4143,6 +4145,7 @@
 0.0.0.0 irm.sitescoutadserver.com
 0.0.0.0 irollie.sitescoutadserver.com
 0.0.0.0 ironsource.ap-northeast-1.stinger-ad.bidr.io
+0.0.0.0 irprd.cdn.adglare.net
 0.0.0.0 irs.ad.gt
 0.0.0.0 irvadcvw01.corp.inmobi.com
 0.0.0.0 is.ad.gt
@@ -5187,6 +5190,7 @@
 0.0.0.0 now.gemius.com
 0.0.0.0 np.adproxy.ndmdhs.com
 0.0.0.0 npc.adotube.com
+0.0.0.0 npcomm.cdn.adglare.net
 0.0.0.0 npm.corp.inmobi.com
 0.0.0.0 npm-registry.backtrace.io
 0.0.0.0 nrtpd-shield.aimon.applicationinsights.io
@@ -5371,6 +5375,7 @@
 0.0.0.0 one-demo-dup.one-demo.convertro.com
 0.0.0.0 one-demo.one-demo.convertro.com
 0.0.0.0 one-demo.one-integration.ci.convertro.com
+0.0.0.0 onestopbrokers.cdn.adglare.net
 0.0.0.0 onetechnologies.sp1.convertro.com
 0.0.0.0 onevideo.advertising.com
 0.0.0.0 on-prem-craig-testing.bugsnag.com
@@ -5700,6 +5705,7 @@
 0.0.0.0 pic.scupio.com
 0.0.0.0 pictela-sb-ec.adtechus.com
 0.0.0.0 pi.dc-storm.com
+0.0.0.0 pierce.cdn.adglare.net
 0.0.0.0 pimages.xplosion.de
 0.0.0.0 pingfed.openx.com
 0.0.0.0 pinsight.rtb.loopme.me
@@ -6663,8 +6669,8 @@
 0.0.0.0 s-50.algovid.com
 0.0.0.0 s-50.optvdo.com
 0.0.0.0 s-51.algovid.com
-0.0.0.0 s51.optvdo.com
 0.0.0.0 s-51.optvdo.com
+0.0.0.0 s51.optvdo.com
 0.0.0.0 s-52.algovid.com
 0.0.0.0 s-52.optvdo.com
 0.0.0.0 s-53.algovid.com
@@ -6717,6 +6723,7 @@
 0.0.0.0 sapi.quarticon.com
 0.0.0.0 sapi.zemanta.com
 0.0.0.0 sassets.ebuzzing.com
+0.0.0.0 sasy2g.cdn.adglare.net
 0.0.0.0 satellite-grpc-loadtest.lightstep.com
 0.0.0.0 savegolddealliteflash.icu
 0.0.0.0 s-ber1-lb-001.zanox.com
@@ -6784,6 +6791,7 @@
 0.0.0.0 s-dsp.send.microad.jp
 0.0.0.0 seagate.links.channelintelligence.com
 0.0.0.0 sea.gemini.yahoo.com
+0.0.0.0 sealinenetwork.cdn.adglare.net
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 searcha.infra.mediamath.com
@@ -7683,6 +7691,7 @@
 0.0.0.0 thelocal-d3.openxenterprise.com
 0.0.0.0 therealreal.sp1.convertro.com
 0.0.0.0 thereelrejects.fanbread.com
+0.0.0.0 theurbandeveloper.cdn.adglare.net
 0.0.0.0 thiele-service.adtelligence.de
 0.0.0.0 thiele-tracking.adtelligence.de
 0.0.0.0 third-stag-api.newstags.stag.bounceexchange.com
@@ -7712,6 +7721,7 @@
 0.0.0.0 tlstest.igodigital.com
 0.0.0.0 tlx-packet.3lift.com
 0.0.0.0 tmathtag.com
+0.0.0.0 tmbvid.cdn.adglare.net
 0.0.0.0 tm.inmobi.com
 0.0.0.0 tmobile.svc.tapad.com
 0.0.0.0 tmp-heliosiq.adtechus.com
@@ -7835,8 +7845,8 @@
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking-rce.veeseo.com
+0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -8248,8 +8258,8 @@
 0.0.0.0 us-east-1.rtb.districtm.io
 0.0.0.0 us-east-1.segment-asg.bidr.io
 0.0.0.0 us-east-1.stinger-ad.bidr.io
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.gamma.analytics.console.aws.a2z.com
