@@ -56216,7 +56216,25 @@
             "e-reportingdb-vip.ame.admarketplace.net",
             "e-sysopsdb-00.ame.admarketplace.net",
             "ops.ame.admarketplace.net",
-            "e-ui-02.ame.admarketplace.net"
+            "e-ui-02.ame.admarketplace.net",
+            "reserved-net-184.ame.admarketplace.net",
+            "bridge1.admarketplace.net",
+            "clidmap.admarketplace.net",
+            "imp.admarketplace.net",
+            "bridge.lga1.admarketplace.net",
+            "bridge2.lga1.admarketplace.net",
+            "pca.admarketplace.net",
+            "clidmap.lga1.admarketplace.net",
+            "service.pca.admarketplace.net",
+            "sf.service.pca.admarketplace.net",
+            "bridge.sf.admarketplace.net",
+            "ldap-02.sf.admarketplace.net",
+            "w-clickproc-03.sf.admarketplace.net",
+            "w-asmem-03.sf.admarketplace.net",
+            "w-dcf-02.sf.admarketplace.net",
+            "w-compvertica-05.sf.admarketplace.net",
+            "w-plclust-03.sf.admarketplace.net",
+            "w-plclust-01.sf.admarketplace.net"
         ],
         "INACTIVE": [
             "iesolutions.7p.com",
@@ -66655,7 +66673,9 @@
             "www.vast-hm-events.adhigh.net",
             "www.vast-hm-events2.adhigh.net",
             "www.vast-hm-sync.adhigh.net",
-            "e-test-05.ame.admarketplace.net"
+            "e-test-05.ame.admarketplace.net",
+            "bridge.admarketplace.net",
+            "lga1.admarketplace.net"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
