@@ -587,6 +587,9 @@ aimon.applicationinsights.io
 a.iogous.com
 ai-personalization-prod-api.demandbase.com
 airflow.blis.com
+airflow-sandbox-flower.services-dev.r53.advance.net
+airflow-sandbox.services-dev.r53.advance.net
+airflow.services-dev.r53.advance.net
 airflow.testing.blis.com
 airfrance.aws.tagcommander.com
 airtrack.adtdp.com
@@ -1345,8 +1348,8 @@ azasc.iasds01.com
 azjsc.iasds01.com
 azkaban.adwyze.com
 azure-res-provider.newrelic.com
-b1473-k8s.dev-iad.amobee.com
 b-1473-k8s.dev-iad.amobee.com
+b1473-k8s.dev-iad.amobee.com
 b1-apac1-win.zemanta.com
 b1-euc1-win.zemanta.com
 b1-euc2.zemanta.com
@@ -1617,6 +1620,7 @@ blrxenappvw01.corp.inmobi.com
 blue2018111320591611.saas.appdynamics.com
 blue.erne.co
 bluemesh-ue1.pardot.com
+b.mbid.advance.net
 b.measuredads.com
 b.metrigo.com
 bnc.tubi.io
@@ -2118,6 +2122,7 @@ cmap.rm.ace.advertising.com
 cmap.rub.ace.advertising.com
 cmap.uac.ace.advertising.com
 cma-staging.stage.us-east-1.kops.kargo.com
+c.mbid.advance.net
 c.m.cn.miaozhen.com
 c.metrigo.com
 cmh-v4.pops.fastly-insights.com
@@ -2228,6 +2233,7 @@ cookiematching.adform.net
 cookiesync-mynativeplatform-347915877.us-east-1.elb.amazonaws.com
 coolmath-d3.openxenterprise.com
 copacabana.weborama.com
+coraltalk.tsunami-dev.r53.advance.net
 coray.ayads.co
 core.adotube.com
 core.adtechjp.com
@@ -2939,6 +2945,7 @@ emagbg-bud.gravityrd-services.com
 emag-bud.gravityrd-services.com
 emaghu-bud.gravityrd-services.com
 email.advertising.com
+emailalerts-admin-dev.advance.net
 email.bizographics.com
 email.circlebackemail.appboy.com
 email-d1.pardot.com
@@ -3272,6 +3279,8 @@ flink-test-azure.datadome.co
 flink-test.datadome.co
 flink-test-ovh.datadome.co
 fl-mail01.channelintelligence.com
+flower-sandbox.services-dev.r53.advance.net
+flower.services-dev.r53.advance.net
 flurry-bidder.manage.com
 flurry.web09-west.manage.com
 flurry.web11-west.manage.com
@@ -3628,8 +3637,8 @@ haggler-mopub774.us-e.ec2.liftoff.io
 haggler-mopub776-us-e-ec2.liftoff.io
 haggler-mopub777-us-e-ec2.liftoff.io
 haggler-mopub788.us-e.ec2.liftoff.io
-haggler-mopub791.us-e.ec2.liftoff.io
 haggler-mopub791-us-e-ec2.liftoff.io
+haggler-mopub791.us-e.ec2.liftoff.io
 haggler-mopub794.us-e.ec2.liftoff.io
 haggler-mopub797.us-e.ec2.liftoff.io
 haggler-mopub800.us-e.ec2.liftoff.io
@@ -3856,10 +3865,10 @@ idqs.ad.gt
 idr.ad.gt
 idrs.ad.gt
 idsa.ad.gt
+i-ds.ad.gt
 id.s.ad.gt
 i.ds.ad.gt
 id-s.ad.gt
-i-ds.ad.gt
 idsd.ad.gt
 idse.ad.gt
 idsq.ad.gt
@@ -3890,10 +3899,10 @@ ieds.ad.gt
 iei.rlcdn.com
 ies.ad.gt
 i.essads.com
-ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
-ifc2.vip.hkg1.inmobi.com
+ifc2.vip.dfw1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
+ifc2.vip.hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -4019,8 +4028,8 @@ initjs-prod.gcp.rfksrv.com
 initjs-staging.gcp.rfksrv.com
 initjs-test.gcp.rfksrv.com
 init-latency-test.supersonicads.com
-i.n.jwpltx.com
 in.jwpltx.com
+i.n.jwpltx.com
 inline.sharethis.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
@@ -5010,6 +5019,8 @@ msrv.saas.appdynamics.com
 msrv.saastest.appdynamics.com
 m.staging.conviva.com
 ms.vsassets.com
+mt-api.advance.net
+mt-api-uat.advance.net
 mta.propellerads.com
 mtcmed01.nexage.com
 mtcmed02.nexage.com
@@ -5866,6 +5877,7 @@ pops.staging.fastly-insights.com
 pops.test.fastly-insights.com
 portal-answerscloud-com.lb.foreseeresults.com
 portal-fynd.headlinerlabs.com
+portier-stage.advance.net
 portus.microad.jp
 postlog.supersonic.com
 post.update.criteo.com
@@ -6337,6 +6349,9 @@ radius.pl.hurra.com
 rado.segmentation.staging.leanplum.com
 rad.rad.atdmt.com
 radtrk.sitescoutadserver.com
+ragu-dev.services-dev.r53.advance.net
+ragu-internal-dev.services-dev.r53.advance.net
+ragu-private-dev.services-dev.r53.advance.net
 railslab.newrelic.com
 raiseit-d3.openxenterprise.com
 rakuten.adroll.com
@@ -6640,8 +6655,8 @@ r.zemanta.com
 s-07.optvdo.com
 s-09.optvdo.com
 s10.allinviews.com
-s10.optvdo.com
 s-10.optvdo.com
+s10.optvdo.com
 s12.optvdo.com
 s-12.optvdo.com
 s12.urbaninsight.com
@@ -7390,8 +7405,8 @@ static.quarticon.com
 static.simpli.fi
 static-sio.hotjar.com
 static.sociomantic.com
-static.staging.sharethrough.com
 static-staging.sharethrough.com
+static.staging.sharethrough.com
 static.stg.yieldmo.com
 static.tagoo.cc
 static.tagoo.co
@@ -7912,8 +7927,8 @@ tracking.eu1.m6r.eu
 tracking.hyde.ligatus.com
 tracking.outriggermedia.com
 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-tracking.rce.veeseo.com
 tracking-rce.veeseo.com
+tracking.rce.veeseo.com
 tracking.servebom.com
 track.ligatus.com
 track.locsensads.com
@@ -7932,8 +7947,8 @@ travel.admixer.net
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel.productads.hlserve.com
 travel-productads.hlserve.com
+travel.productads.hlserve.com
 tr.bnmla.com
 trc-cc.taboola.com
 tr.count.ly
@@ -8037,6 +8052,7 @@ ui-asrsv-69977628.sitescoutadserver.com
 ui.cp.tune.com
 ui-dsp-rtb.fyber.com
 ui-idx.inmobi.com
+ui.mbid.advance.net
 uiservices.adtech.de
 uiservices.adtechus.com
 ui.staging-api-docs.fyber.com
@@ -8329,8 +8345,8 @@ us-east-1.qa.internal.curalate.com
 us-east-1.rtb.districtm.io
 us-east-1.segment-asg.bidr.io
 us-east-1.stinger-ad.bidr.io
-us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.analytics.console.aws.a2z.com
+us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-2.gamma.analytics.console.aws.a2z.com
