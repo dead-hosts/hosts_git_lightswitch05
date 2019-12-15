@@ -989,8 +989,8 @@
 0.0.0.0 api.simpli.fi
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 api-staging-us-west-2.lisnr.com
@@ -1345,8 +1345,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azure-res-provider.newrelic.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-apac1-win.zemanta.com
 0.0.0.0 b1-euc1-win.zemanta.com
 0.0.0.0 b1-euc2.zemanta.com
@@ -3855,8 +3855,8 @@
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
 0.0.0.0 id.s.ad.gt
-0.0.0.0 i.ds.ad.gt
 0.0.0.0 id-s.ad.gt
+0.0.0.0 i.ds.ad.gt
 0.0.0.0 i-ds.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
@@ -3888,8 +3888,8 @@
 0.0.0.0 iei.rlcdn.com
 0.0.0.0 ies.ad.gt
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -4696,6 +4696,7 @@
 0.0.0.0 ma-proxy05.dskfv.de
 0.0.0.0 marathon.prd.fyber.com
 0.0.0.0 marca.services.webspectator.com
+0.0.0.0 market-dsp.admixer.net
 0.0.0.0 marketing.demandbase.com
 0.0.0.0 marketing.kissmetrics.com
 0.0.0.0 marketing.responsetap.com
@@ -5356,6 +5357,7 @@
 0.0.0.0 oasn-en1.247realmedia.com
 0.0.0.0 oasrtx.247realmedia.com
 0.0.0.0 oasrtx-eu.247realmedia.com
+0.0.0.0 obfp2.admixer.net
 0.0.0.0 obi.addesk.advertising.com
 0.0.0.0 obi.adportal.advertising.com
 0.0.0.0 obi.dev.advertising.com
@@ -5750,8 +5752,8 @@
 0.0.0.0 pimages.xplosion.de
 0.0.0.0 pingfed.openx.com
 0.0.0.0 pinsight.rtb.loopme.me
-0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pinyou-cm.cn.miaozhen.com
+0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pi.stormiq.com
 0.0.0.0 pi-ue1-lb1.pardot.com
 0.0.0.0 pi-ue1-lb2.pardot.com
@@ -6607,6 +6609,7 @@
 0.0.0.0 rubicon.web25-east.manage.com
 0.0.0.0 rubicon.web32-east.manage.com
 0.0.0.0 rub.pxl.ace.advertising.com
+0.0.0.0 rucdn.admixer.net
 0.0.0.0 rudys-test-api.beta.stag.bounceexchange.com
 0.0.0.0 rudys-test.beta.stag.bounceexchange.com
 0.0.0.0 rudytest4-api.beta.stag.bounceexchange.com
@@ -6632,8 +6635,8 @@
 0.0.0.0 s-07.optvdo.com
 0.0.0.0 s-09.optvdo.com
 0.0.0.0 s10.allinviews.com
-0.0.0.0 s-10.optvdo.com
 0.0.0.0 s10.optvdo.com
+0.0.0.0 s-10.optvdo.com
 0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.optvdo.com
 0.0.0.0 s12.urbaninsight.com
@@ -7382,8 +7385,8 @@
 0.0.0.0 static.simpli.fi
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static.sociomantic.com
-0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static-staging.sharethrough.com
+0.0.0.0 static.staging.sharethrough.com
 0.0.0.0 static.stg.yieldmo.com
 0.0.0.0 static.tagoo.cc
 0.0.0.0 static.tagoo.co
@@ -7751,6 +7754,7 @@
 0.0.0.0 theurbandeveloper.engine.adglare.net
 0.0.0.0 thiele-service.adtelligence.de
 0.0.0.0 thiele-tracking.adtelligence.de
+0.0.0.0 thirdpresence-inv-eu.admixer.net
 0.0.0.0 third-stag-api.newstags.stag.bounceexchange.com
 0.0.0.0 third-stag.newstags.stag.bounceexchange.com
 0.0.0.0 thisismelo.fanbread.com
@@ -7903,8 +7907,8 @@
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking-rce.veeseo.com
+0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -7919,11 +7923,12 @@
 0.0.0.0 transfer.bluecava.com
 0.0.0.0 trans.silverpop.com
 0.0.0.0 trapgenie.sitescoutadserver.com
+0.0.0.0 travel.admixer.net
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 tr.count.ly
@@ -8547,8 +8552,8 @@
 0.0.0.0 video.inmobi.com
 0.0.0.0 videology.ndf.weborama.com
 0.0.0.0 videomax.neodatagroup.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
 0.0.0.0 videos-staging.sharethrough.com
@@ -10175,6 +10180,7 @@
 0.0.0.0 www.traffic.adventurefeeds.com
 0.0.0.0 www.traffic.mpnrs.com
 0.0.0.0 www.training.demandbase.com
+0.0.0.0 www.travel.admixer.net
 0.0.0.0 www.trem.dynamicyield.com
 0.0.0.0 www.trig.i.wix.com
 0.0.0.0 www.trinity.platform.intuit.com
@@ -10394,6 +10400,7 @@
 0.0.0.0 yeag.thunderhead.com
 0.0.0.0 yellowbelt.adform.com
 0.0.0.0 yellowpages-d3.openxenterprise.com
+0.0.0.0 yelohi-inv-eus.admixer.net
 0.0.0.0 yelp.qa.reachlocal.com
 0.0.0.0 yesware.engine.adglare.net
 0.0.0.0 yfyamyzusigh8yql.yusp.com
