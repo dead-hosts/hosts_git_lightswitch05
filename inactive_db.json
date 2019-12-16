@@ -39962,70 +39962,6 @@
         "1573162918": {
             "apt-bud-2-ext.adsrvr.org": "INACTIVE"
         },
-        "1575391605": {
-            "adminx.bandwidthx.net": "INACTIVE"
-        },
-        "1575391607": {
-            "api-iad.bandwidthx.net": "INACTIVE"
-        },
-        "1575391609": {
-            "apix.bandwidthx.net": "INACTIVE",
-            "dogfood.bandwidthx.net": "INACTIVE",
-            "extranet.bandwidthx.net": "INACTIVE"
-        },
-        "1575391610": {
-            "fd-01-oma-ingress.bandwidthx.net": "INACTIVE",
-            "fd-01-prod-oma-ingress.bandwidthx.net": "INACTIVE",
-            "frontdoor-x.bandwidthx.net": "INACTIVE"
-        },
-        "1575391611": {
-            "iprofile.bandwidthx.net": "INACTIVE",
-            "post-diagnostics.bandwidthx.net": "INACTIVE",
-            "post-scans.bandwidthx.net": "INACTIVE"
-        },
-        "1575391612": {
-            "query-captives.bandwidthx.net": "INACTIVE",
-            "twilio-callback-oma.bandwidthx.net": "INACTIVE"
-        },
-        "1575391613": {
-            "www.cdn01.basis.net": "INACTIVE"
-        },
-        "1575391614": {
-            "apac-sg.bidswitch.net": "INACTIVE"
-        },
-        "1575391616": {
-            "www.dp.bidswitch.net": "INACTIVE"
-        },
-        "1575432775": {
-            "eu-de-user.bidswitch.net": "INACTIVE"
-        },
-        "1575432777": {
-            "www.grid.bidswitch.net": "INACTIVE"
-        },
-        "1575432778": {
-            "www.pool.grid-data.bidswitch.net": "INACTIVE"
-        },
-        "1575432779": {
-            "my.bidswitch.net": "INACTIVE",
-            "www.r.bidswitch.net": "INACTIVE"
-        },
-        "1575432780": {
-            "rnd-sandbox.bidswitch.net": "INACTIVE",
-            "ssp-test-or.bidswitch.net": "INACTIVE"
-        },
-        "1575432781": {
-            "ssp-test-be.bidswitch.net": "INACTIVE",
-            "ssp-test-sc.bidswitch.net": "INACTIVE"
-        },
-        "1575432782": {
-            "staging-as-jp-sync.bidswitch.net": "INACTIVE",
-            "staging-as-jp.bidswitch.net": "INACTIVE"
-        },
-        "1575432783": {
-            "staging-eu-gce-sync.bidswitch.net": "INACTIVE",
-            "staging-eu-gce.bidswitch.net": "INACTIVE",
-            "staging-gce-be.bidswitch.net": "INACTIVE"
-        },
         "1575432789": {
             "www.x.bidswitch.net": "INACTIVE"
         },
@@ -59483,6 +59419,62 @@
         "1576472179": {
             "www.secure.audienceinsights.net": "INACTIVE",
             "www.static.audienceinsights.net": "INACTIVE"
+        },
+        "1576475643": {
+            "adminx.bandwidthx.net": "INACTIVE"
+        },
+        "1576475644": {
+            "api-iad.bandwidthx.net": "INACTIVE"
+        },
+        "1576475645": {
+            "apix.bandwidthx.net": "INACTIVE",
+            "dogfood.bandwidthx.net": "INACTIVE",
+            "extranet.bandwidthx.net": "INACTIVE"
+        },
+        "1576475646": {
+            "fd-01-oma-ingress.bandwidthx.net": "INACTIVE",
+            "fd-01-prod-oma-ingress.bandwidthx.net": "INACTIVE",
+            "frontdoor-x.bandwidthx.net": "INACTIVE"
+        },
+        "1576475647": {
+            "iprofile.bandwidthx.net": "INACTIVE",
+            "post-diagnostics.bandwidthx.net": "INACTIVE",
+            "post-scans.bandwidthx.net": "INACTIVE",
+            "query-captives.bandwidthx.net": "INACTIVE"
+        },
+        "1576475648": {
+            "twilio-callback-oma.bandwidthx.net": "INACTIVE",
+            "www.cdn01.basis.net": "INACTIVE"
+        },
+        "1576475649": {
+            "apac-sg.bidswitch.net": "INACTIVE"
+        },
+        "1576475650": {
+            "eu-de-user.bidswitch.net": "INACTIVE",
+            "www.dp.bidswitch.net": "INACTIVE"
+        },
+        "1576475651": {
+            "my.bidswitch.net": "INACTIVE",
+            "www.grid.bidswitch.net": "INACTIVE"
+        },
+        "1576475652": {
+            "rnd-sandbox.bidswitch.net": "INACTIVE",
+            "www.pool.grid-data.bidswitch.net": "INACTIVE",
+            "www.r.bidswitch.net": "INACTIVE"
+        },
+        "1576475653": {
+            "ssp-test-be.bidswitch.net": "INACTIVE",
+            "ssp-test-or.bidswitch.net": "INACTIVE",
+            "ssp-test-sc.bidswitch.net": "INACTIVE"
+        },
+        "1576475654": {
+            "staging-as-jp-sync.bidswitch.net": "INACTIVE",
+            "staging-as-jp.bidswitch.net": "INACTIVE",
+            "staging-eu-gce-sync.bidswitch.net": "INACTIVE",
+            "staging-eu-gce.bidswitch.net": "INACTIVE"
+        },
+        "1576475655": {
+            "staging-gce-be.bidswitch.net": "INACTIVE"
         }
     }
 }
