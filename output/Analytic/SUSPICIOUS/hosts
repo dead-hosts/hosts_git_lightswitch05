@@ -65,6 +65,7 @@
 0.0.0.0 actions-ny.continular.com
 0.0.0.0 actions-ny.genorithm.com
 0.0.0.0 actions-ny.gogorithm.com
+0.0.0.0 a.d3sv.net
 0.0.0.0 adconsole.inmobi.com
 0.0.0.0 ad-dc6.mediaplex.com
 0.0.0.0 ad.downloadyee.com
@@ -147,6 +148,7 @@
 0.0.0.0 api.dc2.exacttarget.com
 0.0.0.0 api.dc-storm.com
 0.0.0.0 api.decision-server.prod-1.prod.leanplum.com
+0.0.0.0 api-demo.dataxu.net
 0.0.0.0 api.drift.com
 0.0.0.0 api.ensighten.com
 0.0.0.0 api-eu.conductrics.com
@@ -220,6 +222,7 @@
 0.0.0.0 audiences-test-iad.bluekai.com
 0.0.0.0 audiences-test-oiada.bluekai.com
 0.0.0.0 audit.app.manage.ensighten.com
+0.0.0.0 auth0.dataxu.net
 0.0.0.0 auth.aweber.com
 0.0.0.0 auth.internal.beeketing.com
 0.0.0.0 auth.k8s-prod.fiksu.com
@@ -228,6 +231,7 @@
 0.0.0.0 auth.s11.exacttarget.com
 0.0.0.0 auth.s8.exacttarget.com
 0.0.0.0 autodiscover.corp.conviva.com
+0.0.0.0 autodiscover.datamark.net
 0.0.0.0 autodiscover.exacttarget.com
 0.0.0.0 automat.test.chatid.com
 0.0.0.0 av95.mta.exacttarget.com
@@ -364,6 +368,7 @@
 0.0.0.0 client-mypage.macromill.com
 0.0.0.0 clients.3d.amobee.com
 0.0.0.0 clients6.google.comads.creative-serving.com
+0.0.0.0 clients.datamark.net
 0.0.0.0 clientsftp.foreseeresults.com
 0.0.0.0 clientsmedia.adrime.com
 0.0.0.0 clientstream.intuit.launchdarkly.com
@@ -388,6 +393,7 @@
 0.0.0.0 cntr.adrime.com
 0.0.0.0 co1aqu.atdmt.com
 0.0.0.0 co2aqu.atdmt.com
+0.0.0.0 coadvertise.cubecdn.net
 0.0.0.0 codecoverage.staging-1.staging.leanplum.com
 0.0.0.0 code.kissmetrics.com
 0.0.0.0 codeload.github.exacttarget.com
@@ -510,6 +516,7 @@
 0.0.0.0 devapp.extremereach.com
 0.0.0.0 dev.brightedge.com
 0.0.0.0 dev.corp.mediav.com
+0.0.0.0 dev.datamark.net
 0.0.0.0 dev.demo.appdynamics.com
 0.0.0.0 dev.display.khingtracking.com
 0.0.0.0 devefence.engageclick.com
@@ -797,8 +804,8 @@
 0.0.0.0 gist.github.exacttarget.com
 0.0.0.0 gist-raw.github.exacttarget.com
 0.0.0.0 globalnow.macromill.com
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 gob.curalate.com
 0.0.0.0 gp65.mta.exacttarget.com
 0.0.0.0 gp68.mta.exacttarget.com
@@ -1005,9 +1012,12 @@
 0.0.0.0 mail02.eloqua.com
 0.0.0.0 mail04.en25.com
 0.0.0.0 mail1.aweber.com
+0.0.0.0 mail1.datamark.net
 0.0.0.0 mail1.static.convertkit.com
 0.0.0.0 mail1-va.gumgum.com
+0.0.0.0 mail2.datamark.net
 0.0.0.0 mail2.mgt.coremetrics.com
+0.0.0.0 mail3.datamark.net
 0.0.0.0 mail3.mediamind.com
 0.0.0.0 mail3.static.convertkit.com
 0.0.0.0 mail4.inmobi.com
@@ -1019,8 +1029,10 @@
 0.0.0.0 mail.colo.mediamind.com
 0.0.0.0 mail.corp.conviva.com
 0.0.0.0 mail.daphnecm.com
+0.0.0.0 mail.datamark.net
 0.0.0.0 mail.demandbase.com
 0.0.0.0 mail.en25.com
+0.0.0.0 mailer.datamark.net
 0.0.0.0 mailer.metrilo.com
 0.0.0.0 mail.exacttarget.com
 0.0.0.0 mail.il.mediamind.com
@@ -1530,6 +1542,7 @@
 0.0.0.0 pbrowser-proxy22.brightedge.com
 0.0.0.0 pcconnection.hosting.exacttarget.com
 0.0.0.0 p.ctasnet.com
+0.0.0.0 p.d3sv.net
 0.0.0.0 p.ebdr2.com
 0.0.0.0 pennmutual.hosting.exacttarget.com
 0.0.0.0 perceptor.bnmla.com
@@ -1661,6 +1674,7 @@
 0.0.0.0 reporting.p07.eloqua.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 report-scripts.adrcdn.com
+0.0.0.0 reports.datamark.net
 0.0.0.0 reports.eyereturn.com
 0.0.0.0 reports.inmobi.com
 0.0.0.0 reports-k8s.leanplum.com
@@ -1694,6 +1708,8 @@
 0.0.0.0 rs-sync.adtdp.com
 0.0.0.0 rs-sync-y.adtdp.com
 0.0.0.0 rst.airfind.com
+0.0.0.0 rtb01.ap.dataxu.net
+0.0.0.0 rtb01-c.ap.dataxu.net
 0.0.0.0 rtb17.impresionesweb.com
 0.0.0.0 rtb18.impresionesweb.com
 0.0.0.0 rtb19.impresionesweb.com
