@@ -14587,9 +14587,6 @@
         "1572932645": {
             "c.sniperlog.ru": "INACTIVE"
         },
-        "1572932648": {
-            "csp.fastclick.net": "INACTIVE"
-        },
         "1572932702": {
             "c.staging.ina.media.net": "INACTIVE"
         },
@@ -19678,9 +19675,6 @@
         "1572959109": {
             "media27.ec2.st-av.net": "INACTIVE"
         },
-        "1572959110": {
-            "media27.fastclick.net": "INACTIVE"
-        },
         "1572959111": {
             "media28.ec2.st-av.net": "INACTIVE"
         },
@@ -19894,9 +19888,6 @@
         },
         "1572964802": {
             "mobfox.dsp.yandexadexchange.net": "INACTIVE"
-        },
-        "1572964846": {
-            "mobile.fastclick.net": "INACTIVE"
         },
         "1572964901": {
             "mobile.test-bidder.msas.media.net": "INACTIVE"
@@ -20594,9 +20585,6 @@
         "1573080656": {
             "ns1.adriver.ru": "INACTIVE"
         },
-        "1573080772": {
-            "ns1.fastclick.net": "INACTIVE"
-        },
         "1573080773": {
             "ns1.fwmrm.net": "INACTIVE"
         },
@@ -20626,9 +20614,6 @@
         },
         "1573081053": {
             "ns2.adriver.ru": "INACTIVE"
-        },
-        "1573081138": {
-            "ns2.fastclick.net": "INACTIVE"
         },
         "1573081139": {
             "ns2.fwmrm.net": "INACTIVE"
@@ -22837,9 +22822,6 @@
         "1573094150": {
             "sandbox-hzeu-rtb-3.datamind.ru": "INACTIVE"
         },
-        "1573094174": {
-            "san-secure-cdn.fastclick.net": "INACTIVE"
-        },
         "1573094184": {
             "sa-only.outbrain.org": "INACTIVE"
         },
@@ -22946,17 +22928,8 @@
         "1573095209": {
             "secure3.silveregg.net": "INACTIVE"
         },
-        "1573095251": {
-            "secure.dev1.fastclick.net": "INACTIVE"
-        },
-        "1573095346": {
-            "secure.dev2.fastclick.net": "INACTIVE"
-        },
         "1573095392": {
             "secure-metrics.nt.vc": "INACTIVE"
-        },
-        "1573095402": {
-            "secure.qa.fastclick.net": "INACTIVE"
         },
         "1573095442": {
             "seek.tt.omtrdc.net": "INACTIVE"
@@ -24664,9 +24637,6 @@
         "1573104881": {
             "tprod.visto1.net": "INACTIVE"
         },
-        "1573104936": {
-            "tps.sj2.fastclick.net": "INACTIVE"
-        },
         "1573104952": {
             "tp.videohub.tv": "INACTIVE"
         },
@@ -26287,15 +26257,9 @@
         "1573112264": {
             "win-media-ams5.fastclick.net": "INACTIVE"
         },
-        "1573112265": {
-            "win-media.dc6.fastclick.net": "INACTIVE"
-        },
         "1573112267": {
             "win-media-dc6.fastclick.net": "INACTIVE",
             "win-media.fastclick.net": "INACTIVE"
-        },
-        "1573112275": {
-            "win-media.sj2.fastclick.net": "INACTIVE"
         },
         "1573112281": {
             "win-media-sj2.fastclick.net": "INACTIVE"
@@ -49530,6 +49494,15 @@
         },
         "1576741149": {
             "tokenization.exct.net": "INACTIVE"
+        },
+        "1576742047": {
+            "media27.fastclick.net": "INACTIVE",
+            "secure.dev1.fastclick.net": "INACTIVE",
+            "secure.dev2.fastclick.net": "INACTIVE"
+        },
+        "1576742048": {
+            "san-secure-cdn.fastclick.net": "INACTIVE",
+            "secure.qa.fastclick.net": "INACTIVE"
         }
     }
 }
