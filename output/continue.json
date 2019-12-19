@@ -63243,7 +63243,23 @@
             "linear-dev.dev.linear.aws.fwmrm.net",
             "prd.linear.aws.fwmrm.net",
             "linear-prd.prd.linear.aws.fwmrm.net",
-            "stg.linear.aws.fwmrm.net"
+            "stg.linear.aws.fwmrm.net",
+            "linear-stg-one11.stg.linear.aws.fwmrm.net",
+            "ops.sandbox.aws.fwmrm.net",
+            "sb1.aws.fwmrm.net",
+            "forecast-buddy.sb1.aws.fwmrm.net",
+            "forecast-buddy.stg.sb1.aws.fwmrm.net",
+            "stg.aws.fwmrm.net",
+            "ss.aws.fwmrm.net",
+            "presto.stg.aws.fwmrm.net",
+            "dev.tools.aws.fwmrm.net",
+            "systemtest-integration.dev.tools.aws.fwmrm.net",
+            "tools-dev.dev.tools.aws.fwmrm.net",
+            "tools-mod.dev.tools.aws.fwmrm.net",
+            "prd.turbine.aws.fwmrm.net",
+            "dev.ui.aws.fwmrm.net",
+            "dev.vw.aws.fwmrm.net",
+            "corpgate.fwmrm.net"
         ],
         "INACTIVE": [
             "iesolutions.7p.com",
@@ -74121,7 +74137,13 @@
             "paris.dev.linear.aws.fwmrm.net",
             "system-test.dev.linear.aws.fwmrm.net",
             "linear-prd-2.prd.linear.aws.fwmrm.net",
-            "linear-stg.stg.linear.aws.fwmrm.net"
+            "linear-stg.stg.linear.aws.fwmrm.net",
+            "linear-stg-v1.stg.linear.aws.fwmrm.net",
+            "eks.dev.tools.aws.fwmrm.net",
+            "conference-2-freewheelcupscluster.fwmrm.net",
+            "conference-2-standalonecluster7a91e.fwmrm.net",
+            "conference-3-freewheelcupscluster.fwmrm.net",
+            "conference-3-standalonecluster7a91e.fwmrm.net"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
