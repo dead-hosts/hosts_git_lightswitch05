@@ -13633,12 +13633,6 @@
         "1572930166": {
             "client.perimeterx.net": "INACTIVE"
         },
-        "1572930167": {
-            "client.prudential.imprev.net": "INACTIVE"
-        },
-        "1572930168": {
-            "client.qa.imprev.net": "INACTIVE"
-        },
         "1572930169": {
             "client.rg1.imprev.net": "INACTIVE"
         },
@@ -14326,10 +14320,6 @@
         },
         "1572931423": {
             "content8.adfox.ru": "INACTIVE"
-        },
-        "1572931472": {
-            "content.qa-dest.imprev.net": "INACTIVE",
-            "content.qa.imprev.net": "INACTIVE"
         },
         "1572931484": {
             "content.testcluster.imprev.net": "INACTIVE"
@@ -49092,6 +49082,12 @@
             "rg1.devvm.imprev.net": "INACTIVE",
             "rg2.devvm.imprev.net": "INACTIVE",
             "rw.devvm.imprev.net": "INACTIVE"
+        },
+        "1576827836": {
+            "content.qa.imprev.net": "INACTIVE"
+        },
+        "1576827837": {
+            "content.qa-dest.imprev.net": "INACTIVE"
         }
     }
 }
