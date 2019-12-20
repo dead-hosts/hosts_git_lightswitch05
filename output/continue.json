@@ -63491,7 +63491,12 @@
             "pivot.qpipe-p.globalwebindex.net",
             "qpipeline.qpipe-p.globalwebindex.net",
             "superset.qpipe-p.globalwebindex.net",
-            "broker.qpipe-s.globalwebindex.net"
+            "broker.qpipe-s.globalwebindex.net",
+            "core.qpipe-s.globalwebindex.net",
+            "overlord.qpipe-s.globalwebindex.net",
+            "pivot.qpipe-s.globalwebindex.net",
+            "qpipeline.qpipe-s.globalwebindex.net",
+            "superset.qpipe-s.globalwebindex.net"
         ],
         "INACTIVE": [
             "iesolutions.7p.com",
@@ -74393,7 +74398,8 @@
             "bd0dc.v.fwmrm.net",
             "www.sentry.gitlab.net",
             "www.pro.globalwebindex.net",
-            "pro-next.globalwebindex.net"
+            "pro-next.globalwebindex.net",
+            "metabase.qpipe-s.globalwebindex.net"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
