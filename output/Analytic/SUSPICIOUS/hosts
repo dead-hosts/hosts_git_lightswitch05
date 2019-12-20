@@ -2694,6 +2694,7 @@
 0.0.0.0 api.staging.bounceexchange.com
 0.0.0.0 api-staging.gosquared.com
 0.0.0.0 api-staging-grpc.lightstep.com
+0.0.0.0 api.stg.fwmrm.net
 0.0.0.0 api.support.scs.mediamath.com
 0.0.0.0 api-telemetry.servers.getgo.com
 0.0.0.0 api.test.exacttarget.com
@@ -3483,6 +3484,7 @@
 0.0.0.0 elk00.aws.infra.mediamath.com
 0.0.0.0 elk.fwmrm.net
 0.0.0.0 elkjop.demdex.net
+0.0.0.0 elk.stg.fwmrm.net
 0.0.0.0 elsevier.demdex.net
 0.0.0.0 eluniversalcompania.demdex.net
 0.0.0.0 email.dianomi.com
@@ -5718,6 +5720,8 @@
 0.0.0.0 stats.bluekai.com
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 stepstone.demdex.net
+0.0.0.0 stg-dmz-nsc1-ext.stg.fwmrm.net
+0.0.0.0 stg-fe-nsc1-ext.stg.fwmrm.net
 0.0.0.0 stmicroelectronics.demdex.net
 0.0.0.0 storage3-j2.brightedge.com
 0.0.0.0 story-front.lokaplatform.com
@@ -5995,8 +5999,8 @@
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
 0.0.0.0 vfes.demdex.net
-0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-prod.amobee.com
+0.0.0.0 vfesprod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vfindprod.amobee.com
 0.0.0.0 vfitprod.amobee.com
