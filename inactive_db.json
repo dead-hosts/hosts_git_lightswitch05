@@ -12527,9 +12527,6 @@
         "1572922812": {
             "async-job-mgmt-e2e.sendgrid.net": "INACTIVE"
         },
-        "1572922853": {
-            "atlantis.staging.intentmedia.net": "INACTIVE"
-        },
         "1572922855": {
             "atlascopco.tt.omtrdc.net": "INACTIVE"
         },
@@ -12844,23 +12841,8 @@
         "1572924783": {
             "b.content.adfox.ru": "INACTIVE"
         },
-        "1572924951": {
-            "beacon-a005.krxd.net": "INACTIVE"
-        },
-        "1572924952": {
-            "beacon-a109.krxd.net": "INACTIVE",
-            "beacon-a141.krxd.net": "INACTIVE"
-        },
-        "1572924953": {
-            "beacon-a143.krxd.net": "INACTIVE",
-            "beacon-a163.krxd.net": "INACTIVE"
-        },
-        "1572924954": {
-            "beacon-a196.krxd.net": "INACTIVE"
-        },
         "1572924955": {
-            "beacon-a-axel-dub.lb.krxd.net": "INACTIVE",
-            "beacon-a221-dub.krxd.net": "INACTIVE"
+            "beacon-a-axel-dub.lb.krxd.net": "INACTIVE"
         },
         "1572924972": {
             "beacon-a-dub.lb.krxd.net": "INACTIVE"
@@ -12873,12 +12855,6 @@
         },
         "1572924978": {
             "beacon-a-pdx.lb.krxd.net": "INACTIVE"
-        },
-        "1572924993": {
-            "beacon-dub-nopii.krxd.net": "INACTIVE"
-        },
-        "1572925003": {
-            "beacon-maxis.krxd.net": "INACTIVE"
         },
         "1572925030": {
             "beamstw.silveregg.net": "INACTIVE"
@@ -19710,9 +19686,6 @@
         },
         "1572971362": {
             "mtvnetworks.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572971379": {
-            "multiregionca.intentmedia.net": "INACTIVE"
         },
         "1572971390": {
             "munchkin-cdn.marketo.net": "INACTIVE"
@@ -28774,22 +28747,8 @@
         "1573160675": {
             "api.samplicio.us": "INACTIVE"
         },
-        "1573160698": {
-            "apiservices-a001.krxd.net": "INACTIVE"
-        },
-        "1573160699": {
-            "apiservices-a002.krxd.net": "INACTIVE"
-        },
-        "1573160700": {
-            "apiservices-a007.krxd.net": "INACTIVE",
-            "apiservices-a010.krxd.net": "INACTIVE"
-        },
         "1573160701": {
-            "apiservices-a.lb.krxd.net": "INACTIVE",
-            "apiservices.krxd.net": "INACTIVE"
-        },
-        "1573160702": {
-            "apiservices-sie.krxd.net": "INACTIVE"
+            "apiservices-a.lb.krxd.net": "INACTIVE"
         },
         "1573160708": {
             "api.skimlinks.mgr.consensu.org": "INACTIVE"
@@ -49005,6 +48964,31 @@
             "custom-audience.intentmedia.net": "INACTIVE",
             "dashportal.internal.intentmedia.net": "INACTIVE",
             "internal.intentmedia.net": "INACTIVE"
+        },
+        "1576972085": {
+            "multiregionca.intentmedia.net": "INACTIVE"
+        },
+        "1576972086": {
+            "apiservices-a001.krxd.net": "INACTIVE",
+            "atlantis.staging.intentmedia.net": "INACTIVE"
+        },
+        "1576972087": {
+            "apiservices-a002.krxd.net": "INACTIVE",
+            "apiservices-a007.krxd.net": "INACTIVE",
+            "apiservices-a010.krxd.net": "INACTIVE",
+            "beacon-a005.krxd.net": "INACTIVE"
+        },
+        "1576972088": {
+            "beacon-a109.krxd.net": "INACTIVE",
+            "beacon-a141.krxd.net": "INACTIVE",
+            "beacon-a143.krxd.net": "INACTIVE",
+            "beacon-a163.krxd.net": "INACTIVE"
+        },
+        "1576972089": {
+            "beacon-a196.krxd.net": "INACTIVE",
+            "beacon-a221-dub.krxd.net": "INACTIVE",
+            "beacon-dev.krxd.net": "INACTIVE",
+            "beacon-dub-nopii.krxd.net": "INACTIVE"
         }
     }
 }
