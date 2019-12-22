@@ -14214,9 +14214,6 @@
         "1572931340": {
             "conf.perimeterx.net": "INACTIVE"
         },
-        "1572931368": {
-            "connector.krxd.net": "INACTIVE"
-        },
         "1572931385": {
             "console01.ec2.st-av.net": "INACTIVE",
             "console11.ec2.st-av.net": "INACTIVE"
@@ -14229,12 +14226,6 @@
         },
         "1572931404": {
             "consumerinfo.tt.omtrdc.net": "INACTIVE"
-        },
-        "1572931405": {
-            "consumer.krxd.net": "INACTIVE"
-        },
-        "1572931406": {
-            "consumer-staging.krxd.net": "INACTIVE"
         },
         "1572931409": {
             "contactdb2-stage.sendgrid.net": "INACTIVE"
@@ -14869,9 +14860,6 @@
         },
         "1572936602": {
             "dmt4.adj.st": "INACTIVE"
-        },
-        "1572936686": {
-            "dn.krxd.net": "INACTIVE"
         },
         "1572936982": {
             "dns-aus.returnpath.net": "INACTIVE"
@@ -17301,18 +17289,7 @@
         "1572943800": {
             "ford.tt.omtrdc.net": "INACTIVE"
         },
-        "1572943823": {
-            "foreman-a001-ash.krxd.net": "INACTIVE"
-        },
-        "1572943824": {
-            "foreman-a001-dub.krxd.net": "INACTIVE",
-            "foreman-a001-pdx.krxd.net": "INACTIVE"
-        },
-        "1572943831": {
-            "foreman-a002-ash.krxd.net": "INACTIVE"
-        },
         "1572943832": {
-            "foreman-a002-dub.krxd.net": "INACTIVE",
             "foreman-a002-pdx.krxd.net": "INACTIVE"
         },
         "1572943839": {
@@ -48995,6 +48972,17 @@
         },
         "1576973467": {
             "cb-stage.krxd.net": "INACTIVE"
+        },
+        "1576974143": {
+            "connector.krxd.net": "INACTIVE"
+        },
+        "1576974144": {
+            "dn.krxd.net": "INACTIVE"
+        },
+        "1576974145": {
+            "foreman-a001-dub.krxd.net": "INACTIVE",
+            "foreman-a001-pdx.krxd.net": "INACTIVE",
+            "foreman-a002-dub.krxd.net": "INACTIVE"
         }
     }
 }

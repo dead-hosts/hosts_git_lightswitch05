@@ -63746,7 +63746,26 @@
             "cb.krxd.net",
             "cdn.krxd.net",
             "cdn-apiservices.krxd.net",
-            "cdn-controltag.krxd.net"
+            "cdn-controltag.krxd.net",
+            "cdn-fastly.krxd.net",
+            "cdn-sie.krxd.net",
+            "cdn-stage-fastly.krxd.net",
+            "cdn-traffic-director.krxd.net",
+            "click-tracker-main.krxd.net",
+            "config-service.krxd.net",
+            "config-service-ash-prod.krxd.net",
+            "config-service-staging.krxd.net",
+            "console-staging.krxd.net",
+            "consumer.krxd.net",
+            "consumer-ash-prod.krxd.net",
+            "consumer-origin.krxd.net",
+            "consumer-dub-prod.krxd.net",
+            "consumer-pdx-prod.krxd.net",
+            "consumer-staging.krxd.net",
+            "consumer-staging-origin.krxd.net",
+            "dlx.krxd.net",
+            "foreman-a001-ash.krxd.net",
+            "foreman-a002-ash.krxd.net"
         ],
         "INACTIVE": [
             "iesolutions.7p.com",
@@ -74741,7 +74760,12 @@
             "beacon-dev.krxd.net",
             "beacon-dub-nopii.krxd.net",
             "cb-dev.krxd.net",
-            "cb-stage.krxd.net"
+            "cb-stage.krxd.net",
+            "connector.krxd.net",
+            "dn.krxd.net",
+            "foreman-a001-dub.krxd.net",
+            "foreman-a001-pdx.krxd.net",
+            "foreman-a002-dub.krxd.net"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
