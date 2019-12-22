@@ -63743,7 +63743,10 @@
             "beacon-pdx-prod.krxd.net",
             "beacon-sie-eu.krxd.net",
             "beacon-staging.krxd.net",
-            "cb.krxd.net"
+            "cb.krxd.net",
+            "cdn.krxd.net",
+            "cdn-apiservices.krxd.net",
+            "cdn-controltag.krxd.net"
         ],
         "INACTIVE": [
             "iesolutions.7p.com",
@@ -74737,7 +74740,8 @@
             "beacon-a221-dub.krxd.net",
             "beacon-dev.krxd.net",
             "beacon-dub-nopii.krxd.net",
-            "cb-dev.krxd.net"
+            "cb-dev.krxd.net",
+            "cb-stage.krxd.net"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
