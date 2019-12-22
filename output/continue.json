@@ -63771,7 +63771,21 @@
             "foreman-ash-prod.krxd.net",
             "foreman-dub.krxd.net",
             "foreman-internal-ash.krxd.net",
-            "foreman-internal-dub.krxd.net"
+            "foreman-internal-dub.krxd.net",
+            "foreman-internal-pdx.krxd.net",
+            "foreman-pdx.krxd.net",
+            "graphite.krxd.net",
+            "jenkins-fastlane.krxd.net",
+            "jslog.krxd.net",
+            "kafka-manager-ash.krxd.net",
+            "kafka-manager-dub.krxd.net",
+            "kafka-manager-ash-prod.krxd.net",
+            "kafka-manager-infra-dub.krxd.net",
+            "kafka-manager-infra-pdx.krxd.net",
+            "kafka-manager-pdx.krxd.net",
+            "kafka-manager-staging.krxd.net",
+            "krux.krxd.net",
+            "keystone-dev.krxd.net"
         ],
         "INACTIVE": [
             "iesolutions.7p.com",
@@ -74777,7 +74791,8 @@
             "foreman-a003-pdx.krxd.net",
             "foreman-a004-ash.krxd.net",
             "foreman-a004-dub.krxd.net",
-            "foreman-a004-pdx.krxd.net"
+            "foreman-a004-pdx.krxd.net",
+            "apiservices-a.lb.krxd.net"
         ],
         "INVALID": [
             "com.tenjin.ios.api",
