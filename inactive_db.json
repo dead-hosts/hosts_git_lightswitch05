@@ -12527,12 +12527,6 @@
         "1572922856": {
             "atlascz.adocean.pl": "INACTIVE"
         },
-        "1572922861": {
-            "atl-dc01.marketo.net": "INACTIVE"
-        },
-        "1572922862": {
-            "atl-dc02.marketo.net": "INACTIVE"
-        },
         "1572922908": {
             "attribution-gate.singular.net": "INACTIVE"
         },
@@ -14320,9 +14314,6 @@
         "1572931990": {
             "cpagen.win": "INACTIVE"
         },
-        "1572932018": {
-            "cpm.marketo.net": "INACTIVE"
-        },
         "1572932019": {
             "cp.nuggad.net": "INACTIVE"
         },
@@ -14638,12 +14629,6 @@
         },
         "1572934747": {
             "demoaccess.piwik.pro": "INACTIVE"
-        },
-        "1572934762": {
-            "den-ax01.marketo.net": "INACTIVE"
-        },
-        "1572934763": {
-            "den-dc01.marketo.net": "INACTIVE"
         },
         "1572934764": {
             "den-dc02.marketo.net": "INACTIVE"
@@ -25641,12 +25626,6 @@
             "www.aruba-login.corp.coveo.com": "INACTIVE",
             "www.aruba-mtl-login.corp.coveo.com": "INACTIVE"
         },
-        "1573113972": {
-            "www.atl-dc01.marketo.net": "INACTIVE"
-        },
-        "1573113973": {
-            "www.atl-dc02.marketo.net": "INACTIVE"
-        },
         "1573113974": {
             "www.atp.mxptint.net": "INACTIVE"
         },
@@ -25732,9 +25711,6 @@
         "1573114605": {
             "www.counter.opinion.com.ua": "INACTIVE"
         },
-        "1573114611": {
-            "www.cpm.marketo.net": "INACTIVE"
-        },
         "1573114649": {
             "www.c.singular.net": "INACTIVE"
         },
@@ -25746,9 +25722,6 @@
         },
         "1573114667": {
             "www.dac.digitru.st": "INACTIVE"
-        },
-        "1573114722": {
-            "www.den-ax01.marketo.net": "INACTIVE"
         },
         "1573114724": {
             "www.den-dc01.marketo.net": "INACTIVE"
@@ -27750,9 +27723,6 @@
         "1573144992": {
             "abbottlaboratories.tt.omtrdc.net": "INACTIVE"
         },
-        "1573145010": {
-            "ab-dc01.marketo.net": "INACTIVE"
-        },
         "1573145016": {
             "abgroupaclient.perimeterx.net": "INACTIVE"
         },
@@ -28605,9 +28575,6 @@
         },
         "1573162558": {
             "appleworldwidedeveloper.hb-api.omtrdc.net": "INACTIVE"
-        },
-        "1573162594": {
-            "app.marketo.net": "INACTIVE"
         },
         "1573162640": {
             "app-olb.quartic.pl": "INACTIVE"
@@ -48822,6 +48789,22 @@
         },
         "1577165404": {
             "www.i.lsimg.net": "INACTIVE"
+        },
+        "1577178874": {
+            "ab-dc01.marketo.net": "INACTIVE"
+        },
+        "1577178875": {
+            "atl-dc01.marketo.net": "INACTIVE",
+            "atl-dc02.marketo.net": "INACTIVE",
+            "cpm.marketo.net": "INACTIVE",
+            "www.atl-dc01.marketo.net": "INACTIVE",
+            "www.atl-dc02.marketo.net": "INACTIVE"
+        },
+        "1577178876": {
+            "den-ax01.marketo.net": "INACTIVE",
+            "den-dc01.marketo.net": "INACTIVE",
+            "www.cpm.marketo.net": "INACTIVE",
+            "www.den-ax01.marketo.net": "INACTIVE"
         }
     }
 }
