@@ -63937,7 +63937,9 @@
             "metrixlablw.customers.luna.net",
             "marketo.net",
             "app.marketo.net",
-            "guestwifi.marketo.net"
+            "guestwifi.marketo.net",
+            "munchkin.marketo.net",
+            "munchkin-cdn.marketo.net"
         ],
         "INACTIVE": [
             "iesolutions.7p.com",
@@ -74986,7 +74988,17 @@
             "www.dub-dc01.marketo.net",
             "epm.marketo.net",
             "www.dub-dc02.marketo.net",
-            "www.epm.marketo.net"
+            "www.epm.marketo.net",
+            "www.guestwifi.marketo.net",
+            "www.munchkin.marketo.net",
+            "pdx-dc01.marketo.net",
+            "www.pdx-dc01.marketo.net",
+            "pdx-dc02.marketo.net",
+            "www.pdx-dc02.marketo.net",
+            "sea-dc01.marketo.net",
+            "www.sea-dc01.marketo.net",
+            "sea-dc02.marketo.net",
+            "www.sea-dc02.marketo.net"
         ],
         "INVALID": [
             "com.tenjin.ios.api",

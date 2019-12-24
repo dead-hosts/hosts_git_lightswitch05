@@ -19528,12 +19528,6 @@
         "1572971362": {
             "mtvnetworks.tt.omtrdc.net": "INACTIVE"
         },
-        "1572971390": {
-            "munchkin-cdn.marketo.net": "INACTIVE"
-        },
-        "1572971391": {
-            "munchkin.marketo.net": "INACTIVE"
-        },
         "1572971392": {
             "munin.st-av.net": "INACTIVE"
         },
@@ -20488,12 +20482,6 @@
         },
         "1573084947": {
             "pd.ispot.tv": "INACTIVE"
-        },
-        "1573084972": {
-            "pdx-dc01.marketo.net": "INACTIVE"
-        },
-        "1573084973": {
-            "pdx-dc02.marketo.net": "INACTIVE"
         },
         "1573085034": {
             "pennwellco.tt.omtrdc.net": "INACTIVE"
@@ -22239,12 +22227,6 @@
         },
         "1573095079": {
             "se2.monetate.net": "INACTIVE"
-        },
-        "1573095094": {
-            "sea-dc01.marketo.net": "INACTIVE"
-        },
-        "1573095095": {
-            "sea-dc02.marketo.net": "INACTIVE"
         },
         "1573095142": {
             "searsholdings.tt.omtrdc.net": "INACTIVE"
@@ -25746,9 +25728,6 @@
         "1573115220": {
             "www.gs.wixapps.net": "INACTIVE"
         },
-        "1573115222": {
-            "www.guestwifi.marketo.net": "INACTIVE"
-        },
         "1573115231": {
             "www.h-api-ms.online-metrix.net": "INACTIVE"
         },
@@ -25841,9 +25820,6 @@
         "1573115931": {
             "www.mps.mxptint.net": "INACTIVE"
         },
-        "1573115935": {
-            "www.munchkin.marketo.net": "INACTIVE"
-        },
         "1573115948": {
             "www.mxptint.net": "INACTIVE"
         },
@@ -25871,12 +25847,6 @@
         },
         "1573116091": {
             "www.pages.coveo.com": "INACTIVE"
-        },
-        "1573116113": {
-            "www.pdx-dc01.marketo.net": "INACTIVE"
-        },
-        "1573116114": {
-            "www.pdx-dc02.marketo.net": "INACTIVE"
         },
         "1573116165": {
             "www.pixel.clearstream.tv": "INACTIVE"
@@ -25948,12 +25918,6 @@
         },
         "1573116609": {
             "www.sdk.singular.net": "INACTIVE"
-        },
-        "1573116611": {
-            "www.sea-dc01.marketo.net": "INACTIVE"
-        },
-        "1573116613": {
-            "www.sea-dc02.marketo.net": "INACTIVE"
         },
         "1573116649": {
             "www.securec.quartic.pl": "INACTIVE"
@@ -48788,6 +48752,22 @@
             "www.dub-dc01.marketo.net": "INACTIVE",
             "www.dub-dc02.marketo.net": "INACTIVE",
             "www.epm.marketo.net": "INACTIVE"
+        },
+        "1577190793": {
+            "pdx-dc01.marketo.net": "INACTIVE",
+            "www.guestwifi.marketo.net": "INACTIVE",
+            "www.munchkin.marketo.net": "INACTIVE",
+            "www.pdx-dc01.marketo.net": "INACTIVE"
+        },
+        "1577190794": {
+            "pdx-dc02.marketo.net": "INACTIVE",
+            "sea-dc01.marketo.net": "INACTIVE",
+            "sea-dc02.marketo.net": "INACTIVE",
+            "www.pdx-dc02.marketo.net": "INACTIVE",
+            "www.sea-dc01.marketo.net": "INACTIVE"
+        },
+        "1577190795": {
+            "www.sea-dc02.marketo.net": "INACTIVE"
         }
     }
 }
