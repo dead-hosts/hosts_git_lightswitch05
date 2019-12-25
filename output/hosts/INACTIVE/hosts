@@ -1068,8 +1068,8 @@
 0.0.0.0 api.simpli.fi
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 apis-staging.sharethrough.com
+0.0.0.0 apis.staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 api-staging-us-west-2.lisnr.com
@@ -1439,8 +1439,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azure-res-provider.newrelic.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-apac1-win.zemanta.com
 0.0.0.0 b1-euc1-win.zemanta.com
 0.0.0.0 b1-euc2.zemanta.com
@@ -4158,10 +4158,10 @@
 0.0.0.0 idr.ad.gt
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
-0.0.0.0 i.ds.ad.gt
 0.0.0.0 id-s.ad.gt
-0.0.0.0 i-ds.ad.gt
 0.0.0.0 id.s.ad.gt
+0.0.0.0 i-ds.ad.gt
+0.0.0.0 i.ds.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
 0.0.0.0 idsq.ad.gt
@@ -4192,8 +4192,8 @@
 0.0.0.0 iei.rlcdn.com
 0.0.0.0 ies.ad.gt
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -6478,6 +6478,7 @@
 0.0.0.0 production.eu-west-2.kops.kargo.com
 0.0.0.0 production.ewr.mathmon.mediamath.com
 0.0.0.0 production.kargo.com
+0.0.0.0 productlistings.media.net
 0.0.0.0 product.microad.jp
 0.0.0.0 products.hlserve.com
 0.0.0.0 products.snapads.com
@@ -6486,6 +6487,7 @@
 0.0.0.0 prod.useast1.int.siftscience.com
 0.0.0.0 prod-us-east-1.swrve.com
 0.0.0.0 prod.us-west-1.kops.kargo.com
+0.0.0.0 programmatic.media.net
 0.0.0.0 project.datadome.co
 0.0.0.0 pr-old.adform.com
 0.0.0.0 prom-central.infra.voodoo-ads.io
@@ -6630,6 +6632,7 @@
 0.0.0.0 pub-services.staging.fra.braze.eu
 0.0.0.0 pubs.smrtb.com
 0.0.0.0 pub.weborama.fr
+0.0.0.0 pulp.media.net
 0.0.0.0 pulsepoint.dca.events.bidstalk.com
 0.0.0.0 pulse-test-gw.conviva.com
 0.0.0.0 pulse-uat.inmobi.com
@@ -6813,6 +6816,7 @@
 0.0.0.0 rd.advertising.com
 0.0.0.0 rdbrck-tagan.adlightning.com
 0.0.0.0 rd-ext.rlcdn.com
+0.0.0.0 rd.media.net
 0.0.0.0 rdocs.zineone.com
 0.0.0.0 rd.rlcdn.com
 0.0.0.0 rdr-test2.adsfactor.net
@@ -7101,10 +7105,10 @@
 0.0.0.0 s-07.optvdo.com
 0.0.0.0 s-09.optvdo.com
 0.0.0.0 s10.allinviews.com
-0.0.0.0 s10.optvdo.com
 0.0.0.0 s-10.optvdo.com
-0.0.0.0 s12.optvdo.com
+0.0.0.0 s10.optvdo.com
 0.0.0.0 s-12.optvdo.com
+0.0.0.0 s12.optvdo.com
 0.0.0.0 s12.urbaninsight.com
 0.0.0.0 s13.ayads.co
 0.0.0.0 s13.optvdo.com
@@ -7707,7 +7711,9 @@
 0.0.0.0 srv-eu-ldn-5.buysellads.com
 0.0.0.0 srv-eu-nl-5.buysellads.com
 0.0.0.0 srv-eu-nl-6.buysellads.com
+0.0.0.0 srvjs.media.net
 0.0.0.0 srv.jt.ms
+0.0.0.0 srv.media.net
 0.0.0.0 srv.semanticontext.com
 0.0.0.0 srv-sg-sgp-2.buysellads.com
 0.0.0.0 srv-sg-sgp-3.buysellads.com
@@ -7745,7 +7751,9 @@
 0.0.0.0 ssl-skozigt.2cnt.net
 0.0.0.0 ssl-skozuiver.2cnt.net
 0.0.0.0 ssl.so.com
+0.0.0.0 ssltest2.media.net
 0.0.0.0 ssltest.branch.io
+0.0.0.0 ssltest.media.net
 0.0.0.0 ssl.tmathtag.com
 0.0.0.0 sslvpn.foreseeresults.com
 0.0.0.0 sslvpn.rubiconproject.com
@@ -7877,8 +7885,8 @@
 0.0.0.0 static-2.3lift.com
 0.0.0.0 static2.sharethrough.com
 0.0.0.0 statica.addtoany.com
-0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static-acceptance.sharethrough.com
+0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.adpushup.com
 0.0.0.0 static.black.erne.co
 0.0.0.0 static.blog.sharethis.com
@@ -7899,8 +7907,8 @@
 0.0.0.0 static.simpli.fi
 0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static.sociomantic.com
-0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.staging.sharethrough.com
+0.0.0.0 static-staging.sharethrough.com
 0.0.0.0 static.stg.yieldmo.com
 0.0.0.0 static.tagoo.cc
 0.0.0.0 static.tagoo.co
@@ -8450,8 +8458,8 @@
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking-rce.veeseo.com
+0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -8470,8 +8478,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trc-cc.taboola.com
 0.0.0.0 tr.count.ly
@@ -9119,12 +9127,12 @@
 0.0.0.0 video.inmobi.com
 0.0.0.0 videology.ndf.weborama.com
 0.0.0.0 videomax.neodatagroup.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
-0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 videos-staging.sharethrough.com
+0.0.0.0 videos.staging.sharethrough.com
 0.0.0.0 vid.locsensads.com
 0.0.0.0 vid.pardot.com
 0.0.0.0 vidstatb.taboola.com.cdn.cloudflare.net
@@ -9153,6 +9161,7 @@
 0.0.0.0 vm.dev.midasplayer.com
 0.0.0.0 vmg.rtb.loopme.me
 0.0.0.0 vn.tracking.fingereach.com
+0.0.0.0 vogon.srv.media.net
 0.0.0.0 voicefive-sb-ec.adtechus.com
 0.0.0.0 voicefive-sb-wc.adtechus.com
 0.0.0.0 vokate.qa.extole.io

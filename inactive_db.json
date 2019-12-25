@@ -20669,9 +20669,6 @@
         "1573087568": {
             "prod.pixel.printsites.net": "INACTIVE"
         },
-        "1573087669": {
-            "productlistings.media.net": "INACTIVE"
-        },
         "1573087671": {
             "productpartnersllc.tt.omtrdc.net": "INACTIVE"
         },
@@ -20827,9 +20824,6 @@
         "1573088055": {
             "prometheus.testing-mdw1.k8s.sendgrid.net": "INACTIVE"
         },
-        "1573088074": {
-            "promo.media.net": "INACTIVE"
-        },
         "1573088276": {
             "proximusnv.tt.omtrdc.net": "INACTIVE"
         },
@@ -20858,9 +20852,6 @@
         "1573088438": {
             "pst.adsrvr.org": "INACTIVE"
         },
-        "1573088466": {
-            "pt.media.net": "INACTIVE"
-        },
         "1573088493": {
             "ptx.adj.st": "INACTIVE"
         },
@@ -20881,9 +20872,6 @@
         },
         "1573088725": {
             "pull.docker.adsrvr.org": "INACTIVE"
-        },
-        "1573088727": {
-            "pulp.media.net": "INACTIVE"
         },
         "1573088768": {
             "puma.tt.omtrdc.net": "INACTIVE"
@@ -21222,9 +21210,6 @@
         },
         "1573090099": {
             "rdebug.smartstream.tv": "INACTIVE"
-        },
-        "1573090114": {
-            "rd.media.net": "INACTIVE"
         },
         "1573090181": {
             "readersdigest.tt.omtrdc.net": "INACTIVE"
@@ -22770,12 +22755,6 @@
         "1573099525": {
             "srl2.adj.st": "INACTIVE"
         },
-        "1573099588": {
-            "srvjs.media.net": "INACTIVE"
-        },
-        "1573099594": {
-            "srv.media.net": "INACTIVE"
-        },
         "1573099609": {
             "srv-wa.ad.yieldmanager.net": "INACTIVE"
         },
@@ -22811,12 +22790,6 @@
         },
         "1573099854": {
             "sslsegur0.backup.sh": "INACTIVE"
-        },
-        "1573099886": {
-            "ssltest2.media.net": "INACTIVE"
-        },
-        "1573099889": {
-            "ssltest.media.net": "INACTIVE"
         },
         "1573099959": {
             "ssp-anyclip-gcp.streamrail.net": "INACTIVE",
@@ -24904,9 +24877,6 @@
         },
         "1573110225": {
             "voda.staging.st-av.net": "INACTIVE"
-        },
-        "1573110229": {
-            "vogon.srv.media.net": "INACTIVE"
         },
         "1573110230": {
             "vogue.com.ssl.sc.omtrdc.net": "INACTIVE"
@@ -48619,6 +48589,25 @@
         },
         "1577285540": {
             "ns2.media.net": "INACTIVE"
+        },
+        "1577286892": {
+            "productlistings.media.net": "INACTIVE",
+            "programmatic.media.net": "INACTIVE"
+        },
+        "1577286893": {
+            "pulp.media.net": "INACTIVE",
+            "rd.media.net": "INACTIVE"
+        },
+        "1577286894": {
+            "srv.media.net": "INACTIVE"
+        },
+        "1577286895": {
+            "srvjs.media.net": "INACTIVE",
+            "vogon.srv.media.net": "INACTIVE"
+        },
+        "1577286896": {
+            "ssltest.media.net": "INACTIVE",
+            "ssltest2.media.net": "INACTIVE"
         }
     }
 }
