@@ -2543,6 +2543,7 @@
 0.0.0.0 adm1.dynamicyield.com
 0.0.0.0 admin-api.g-us-v3.conductrics.com
 0.0.0.0 admin-reports.bluekai.com
+0.0.0.0 admin-vpn.monetate.net
 0.0.0.0 adobe.demdex.net
 0.0.0.0 adobemobiledev.demdex.net
 0.0.0.0 adp-pmk.adtdp.com
@@ -2690,6 +2691,7 @@
 0.0.0.0 api.luckyorange.net
 0.0.0.0 api.mainad.com
 0.0.0.0 api-meta-grpc.lightstep.com
+0.0.0.0 api.monetate.net
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 api-prod.luckyorange.net
 0.0.0.0 api-products.globalwebindex.net
@@ -2832,6 +2834,8 @@
 0.0.0.0 axelspringerse.demdex.net
 0.0.0.0 axisbank.demdex.net
 0.0.0.0 axs.demdex.net
+0.0.0.0 az416426.vo.msecnd.net
+0.0.0.0 az690879.vo.msecnd.net
 0.0.0.0 azd.demdex.net
 0.0.0.0 azure.appdynamics.com
 0.0.0.0 b136c9c4-4798-4d9e-b9dd-972e3ce64d75-078d9f6a6dc1.cdn.forter.com
@@ -3545,6 +3549,7 @@
 0.0.0.0 email-grafana.prod-1.prod.leanplum.com
 0.0.0.0 embed.lisnr.com
 0.0.0.0 emc.demdex.net
+0.0.0.0 e.monetate.net
 0.0.0.0 enelspa.demdex.net
 0.0.0.0 energyaustralia.demdex.net
 0.0.0.0 enrichment.api.drift.com
@@ -3860,8 +3865,8 @@
 0.0.0.0 gist-raw.github.exacttarget.com
 0.0.0.0 globalnow.macromill.com
 0.0.0.0 globalspec.demdex.net
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 globetelecoms.demdex.net
 0.0.0.0 globo.demdex.net
 0.0.0.0 gmde.demdex.net
@@ -4267,6 +4272,7 @@
 0.0.0.0 longslb1.fwmrm.net
 0.0.0.0 longslb2.fwmrm.net
 0.0.0.0 looker.bounceexchange.com
+0.0.0.0 looker.monetate.net
 0.0.0.0 lot.demdex.net
 0.0.0.0 lottomaticaspa.demdex.net
 0.0.0.0 louisiana.localiq.com
@@ -4556,6 +4562,7 @@
 0.0.0.0 mousecomputer.demdex.net
 0.0.0.0 moveinc.demdex.net
 0.0.0.0 mpispain.demdex.net
+0.0.0.0 mpx.monetate.net
 0.0.0.0 mr01.inmobi.com
 0.0.0.0 mr02.inmobi.com
 0.0.0.0 mri.hosting.exacttarget.com
@@ -5141,6 +5148,7 @@
 0.0.0.0 phish.curalate.com
 0.0.0.0 phone.sf.adroll.com
 0.0.0.0 phx1-mx.cbsi.com
+0.0.0.0 pine.monetate.net
 0.0.0.0 ping.luckyorange.net
 0.0.0.0 ping-staging.luckyorange.net
 0.0.0.0 pink.k8s.test-001.d-usw-2.braze.com
@@ -5563,6 +5571,7 @@
 0.0.0.0 sdx.xfinity.com.edgekey.net
 0.0.0.0 se1.ap.nexus.ensighten.com
 0.0.0.0 se2.ap.nexus.ensighten.com
+0.0.0.0 se2.monetate.net
 0.0.0.0 se3.ap.nexus.ensighten.com
 0.0.0.0 se4.ap.nexus.ensighten.com
 0.0.0.0 search9.keywordblocks.com
@@ -5590,6 +5599,7 @@
 0.0.0.0 selfservice.ensighten.com
 0.0.0.0 selfservice.mediamind.com
 0.0.0.0 seloger.demdex.net
+0.0.0.0 se.monetate.net
 0.0.0.0 semprotest.hurra.com
 0.0.0.0 semrushexchange.demdex.net
 0.0.0.0 se.msas.media.net
@@ -6030,6 +6040,7 @@
 0.0.0.0 tracfone.amobee.com
 0.0.0.0 tracfone.demdex.net
 0.0.0.0 tracking.downloadyee.com
+0.0.0.0 tracking.nl1.mp01.net
 0.0.0.0 tracking.photoyee.com
 0.0.0.0 traderca.demdex.net
 0.0.0.0 trainerqa.brightedge.com
@@ -6227,12 +6238,15 @@
 0.0.0.0 vpn01.manage.com
 0.0.0.0 vpn02.manage.com
 0.0.0.0 vpn2.govops.appdynamics.com
+0.0.0.0 vpn-eu-west-1.monetate.net
 0.0.0.0 vpn-fo.chartbeat.com
 0.0.0.0 vpn-fr.criteo.com
 0.0.0.0 vpng2.friendbuy.com
 0.0.0.0 vpn-iquest.exacttarget.com
 0.0.0.0 vpn-par.criteo.com
 0.0.0.0 vpn-sydney.exacttarget.com
+0.0.0.0 vpn-us-east-1.monetate.net
+0.0.0.0 vpn-us-west-2.monetate.net
 0.0.0.0 vpnx.evowise.com
 0.0.0.0 vrtbe.demdex.net
 0.0.0.0 vsctechnologies.demdex.net
@@ -6320,8 +6334,8 @@
 0.0.0.0 win-media.dc6.fastclick.net
 0.0.0.0 win-media-dc6.fastclick.net
 0.0.0.0 win-media.fastclick.net
-0.0.0.0 win-media.sj2.fastclick.net
 0.0.0.0 win-media-sj2.fastclick.net
+0.0.0.0 win-media.sj2.fastclick.net
 0.0.0.0 wintechnologies.demdex.net
 0.0.0.0 wired2fish.cbsi.com
 0.0.0.0 wizink.demdex.net
