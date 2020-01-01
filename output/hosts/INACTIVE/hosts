@@ -12,6 +12,7 @@
 0.0.0.0 468419148293.us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 921050094188.us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 94d45.admaster.com.cn
+0.0.0.0 actest.campaign.adobe.com
 0.0.0.0 ad1.adlegend.com
 0.0.0.0 ad.adbull.com
 0.0.0.0 ad.adlegend.com
@@ -23,6 +24,8 @@
 0.0.0.0 adrcn.ma.163.com
 0.0.0.0 ads.adasiaholdings.com
 0.0.0.0 adserver.adbull.com
+0.0.0.0 adserver-hk.admaxim.com
+0.0.0.0 adserver-uk.admaxim.com
 0.0.0.0 adserving-blueqa.scoota.co
 0.0.0.0 adserving-stage.scoota.co
 0.0.0.0 adserving-staging.scoota.co
@@ -31,6 +34,7 @@
 0.0.0.0 ads.trigr.co
 0.0.0.0 adsystem.adbull.com
 0.0.0.0 adtag.staging.adlightning.com
+0.0.0.0 adtrack.admaxim.com
 0.0.0.0 adtracker.airmilesopinions.ca
 0.0.0.0 adtracker.webperspectives.ca
 0.0.0.0 adx.mixmarket.biz
@@ -90,6 +94,7 @@
 0.0.0.0 ap-northeast-2.gamma.analytics.console.aws.a2z.com
 0.0.0.0 ap-northeast-2.prod.analytics.console.aws.a2z.com
 0.0.0.0 app.adizio.com
+0.0.0.0 app.admedo.com
 0.0.0.0 app.intellimize.co
 0.0.0.0 app.pangeo.geoedge.be
 0.0.0.0 app.silverpush.co
@@ -115,6 +120,7 @@
 0.0.0.0 avis.adlegend.com
 0.0.0.0 babyboomerpeoplemeet.adlegend.com
 0.0.0.0 backpack.adform.com
+0.0.0.0 baseurl.admarvel.com
 0.0.0.0 bathandbodyworks.adlegend.com
 0.0.0.0 bbpeoplemeet.adlegend.com
 0.0.0.0 bbpy3.feathr.co
@@ -169,8 +175,11 @@
 0.0.0.0 calendar.adition.com
 0.0.0.0 calipeoplemeet.adlegend.com
 0.0.0.0 calvinklein.adlegend.com
+0.0.0.0 campaignperf.qa.campaign.adobe.com
 0.0.0.0 capitalone.acxiom.com
+0.0.0.0 cata.adotube.com
 0.0.0.0 catholicpeoplemeet.adlegend.com
+0.0.0.0 cc20.adotube.com
 0.0.0.0 c.dlx.addthis.com
 0.0.0.0 cdn10.abtasty.com
 0.0.0.0 cdn11.abtasty.com
@@ -203,10 +212,13 @@
 0.0.0.0 client-fast.addthis.com
 0.0.0.0 client-uat-fast.addthis.com
 0.0.0.0 conference.meeting.abtasty.com
+0.0.0.0 connect.adobedtm.com
 0.0.0.0 consequence-tagan.adlightning.com
 0.0.0.0 coray.ayads.co
+0.0.0.0 core.adotube.com
 0.0.0.0 corporate.wp.orbee.co
 0.0.0.0 cors-js-staging.ad-score.com
+0.0.0.0 cpalaghiu.adotube.com
 0.0.0.0 crawler.smedia.ca
 0.0.0.0 crownandcaliber.adlegend.com
 0.0.0.0 css.vidconlab.acxiom.com
@@ -221,6 +233,7 @@
 0.0.0.0 dailyburn.adlegend.com
 0.0.0.0 data.ayads.co
 0.0.0.0 data-staging.scoota.co
+0.0.0.0 datatrack-hk.admaxim.com
 0.0.0.0 datavisualization.acxiom.com
 0.0.0.0 dbs.adadyn.com
 0.0.0.0 dc2-10.abtasty.com
@@ -360,6 +373,7 @@
 0.0.0.0 idsync.districtm.ca
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ilcvperfetto.adlegend.com
+0.0.0.0 image.admedo.com
 0.0.0.0 imageceu1.247realmedia.com
 0.0.0.0 img-1.3lift.com
 0.0.0.0 img-2.3lift.com
@@ -377,6 +391,7 @@
 0.0.0.0 ins.ma.163.com
 0.0.0.0 interactivebrokers.adlegend.com
 0.0.0.0 internal.datadome.co
+0.0.0.0 internals.adotmob.com
 0.0.0.0 interracialpeoplemeet.adlegend.com
 0.0.0.0 intuit.adlegend.com
 0.0.0.0 in.webapp.163.com
@@ -416,6 +431,7 @@
 0.0.0.0 littlepeoplemeet.adlegend.com
 0.0.0.0 livefeed.adform.com
 0.0.0.0 load.adlegend.com
+0.0.0.0 local.adotmob.com
 0.0.0.0 log.c.163.com
 0.0.0.0 logger.test.snackly.co
 0.0.0.0 loveandseek.adlegend.com
@@ -426,6 +442,7 @@
 0.0.0.0 ma79.163.com
 0.0.0.0 ma79.game.163.com
 0.0.0.0 m.adkmob.com
+0.0.0.0 m.admaxim.com
 0.0.0.0 mail.adadqwq.cf
 0.0.0.0 mailbox.7p.com
 0.0.0.0 mail.dev.smedia.ca
@@ -554,6 +571,7 @@
 0.0.0.0 pcidgts1.acxiom.com
 0.0.0.0 petpeoplemeet.adlegend.com
 0.0.0.0 pflow.acxiom.com
+0.0.0.0 ph.adnxtr.com
 0.0.0.0 plated.adlegend.com
 0.0.0.0 platform.adadyn.com
 0.0.0.0 platform.districtm.ca
@@ -563,8 +581,10 @@
 0.0.0.0 preprod-backoffice.datadome.co
 0.0.0.0 preprod-dashboard.datadome.co
 0.0.0.0 preprod-dashboard-rest-api.datadome.co
+0.0.0.0 presto-ldap.adotmob.com
 0.0.0.0 privacynews.acxiom.com
 0.0.0.0 prod.adlightning.com
+0.0.0.0 prod.adotmob.com
 0.0.0.0 prod.snackly.co
 0.0.0.0 product.abtasty.com
 0.0.0.0 project.datadome.co
@@ -602,6 +622,9 @@
 0.0.0.0 riju.ittest.33across.com
 0.0.0.0 roomertravel.adlegend.com
 0.0.0.0 r.rockabox.co
+0.0.0.0 rtb1-hk.admaxim.com
+0.0.0.0 rtb-appnexus.admaxim.com
+0.0.0.0 rtbtrack.admaxim.com
 0.0.0.0 rtb-trk.adcolony.com
 0.0.0.0 rtp.cert.acxiom.com
 0.0.0.0 rtpdemo.acxiom.com
@@ -633,8 +656,11 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 sec.admaster.com.cn
 0.0.0.0 secsite.163.com
+0.0.0.0 secure.admarvel.com
+0.0.0.0 secure-datatrack-hk.admaxim.com
 0.0.0.0 securedr.33across.com
 0.0.0.0 secure-fast.addthis.com
+0.0.0.0 secure-rtbtrack-uk.admaxim.com
 0.0.0.0 secure-uat.addthis.com
 0.0.0.0 seg2.ayads.co
 0.0.0.0 seniorblackpeoplemeet.adlegend.com
@@ -648,6 +674,7 @@
 0.0.0.0 shouji.lianmeng.360.cn
 0.0.0.0 show1.admaster.com.cn
 0.0.0.0 singleparentmeet.adlegend.com
+0.0.0.0 _sipfederationtls._tcp.admedia.com
 0.0.0.0 sj.lianmeng.360.cn
 0.0.0.0 smartpak.adlegend.com
 0.0.0.0 smediawebsite.smedia.ca
@@ -664,6 +691,8 @@
 0.0.0.0 ssl.zhidao.163.com
 0.0.0.0 stag.api.orbee.co
 0.0.0.0 staging.3lift.com
+0.0.0.0 staging.adotmob.com
+0.0.0.0 staging-dps.adotmob.com
 0.0.0.0 staging.geoedge.be
 0.0.0.0 star.stage.3cinteractive.com
 0.0.0.0 static-2.3lift.com
@@ -684,6 +713,7 @@
 0.0.0.0 studio.adadyn.com
 0.0.0.0 sublimelog.ayads.co
 0.0.0.0 summercamp.adform.com
+0.0.0.0 sync-ovh.adotmob.com
 0.0.0.0 tag.adlooxtracking.com
 0.0.0.0 tags.adasiaholdings.com
 0.0.0.0 tags-akamai-test.addthis.com
@@ -697,8 +727,11 @@
 0.0.0.0 tm-rtods.prod.corp.acxiom.com
 0.0.0.0 tools-tracking.adform.com
 0.0.0.0 toysrus.adlegend.com
+0.0.0.0 track-hk.admaxim.com
 0.0.0.0 tracking.adkmob.com
 0.0.0.0 track-staging.scoota.co
+0.0.0.0 track-uswest.admaxim.com
+0.0.0.0 trademe.admaxim.com
 0.0.0.0 training7.247realmedia.com
 0.0.0.0 trueffect.adlegend.com
 0.0.0.0 tst.silverpush.co
@@ -714,8 +747,8 @@
 0.0.0.0 us-east-1.prod.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -758,6 +791,8 @@
 0.0.0.0 video.adconion.com
 0.0.0.0 vip.admaster.com.cn
 0.0.0.0 vox-static.liverail.co
+0.0.0.0 vs.admedo.com
+0.0.0.0 vt.admedo.com
 0.0.0.0 wanted.adform.com
 0.0.0.0 wc.adapf.com
 0.0.0.0 webconf.acxiom.com
@@ -794,6 +829,7 @@
 0.0.0.0 www.adnetwork.adasiaholdings.com
 0.0.0.0 www.ad-pixel.com
 0.0.0.0 www.adshowroom.adcolony.com
+0.0.0.0 www.adv.api.admedia.com
 0.0.0.0 www.adwords.smedia.ca
 0.0.0.0 www.alpha-assets.adcolony.com
 0.0.0.0 www.ams.d41.co
@@ -813,6 +849,7 @@
 0.0.0.0 www.clickus.admailtiser.com
 0.0.0.0 www.cms-xch-chicago.33across.com
 0.0.0.0 www.config.inmobi.cn
+0.0.0.0 www.core.adotube.com
 0.0.0.0 www.crash-metrics.sdk.inmobi.cn
 0.0.0.0 www.data.ad-score.com
 0.0.0.0 www.dc.mobile.abtasty.com
@@ -829,6 +866,7 @@
 0.0.0.0 www.hd.dao.163.com
 0.0.0.0 www.helix.inmobi.cn
 0.0.0.0 www.helixuat.inmobi.cn
+0.0.0.0 www.in.admedia.com
 0.0.0.0 www.intellimize.co
 0.0.0.0 www.interactive.inmobi.cn
 0.0.0.0 www.js.ad-score.com
@@ -863,6 +901,7 @@
 0.0.0.0 www.rumcdn.geoedge.be
 0.0.0.0 www.secure.addthis.com
 0.0.0.0 www.secure.admailtiser.com
+0.0.0.0 www.secure.admarvel.com
 0.0.0.0 www.secus.admailtiser.com
 0.0.0.0 www.serve.adgibbon.com
 0.0.0.0 www.server2.smedia.ca
