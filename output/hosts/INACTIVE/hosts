@@ -330,6 +330,7 @@
 0.0.0.0 api-public-fast.addthis.com
 0.0.0.0 api-public-test.addthis.com
 0.0.0.0 api.qa.drift.com
+0.0.0.0 api.qa.exacttarget.com
 0.0.0.0 api.reports.advertising.com
 0.0.0.0 apis.adsymptotic.com
 0.0.0.0 api.shannon.test.appsee.com
@@ -363,6 +364,7 @@
 0.0.0.0 applovin.hkg.events.bidstalk.com
 0.0.0.0 appodeal.dca.events.bidstalk.com
 0.0.0.0 app.pangeo.geoedge.be
+0.0.0.0 app.qa.exacttarget.com
 0.0.0.0 app.response.demandbase.com
 0.0.0.0 apps.adtz.com
 0.0.0.0 appsdev.appsflyer.com
@@ -435,6 +437,9 @@
 0.0.0.0 auth.meeting.abtasty.com
 0.0.0.0 authorisation.analyticson.com
 0.0.0.0 authorization.affiliates.advidi.com
+0.0.0.0 auth.qa1.exacttarget.com
+0.0.0.0 auth.qa2.exacttarget.com
+0.0.0.0 auth.qa3.exacttarget.com
 0.0.0.0 auth-san.exacttarget.com
 0.0.0.0 autodiscover.airvertiseme.com
 0.0.0.0 autodiscover.analyticson.com
@@ -461,8 +466,8 @@
 0.0.0.0 ayafa.dev-iad.amobee.com
 0.0.0.0 ayafa.qa-iad.amobee.com
 0.0.0.0 azkaban.adwyze.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 baba.dev-iad.amobee.com
 0.0.0.0 baba.qa-iad.amobee.com
 0.0.0.0 babyboomerpeoplemeet.adlegend.com
@@ -1160,6 +1165,7 @@
 0.0.0.0 estelerasoy.7p.com
 0.0.0.0 es-test-azure.datadome.co
 0.0.0.0 estest.convertcart.com
+0.0.0.0 etappx.qa.exacttarget.com
 0.0.0.0 etinswdem01.exacttarget.com
 0.0.0.0 etmall.bridgewell.com
 0.0.0.0 eu.acxiom.com
@@ -1773,6 +1779,7 @@
 0.0.0.0 mei.163.com
 0.0.0.0 melia.sp1.convertro.com
 0.0.0.0 members.11.exacttarget.com
+0.0.0.0 members.poc.exacttarget.com
 0.0.0.0 mep.centraltag.com
 0.0.0.0 meta1.adlegend.com
 0.0.0.0 meta2.adlegend.com
@@ -2051,6 +2058,7 @@
 0.0.0.0 orange.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 origin.adcash.com
 0.0.0.0 origin.adlegend.com
+0.0.0.0 origin-auth.s2.qa3.exacttarget.com
 0.0.0.0 origin.craft.advertising.com
 0.0.0.0 origin.uac.advertising.com
 0.0.0.0 origin-vlibs.advertising.com
@@ -2083,6 +2091,8 @@
 0.0.0.0 p-ads74.eu.adsymptotic.com
 0.0.0.0 pages.brightfunnel.com
 0.0.0.0 pages.gitlab.sele.co
+0.0.0.0 pages.pd1.qa.exacttarget.com
+0.0.0.0 pages.pd1.s2.qa2.exacttarget.com
 0.0.0.0 painted2018081600230618.saas.appdynamics.com
 0.0.0.0 pangeopro.geoedge.be
 0.0.0.0 panopticxcustomertest.acxiom.com
@@ -2220,6 +2230,9 @@
 0.0.0.0 pr.atwola.com
 0.0.0.0 prebid.adnxs.co
 0.0.0.0 predaddit.reddit.co
+0.0.0.0 prem.qa1.exacttarget.com
+0.0.0.0 prem.qa2.exacttarget.com
+0.0.0.0 prem.qa3.exacttarget.com
 0.0.0.0 preprod-backoffice.datadome.co
 0.0.0.0 preprod.criteo.com
 0.0.0.0 preprod-dashboard.datadome.co
@@ -2264,8 +2277,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 proxy.beeviewd.com
 0.0.0.0 proxy.bestcontentonline.com
 0.0.0.0 proxy.dynamicyield.com
@@ -2457,6 +2470,7 @@
 0.0.0.0 rest.agkn.com
 0.0.0.0 rest.api.chatid.com
 0.0.0.0 rest-api.datadome.co
+0.0.0.0 rest.qa.exacttarget.com
 0.0.0.0 retention.appsflyer.com
 0.0.0.0 reve.dev-iad.amobee.com
 0.0.0.0 reve.qa-iad.amobee.com
@@ -2592,6 +2606,7 @@
 0.0.0.0 scim.internal.adroll.com
 0.0.0.0 scjohnson.links.channelintelligence.com
 0.0.0.0 scope.infra.apester.com
+0.0.0.0 scpweb.s3.qa2.exacttarget.com
 0.0.0.0 screenshot.convertcart.com
 0.0.0.0 s.cunda.advolution.biz
 0.0.0.0 sdcert.acxiom.com
@@ -3075,8 +3090,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -3244,6 +3259,7 @@
 0.0.0.0 webserve-f33d6d69.use.dynamicyield.com
 0.0.0.0 webserve-f9c5b52.use.dynamicyield.com
 0.0.0.0 webserve-faa4eb4.use.dynamicyield.com
+0.0.0.0 webservice.qa.exacttarget.com
 0.0.0.0 web.stag2.bounceexchange.com
 0.0.0.0 web.staging.bidstalk.com
 0.0.0.0 webtoimage.channelintelligence.com
@@ -3278,6 +3294,7 @@
 0.0.0.0 wpplydrpad01.vidconlab.acxiom.com
 0.0.0.0 ws2.us-ec.adtechus.com
 0.0.0.0 ws-api.adtechus.com
+0.0.0.0 ws.qa.exacttarget.com
 0.0.0.0 ws.us-ec.adtechus.com
 0.0.0.0 wtags.bluekai.com
 0.0.0.0 wtb.channelintelligence.com
