@@ -58,6 +58,7 @@
 0.0.0.0 api-latest-grpc.lightstep.com
 0.0.0.0 api-latest.lightstep.com
 0.0.0.0 api.locsensads.com
+0.0.0.0 api.lootsie.com
 0.0.0.0 api.nonewlines.env.sandbox53.localytics.com
 0.0.0.0 api.prod.env.53.localytics.com
 0.0.0.0 api.raphael.env.sandbox53.localytics.com
@@ -70,11 +71,13 @@
 0.0.0.0 api.tutorial-sharing.env.sandbox53.localytics.com
 0.0.0.0 api.uat.opinions.inmobi.com
 0.0.0.0 api-v2.instartlogic.com
+0.0.0.0 api-v2.lootsie.com
 0.0.0.0 api.ysamlan-initial-test.env.sandbox53.localytics.com
 0.0.0.0 ap.ligatus.com
 0.0.0.0 app.asana.comapple-finance.query.yahoo.comat1.listrakbi.com
 0.0.0.0 app.kargo.com
 0.0.0.0 app-latest.lightstep.com
+0.0.0.0 appodeal.loopmertb.com
 0.0.0.0 app.yjp.kissmetrics.com
 0.0.0.0 ap-southeast-1.dmp-api.ads.linkedin.com
 0.0.0.0 ap-southeast-1.dmp-api-dev.ads.linkedin.com
@@ -84,6 +87,7 @@
 0.0.0.0 a-static.klaviyo.com
 0.0.0.0 asvn.innity.com
 0.0.0.0 asy.jivox.com
+0.0.0.0 at.lokaplatform.com
 0.0.0.0 au-cn.w.inmobi.com
 0.0.0.0 au.kampyle.com
 0.0.0.0 auth.linksynergy.com
@@ -91,6 +95,8 @@
 0.0.0.0 autodiscover.liverail.com
 0.0.0.0 avvn.innity.com
 0.0.0.0 aws-acm.kissmetrics.com
+0.0.0.0 aws.prod-mill.macromill.com
+0.0.0.0 aws.prod-mobile.macromill.com
 0.0.0.0 b38.s79.research.de.com
 0.0.0.0 backoffice.liverail.com
 0.0.0.0 bar-dev.joystickinteractive.com
@@ -114,6 +120,7 @@
 0.0.0.0 blog-hosted.klaviyo.com
 0.0.0.0 bo.installfarm.com
 0.0.0.0 bo-ms.clickfunnels.com
+0.0.0.0 browser-sdk.lootsie.com
 0.0.0.0 build1500.scm.ev1.inmobi.com
 0.0.0.0 buyers-dev.svc.kargo.com
 0.0.0.0 buyers-service-dev.svc.kargo.com
@@ -146,14 +153,18 @@
 0.0.0.0 click-cluster.rd.linksynergy.com
 0.0.0.0 clientmanagement.aws.lijit.com
 0.0.0.0 clientmanagement.dfw2.lijit.com
+0.0.0.0 client-um.macromill.com
 0.0.0.0 c.ligatus.com
 0.0.0.0 clitest.linksynergy.com
+0.0.0.0 cloud.lokaplatform.com
 0.0.0.0 cma-dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 cma-mgmt-dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 cma-mgmt-new.stage.us-east-1.kops.kargo.com
 0.0.0.0 cma-mgmt.stage.us-east-1.kops.kargo.com
 0.0.0.0 cma-mgmt-staging.stage.us-east-1.kops.kargo.com
 0.0.0.0 cma-staging.stage.us-east-1.kops.kargo.com
+0.0.0.0 cn-enquete.macromill.com
+0.0.0.0 cn-monitor.macromill.com
 0.0.0.0 collector-grpc-latest.lightstep.com
 0.0.0.0 collector-istio.staging.lightstep.com
 0.0.0.0 collector-latest.lightstep.com
@@ -162,6 +173,7 @@
 0.0.0.0 config.dfw2.vip.inmobi.com
 0.0.0.0 config-ltvp.vip.uh1.inmobi.com
 0.0.0.0 content.glance.inmobi.com
+0.0.0.0 content.lokaplatform.com
 0.0.0.0 cp.ligatus.com
 0.0.0.0 cra.locsensads.com
 0.0.0.0 crave.dev.joystickinteractive.com
@@ -178,6 +190,7 @@
 0.0.0.0 dam5.cloud.kargo.com
 0.0.0.0 dam.cloud.kargo.com
 0.0.0.0 data.innovativemetrics.com
+0.0.0.0 data.m-freeway.com
 0.0.0.0 data-viz-challenge.localytics.com
 0.0.0.0 dc7.x.lijit.com
 0.0.0.0 dcos.lijit.com
@@ -190,6 +203,8 @@
 0.0.0.0 demo5.instartlogic.com
 0.0.0.0 demo7.instartlogic.com
 0.0.0.0 demo8.instartlogic.com
+0.0.0.0 demo-admin.macromill.com
+0.0.0.0 demo-monitor.macromill.com
 0.0.0.0 dev1.justuno.com
 0.0.0.0 dev2.justuno.com
 0.0.0.0 dev3.justuno.com
@@ -229,6 +244,7 @@
 0.0.0.0 et-cn.apac.gslb.inmobi.com
 0.0.0.0 et-cn.w.inmobi.com
 0.0.0.0 eu.kampyle.com
+0.0.0.0 eu-rtb.loopmertb.com
 0.0.0.0 eu-west-1.dmp-api.ads.linkedin.com
 0.0.0.0 eu-west-1.dmp-api-dev.ads.linkedin.com
 0.0.0.0 ext.ligatus.com
@@ -262,6 +278,9 @@
 0.0.0.0 github.corp.inmobi.com
 0.0.0.0 glance-ds.sigma.inmobi.com
 0.0.0.0 glance-workbench.sigma.inmobi.com
+0.0.0.0 global-admin.macromill.com
+0.0.0.0 global.macromill.com
+0.0.0.0 global-monitor.macromill.com
 0.0.0.0 go.justuno.com
 0.0.0.0 go.kissmetrics.com
 0.0.0.0 hackathon.localytics.com
@@ -316,6 +335,8 @@
 0.0.0.0 jp-ads-cluster.rd.linksynergy.com
 0.0.0.0 jp-tags-cluster.rd.linksynergy.com
 0.0.0.0 julia-temp-1.joystickinteractive.com
+0.0.0.0 k2.macromill.com
+0.0.0.0 k7.macromill.com
 0.0.0.0 k8s.dev.kargo.com
 0.0.0.0 k8s.staging.kargo.com
 0.0.0.0 kace1100-01.intern.ligatus.com
@@ -333,8 +354,10 @@
 0.0.0.0 log-01.ec2.us.east.liverail.com
 0.0.0.0 log-b.liverail.com
 0.0.0.0 log.liverail.com
+0.0.0.0 logs.logrocket.com
 0.0.0.0 loki.corp.inmobi.com
 0.0.0.0 lp.liverail.com
+0.0.0.0 macs-migration.macromill.com
 0.0.0.0 ma.inmobi.com
 0.0.0.0 marketing.kissmetrics.com
 0.0.0.0 marketo.clearbit.com
@@ -343,6 +366,7 @@
 0.0.0.0 mason2.svc.kargo.com
 0.0.0.0 mason.svc.kargo.com
 0.0.0.0 master.stage.us-east-1.kops.kargo.com
+0.0.0.0 materials.lokaplatform.com
 0.0.0.0 meetpepper-dev.joystickinteractive.com
 0.0.0.0 meetpepper-randy.joystickinteractive.com
 0.0.0.0 merlin.linksynergy.com
@@ -352,6 +376,8 @@
 0.0.0.0 mia.lisnr.com
 0.0.0.0 mldev.sigma.inmobi.com
 0.0.0.0 ml.listrakbi.com
+0.0.0.0 mmi.macromill.com
+0.0.0.0 monitor-mng.macromill.com
 0.0.0.0 ms.ligatus.com
 0.0.0.0 mysite092216-dev.joystickinteractive.com
 0.0.0.0 nc-s.jwpltx.com
@@ -413,6 +439,7 @@
 0.0.0.0 push.rce.ligatus.com
 0.0.0.0 pypi.corp.inmobi.com
 0.0.0.0 qadfw2.lijit.com
+0.0.0.0 qcweb.macromill.com
 0.0.0.0 qlikview.corp.ligatus.com
 0.0.0.0 queuer-elb.sandbox53.localytics.com
 0.0.0.0 rado.segmentation.staging.leanplum.com
@@ -437,6 +464,7 @@
 0.0.0.0 rs.linksynergy.com
 0.0.0.0 rtb.ligatus.com
 0.0.0.0 rtb-ligatus-geu.rd.linksynergy.com
+0.0.0.0 rtmp.lokaplatform.com
 0.0.0.0 rules-ltvp.inmobi.com
 0.0.0.0 s1ns1.adtechjp.com
 0.0.0.0 sac.ligatus.com
@@ -463,6 +491,7 @@
 0.0.0.0 servicedesk.corp.ligatus.com
 0.0.0.0 services.ividplayer.com
 0.0.0.0 services.klaviyo.com
+0.0.0.0 sf-cci.lokaplatform.com
 0.0.0.0 s-file.innovid.com
 0.0.0.0 sfoadcpw02.corp.inmobi.com
 0.0.0.0 s.intercomcdn.com
@@ -481,6 +510,8 @@
 0.0.0.0 spms-staging.innity.com
 0.0.0.0 s.prod.ping-origin-prd.jwpltx.com
 0.0.0.0 stage.ap-southeast-2.kops.kargo.com
+0.0.0.0 stage-prime-api.lootsie.com
+0.0.0.0 stage-prime-www.lootsie.com
 0.0.0.0 stager2.53.localytics.com
 0.0.0.0 stage.us-east-1.kops.kargo.com
 0.0.0.0 stage.us-west-1.kops.kargo.com
@@ -505,6 +536,7 @@
 0.0.0.0 t4geo.liverail.com
 0.0.0.0 t4.liverail.com
 0.0.0.0 tagmanager.ligatus.com
+0.0.0.0 tag-us.loopmertb.com
 0.0.0.0 taunton-cp.joystickinteractive.com
 0.0.0.0 telemetry.sdk.dfw1.vip.inmobi.com
 0.0.0.0 telenor-analytics.localytics.com
@@ -594,6 +626,8 @@
 0.0.0.0 trkx-east.kissmetrics.com
 0.0.0.0 trk.yjp.kissmetrics.com
 0.0.0.0 tr.locsensads.com
+0.0.0.0 trunk-front.lokaplatform.com
+0.0.0.0 trunk-front-staging.lokaplatform.com
 0.0.0.0 ttd-seg.jivox.com
 0.0.0.0 tuckernet-32231.prod.analytics.dealer.com
 0.0.0.0 turbo.hyde.ligatus.com
@@ -639,6 +673,7 @@
 0.0.0.0 wateraid-stg.joystickinteractive.com
 0.0.0.0 wateraid-tmp.joystickinteractive.com
 0.0.0.0 wdc4.activengage.com
+0.0.0.0 webapp.lootsie.com
 0.0.0.0 webdisk.intelsad.com
 0.0.0.0 web.leanplum.com
 0.0.0.0 widgets.innity.com
@@ -690,6 +725,7 @@
 0.0.0.0 www.clientmanagement.lijit.com
 0.0.0.0 www.clients.dealeronlinemarketing.com
 0.0.0.0 www.clitest.linksynergy.com
+0.0.0.0 www.cn.macromill.com
 0.0.0.0 www.corp.inmobi.com
 0.0.0.0 www.cosmos.ssp.inmobi.com
 0.0.0.0 www.crash-metrics.sdk.inmobi.com
@@ -754,6 +790,7 @@
 0.0.0.0 www.johnfrieda.lisnr.com
 0.0.0.0 www.joyedu.joystickinteractive.com
 0.0.0.0 www.jsrdn.com
+0.0.0.0 www.k4.macromill.com
 0.0.0.0 www.koindut.com
 0.0.0.0 www-le.instartlogic.com
 0.0.0.0 www.lens.data.inmobi.com
@@ -762,6 +799,7 @@
 0.0.0.0 www.linksynergy.com
 0.0.0.0 www.llanalytics.com
 0.0.0.0 www.loki.corp.inmobi.com
+0.0.0.0 www.lootsie.com
 0.0.0.0 www.mediaplanner.inmobi.com
 0.0.0.0 www.mediaplanner.uat.inmobi.com
 0.0.0.0 www.meetpepper-dev.joystickinteractive.com
