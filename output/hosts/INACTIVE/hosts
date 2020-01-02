@@ -8,6 +8,7 @@
 0.0.0.0 a3705.casalemedia.com
 0.0.0.0 a4179.casalemedia.com
 0.0.0.0 acs.iogous.com
+0.0.0.0 ads3.kompasads.com
 0.0.0.0 ads.cloud.kargo.com
 0.0.0.0 adserver.innovativemetrics.com
 0.0.0.0 ads.innovativemetrics.com
@@ -15,16 +16,20 @@
 0.0.0.0 aib-stg.joystickinteractive.com
 0.0.0.0 a.iogous.com
 0.0.0.0 alpha.justuno.com
+0.0.0.0 alpha.leanplum.com
 0.0.0.0 api.uat.opinions.inmobi.com
 0.0.0.0 api-v2.instartlogic.com
 0.0.0.0 app.kargo.com
+0.0.0.0 app.yjp.kissmetrics.com
 0.0.0.0 ashk.innity.com
+0.0.0.0 a-static.klaviyo.com
 0.0.0.0 asvn.innity.com
 0.0.0.0 asy.jivox.com
 0.0.0.0 au-cn.w.inmobi.com
 0.0.0.0 au.kampyle.com
 0.0.0.0 autodiscover.intelsad.com
 0.0.0.0 avvn.innity.com
+0.0.0.0 aws-acm.kissmetrics.com
 0.0.0.0 b38.s79.research.de.com
 0.0.0.0 bar-dev.joystickinteractive.com
 0.0.0.0 bestbuyholiday.joystickinteractive.com
@@ -42,6 +47,7 @@
 0.0.0.0 bis5-ssl.installfarm.com
 0.0.0.0 bis-ssp.installfarm.com
 0.0.0.0 bis-ssp-ssl.installfarm.com
+0.0.0.0 blog-hosted.klaviyo.com
 0.0.0.0 bo.installfarm.com
 0.0.0.0 bo-ms.clickfunnels.com
 0.0.0.0 build1500.scm.ev1.inmobi.com
@@ -51,6 +57,7 @@
 0.0.0.0 c-cn.w.inmobi.com
 0.0.0.0 cdn.innity.com
 0.0.0.0 chat.instartlogic.com
+0.0.0.0 chef.rob.ops.kochava.com
 0.0.0.0 c.iogous.com
 0.0.0.0 c.jwpltx.com
 0.0.0.0 ck-eji-weather.joystickinteractive.com
@@ -87,6 +94,8 @@
 0.0.0.0 devops-dashboard.mgmt.us-east-1.kops.kargo.com
 0.0.0.0 dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 dev.us-west-1.kops.kargo.com
+0.0.0.0 dn25.kissmetrics.com
+0.0.0.0 dn58.kissmetrics.com
 0.0.0.0 dockerhub.corp.inmobi.com
 0.0.0.0 dock.inmobi.com
 0.0.0.0 dsp-preprod.inmobi.com
@@ -125,10 +134,12 @@
 0.0.0.0 geocoder.joystickinteractive.com
 0.0.0.0 geoservice.nonprod.sea.inmobi.com
 0.0.0.0 geoservice.prod.sea.inmobi.com
+0.0.0.0 get.leanplum.com
 0.0.0.0 github.corp.inmobi.com
 0.0.0.0 glance-ds.sigma.inmobi.com
 0.0.0.0 glance-workbench.sigma.inmobi.com
 0.0.0.0 go.justuno.com
+0.0.0.0 go.kissmetrics.com
 0.0.0.0 heisenberg.inmobi.com
 0.0.0.0 hoteing.intelsad.com
 0.0.0.0 iam-preprod.inmobi.com
@@ -136,10 +147,10 @@
 0.0.0.0 i.dev.jwpltx.com
 0.0.0.0 idolator.cloud.kargo.com
 0.0.0.0 idp.corp.inmobi.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -149,8 +160,8 @@
 0.0.0.0 imces.vip.lhr1.inmobi.com
 0.0.0.0 info.inmobi.com
 0.0.0.0 infosec.corp.inmobi.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 i.n.ping-origin-prd.jwpltx.com
 0.0.0.0 insideedition.cloud.kargo.com
 0.0.0.0 integration-hub-dev.svc.kargo.com
@@ -161,6 +172,7 @@
 0.0.0.0 internal.staging.kargo.com
 0.0.0.0 i.prod.ping-origin-prd.jwpltx.com
 0.0.0.0 irvadcvw01.corp.inmobi.com
+0.0.0.0 i.yjp.kissmetrics.com
 0.0.0.0 joyedu.joystickinteractive.com
 0.0.0.0 julia-temp-1.joystickinteractive.com
 0.0.0.0 k8s.dev.kargo.com
@@ -170,6 +182,7 @@
 0.0.0.0 kds-pixel-dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 loki.corp.inmobi.com
 0.0.0.0 ma.inmobi.com
+0.0.0.0 marketing.kissmetrics.com
 0.0.0.0 marketo.clearbit.com
 0.0.0.0 marketplace-dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 marketplace-dev.svc.kargo.com
@@ -204,6 +217,7 @@
 0.0.0.0 plrdemo.instartlogic.com
 0.0.0.0 prclick.inmobi.com
 0.0.0.0 prd.ping-origin-prd.jwpltx.com
+0.0.0.0 preprod-sso.leanplum.com
 0.0.0.0 prod.ap-southeast-2.kops.kargo.com
 0.0.0.0 prod.kargo.com
 0.0.0.0 prod.ping-origin-prd.jwpltx.com
@@ -222,6 +236,7 @@
 0.0.0.0 randy-temp-1.joystickinteractive.com
 0.0.0.0 resource.inmobi.com
 0.0.0.0 resources.inmobi.com
+0.0.0.0 r-p3.ladsp.com
 0.0.0.0 rules-ltvp.inmobi.com
 0.0.0.0 s1ns1.adtechjp.com
 0.0.0.0 s.c.jwpltx.com
@@ -240,6 +255,7 @@
 0.0.0.0 server8.installfarm.com
 0.0.0.0 server9.installfarm.com
 0.0.0.0 services.ividplayer.com
+0.0.0.0 services.klaviyo.com
 0.0.0.0 s-file.innovid.com
 0.0.0.0 sfoadcpw02.corp.inmobi.com
 0.0.0.0 s.intercomcdn.com
@@ -275,9 +291,12 @@
 0.0.0.0 test4.instartlogic.com
 0.0.0.0 test5.instartlogic.com
 0.0.0.0 thr.cloud.kargo.com
+0.0.0.0 t.kompasads.com
 0.0.0.0 tm.inmobi.com
 0.0.0.0 token.corp.inmobi.com
 0.0.0.0 trello-callback.glance-internal.inmobi.com
+0.0.0.0 trkx-east.kissmetrics.com
+0.0.0.0 trk.yjp.kissmetrics.com
 0.0.0.0 ttd-seg.jivox.com
 0.0.0.0 tuckernet-32231.prod.analytics.dealer.com
 0.0.0.0 tymon.intelsad.com
@@ -298,11 +317,13 @@
 0.0.0.0 widgets.innity.com
 0.0.0.0 wsj-aramark.joystickinteractive.com
 0.0.0.0 wsj-sprint.joystickinteractive.com
+0.0.0.0 ww2.leadfeeder.com
 0.0.0.0 www2.installfarm.com
 0.0.0.0 www2.instartlogic.com
 0.0.0.0 www.adserver.innovativemetrics.com
 0.0.0.0 www.ads.innovativemetrics.com
 0.0.0.0 www.a.jsrdn.com
+0.0.0.0 www.a.klaviyo.com
 0.0.0.0 www.amp.dataexchange.inmobi.com
 0.0.0.0 www.amp-staging.dataexchange.inmobi.com
 0.0.0.0 www.analytics.glance.inmobi.com
@@ -313,6 +334,7 @@
 0.0.0.0 www.api.uat.opinion.inmobi.com
 0.0.0.0 www.api.uat.opinions.inmobi.com
 0.0.0.0 www.app.justuno.com
+0.0.0.0 www.a-static.klaviyo.com
 0.0.0.0 www.avn.innity.com
 0.0.0.0 www.avp.innity.com
 0.0.0.0 www.bar-dev.joystickinteractive.com
@@ -343,9 +365,11 @@
 0.0.0.0 www.dataexchange.inmobi.com
 0.0.0.0 www.data.innovativemetrics.com
 0.0.0.0 www.dev.joystickinteractive.com
+0.0.0.0 www.discover.leanplum.com
 0.0.0.0 www.dl.inmobi.com
 0.0.0.0 www.dope.ops.inmobi.com
 0.0.0.0 www.dsp-preprod.inmobi.com
+0.0.0.0 www.eng.leanplum.com
 0.0.0.0 www.en-studiotraining.inmobi.com
 0.0.0.0 www.ep.ifc.inmobi.com
 0.0.0.0 www.events.innovid.com
@@ -354,14 +378,18 @@
 0.0.0.0 www.gateway.ifc.inmobi.com
 0.0.0.0 www.geoservice.nonprod.sea.inmobi.com
 0.0.0.0 www.geoservice.prod.sea.inmobi.com
+0.0.0.0 www.get.leadfeeder.com
+0.0.0.0 www.get.leanplum.com
 0.0.0.0 www.github.tools.inmobi.com
 0.0.0.0 www.glance-ds.sigma.inmobi.com
 0.0.0.0 www.glance-workbench.sigma.inmobi.com
 0.0.0.0 www.go.justuno.com
+0.0.0.0 www.go.kissmetrics.com
 0.0.0.0 www.gpu4001.ds.ev1.inmobi.com
 0.0.0.0 www.graylog.ops.dfw1.inmobi.com
 0.0.0.0 www.graylog.ops.dfw2.inmobi.com
 0.0.0.0 www.graylog.ops.pek1.inmobi.com
+0.0.0.0 www.hb.kumma.com
 0.0.0.0 www.helix.inmobi.com
 0.0.0.0 www.helixuat.inmobi.com
 0.0.0.0 www.heroku.jsrdn.com
@@ -382,6 +410,7 @@
 0.0.0.0 www.internal-clarity.idsp.inmobi.com
 0.0.0.0 www.joyedu.joystickinteractive.com
 0.0.0.0 www.jsrdn.com
+0.0.0.0 www.koindut.com
 0.0.0.0 www-le.instartlogic.com
 0.0.0.0 www.lens.data.inmobi.com
 0.0.0.0 www.lens.secondry.data.dfw1.inmobi.com
@@ -402,6 +431,7 @@
 0.0.0.0 www.oldtown.joystickinteractive.com
 0.0.0.0 www.oppo.analytics.glance.inmobi.com
 0.0.0.0 www.partner.glance.inmobi.com
+0.0.0.0 www.partners.klaviyo.com
 0.0.0.0 www.pdb.uat.inmobi.com
 0.0.0.0 www.perfex.inmobi.com
 0.0.0.0 www.platform.ifc.inmobi.com
@@ -438,6 +468,7 @@
 0.0.0.0 www.s.jsrdn.com
 0.0.0.0 www.s.jwpltx.com
 0.0.0.0 www.specialsmanager.dealeronlinemarketing.com
+0.0.0.0 www.sstats.kroger.com
 0.0.0.0 www.staging.iam.inmobi.com
 0.0.0.0 www.staging.joystickinteractive.com
 0.0.0.0 www.staging.mater.iubenda.com
@@ -472,6 +503,7 @@
 0.0.0.0 www.wxadmin.inmobi.com
 0.0.0.0 www.xray.corp.inmobi.com
 0.0.0.0 www.xyz.joystickinteractive.com
+0.0.0.0 www.yjp.kissmetrics.com
 0.0.0.0 www.your-surveys.insightexpressai.com
 0.0.0.0 x17.cloud.kargo.com
 0.0.0.0 xds.us.experimentation.intuit.com
@@ -480,4 +512,5 @@
 0.0.0.0 xxl.cloud.kargo.com
 0.0.0.0 x.y.z.ihe-dev.jwpltx.com
 0.0.0.0 xyz.joystickinteractive.com
+0.0.0.0 yjp.kissmetrics.com
 0.0.0.0 yum.corp.inmobi.com
