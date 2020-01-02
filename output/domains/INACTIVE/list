@@ -178,6 +178,7 @@ adt.pxl.ace.advertising.com
 adtrack.admaxim.com
 adtracker.airmilesopinions.ca
 adtracker.irishopinions.com
+adtracker.opineygane.com
 adtracker.valuedopinions.com.au
 adtracker.webperspectives.ca
 adx-apac3-bidder.manage.com
@@ -459,6 +460,7 @@ at.amgdgt.adconion.com
 at.lokaplatform.com
 atmedia.mindtake.com
 atms.wdm.mindtake.com
+at.optimahub.com
 atwola-sb-ec.adtechus.com
 atwola-sb-wc.adtechus.com
 au-cn.w.inmobi.com
@@ -468,6 +470,7 @@ auth.linksynergy.com
 auth.meeting.abtasty.com
 auth.mparticle.com
 authorization.affiliates.advidi.com
+authportal.optimizely.com
 autodiscover.ap.acxiom.com
 autodiscover.au.acxiom.com
 autodiscover.eu.acxiom.com
@@ -654,6 +657,7 @@ ccde.events.marketo.com
 cci-winners-ap-northeast-1-rtb.adroll.com
 c-cn.w.inmobi.com
 ccp-tt.metrigo.com
+cdkdc.optimahub.com
 c.dlx.addthis.com
 cdn10.abtasty.com
 cdn11.abtasty.com
@@ -706,6 +710,10 @@ cf-aws-adserver-origin-ap-northeast-1.adtechjp.com
 cf-aws-adserver-origin-ap-southeast-1.adtechjp.com
 cf.metrigo.com
 cg.ra.linksynergy.com
+changehistory.dev.appbe.optimizely.com
+changehistory-dev-jstest.appbe.optimizely.com
+changehistory-dev-sidrds.appbe.optimizely.com
+changehistory-dev-travis.dev.appbe.optimizely.com
 channeliq-d3.openxenterprise.com
 charlieqa.midasplayer.com
 charter.adlegend.com
@@ -728,6 +736,7 @@ clickers.rtb.adroll.com
 click.onedigitalad.com
 click.skyrocket.adtdp.com
 clicktrack.adtheorent.com
+client.build.optimizely.com
 client-fast.addthis.com
 clientmanagement.aws.lijit.com
 clientmanagement.dfw2.lijit.com
@@ -836,6 +845,7 @@ ct.advertising.com
 ct-origin-dev.ligatus.com
 cunda.advolution.biz
 curiositystream.adlegend.com
+current.app.optimizely.com
 current-azure-ext.newrelic.com
 customink.adlegend.com
 custom.techsol.mediamath.com
@@ -875,6 +885,11 @@ datavisualization.acxiom.com
 data-viz-challenge.localytics.com
 db.advertising.com
 dbs.adadyn.com
+dc-13abe.optimahub.com
+dc-1623b.optimahub.com
+dc-1a595.optimahub.com
+dc-1dc69.optimahub.com
+dc-1eab4.optimahub.com
 dc2-10.abtasty.com
 dc2-11.abtasty.com
 dc2-1.abtasty.com
@@ -886,8 +901,19 @@ dc2-6.abtasty.com
 dc2-7.abtasty.com
 dc2-8.abtasty.com
 dc2-9.abtasty.com
+dc-3001b.optimahub.com
+dc-3d98b.optimahub.com
+dc-4073b.optimahub.com
+dc-42d57.optimahub.com
+dc-5a2fd.optimahub.com
+dc-6581a.optimahub.com
 dc7.x.lijit.com
+dc-9b4b9.optimahub.com
 dc.adsequence.com
+dc-b6349.optimahub.com
+dc-d2d45.optimahub.com
+dc-f47e4.optimahub.com
+dc-facd2.optimahub.com
 dcnsterm01.acxiom.com
 dcnsterm02.acxiom.com
 dco.advertising.com
@@ -919,6 +945,7 @@ democraticpeoplemeet.adlegend.com
 demo-jp.adlearnop.advertising.com
 demo-monitor.macromill.com
 demo-uk.adlearnop.advertising.com
+de.optimahub.com
 desk.adasiaholdings.com
 dev1.justuno.com
 dev2.cbg.163.com
@@ -936,6 +963,7 @@ dev.adpushup.com
 dev-adservices.cmp.advertising.com
 dev.adsymptotic.com
 dev.api.orbee.co
+dev.appbe.optimizely.com
 dev.applicationinsights.microsoft.com
 dev.ap-southeast-2.kops.kargo.com
 dev-backoffice.datadome.co
@@ -954,6 +982,7 @@ develop.tech.163.com
 develop.webapp.163.com
 dev.itown.163.com
 dev-j-serval.adtdp.com
+dev-k8.optimahub.com
 dev.liverail.com
 dev.madmobile.com
 dev.midasplayer.com
@@ -1188,6 +1217,10 @@ fra-lb8.eu.adsymptotic.com
 fra-lb9.eu.adsymptotic.com
 fr.np.adproxy.ndmdhs.com
 frontbeta.localytics.com
+frontdoor-develrc.appbe.optimizely.com
+frontdoor-develrc-new.us-east.appbe.optimizely.com
+frontdoor-develrc-new.us-west-2.appbe.optimizely.com
+frontdoor-develrc-new.us-west.appbe.optimizely.com
 frontend.snackly.co
 frontprod.datadome.co
 fs.interpolls.com
@@ -1342,8 +1375,8 @@ idprod.acxiom.com
 idsync.districtm.ca
 idsync.mparticle.com
 idtest.acxiom.com
-ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
+ifc2.vip.dfw1.inmobi.com
 ifc2.vip.hkg1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
@@ -1473,6 +1506,9 @@ js80.neodatagroup.com
 j-serval.adtdp.com
 jssdkcdns-staging.mparticle.com
 jssdks-edge.mparticle.com
+js-validator-appx-1188.appbe.optimizely.com
+js-validator.dev.appbe.optimizely.com
+js-validator.qa.appbe.optimizely.com
 julia-temp-1.joystickinteractive.com
 k2.macromill.com
 k7.macromill.com
@@ -1950,8 +1986,8 @@ ping-external-origin-stg.jwpltx.com
 pingfed.openx.com
 ping-meta-origin-stg.jwpltx.com
 ping-origin-stg.jwpltx.com
-pinyou-cm.cn.miaozhen.com
 pinyou.cm.cn.miaozhen.com
+pinyou-cm.cn.miaozhen.com
 pixall-qa-ui.non-prod.analytics.dealer.com
 pix.dco.advertising.com
 pixel.jumptap.com
@@ -2203,6 +2239,7 @@ reidentrdsprd1.acxiom.com
 render.helio.ligatus.com
 render.helios.ligatus.com
 renren.cm.cn.miaozhen.com
+re.optimahub.com
 rep-ibi.adtechus.com
 repo.adsymptotic.com
 report.adtz.com
@@ -2297,6 +2334,7 @@ s.ads-twitter.com
 sa-east-1.gamma.analytics.console.aws.a2z.com
 sa-east-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 sa-east-1.prod.analytics.console.aws.a2z.com
+salemwebnetworks-d3.openxenterprise.com
 salon-tagan.adlightning.com
 samsonite-cdn.madmobile.com
 samsonite.madmobile.com
@@ -2431,6 +2469,7 @@ skyrocket.adtdp.com
 sl.advertising.com
 slider-akm.midasplayer.com
 s.ligatus.com
+sloanreview-d3.openxenterprise.com
 slv.adpiano.com
 smaato.mads.advertising.com
 smallbusiness.maxpoint.com
@@ -2455,6 +2494,7 @@ sothebys.joystickinteractive.com
 southwest.adlegend.com
 sp.advertising.com
 spark-cluster.svc.kargo.com
+sparkpeople-d3.openxenterprise.com
 spdy-lb11.adsymptotic.com
 spdy-lb2.adsymptotic.com
 spdy-lb4.adsymptotic.com
@@ -2567,6 +2607,7 @@ t4geo.liverail.com
 t4.liverail.com
 t6.mindtake.com
 tac.miaozhen.com
+tacticalrepublic-d3.openxenterprise.com
 tag.adlooxtracking.com
 tagmanager.ligatus.com
 tags.adasiaholdings.com
@@ -2599,9 +2640,12 @@ test-adserver.adtechus.com
 testads.locsensads.com
 testbids.locsensads.com
 testcert.247realmedia.com
+testing.fullstack.api.optimizely.com
 testlink.liverail.com
 testoauth2.datadome.co
 testoauth.datadome.co
+tfe-stage.appbe.optimizely.com
+thelocal-d3.openxenterprise.com
 th.np.adproxy.ndmdhs.com
 thr.cloud.kargo.com
 t.kompasads.com
@@ -2628,6 +2672,7 @@ tracker-cnv.bidder10.mookie1.com
 tracker-cnv.bidder7.mookie1.com
 tracker-cnv.bidder9.mookie1.com
 tracker.meetleads.com
+tracker.optimahub.com
 track-hk.admaxim.com
 tracking-01.iad.liverail.com
 tracking-02.dal.liverail.com
@@ -2722,6 +2767,7 @@ uat.bladegame.midasplayer.com
 uat.madmobile.com
 uat.opinions.inmobi.com
 ufs.adkmob.com
+ui4.sandbox.openxenterprise.com
 ui-idx.inmobi.com
 uiservices.adtechus.com
 uk.adlearnop.advertising.com
@@ -2862,6 +2908,7 @@ vt.admedo.com
 vx.jsrdn.com
 wanted.adform.com
 wap.advertising.com
+washingtonpost-d3.openxenterprise.com
 wateraid-stg.joystickinteractive.com
 wateraid-tmp.joystickinteractive.com
 wc.adapf.com
@@ -2872,6 +2919,7 @@ wdc5.nexage.com
 wdc8.mediation.nexage.com
 wdc8.nexage.com
 wdc.mediation.nexage.com
+weatherus-d3.openxenterprise.com
 web2.monarchads.com
 web3.monarchads.com
 web4.monarchads.com
@@ -3272,6 +3320,7 @@ www.offerservices.marketingg2.com
 www.oldtown.joystickinteractive.com
 www.opengdpr.mparticle.com
 www.oppo.analytics.glance.inmobi.com
+www.optimezer.com
 www.origin.demo.mediamind.com
 www.osimg.nbcuni.com
 www.osxserver1.oit.lijit.com
@@ -3481,6 +3530,7 @@ xxl.cloud.kargo.com
 x.y.z.ihe-dev.jwpltx.com
 xyz.joystickinteractive.com
 yellowbelt.adform.com
+yellowpages-d3.openxenterprise.com
 yjp.kissmetrics.com
 yoyi.cm.cn.miaozhen.com
 yum.corp.inmobi.com

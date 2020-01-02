@@ -25314,92 +25314,6 @@
         "1573162918": {
             "apt-bud-2-ext.adsrvr.org": "INACTIVE"
         },
-        "1575832570": {
-            "salemwebnetworks-d3.openxenterprise.com": "INACTIVE",
-            "sloanreview-d3.openxenterprise.com": "INACTIVE",
-            "sparkpeople-d3.openxenterprise.com": "INACTIVE",
-            "ui4.sandbox.openxenterprise.com": "INACTIVE"
-        },
-        "1575832571": {
-            "tacticalrepublic-d3.openxenterprise.com": "INACTIVE",
-            "thelocal-d3.openxenterprise.com": "INACTIVE",
-            "washingtonpost-d3.openxenterprise.com": "INACTIVE"
-        },
-        "1575832572": {
-            "adtracker.opineygane.com": "INACTIVE",
-            "weatherus-d3.openxenterprise.com": "INACTIVE",
-            "yellowpages-d3.openxenterprise.com": "INACTIVE"
-        },
-        "1575833965": {
-            "at.optimahub.com": "INACTIVE"
-        },
-        "1575833966": {
-            "cdkdc.optimahub.com": "INACTIVE",
-            "dc-13abe.optimahub.com": "INACTIVE",
-            "dc-1623b.optimahub.com": "INACTIVE"
-        },
-        "1575833967": {
-            "dc-1a595.optimahub.com": "INACTIVE",
-            "dc-1dc69.optimahub.com": "INACTIVE",
-            "dc-1eab4.optimahub.com": "INACTIVE"
-        },
-        "1575833968": {
-            "dc-3001b.optimahub.com": "INACTIVE",
-            "dc-3d98b.optimahub.com": "INACTIVE",
-            "dc-42d57.optimahub.com": "INACTIVE"
-        },
-        "1575833969": {
-            "dc-4073b.optimahub.com": "INACTIVE",
-            "dc-5a2fd.optimahub.com": "INACTIVE",
-            "dc-6581a.optimahub.com": "INACTIVE"
-        },
-        "1575833970": {
-            "dc-9b4b9.optimahub.com": "INACTIVE",
-            "dc-b6349.optimahub.com": "INACTIVE"
-        },
-        "1575833971": {
-            "dc-d2d45.optimahub.com": "INACTIVE",
-            "dc-f47e4.optimahub.com": "INACTIVE",
-            "dc-facd2.optimahub.com": "INACTIVE"
-        },
-        "1575833972": {
-            "de.optimahub.com": "INACTIVE",
-            "dev-k8.optimahub.com": "INACTIVE"
-        },
-        "1575833973": {
-            "tracker.optimahub.com": "INACTIVE",
-            "www.optimezer.com": "INACTIVE"
-        },
-        "1575833974": {
-            "current.app.optimizely.com": "INACTIVE",
-            "testing.fullstack.api.optimizely.com": "INACTIVE"
-        },
-        "1575833975": {
-            "changehistory-dev-sidrds.appbe.optimizely.com": "INACTIVE"
-        },
-        "1575833976": {
-            "changehistory.dev.appbe.optimizely.com": "INACTIVE",
-            "dev.appbe.optimizely.com": "INACTIVE",
-            "js-validator.dev.appbe.optimizely.com": "INACTIVE"
-        },
-        "1575833977": {
-            "changehistory-dev-travis.dev.appbe.optimizely.com": "INACTIVE",
-            "frontdoor-develrc.appbe.optimizely.com": "INACTIVE",
-            "js-validator-appx-1188.appbe.optimizely.com": "INACTIVE"
-        },
-        "1575833978": {
-            "frontdoor-develrc-new.us-east.appbe.optimizely.com": "INACTIVE",
-            "js-validator.qa.appbe.optimizely.com": "INACTIVE",
-            "tfe-stage.appbe.optimizely.com": "INACTIVE"
-        },
-        "1575833979": {
-            "frontdoor-develrc-new.us-west-2.appbe.optimizely.com": "INACTIVE",
-            "frontdoor-develrc-new.us-west.appbe.optimizely.com": "INACTIVE"
-        },
-        "1575833980": {
-            "authportal.optimizely.com": "INACTIVE",
-            "client.build.optimizely.com": "INACTIVE"
-        },
         "1575834016": {
             "client.optimizely.com": "INACTIVE",
             "log.client.optimizely.com": "INACTIVE"
@@ -43959,6 +43873,80 @@
         "1577978568": {
             "product.staging.adwyze.com": "INACTIVE",
             "tower.adwyze.com": "INACTIVE"
+        },
+        "1577979643": {
+            "salemwebnetworks-d3.openxenterprise.com": "INACTIVE",
+            "ui4.sandbox.openxenterprise.com": "INACTIVE"
+        },
+        "1577979644": {
+            "sloanreview-d3.openxenterprise.com": "INACTIVE",
+            "sparkpeople-d3.openxenterprise.com": "INACTIVE",
+            "tacticalrepublic-d3.openxenterprise.com": "INACTIVE",
+            "thelocal-d3.openxenterprise.com": "INACTIVE",
+            "washingtonpost-d3.openxenterprise.com": "INACTIVE"
+        },
+        "1577979645": {
+            "adtracker.opineygane.com": "INACTIVE",
+            "weatherus-d3.openxenterprise.com": "INACTIVE",
+            "yellowpages-d3.openxenterprise.com": "INACTIVE"
+        },
+        "1577979646": {
+            "at.optimahub.com": "INACTIVE",
+            "cdkdc.optimahub.com": "INACTIVE",
+            "dc-13abe.optimahub.com": "INACTIVE",
+            "dc-1623b.optimahub.com": "INACTIVE"
+        },
+        "1577979647": {
+            "dc-1a595.optimahub.com": "INACTIVE",
+            "dc-1dc69.optimahub.com": "INACTIVE",
+            "dc-1eab4.optimahub.com": "INACTIVE",
+            "dc-3001b.optimahub.com": "INACTIVE",
+            "dc-3d98b.optimahub.com": "INACTIVE",
+            "dc-4073b.optimahub.com": "INACTIVE"
+        },
+        "1577979648": {
+            "dc-42d57.optimahub.com": "INACTIVE",
+            "dc-5a2fd.optimahub.com": "INACTIVE",
+            "dc-6581a.optimahub.com": "INACTIVE",
+            "dc-9b4b9.optimahub.com": "INACTIVE",
+            "dc-b6349.optimahub.com": "INACTIVE"
+        },
+        "1577979649": {
+            "dc-d2d45.optimahub.com": "INACTIVE",
+            "dc-f47e4.optimahub.com": "INACTIVE",
+            "dc-facd2.optimahub.com": "INACTIVE",
+            "de.optimahub.com": "INACTIVE"
+        },
+        "1577979650": {
+            "dev-k8.optimahub.com": "INACTIVE",
+            "re.optimahub.com": "INACTIVE",
+            "tracker.optimahub.com": "INACTIVE",
+            "www.optimezer.com": "INACTIVE"
+        },
+        "1577979651": {
+            "changehistory-dev-jstest.appbe.optimizely.com": "INACTIVE",
+            "current.app.optimizely.com": "INACTIVE",
+            "testing.fullstack.api.optimizely.com": "INACTIVE"
+        },
+        "1577979652": {
+            "changehistory-dev-sidrds.appbe.optimizely.com": "INACTIVE",
+            "changehistory-dev-travis.dev.appbe.optimizely.com": "INACTIVE",
+            "changehistory.dev.appbe.optimizely.com": "INACTIVE",
+            "dev.appbe.optimizely.com": "INACTIVE",
+            "js-validator.dev.appbe.optimizely.com": "INACTIVE"
+        },
+        "1577979653": {
+            "frontdoor-develrc-new.us-east.appbe.optimizely.com": "INACTIVE",
+            "frontdoor-develrc.appbe.optimizely.com": "INACTIVE",
+            "js-validator-appx-1188.appbe.optimizely.com": "INACTIVE",
+            "js-validator.qa.appbe.optimizely.com": "INACTIVE",
+            "tfe-stage.appbe.optimizely.com": "INACTIVE"
+        },
+        "1577979654": {
+            "authportal.optimizely.com": "INACTIVE",
+            "client.build.optimizely.com": "INACTIVE",
+            "frontdoor-develrc-new.us-west-2.appbe.optimizely.com": "INACTIVE",
+            "frontdoor-develrc-new.us-west.appbe.optimizely.com": "INACTIVE"
         }
     }
 }
