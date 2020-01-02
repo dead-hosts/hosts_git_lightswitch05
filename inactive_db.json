@@ -25314,101 +25314,6 @@
         "1573162918": {
             "apt-bud-2-ext.adsrvr.org": "INACTIVE"
         },
-        "1575809278": {
-            "impression.mediaiqdigital.com": "INACTIVE"
-        },
-        "1575809280": {
-            "api-temp.mediamath.com": "INACTIVE",
-            "api.authorization.aws.mediamath.com": "INACTIVE"
-        },
-        "1575809281": {
-            "bidder.mediamath.com": "INACTIVE",
-            "bv-central.byoa.mediamath.com": "INACTIVE"
-        },
-        "1575809282": {
-            "bv-east.byoa.mediamath.com": "INACTIVE",
-            "bv-west.byoa.mediamath.com": "INACTIVE",
-            "dv-activation-production.campaigns.mediamath.com": "INACTIVE"
-        },
-        "1575809283": {
-            "dv-activation-qa.campaigns.mediamath.com": "INACTIVE"
-        },
-        "1575809284": {
-            "prod-public.cbe.mediamath.com": "INACTIVE"
-        },
-        "1575809285": {
-            "co.mediamath.com": "INACTIVE",
-            "qa11-public.cbe.mediamath.com": "INACTIVE",
-            "qa12-public.cbe.mediamath.com": "INACTIVE"
-        },
-        "1575809286": {
-            "csre.mediamath.com": "INACTIVE"
-        },
-        "1575809287": {
-            "opscenter.dcs.mediamath.com": "INACTIVE",
-            "qa2.datasvc.mediamath.com": "INACTIVE"
-        },
-        "1575809288": {
-            "dev-circleci.mediamath.com": "INACTIVE"
-        },
-        "1575809289": {
-            "ewr-rtsdb-x1.mediamath.com": "INACTIVE",
-            "forecaster-old.mediamath.com": "INACTIVE"
-        },
-        "1575810871": {
-            "hellsgate.aws.infra.mediamath.com": "INACTIVE"
-        },
-        "1575810872": {
-            "a.search.infra.mediamath.com": "INACTIVE"
-        },
-        "1575810873": {
-            "ewr.mathmon.mediamath.com": "INACTIVE",
-            "kb2.mediamath.com": "INACTIVE",
-            "searcha.infra.mediamath.com": "INACTIVE"
-        },
-        "1575810874": {
-            "canary.ewr.mathmon.mediamath.com": "INACTIVE",
-            "production.ewr.mathmon.mediamath.com": "INACTIVE"
-        },
-        "1575810876": {
-            "octane-api.mediamath.com": "INACTIVE"
-        },
-        "1575810877": {
-            "pixel.mediamath.com": "INACTIVE",
-            "prod.mediamath.com": "INACTIVE"
-        },
-        "1575810878": {
-            "api.techsol.mediamath.com": "INACTIVE",
-            "custom.techsol.mediamath.com": "INACTIVE"
-        },
-        "1575810879": {
-            "velocidi.mediamath.com": "INACTIVE",
-            "wildcard.mediamath.com": "INACTIVE"
-        },
-        "1575810880": {
-            "www.attribution.mediamind.com": "INACTIVE"
-        },
-        "1575810881": {
-            "www.creativezone.mediamind.com": "INACTIVE",
-            "www.origin.demo.mediamind.com": "INACTIVE"
-        },
-        "1575810882": {
-            "www.ilsip.mediamind.com": "INACTIVE"
-        },
-        "1575810883": {
-            "www.gs.platform.mediamind.com": "INACTIVE",
-            "www.mktg.mediamind.com": "INACTIVE"
-        },
-        "1575810884": {
-            "sip.mediamind.com": "INACTIVE",
-            "www.selfservice.mediamind.com": "INACTIVE"
-        },
-        "1575810885": {
-            "www.sts.mediamind.com": "INACTIVE"
-        },
-        "1575810886": {
-            "www.ussip.mediamind.com": "INACTIVE"
-        },
         "1575810895": {
             "dop.mediav.com": "INACTIVE",
             "event.mediav.com": "INACTIVE"
@@ -44417,6 +44322,77 @@
         "1577954917": {
             "bi.mediaiqdigital.com": "INACTIVE",
             "staging.cms.mediaiqdigital.com": "INACTIVE"
+        },
+        "1577955603": {
+            "api-temp.mediamath.com": "INACTIVE",
+            "api.authorization.aws.mediamath.com": "INACTIVE",
+            "impression.mediaiqdigital.com": "INACTIVE"
+        },
+        "1577955604": {
+            "bidder.mediamath.com": "INACTIVE",
+            "bv-central.byoa.mediamath.com": "INACTIVE",
+            "bv-east.byoa.mediamath.com": "INACTIVE",
+            "bv-west.byoa.mediamath.com": "INACTIVE",
+            "dv-activation-production.campaigns.mediamath.com": "INACTIVE"
+        },
+        "1577955605": {
+            "dv-activation-qa.campaigns.mediamath.com": "INACTIVE",
+            "prod-public.cbe.mediamath.com": "INACTIVE",
+            "qa11-public.cbe.mediamath.com": "INACTIVE",
+            "qa12-public.cbe.mediamath.com": "INACTIVE"
+        },
+        "1577955606": {
+            "co.mediamath.com": "INACTIVE",
+            "csre.mediamath.com": "INACTIVE",
+            "qa2.datasvc.mediamath.com": "INACTIVE"
+        },
+        "1577955607": {
+            "dev-circleci.mediamath.com": "INACTIVE",
+            "ewr-rtsdb-x1.mediamath.com": "INACTIVE",
+            "opscenter.dcs.mediamath.com": "INACTIVE"
+        },
+        "1577955608": {
+            "a.search.infra.mediamath.com": "INACTIVE",
+            "forecaster-old.mediamath.com": "INACTIVE",
+            "hellsgate.aws.infra.mediamath.com": "INACTIVE"
+        },
+        "1577955609": {
+            "ewr.mathmon.mediamath.com": "INACTIVE",
+            "kb2.mediamath.com": "INACTIVE",
+            "searcha.infra.mediamath.com": "INACTIVE"
+        },
+        "1577955610": {
+            "canary.ewr.mathmon.mediamath.com": "INACTIVE",
+            "production.ewr.mathmon.mediamath.com": "INACTIVE"
+        },
+        "1577955611": {
+            "octane-api.mediamath.com": "INACTIVE",
+            "pixel.mediamath.com": "INACTIVE",
+            "prod.mediamath.com": "INACTIVE"
+        },
+        "1577955612": {
+            "api.techsol.mediamath.com": "INACTIVE",
+            "custom.techsol.mediamath.com": "INACTIVE"
+        },
+        "1577955613": {
+            "velocidi.mediamath.com": "INACTIVE",
+            "wildcard.mediamath.com": "INACTIVE",
+            "www.attribution.mediamind.com": "INACTIVE",
+            "www.creativezone.mediamind.com": "INACTIVE"
+        },
+        "1577955614": {
+            "www.ilsip.mediamind.com": "INACTIVE",
+            "www.mktg.mediamind.com": "INACTIVE",
+            "www.origin.demo.mediamind.com": "INACTIVE"
+        },
+        "1577955615": {
+            "sip.mediamind.com": "INACTIVE",
+            "www.gs.platform.mediamind.com": "INACTIVE",
+            "www.selfservice.mediamind.com": "INACTIVE",
+            "www.sts.mediamind.com": "INACTIVE"
+        },
+        "1577955616": {
+            "www.ussip.mediamind.com": "INACTIVE"
         }
     }
 }
