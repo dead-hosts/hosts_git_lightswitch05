@@ -25314,79 +25314,6 @@
         "1573162918": {
             "apt-bud-2-ext.adsrvr.org": "INACTIVE"
         },
-        "1575793077": {
-            "stage.us-east-1.kops.kargo.com": "INACTIVE"
-        },
-        "1575793078": {
-            "cma-dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
-            "cma-mgmt-dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
-            "cma-mgmt-new.stage.us-east-1.kops.kargo.com": "INACTIVE",
-            "cma-mgmt.stage.us-east-1.kops.kargo.com": "INACTIVE"
-        },
-        "1575793079": {
-            "cma-mgmt-staging.stage.us-east-1.kops.kargo.com": "INACTIVE",
-            "cma-staging.stage.us-east-1.kops.kargo.com": "INACTIVE",
-            "dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
-            "kargonaut.dev.stage.us-east-1.kops.kargo.com": "INACTIVE"
-        },
-        "1575793080": {
-            "kds-pixel-dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
-            "marketplace-dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
-            "master.stage.us-east-1.kops.kargo.com": "INACTIVE",
-            "mgmt-angular.dev.stage.us-east-1.kops.kargo.com": "INACTIVE"
-        },
-        "1575793081": {
-            "mgmt-angular.stage.us-east-1.kops.kargo.com": "INACTIVE"
-        },
-        "1575793082": {
-            "dev.us-west-1.kops.kargo.com": "INACTIVE",
-            "prod.us-west-1.kops.kargo.com": "INACTIVE",
-            "stage.us-west-1.kops.kargo.com": "INACTIVE"
-        },
-        "1575793083": {
-            "staging.us-west-1.kops.kargo.com": "INACTIVE"
-        },
-        "1575793085": {
-            "prod.kargo.com": "INACTIVE",
-            "production.kargo.com": "INACTIVE",
-            "www.prg-dev.kargo.com": "INACTIVE",
-            "www.prg.kargo.com": "INACTIVE"
-        },
-        "1575793086": {
-            "internal.staging.kargo.com": "INACTIVE",
-            "staging.kargo.com": "INACTIVE"
-        },
-        "1575793087": {
-            "buyers-dev.svc.kargo.com": "INACTIVE",
-            "k8s.staging.kargo.com": "INACTIVE",
-            "svc.kargo.com": "INACTIVE"
-        },
-        "1575793088": {
-            "buyers-service-dev.svc.kargo.com": "INACTIVE",
-            "integration-hub-dev.svc.kargo.com": "INACTIVE",
-            "integrations-hub-dev.svc.kargo.com": "INACTIVE",
-            "integrations-hub-testing.svc.kargo.com": "INACTIVE"
-        },
-        "1575793089": {
-            "marketplace-dev.svc.kargo.com": "INACTIVE",
-            "mason.svc.kargo.com": "INACTIVE",
-            "mason2.svc.kargo.com": "INACTIVE",
-            "offers-dev.svc.kargo.com": "INACTIVE"
-        },
-        "1575793090": {
-            "offers-testing.svc.kargo.com": "INACTIVE",
-            "sellers-dev.svc.kargo.com": "INACTIVE",
-            "sellers-testing.svc.kargo.com": "INACTIVE"
-        },
-        "1575793091": {
-            "spark-cluster.svc.kargo.com": "INACTIVE"
-        },
-        "1575794621": {
-            "779343478.keywordblocks.com": "INACTIVE"
-        },
-        "1575794629": {
-            "882757372.keywordblocks.com": "INACTIVE"
-        },
         "1575796239": {
             "aws-acm.kissmetrics.com": "INACTIVE"
         },
@@ -44601,6 +44528,65 @@
         },
         "1577949194": {
             "vault-ui.mgmt.us-east-1.kops.kargo.com": "INACTIVE"
+        },
+        "1577949873": {
+            "stage.us-east-1.kops.kargo.com": "INACTIVE"
+        },
+        "1577949874": {
+            "cma-dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "cma-mgmt-dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "cma-mgmt-new.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "cma-mgmt-staging.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "cma-mgmt.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "cma-staging.stage.us-east-1.kops.kargo.com": "INACTIVE"
+        },
+        "1577949875": {
+            "dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "kargonaut.dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "kds-pixel-dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "marketplace-dev.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "master.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "mgmt-angular.dev.stage.us-east-1.kops.kargo.com": "INACTIVE"
+        },
+        "1577949876": {
+            "dev.us-west-1.kops.kargo.com": "INACTIVE",
+            "mgmt-angular.stage.us-east-1.kops.kargo.com": "INACTIVE",
+            "prod.us-west-1.kops.kargo.com": "INACTIVE"
+        },
+        "1577949877": {
+            "stage.us-west-1.kops.kargo.com": "INACTIVE",
+            "staging.us-west-1.kops.kargo.com": "INACTIVE"
+        },
+        "1577949878": {
+            "prod.kargo.com": "INACTIVE",
+            "production.kargo.com": "INACTIVE",
+            "www.prg-dev.kargo.com": "INACTIVE",
+            "www.prg.kargo.com": "INACTIVE"
+        },
+        "1577949879": {
+            "internal.staging.kargo.com": "INACTIVE",
+            "k8s.staging.kargo.com": "INACTIVE",
+            "staging.kargo.com": "INACTIVE"
+        },
+        "1577949880": {
+            "buyers-dev.svc.kargo.com": "INACTIVE",
+            "buyers-service-dev.svc.kargo.com": "INACTIVE",
+            "integration-hub-dev.svc.kargo.com": "INACTIVE",
+            "integrations-hub-dev.svc.kargo.com": "INACTIVE",
+            "integrations-hub-testing.svc.kargo.com": "INACTIVE",
+            "svc.kargo.com": "INACTIVE"
+        },
+        "1577949881": {
+            "marketplace-dev.svc.kargo.com": "INACTIVE",
+            "mason.svc.kargo.com": "INACTIVE",
+            "mason2.svc.kargo.com": "INACTIVE",
+            "offers-dev.svc.kargo.com": "INACTIVE",
+            "offers-testing.svc.kargo.com": "INACTIVE"
+        },
+        "1577949882": {
+            "sellers-dev.svc.kargo.com": "INACTIVE",
+            "sellers-testing.svc.kargo.com": "INACTIVE",
+            "spark-cluster.svc.kargo.com": "INACTIVE"
         }
     }
 }
