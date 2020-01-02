@@ -191,6 +191,7 @@ ads2.locsensads.com
 ads3.kompasads.com
 ads.adasiaholdings.com
 ads.aertb.com
+ad.sam4m.com
 ads.ams.contextweb.com
 adsaprotected.com
 ads.beeketing.com
@@ -254,6 +255,7 @@ ads.reson8.com
 ads.rkdms.com
 adsrv2.midasplayer.com
 ads-s3.adthrive.com
+ads.scanapps.com
 ads.silverpush.co
 ads.sjc.contextweb.com
 ads.test.adthrive.com
@@ -616,6 +618,7 @@ api.qa1.corp.mparticle.com
 api.qa2.corp.mparticle.com
 api.qa.corp.mparticle.com
 api.qa.drift.com
+api.qa.exacttarget.com
 api.raphael.env.sandbox53.localytics.com
 api.release.frozenyak.prod.paperg.com
 api.release.template-build-service.prod.paperg.com
@@ -677,6 +680,7 @@ applovin.hkg.events.bidstalk.com
 appodeal.dca.events.bidstalk.com
 appodeal.loopmertb.com
 app.pangeo.geoedge.be
+app.qa.exacttarget.com
 app.quarticon.com
 app.response.demandbase.com
 apps.adtz.com
@@ -795,6 +799,9 @@ auth.mparticle.com
 authorisation.analyticson.com
 authorization.affiliates.advidi.com
 authportal.optimizely.com
+auth.qa1.exacttarget.com
+auth.qa2.exacttarget.com
+auth.qa3.exacttarget.com
 auth.resonate.com
 auth-san.exacttarget.com
 autodiscover.airvertiseme.com
@@ -888,10 +895,12 @@ beacon-3.newrelic.com
 beacon-4.newrelic.com
 beacon-5.newrelic.com
 beacon-6.newrelic.com
+beacon.ads.scanapps.com
 beacon.airvertiseme.com
 beacon.apptrckr.com
 beacon.bidsimulator.com
 beacon.newrelic.com
+beacon.scanapps.com
 beallsflorida.madmobile.com
 beats.sp1.convertro.com
 beaucoup.sp1.convertro.com
@@ -1813,6 +1822,7 @@ dp-mrc2.adadyn.com
 dra-eu.amazon-adsystem.com
 dreamville.lisnr.com
 drone.convertcart.com
+dropbox.scarabresearch.com
 drupal.mindtake.com
 d.rxthdr.com
 ds.bluecava.com
@@ -1981,6 +1991,7 @@ estest.convertcart.com
 et2-cn.w.inmobi.com
 e.tac.cn.miaozhen.com
 e.tac.miaozhen.com
+etappx.qa.exacttarget.com
 et.cloud.kargo.com
 et-cn.apac.gslb.inmobi.com
 et-cn.w.inmobi.com
@@ -1989,6 +2000,7 @@ etmall.bridgewell.com
 e.tw.miaozhen.com
 eu1.salesloft.com
 eu.acxiom.com
+eu.analytics.sam4m.com
 eu.b.audiencetag.com
 euc1.dynamicyield.com
 eu-central-1.gamma.analytics.console.aws.a2z.com
@@ -1997,8 +2009,10 @@ eu-central-1-production-web-tc.lift.acquia.com
 eu-central-1-production-web-tw.lift.acquia.com
 eu.content.cmp.advertising.com
 eu.criteo.com
+eu-getmob.sam4m.com
 eu.kampyle.com
 eumsm.eum-appdynamics.com
+eu-mymedia.sam4m.com
 eu-pool.a.company-target.com
 eu-pool.d.company-target.com
 eu.preprod.criteo.com
@@ -2046,6 +2060,7 @@ exchanger.metaps.com
 expn.agkn.com
 exportdata.appsflyer.com
 exporthtml5.bannersnack.com
+exscan.ads.scanapps.com
 ext.dynamicyield.com
 external.labs.ebuzzing.com
 ext-int-beta.convertcart.com
@@ -2440,10 +2455,10 @@ idsync.mparticle.com
 idtest.acxiom.com
 iei.rlcdn.com
 i.essads.com
-ifc2-vip-dfw1.inmobi.com
 ifc2.vip.dfw1.inmobi.com
-ifc2.vip.hkg1.inmobi.com
+ifc2-vip-dfw1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
+ifc2.vip.hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -2528,8 +2543,8 @@ initjs-dev.gcp.rfksrv.com
 initjs-prod.gcp.rfksrv.com
 initjs-staging.gcp.rfksrv.com
 initjs-test.gcp.rfksrv.com
-i.n.jwpltx.com
 in.jwpltx.com
+i.n.jwpltx.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
 inmobi.web10-east.manage.com
@@ -2541,6 +2556,12 @@ inmobi.web28-east.manage.com
 inneractive.dca.events.bidstalk.com
 inneractive.win.bidstalk.com
 i.n.ping-origin-prd.jwpltx.com
+inplay-rcv01.scanscout.com
+inplay-rcv03.scanscout.com
+inplay-rcv04.scanscout.com
+inplay-rcv06.scanscout.com
+inplay-rcv07.scanscout.com
+inplay-rcv15.scanscout.com
 insideedition.cloud.kargo.com
 insiderp.rubiconproject.com
 insight.eloqua.com
@@ -3009,6 +3030,7 @@ megatron.bnmla.com
 mei.163.com
 melia.sp1.convertro.com
 members.11.exacttarget.com
+members.poc.exacttarget.com
 mep.centraltag.com
 merlin.linksynergy.com
 mesh-ue1.pardot.com
@@ -3156,6 +3178,7 @@ myflaviaus.adlegend.com
 my-k8s.dev-iad.amobee.com
 mymotiv.sp1.convertro.com
 my.np.adproxy.ndmdhs.com
+my.salesloft.com
 mysite092216-dev.joystickinteractive.com
 mz.dmp.miaozhen.com
 mzstatic.playhaven.com
@@ -3308,6 +3331,7 @@ ns8.linksynergy.com
 ns9.linksynergy.com
 ns.lab2.adconion.com
 nt1.dc-storm.com
+ntas6.ads.scanapps.com
 nt.criteo.com
 nt.jp.as.criteo.com
 ntm3.adotube.com
@@ -3423,10 +3447,12 @@ optimized-rtp-us-west.rubiconproject.com
 optimize.ensighten.com
 opx-winners-ap-southeast-1-rtb.adroll.com
 orange.k8s.test-001.d-usw-2.braze.com
+order.salesloft.com
 orders.localiq.com
 orders.qa.localiq.com
 origin.adcash.com
 origin.adlegend.com
+origin-auth.s2.qa3.exacttarget.com
 origin.craft.advertising.com
 origin.midasplayer.com
 origin.uac.advertising.com
@@ -3466,6 +3492,8 @@ p-ads74.eu.adsymptotic.com
 pages.brightfunnel.com
 pages.gitlab.sele.co
 pages.paradym.com
+pages.pd1.qa.exacttarget.com
+pages.pd1.s2.qa2.exacttarget.com
 pages.quarticon.com
 painted2018081600230618.saas.appdynamics.com
 paiyue-cm.cn.miaozhen.com
@@ -3539,6 +3567,7 @@ pdn.applvn.com
 pdx.amazon-adsystem.com
 peaks201901311747328.saas.appdynamics.com
 pearlauto.sp1.convertro.com
+pegasus.ads.scanapps.com
 pe.np.adproxy.ndmdhs.com
 peoples-staging.madmobile.com
 pepperp1.midasplayer.com
@@ -3681,6 +3710,9 @@ prd.ping-origin-prd.jwpltx.com
 prebid.adnxs.co
 prebid.aws.rubiconproject.com
 predaddit.reddit.co
+prem.qa1.exacttarget.com
+prem.qa2.exacttarget.com
+prem.qa3.exacttarget.com
 preprod-backoffice.datadome.co
 preprod.criteo.com
 preprod-dashboard.datadome.co
@@ -3830,6 +3862,7 @@ prometheus1.datadome.co
 prom.infra.apester.com
 promodigital.ebuzzingvideo.com
 prophet.acxiom.com
+prospector-cdn.salesloft.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
@@ -4093,6 +4126,7 @@ rest.api.chatid.com
 rest-api.datadome.co
 restapi.quarticon.com
 rest.linksynergy.com
+rest.qa.exacttarget.com
 results.optimizely.com
 ret01.ligatus.com
 retention.appsflyer.com
@@ -4105,6 +4139,7 @@ revv.rubiconproject.com
 rfm.rubiconproject.com
 richard.ittest.33across.com
 riju.ittest.33across.com
+river.salesloft.com
 rlec-use.dynamicyield.com
 r.ligatus.com
 rlsso.reachlocal.com
@@ -4319,6 +4354,7 @@ sc.aertb.com
 scaleout.hkg.events.bidstalk.com
 scam-api.beta.stag.bounceexchange.com
 scam.beta.stag.bounceexchange.com
+scannet.ads.scanapps.com
 scavenger.localytics.com
 scd.ingest.at.atwola.com
 scdmed01.nexage.com
@@ -4333,6 +4369,7 @@ scjohnson.links.channelintelligence.com
 s.c.jwpltx.com
 scope.infra.apester.com
 s.c.ping-origin-prd.jwpltx.com
+scpweb.s3.qa2.exacttarget.com
 screenshot.convertcart.com
 s.cunda.advolution.biz
 sdcert.acxiom.com
@@ -4761,6 +4798,7 @@ studioapi.doubleclick.com
 studio.ev1.inmobi.com
 sublimelog.ayads.co
 success-proxy-develrc-2.dz.optimizely.com
+sudonikon.salesloft.com
 summercamp.adform.com
 s.update.criteo.com
 support-static.playhaven.com
@@ -5114,8 +5152,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -5381,6 +5419,7 @@ webserve-f33d6d69.use.dynamicyield.com
 webserve-f9c5b52.use.dynamicyield.com
 webserve-faa4eb4.use.dynamicyield.com
 webservice.mediaforge.com
+webservice.qa.exacttarget.com
 web.stag2.bounceexchange.com
 web.staging.bidstalk.com
 webster-ch.mindtake.com
@@ -5427,6 +5466,7 @@ ws2.us-ec.adtechus.com
 ws-api.adtechus.com
 wsj-aramark.joystickinteractive.com
 wsj-sprint.joystickinteractive.com
+ws.qa.exacttarget.com
 ws.us-ec.adtechus.com
 wtags.bluekai.com
 wtb.channelintelligence.com
@@ -5655,6 +5695,7 @@ www.cdn.merklesearch.com
 www.cdn-preview.dynamicyield.com
 www.cdns.brsrvr.com
 www.cdp-staging.dataexchange.inmobi.com
+www.ced.sascdn.com
 www.certs.corp.mparticle.com
 www.ci.appboy.com
 www.ci.heartbeat.inmobi.com
@@ -6037,6 +6078,7 @@ www.partnerlab.braze.com
 www.partners.analyticson.com
 www.partners.celebrus.com
 www.partners.klaviyo.com
+www.partners.salesloft.com
 www.pay.rontar.com
 www.pdb.inmobi.cn
 www.pdb.uat.inmobi.com
@@ -6327,6 +6369,7 @@ www.vpnconnect-vap.demandbase.com
 www.vtrk.doubleverify.com
 www.w.adsrvs.com
 www.watch.demandbase.com
+www.watch.salesloft.com
 www.wateraid-admin.joystickinteractive.com
 www.wateraid-stg.joystickinteractive.com
 www.webcast.rubiconproject.com
