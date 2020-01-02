@@ -383,6 +383,7 @@
 0.0.0.0 ep-euwest.ifc.inmobi.com
 0.0.0.0 ep.ifc.inmobi.com
 0.0.0.0 ep-uswest.ifc.inmobi.com
+0.0.0.0 error-page.minutemediacdn.com
 0.0.0.0 et2-cn.w.inmobi.com
 0.0.0.0 e.tac.cn.miaozhen.com
 0.0.0.0 e.tac.miaozhen.com
@@ -500,20 +501,24 @@
 0.0.0.0 idp.corp.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
 0.0.0.0 ifc-ep.inmobi.com
 0.0.0.0 ihe-stg.jwpltx.com
 0.0.0.0 i.jwpltx.com
+0.0.0.0 im1.mkto-sj070017.com
 0.0.0.0 image.cp.ligatus.com
 0.0.0.0 imageserverqa.midasplayer.com
 0.0.0.0 images.mediavine.com
 0.0.0.0 images.midasplayer.com
 0.0.0.0 imces.vip.lhr1.inmobi.com
+0.0.0.0 img1.mkto-sj070017.com
+0.0.0.0 img2.mkto-b0065.com
 0.0.0.0 img-ex.metaps.com
+0.0.0.0 img.mkto-b0065.com
 0.0.0.0 impression.mediaiqdigital.com
 0.0.0.0 info.inmobi.com
 0.0.0.0 infosec.corp.inmobi.com
@@ -529,6 +534,7 @@
 0.0.0.0 inmobi.web28-east.manage.com
 0.0.0.0 i.n.ping-origin-prd.jwpltx.com
 0.0.0.0 insideedition.cloud.kargo.com
+0.0.0.0 integration.corp.mixpanel.com
 0.0.0.0 integration-hub-dev.svc.kargo.com
 0.0.0.0 integrations-hub-dev.svc.kargo.com
 0.0.0.0 integrations-hub-testing.svc.kargo.com
@@ -571,6 +577,7 @@
 0.0.0.0 kws.midasplayer.com
 0.0.0.0 latest.liverail.com
 0.0.0.0 lb.midasplayer.com
+0.0.0.0 lift.mixpanel.com
 0.0.0.0 listazureresources.encryption.applicationinsights.microsoft.com
 0.0.0.0 liverail-c10r.liverail.com
 0.0.0.0 llamagraphics-api.ads.linkedin.com
@@ -591,6 +598,7 @@
 0.0.0.0 mail.mf-strategies.com
 0.0.0.0 mail.mm.marketo.com
 0.0.0.0 ma.inmobi.com
+0.0.0.0 maker.mkto-b0065.com
 0.0.0.0 mangguo-cm.cn.miaozhen.com
 0.0.0.0 marketing.kissmetrics.com
 0.0.0.0 marketo.clearbit.com
@@ -604,6 +612,7 @@
 0.0.0.0 mbdl.midasplayer.com
 0.0.0.0 m.cn.miaozhen.com
 0.0.0.0 measuredads.com
+0.0.0.0 media.mkto-b0065.com
 0.0.0.0 meetpepper-dev.joystickinteractive.com
 0.0.0.0 meetpepper-randy.joystickinteractive.com
 0.0.0.0 merlin.linksynergy.com
@@ -617,6 +626,12 @@
 0.0.0.0 mi2.midasplayer.com
 0.0.0.0 mi3.midasplayer.com
 0.0.0.0 mia.lisnr.com
+0.0.0.0 mkto-ab040164.com
+0.0.0.0 mkto-b0065.com
+0.0.0.0 mkto-f0054.com
+0.0.0.0 mkto-q0059.com
+0.0.0.0 mkto-q0111.com
+0.0.0.0 mkto-sj070017.com
 0.0.0.0 mlc.maxpoint.com
 0.0.0.0 mldev.sigma.inmobi.com
 0.0.0.0 ml.listrakbi.com
@@ -647,6 +662,7 @@
 0.0.0.0 newsite.instartlogic.com
 0.0.0.0 newsite.madmobile.com
 0.0.0.0 news.justuno.com
+0.0.0.0 news.mkto-b0065.com
 0.0.0.0 nfm-cdn.madmobile.com
 0.0.0.0 nfm.madmobile.com
 0.0.0.0 n.jwpltx.com
@@ -688,6 +704,7 @@
 0.0.0.0 partnerprogram.liverail.com
 0.0.0.0 payless-cdn.madmobile.com
 0.0.0.0 payless.madmobile.com
+0.0.0.0 pc1.mkto-b0065.com
 0.0.0.0 peoples-staging.madmobile.com
 0.0.0.0 pepperp1.midasplayer.com
 0.0.0.0 pepperpanic.maint.midasplayer.com
@@ -698,8 +715,8 @@
 0.0.0.0 ping-external-origin-stg.jwpltx.com
 0.0.0.0 ping-meta-origin-stg.jwpltx.com
 0.0.0.0 ping-origin-stg.jwpltx.com
-0.0.0.0 pinyou-cm.cn.miaozhen.com
 0.0.0.0 pinyou.cm.cn.miaozhen.com
+0.0.0.0 pinyou-cm.cn.miaozhen.com
 0.0.0.0 pixall-qa-ui.non-prod.analytics.dealer.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.mediamath.com
@@ -1057,6 +1074,7 @@
 0.0.0.0 wsj-aramark.joystickinteractive.com
 0.0.0.0 wsj-sprint.joystickinteractive.com
 0.0.0.0 ww2.leadfeeder.com
+0.0.0.0 www1.mkto-f0054.com
 0.0.0.0 www2.installfarm.com
 0.0.0.0 www2.instartlogic.com
 0.0.0.0 www.adpoddb1.dfw2.lijit.com
@@ -1074,6 +1092,7 @@
 0.0.0.0 www.api.glance.inmobi.com
 0.0.0.0 www.api.lisnr.com
 0.0.0.0 www.api.mdotlabs.com
+0.0.0.0 www.api.mixpanel.com
 0.0.0.0 www.api.opinion.inmobi.com
 0.0.0.0 www.api.uat.opinion.inmobi.com
 0.0.0.0 www.api.uat.opinions.inmobi.com
@@ -1198,6 +1217,7 @@
 0.0.0.0 www.jsrdn.com
 0.0.0.0 www.k4.macromill.com
 0.0.0.0 www.koindut.com
+0.0.0.0 www.landingtest.mixpanel.com
 0.0.0.0 www-le.instartlogic.com
 0.0.0.0 www.lens.data.inmobi.com
 0.0.0.0 www.lens.secondry.data.dfw1.inmobi.com
@@ -1207,6 +1227,7 @@
 0.0.0.0 www.loki.corp.inmobi.com
 0.0.0.0 www.lootsie.com
 0.0.0.0 www.mail.maxpoint.com
+0.0.0.0 www.marketing.mixpo.com
 0.0.0.0 www.mavericks.marketo.com
 0.0.0.0 www.mediaplanner.inmobi.com
 0.0.0.0 www.mediaplanner.uat.inmobi.com
@@ -1214,6 +1235,7 @@
 0.0.0.0 www.metrics.kampyle.com
 0.0.0.0 www.mf-strategies.com
 0.0.0.0 www.mktg.mediamind.com
+0.0.0.0 www.mkto-sj090022.com
 0.0.0.0 www.mlc.maxpoint.com
 0.0.0.0 www.mldev.sigma.inmobi.com
 0.0.0.0 www.mm.marketo.com
