@@ -23,6 +23,7 @@ ads-cluster.rd.linksynergy.com
 adserver.innovativemetrics.com
 ads-fr.ligatus.com
 ads.innovativemetrics.com
+ads.measuredads.com
 adtracker.irishopinions.com
 adx-apac3-bidder.manage.com
 adx-eu3-bidder.manage.com
@@ -58,6 +59,7 @@ alpha.leanplum.com
 alteryx.marketo.com
 ambassador.meta.lightstep.com
 ambassador.staging.lightstep.com
+aml.mdotlabs.com
 analytics-loadtest.lisnr.com
 analytics-stage.lisnr.com
 analytics-testing.lisnr.com
@@ -83,6 +85,7 @@ api-latest-grpc.lightstep.com
 api-latest.lightstep.com
 api.locsensads.com
 api.lootsie.com
+api.mdotlabs.com
 api.nonewlines.env.sandbox53.localytics.com
 api.prod.env.53.localytics.com
 api.raphael.env.sandbox53.localytics.com
@@ -142,6 +145,7 @@ bidder.us.east.liverail.com
 bidder.us.west.liverail.com
 bi.installfarm.com
 billboard.cloud.kargo.com
+bi.mediaiqdigital.com
 bis2.installfarm.com
 bis2-ssl.installfarm.com
 bis3.installfarm.com
@@ -153,6 +157,7 @@ bis5-ssl.installfarm.com
 bis-ssp.installfarm.com
 bis-ssp-ssl.installfarm.com
 blog-hosted.klaviyo.com
+b.measuredads.com
 bo.installfarm.com
 bo-ms.clickfunnels.com
 browser-sdk.lootsie.com
@@ -186,6 +191,7 @@ chef.rob.ops.kochava.com
 c.iogous.com
 c.jwpltx.com
 ck-eji-weather.joystickinteractive.com
+click-cluster.mediaforge.com
 click-cluster.rd.linksynergy.com
 clientmanagement.aws.lijit.com
 clientmanagement.dfw2.lijit.com
@@ -209,11 +215,13 @@ collector-life360.lightstep.com
 config.dfw1.vip.inmobi.com
 config.dfw2.vip.inmobi.com
 config-ltvp.vip.uh1.inmobi.com
+content-cluster.mediaforge.com
 content.glance.inmobi.com
 content.lokaplatform.com
 cp.ligatus.com
 cra.locsensads.com
 crave.dev.joystickinteractive.com
+creative.mathtag.com
 crmapi.idsp.inmobi.com
 cs.iubenda.com
 ct-origin-dev.ligatus.com
@@ -257,6 +265,8 @@ dev.us-west-1.kops.kargo.com
 diamondnexus.madmobile.com
 didit.levexis.com
 directads-support.ligatus.com
+direct.maxpoint.com
+discovery.maxpoint.com
 dn25.kissmetrics.com
 dn58.kissmetrics.com
 dockerhub.corp.inmobi.com
@@ -267,6 +277,8 @@ dsp.linksynergy.com
 dsp-preprod.inmobi.com
 dv.innovid.com
 dvma.innovid.com
+dyn-message.mathtag.com
+dyn-pixel.mathtag.com
 ec2amaz-v34sjct.marketo.com
 echo1.iubenda.com
 eggology-dev.joystickinteractive.com
@@ -295,6 +307,7 @@ fa-ssl.ligatus.com
 fb-bot.joystickinteractive.com
 feed.linksynergy.com
 feeds.joystickinteractive.com
+feeds.mediaforge.com
 festival.lisnr.com
 filadoya.clickfunnels.com
 fleet-test.corp.ligatus.com
@@ -322,6 +335,7 @@ geocoder.joystickinteractive.com
 geoservice.nonprod.sea.inmobi.com
 geoservice.prod.sea.inmobi.com
 get.leanplum.com
+git-dev.mediaforge.com
 github.corp.inmobi.com
 glance-ds.sigma.inmobi.com
 glance-workbench.sigma.inmobi.com
@@ -330,6 +344,7 @@ global.macromill.com
 global-monitor.macromill.com
 go.justuno.com
 go.kissmetrics.com
+go.maysme.com
 hackathon.localytics.com
 heisenberg.inmobi.com
 helios.ligatus.com
@@ -361,8 +376,8 @@ image.cp.ligatus.com
 imces.vip.lhr1.inmobi.com
 info.inmobi.com
 infosec.corp.inmobi.com
-i.n.jwpltx.com
 in.jwpltx.com
+i.n.jwpltx.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
 inmobi.web10-east.manage.com
@@ -394,6 +409,7 @@ johnfrieda.lisnr.com
 jord2i.gutenbergtest.marfeelcdn.com
 joyedu.joystickinteractive.com
 jp-ads-cluster.rd.linksynergy.com
+jp.mediaforge.com
 jp-tags-cluster.rd.linksynergy.com
 julia-temp-1.joystickinteractive.com
 k2.macromill.com
@@ -427,10 +443,12 @@ marketing.kissmetrics.com
 marketo.clearbit.com
 marketplace-dev.stage.us-east-1.kops.kargo.com
 marketplace-dev.svc.kargo.com
+marmoset.user-segment.mathtag.com
 mason2.svc.kargo.com
 mason.svc.kargo.com
 master.stage.us-east-1.kops.kargo.com
 materials.lokaplatform.com
+measuredads.com
 meetpepper-dev.joystickinteractive.com
 meetpepper-randy.joystickinteractive.com
 merlin.linksynergy.com
@@ -439,6 +457,7 @@ mg2art.marketingg2.com
 mgmt-angular.dev.stage.us-east-1.kops.kargo.com
 mgmt-angular.stage.us-east-1.kops.kargo.com
 mia.lisnr.com
+mlc.maxpoint.com
 mldev.sigma.inmobi.com
 ml.listrakbi.com
 m.mets.madmobile.com
@@ -471,6 +490,7 @@ nonprod.useast.geoservice.inmobi.com
 northstyle.madmobile.com
 npm.corp.inmobi.com
 ns12.lifestreet.com
+ns1.mediaforge.com
 ns4.linksynergy.com
 ns5.linksynergy.com
 ns6.linksynergy.com
@@ -486,6 +506,7 @@ oops.lijit.com
 orders.localiq.com
 orders.qa.localiq.com
 osxserver1.oit.lijit.com
+ox-d.mediaforge.com
 partnerprogram.liverail.com
 payless-cdn.madmobile.com
 payless.madmobile.com
@@ -502,6 +523,7 @@ platform.ligatus.com
 platform.liverail.com
 player.installfarm.com
 plrdemo.instartlogic.com
+podna-ab37.marketo.com
 prclick.inmobi.com
 prd.ping-origin-prd.jwpltx.com
 preprod-sso.leanplum.com
@@ -525,6 +547,7 @@ pulse-uat.inmobi.com
 push.rce.ligatus.com
 pypi.corp.inmobi.com
 qadfw2.lijit.com
+qadynamics.marketo.com
 qcweb.macromill.com
 qlikview.corp.ligatus.com
 queuer-elb.sandbox53.localytics.com
@@ -551,6 +574,7 @@ rs.linksynergy.com
 rtb.ligatus.com
 rtb-ligatus-geu.rd.linksynergy.com
 rtmp.lokaplatform.com
+rtpdemo.marketo.com
 rubicon.web12-west.manage.com
 rubicon.web14-east.manage.com
 rubicon.web22-east.manage.com
@@ -591,9 +615,11 @@ sfoadcpw02.corp.inmobi.com
 shopjustice-cdn.madmobile.com
 s.intercomcdn.com
 s.iogous.com
+sipexternal.maxpoint.com
 sites.corp.ligatus.com
 s.jwpltx.com
 s.ligatus.com
+smallbusiness.maxpoint.com
 smb.joystickinteractive.com
 s.n.jwpltx.com
 s.n.ping-origin-prd.jwpltx.com
@@ -611,11 +637,13 @@ stager2.53.localytics.com
 stage.us-east-1.kops.kargo.com
 stage.us-west-1.kops.kargo.com
 staging2.mater.iubenda.com
+staging.cms.mediaiqdigital.com
 staging.kargo.com
 staging.lisnr.com
 staging.us-west-1.kops.kargo.com
 staging.vangogher.glance.inmobi.com
 static.liverail.com
+stats-cluster.mediaforge.com
 stats.ligatus.com
 stg.iubenda.com
 stg.oem.inmobi.com
@@ -631,6 +659,7 @@ sync.liverail.com
 t4geo.liverail.com
 t4.liverail.com
 tagmanager.ligatus.com
+tags-cluster.mediaforge.com
 tag-us.loopmertb.com
 taunton-cp.joystickinteractive.com
 telemetry.sdk.dfw1.vip.inmobi.com
@@ -777,6 +806,7 @@ webapp.lootsie.com
 webdisk.intelsad.com
 webdisk.mm.marketo.com
 web.leanplum.com
+webservice.mediaforge.com
 widgets.innity.com
 workflows.sandbox53.localytics.com
 wsj-aramark.joystickinteractive.com
@@ -798,11 +828,13 @@ www.api.canary.opinion.inmobi.com
 www.api.dsp.inmobi.com
 www.api.glance.inmobi.com
 www.api.lisnr.com
+www.api.mdotlabs.com
 www.api.opinion.inmobi.com
 www.api.uat.opinion.inmobi.com
 www.api.uat.opinions.inmobi.com
 www.app.justuno.com
 www.app.lisnr.com
+www.app.mashero.com
 www.a-static.klaviyo.com
 www.auto.localiq.com
 www.avn.innity.com
@@ -846,7 +878,9 @@ www.dataexchange.inmobi.com
 www.data.innovativemetrics.com
 www.dc7.x.lijit.com
 www.dev.joystickinteractive.com
+www.direct.maxpoint.com
 www.discover.leanplum.com
+www.discovery.maxpoint.com
 www.d.liadm.com
 www.dl.inmobi.com
 www.dope.ops.inmobi.com
@@ -897,6 +931,9 @@ www.imces.inmobi.com
 www.in.analytics.glance.inmobi.com
 www.in.api.glance.inmobi.com
 www.infosec.corp.inmobi.com
+www.insights.maxpoint.com
+www.intelligence.maxpoint.com
+www.interest.maxpoint.com
 www.internal-clarity.idsp.inmobi.com
 www.johnfrieda.lisnr.com
 www.joyedu.joystickinteractive.com
@@ -911,14 +948,18 @@ www.linksynergy.com
 www.llanalytics.com
 www.loki.corp.inmobi.com
 www.lootsie.com
+www.mail.maxpoint.com
 www.mavericks.marketo.com
 www.mediaplanner.inmobi.com
 www.mediaplanner.uat.inmobi.com
 www.meetpepper-dev.joystickinteractive.com
 www.metrics.kampyle.com
+www.mlc.maxpoint.com
 www.mldev.sigma.inmobi.com
 www.mm.marketo.com
 www.mmp.inmobi.com
+www.mpintelligence.maxpoint.com
+www.mup.amp.mcafee.com
 www.mysite092216-dev.joystickinteractive.com
 www.myvpn.inmobi.com
 www.nessus1.dfw2.lijit.com
@@ -952,6 +993,7 @@ www.pso-imbot.inmobi.com
 www.pso.inmobi.com
 www.publisher.mainad.com
 www.pulse.inmobi.com
+www.pulse.mcdonalds.com
 www.pulse-uat.inmobi.com
 www.randy-temp-1.joystickinteractive.com
 www.raven.pek1.pulse.inmobi.com
@@ -974,9 +1016,13 @@ www.servicecenter.dealeronlinemarketing.com
 www.s-et-rc-w.inmobi.com
 www.s-et.w.inmobi.com
 www.shakira2.lisnr.com
+www.shuttle.mashero.com
 www.sitelist.justpremium.com
 www.s.jsrdn.com
 www.s.jwpltx.com
+www.skype.maxpoint.com
+www.smallbusiness.maxpoint.com
+www.smvpn.marketo.com
 www.specialsmanager.dealeronlinemarketing.com
 www.sstats.kroger.com
 www.staging.iam.inmobi.com
@@ -991,14 +1037,17 @@ www.stg-ads.inmobi.com
 www.stg.oem.inmobi.com
 www.stg-ua.inmobi.com
 www.studio.glance.inmobi.com
+www.support-case.marketo.com
 www.surveys.insightexpressai.com
 www.sutdio.glance.inmobi.com
+www.tableau.marketo.com
 www.technology.inmobi.com
 www.telemetry.sdk.inmobi.com
 www.testjira.corp.ev1.inmobi.com
 www.testns.instartlogic.com
 www.tfs2010.marketingg2.com
 www.tfs.marketingg2.com
+www.tkovpn.marketo.com
 www.tm.inmobi.com
 www.token.corp.inmobi.com
 www.tracking.cp.ligatus.com
@@ -1013,6 +1062,7 @@ www.unlockme.corp.inmobi.com
 www.usermatix.corp.inmobi.com
 www.vangogher.glance.inmobi.com
 www.venus.inmobi.com
+www.visualization.maxpoint.com
 www.v.jsrdn.com
 www.wateraid-admin.joystickinteractive.com
 www.wateraid-stg.joystickinteractive.com

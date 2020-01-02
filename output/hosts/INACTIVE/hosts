@@ -23,6 +23,7 @@
 0.0.0.0 adserver.innovativemetrics.com
 0.0.0.0 ads-fr.ligatus.com
 0.0.0.0 ads.innovativemetrics.com
+0.0.0.0 ads.measuredads.com
 0.0.0.0 adtracker.irishopinions.com
 0.0.0.0 adx-apac3-bidder.manage.com
 0.0.0.0 adx-eu3-bidder.manage.com
@@ -58,6 +59,7 @@
 0.0.0.0 alteryx.marketo.com
 0.0.0.0 ambassador.meta.lightstep.com
 0.0.0.0 ambassador.staging.lightstep.com
+0.0.0.0 aml.mdotlabs.com
 0.0.0.0 analytics-loadtest.lisnr.com
 0.0.0.0 analytics-stage.lisnr.com
 0.0.0.0 analytics-testing.lisnr.com
@@ -83,6 +85,7 @@
 0.0.0.0 api-latest.lightstep.com
 0.0.0.0 api.locsensads.com
 0.0.0.0 api.lootsie.com
+0.0.0.0 api.mdotlabs.com
 0.0.0.0 api.nonewlines.env.sandbox53.localytics.com
 0.0.0.0 api.prod.env.53.localytics.com
 0.0.0.0 api.raphael.env.sandbox53.localytics.com
@@ -142,6 +145,7 @@
 0.0.0.0 bidder.us.west.liverail.com
 0.0.0.0 bi.installfarm.com
 0.0.0.0 billboard.cloud.kargo.com
+0.0.0.0 bi.mediaiqdigital.com
 0.0.0.0 bis2.installfarm.com
 0.0.0.0 bis2-ssl.installfarm.com
 0.0.0.0 bis3.installfarm.com
@@ -153,6 +157,7 @@
 0.0.0.0 bis-ssp.installfarm.com
 0.0.0.0 bis-ssp-ssl.installfarm.com
 0.0.0.0 blog-hosted.klaviyo.com
+0.0.0.0 b.measuredads.com
 0.0.0.0 bo.installfarm.com
 0.0.0.0 bo-ms.clickfunnels.com
 0.0.0.0 browser-sdk.lootsie.com
@@ -186,6 +191,7 @@
 0.0.0.0 c.iogous.com
 0.0.0.0 c.jwpltx.com
 0.0.0.0 ck-eji-weather.joystickinteractive.com
+0.0.0.0 click-cluster.mediaforge.com
 0.0.0.0 click-cluster.rd.linksynergy.com
 0.0.0.0 clientmanagement.aws.lijit.com
 0.0.0.0 clientmanagement.dfw2.lijit.com
@@ -209,11 +215,13 @@
 0.0.0.0 config.dfw1.vip.inmobi.com
 0.0.0.0 config.dfw2.vip.inmobi.com
 0.0.0.0 config-ltvp.vip.uh1.inmobi.com
+0.0.0.0 content-cluster.mediaforge.com
 0.0.0.0 content.glance.inmobi.com
 0.0.0.0 content.lokaplatform.com
 0.0.0.0 cp.ligatus.com
 0.0.0.0 cra.locsensads.com
 0.0.0.0 crave.dev.joystickinteractive.com
+0.0.0.0 creative.mathtag.com
 0.0.0.0 crmapi.idsp.inmobi.com
 0.0.0.0 cs.iubenda.com
 0.0.0.0 ct-origin-dev.ligatus.com
@@ -257,6 +265,8 @@
 0.0.0.0 diamondnexus.madmobile.com
 0.0.0.0 didit.levexis.com
 0.0.0.0 directads-support.ligatus.com
+0.0.0.0 direct.maxpoint.com
+0.0.0.0 discovery.maxpoint.com
 0.0.0.0 dn25.kissmetrics.com
 0.0.0.0 dn58.kissmetrics.com
 0.0.0.0 dockerhub.corp.inmobi.com
@@ -267,6 +277,8 @@
 0.0.0.0 dsp-preprod.inmobi.com
 0.0.0.0 dv.innovid.com
 0.0.0.0 dvma.innovid.com
+0.0.0.0 dyn-message.mathtag.com
+0.0.0.0 dyn-pixel.mathtag.com
 0.0.0.0 ec2amaz-v34sjct.marketo.com
 0.0.0.0 echo1.iubenda.com
 0.0.0.0 eggology-dev.joystickinteractive.com
@@ -295,6 +307,7 @@
 0.0.0.0 fb-bot.joystickinteractive.com
 0.0.0.0 feed.linksynergy.com
 0.0.0.0 feeds.joystickinteractive.com
+0.0.0.0 feeds.mediaforge.com
 0.0.0.0 festival.lisnr.com
 0.0.0.0 filadoya.clickfunnels.com
 0.0.0.0 fleet-test.corp.ligatus.com
@@ -322,6 +335,7 @@
 0.0.0.0 geoservice.nonprod.sea.inmobi.com
 0.0.0.0 geoservice.prod.sea.inmobi.com
 0.0.0.0 get.leanplum.com
+0.0.0.0 git-dev.mediaforge.com
 0.0.0.0 github.corp.inmobi.com
 0.0.0.0 glance-ds.sigma.inmobi.com
 0.0.0.0 glance-workbench.sigma.inmobi.com
@@ -330,6 +344,7 @@
 0.0.0.0 global-monitor.macromill.com
 0.0.0.0 go.justuno.com
 0.0.0.0 go.kissmetrics.com
+0.0.0.0 go.maysme.com
 0.0.0.0 hackathon.localytics.com
 0.0.0.0 heisenberg.inmobi.com
 0.0.0.0 helios.ligatus.com
@@ -347,8 +362,8 @@
 0.0.0.0 id.ligatus.com
 0.0.0.0 idolator.cloud.kargo.com
 0.0.0.0 idp.corp.inmobi.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -394,6 +409,7 @@
 0.0.0.0 jord2i.gutenbergtest.marfeelcdn.com
 0.0.0.0 joyedu.joystickinteractive.com
 0.0.0.0 jp-ads-cluster.rd.linksynergy.com
+0.0.0.0 jp.mediaforge.com
 0.0.0.0 jp-tags-cluster.rd.linksynergy.com
 0.0.0.0 julia-temp-1.joystickinteractive.com
 0.0.0.0 k2.macromill.com
@@ -427,10 +443,12 @@
 0.0.0.0 marketo.clearbit.com
 0.0.0.0 marketplace-dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 marketplace-dev.svc.kargo.com
+0.0.0.0 marmoset.user-segment.mathtag.com
 0.0.0.0 mason2.svc.kargo.com
 0.0.0.0 mason.svc.kargo.com
 0.0.0.0 master.stage.us-east-1.kops.kargo.com
 0.0.0.0 materials.lokaplatform.com
+0.0.0.0 measuredads.com
 0.0.0.0 meetpepper-dev.joystickinteractive.com
 0.0.0.0 meetpepper-randy.joystickinteractive.com
 0.0.0.0 merlin.linksynergy.com
@@ -439,6 +457,7 @@
 0.0.0.0 mgmt-angular.dev.stage.us-east-1.kops.kargo.com
 0.0.0.0 mgmt-angular.stage.us-east-1.kops.kargo.com
 0.0.0.0 mia.lisnr.com
+0.0.0.0 mlc.maxpoint.com
 0.0.0.0 mldev.sigma.inmobi.com
 0.0.0.0 ml.listrakbi.com
 0.0.0.0 m.mets.madmobile.com
@@ -471,6 +490,7 @@
 0.0.0.0 northstyle.madmobile.com
 0.0.0.0 npm.corp.inmobi.com
 0.0.0.0 ns12.lifestreet.com
+0.0.0.0 ns1.mediaforge.com
 0.0.0.0 ns4.linksynergy.com
 0.0.0.0 ns5.linksynergy.com
 0.0.0.0 ns6.linksynergy.com
@@ -486,6 +506,7 @@
 0.0.0.0 orders.localiq.com
 0.0.0.0 orders.qa.localiq.com
 0.0.0.0 osxserver1.oit.lijit.com
+0.0.0.0 ox-d.mediaforge.com
 0.0.0.0 partnerprogram.liverail.com
 0.0.0.0 payless-cdn.madmobile.com
 0.0.0.0 payless.madmobile.com
@@ -502,6 +523,7 @@
 0.0.0.0 platform.liverail.com
 0.0.0.0 player.installfarm.com
 0.0.0.0 plrdemo.instartlogic.com
+0.0.0.0 podna-ab37.marketo.com
 0.0.0.0 prclick.inmobi.com
 0.0.0.0 prd.ping-origin-prd.jwpltx.com
 0.0.0.0 preprod-sso.leanplum.com
@@ -525,6 +547,7 @@
 0.0.0.0 push.rce.ligatus.com
 0.0.0.0 pypi.corp.inmobi.com
 0.0.0.0 qadfw2.lijit.com
+0.0.0.0 qadynamics.marketo.com
 0.0.0.0 qcweb.macromill.com
 0.0.0.0 qlikview.corp.ligatus.com
 0.0.0.0 queuer-elb.sandbox53.localytics.com
@@ -551,6 +574,7 @@
 0.0.0.0 rtb.ligatus.com
 0.0.0.0 rtb-ligatus-geu.rd.linksynergy.com
 0.0.0.0 rtmp.lokaplatform.com
+0.0.0.0 rtpdemo.marketo.com
 0.0.0.0 rubicon.web12-west.manage.com
 0.0.0.0 rubicon.web14-east.manage.com
 0.0.0.0 rubicon.web22-east.manage.com
@@ -591,9 +615,11 @@
 0.0.0.0 shopjustice-cdn.madmobile.com
 0.0.0.0 s.intercomcdn.com
 0.0.0.0 s.iogous.com
+0.0.0.0 sipexternal.maxpoint.com
 0.0.0.0 sites.corp.ligatus.com
 0.0.0.0 s.jwpltx.com
 0.0.0.0 s.ligatus.com
+0.0.0.0 smallbusiness.maxpoint.com
 0.0.0.0 smb.joystickinteractive.com
 0.0.0.0 s.n.jwpltx.com
 0.0.0.0 s.n.ping-origin-prd.jwpltx.com
@@ -611,11 +637,13 @@
 0.0.0.0 stage.us-east-1.kops.kargo.com
 0.0.0.0 stage.us-west-1.kops.kargo.com
 0.0.0.0 staging2.mater.iubenda.com
+0.0.0.0 staging.cms.mediaiqdigital.com
 0.0.0.0 staging.kargo.com
 0.0.0.0 staging.lisnr.com
 0.0.0.0 staging.us-west-1.kops.kargo.com
 0.0.0.0 staging.vangogher.glance.inmobi.com
 0.0.0.0 static.liverail.com
+0.0.0.0 stats-cluster.mediaforge.com
 0.0.0.0 stats.ligatus.com
 0.0.0.0 stg.iubenda.com
 0.0.0.0 stg.oem.inmobi.com
@@ -631,6 +659,7 @@
 0.0.0.0 t4geo.liverail.com
 0.0.0.0 t4.liverail.com
 0.0.0.0 tagmanager.ligatus.com
+0.0.0.0 tags-cluster.mediaforge.com
 0.0.0.0 tag-us.loopmertb.com
 0.0.0.0 taunton-cp.joystickinteractive.com
 0.0.0.0 telemetry.sdk.dfw1.vip.inmobi.com
@@ -777,6 +806,7 @@
 0.0.0.0 webdisk.intelsad.com
 0.0.0.0 webdisk.mm.marketo.com
 0.0.0.0 web.leanplum.com
+0.0.0.0 webservice.mediaforge.com
 0.0.0.0 widgets.innity.com
 0.0.0.0 workflows.sandbox53.localytics.com
 0.0.0.0 wsj-aramark.joystickinteractive.com
@@ -798,11 +828,13 @@
 0.0.0.0 www.api.dsp.inmobi.com
 0.0.0.0 www.api.glance.inmobi.com
 0.0.0.0 www.api.lisnr.com
+0.0.0.0 www.api.mdotlabs.com
 0.0.0.0 www.api.opinion.inmobi.com
 0.0.0.0 www.api.uat.opinion.inmobi.com
 0.0.0.0 www.api.uat.opinions.inmobi.com
 0.0.0.0 www.app.justuno.com
 0.0.0.0 www.app.lisnr.com
+0.0.0.0 www.app.mashero.com
 0.0.0.0 www.a-static.klaviyo.com
 0.0.0.0 www.auto.localiq.com
 0.0.0.0 www.avn.innity.com
@@ -846,7 +878,9 @@
 0.0.0.0 www.data.innovativemetrics.com
 0.0.0.0 www.dc7.x.lijit.com
 0.0.0.0 www.dev.joystickinteractive.com
+0.0.0.0 www.direct.maxpoint.com
 0.0.0.0 www.discover.leanplum.com
+0.0.0.0 www.discovery.maxpoint.com
 0.0.0.0 www.d.liadm.com
 0.0.0.0 www.dl.inmobi.com
 0.0.0.0 www.dope.ops.inmobi.com
@@ -897,6 +931,9 @@
 0.0.0.0 www.in.analytics.glance.inmobi.com
 0.0.0.0 www.in.api.glance.inmobi.com
 0.0.0.0 www.infosec.corp.inmobi.com
+0.0.0.0 www.insights.maxpoint.com
+0.0.0.0 www.intelligence.maxpoint.com
+0.0.0.0 www.interest.maxpoint.com
 0.0.0.0 www.internal-clarity.idsp.inmobi.com
 0.0.0.0 www.johnfrieda.lisnr.com
 0.0.0.0 www.joyedu.joystickinteractive.com
@@ -911,14 +948,18 @@
 0.0.0.0 www.llanalytics.com
 0.0.0.0 www.loki.corp.inmobi.com
 0.0.0.0 www.lootsie.com
+0.0.0.0 www.mail.maxpoint.com
 0.0.0.0 www.mavericks.marketo.com
 0.0.0.0 www.mediaplanner.inmobi.com
 0.0.0.0 www.mediaplanner.uat.inmobi.com
 0.0.0.0 www.meetpepper-dev.joystickinteractive.com
 0.0.0.0 www.metrics.kampyle.com
+0.0.0.0 www.mlc.maxpoint.com
 0.0.0.0 www.mldev.sigma.inmobi.com
 0.0.0.0 www.mm.marketo.com
 0.0.0.0 www.mmp.inmobi.com
+0.0.0.0 www.mpintelligence.maxpoint.com
+0.0.0.0 www.mup.amp.mcafee.com
 0.0.0.0 www.mysite092216-dev.joystickinteractive.com
 0.0.0.0 www.myvpn.inmobi.com
 0.0.0.0 www.nessus1.dfw2.lijit.com
@@ -952,6 +993,7 @@
 0.0.0.0 www.pso.inmobi.com
 0.0.0.0 www.publisher.mainad.com
 0.0.0.0 www.pulse.inmobi.com
+0.0.0.0 www.pulse.mcdonalds.com
 0.0.0.0 www.pulse-uat.inmobi.com
 0.0.0.0 www.randy-temp-1.joystickinteractive.com
 0.0.0.0 www.raven.pek1.pulse.inmobi.com
@@ -974,9 +1016,13 @@
 0.0.0.0 www.s-et-rc-w.inmobi.com
 0.0.0.0 www.s-et.w.inmobi.com
 0.0.0.0 www.shakira2.lisnr.com
+0.0.0.0 www.shuttle.mashero.com
 0.0.0.0 www.sitelist.justpremium.com
 0.0.0.0 www.s.jsrdn.com
 0.0.0.0 www.s.jwpltx.com
+0.0.0.0 www.skype.maxpoint.com
+0.0.0.0 www.smallbusiness.maxpoint.com
+0.0.0.0 www.smvpn.marketo.com
 0.0.0.0 www.specialsmanager.dealeronlinemarketing.com
 0.0.0.0 www.sstats.kroger.com
 0.0.0.0 www.staging.iam.inmobi.com
@@ -991,14 +1037,17 @@
 0.0.0.0 www.stg.oem.inmobi.com
 0.0.0.0 www.stg-ua.inmobi.com
 0.0.0.0 www.studio.glance.inmobi.com
+0.0.0.0 www.support-case.marketo.com
 0.0.0.0 www.surveys.insightexpressai.com
 0.0.0.0 www.sutdio.glance.inmobi.com
+0.0.0.0 www.tableau.marketo.com
 0.0.0.0 www.technology.inmobi.com
 0.0.0.0 www.telemetry.sdk.inmobi.com
 0.0.0.0 www.testjira.corp.ev1.inmobi.com
 0.0.0.0 www.testns.instartlogic.com
 0.0.0.0 www.tfs2010.marketingg2.com
 0.0.0.0 www.tfs.marketingg2.com
+0.0.0.0 www.tkovpn.marketo.com
 0.0.0.0 www.tm.inmobi.com
 0.0.0.0 www.token.corp.inmobi.com
 0.0.0.0 www.tracking.cp.ligatus.com
@@ -1013,6 +1062,7 @@
 0.0.0.0 www.usermatix.corp.inmobi.com
 0.0.0.0 www.vangogher.glance.inmobi.com
 0.0.0.0 www.venus.inmobi.com
+0.0.0.0 www.visualization.maxpoint.com
 0.0.0.0 www.v.jsrdn.com
 0.0.0.0 www.wateraid-admin.joystickinteractive.com
 0.0.0.0 www.wateraid-stg.joystickinteractive.com
