@@ -25314,81 +25314,7 @@
         "1573162918": {
             "apt-bud-2-ext.adsrvr.org": "INACTIVE"
         },
-        "1575872452": {
-            "cdn.vungle.com": "INACTIVE"
-        },
-        "1575873144": {
-            "elastikube.vungle.com": "INACTIVE"
-        },
-        "1575873145": {
-            "logging.vungle.com": "INACTIVE",
-            "lol.vungle.com": "INACTIVE",
-            "sf.mm.vungle.com": "INACTIVE"
-        },
-        "1575873146": {
-            "adserver-router04-public.prod.vungle.com": "INACTIVE",
-            "adserver-router23-public.prod.vungle.com": "INACTIVE",
-            "adserver-router25-public.prod.vungle.com": "INACTIVE"
-        },
-        "1575873147": {
-            "adserverrouter02.prod.vungle.com": "INACTIVE",
-            "adserverrouter07.prod.vungle.com": "INACTIVE",
-            "adserverrouter11.prod.vungle.com": "INACTIVE",
-            "adserverrouter12.prod.vungle.com": "INACTIVE"
-        },
-        "1575873148": {
-            "adserverrouter13.prod.vungle.com": "INACTIVE",
-            "adserverrouter18.prod.vungle.com": "INACTIVE",
-            "adserverrouter21.prod.vungle.com": "INACTIVE"
-        },
-        "1575873149": {
-            "adserverrouter28.prod.vungle.com": "INACTIVE",
-            "adserverrouter29.prod.vungle.com": "INACTIVE",
-            "adserverrouter30.prod.vungle.com": "INACTIVE",
-            "adserverrouter31.prod.vungle.com": "INACTIVE"
-        },
-        "1575873150": {
-            "adserverrouter32.prod.vungle.com": "INACTIVE",
-            "v2asr-54-152-198-0.prod.vungle.com": "INACTIVE"
-        },
-        "1575873151": {
-            "vungle-cdn.vungle.com": "INACTIVE"
-        },
-        "1575873153": {
-            "singtel.wavesecure.com": "INACTIVE",
-            "telkomsel.wavesecure.com": "INACTIVE",
-            "www.wavesecure.com": "INACTIVE"
-        },
-        "1575873154": {
-            "jupyter.wbinsights.com": "INACTIVE",
-            "www.t.wayfair.com": "INACTIVE"
-        },
-        "1575873155": {
-            "www.logs.palebrook.wbinsights.com": "INACTIVE"
-        },
-        "1575873851": {
-            "playdemic.r.wbinsights.com": "INACTIVE",
-            "presto-gdpr-dev-encrypted.wbinsights.com": "INACTIVE"
-        },
-        "1575873852": {
-            "segment.wbinsights.com": "INACTIVE"
-        },
-        "1575873854": {
-            "context.webgains.com": "INACTIVE",
-            "dev-main.webgains.com": "INACTIVE"
-        },
-        "1575873855": {
-            "www.soteria.webgains.com": "INACTIVE",
-            "www.sts.webgains.com": "INACTIVE"
-        },
-        "1575873856": {
-            "cdn.track.webgains.com": "INACTIVE",
-            "www.cdn.track.webgains.com": "INACTIVE",
-            "www.track.webgains.com": "INACTIVE",
-            "www.us.webgains.com": "INACTIVE"
-        },
         "1575873858": {
-            "bigfish-dev-gce.weborama.com": "INACTIVE",
             "lb-us-east1-00.bigsea.weborama.com": "INACTIVE",
             "lb-us-east1-01.bigsea.weborama.com": "INACTIVE"
         },
@@ -43078,6 +43004,75 @@
             "co.uk.vsassets.com": "INACTIVE",
             "org.uk.vsassets.com": "INACTIVE",
             "us.vsassets.com": "INACTIVE"
+        },
+        "1578014792": {
+            "cdn.vungle.com": "INACTIVE",
+            "elastikube.vungle.com": "INACTIVE"
+        },
+        "1578014793": {
+            "adserver-router04-public.prod.vungle.com": "INACTIVE",
+            "logging.vungle.com": "INACTIVE",
+            "lol.vungle.com": "INACTIVE",
+            "sf.mm.vungle.com": "INACTIVE"
+        },
+        "1578014794": {
+            "adserver-router23-public.prod.vungle.com": "INACTIVE",
+            "adserver-router25-public.prod.vungle.com": "INACTIVE",
+            "adserverrouter02.prod.vungle.com": "INACTIVE",
+            "adserverrouter07.prod.vungle.com": "INACTIVE",
+            "adserverrouter11.prod.vungle.com": "INACTIVE"
+        },
+        "1578014795": {
+            "adserverrouter12.prod.vungle.com": "INACTIVE",
+            "adserverrouter13.prod.vungle.com": "INACTIVE",
+            "adserverrouter18.prod.vungle.com": "INACTIVE",
+            "adserverrouter21.prod.vungle.com": "INACTIVE",
+            "adserverrouter28.prod.vungle.com": "INACTIVE",
+            "adserverrouter29.prod.vungle.com": "INACTIVE"
+        },
+        "1578014796": {
+            "adserverrouter30.prod.vungle.com": "INACTIVE",
+            "adserverrouter31.prod.vungle.com": "INACTIVE",
+            "adserverrouter32.prod.vungle.com": "INACTIVE",
+            "v2asr-54-152-198-0.prod.vungle.com": "INACTIVE"
+        },
+        "1578014797": {
+            "vungle-cdn.vungle.com": "INACTIVE"
+        },
+        "1578014798": {
+            "singtel.wavesecure.com": "INACTIVE",
+            "telkomsel.wavesecure.com": "INACTIVE",
+            "www.wavesecure.com": "INACTIVE"
+        },
+        "1578014799": {
+            "jupyter.wbinsights.com": "INACTIVE",
+            "www.t.wayfair.com": "INACTIVE"
+        },
+        "1578014800": {
+            "playdemic.r.wbinsights.com": "INACTIVE",
+            "presto-gdpr-dev-encrypted.wbinsights.com": "INACTIVE",
+            "www.logs.palebrook.wbinsights.com": "INACTIVE"
+        },
+        "1578014801": {
+            "segment.wbinsights.com": "INACTIVE"
+        },
+        "1578014802": {
+            "context.webgains.com": "INACTIVE",
+            "dev-main.webgains.com": "INACTIVE"
+        },
+        "1578014803": {
+            "www.soteria.webgains.com": "INACTIVE",
+            "www.sts.webgains.com": "INACTIVE"
+        },
+        "1578014804": {
+            "cdn.track.webgains.com": "INACTIVE",
+            "www.cdn.track.webgains.com": "INACTIVE",
+            "www.track.webgains.com": "INACTIVE",
+            "www.us.webgains.com": "INACTIVE"
+        },
+        "1578014805": {
+            "bigfish-dev-gce.weborama.com": "INACTIVE",
+            "www.stats.webleads-tracker.com": "INACTIVE"
         }
     }
 }
