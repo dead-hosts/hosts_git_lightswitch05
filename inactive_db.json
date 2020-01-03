@@ -25314,110 +25314,6 @@
         "1573162918": {
             "apt-bud-2-ext.adsrvr.org": "INACTIVE"
         },
-        "1575893289": {
-            "flytest.gaug.es": "INACTIVE",
-            "sheep.gaug.es": "INACTIVE",
-            "www.secure.gaug.es": "INACTIVE"
-        },
-        "1575893290": {
-            "www.ads.mediasmart.es": "INACTIVE"
-        },
-        "1575893291": {
-            "ecads.mediasmart.es": "INACTIVE"
-        },
-        "1575893293": {
-            "pub-services.fra.braze.eu": "INACTIVE",
-            "pub-services.staging.fra.braze.eu": "INACTIVE",
-            "services.fra.braze.eu": "INACTIVE"
-        },
-        "1575893295": {
-            "k8s.cluster-001.p-euc-1.braze.eu": "INACTIVE",
-            "k8s.stc-001.p-euc-1.braze.eu": "INACTIVE"
-        },
-        "1575893296": {
-            "k8s.cluster-001.s-euc-1.braze.eu": "INACTIVE",
-            "k8s.region-001.p-euc-1.braze.eu": "INACTIVE",
-            "k8s.stc-002.p-euc-1.braze.eu": "INACTIVE"
-        },
-        "1575893297": {
-            "grafana.k8s.cluster-001.s-euc-1.braze.eu": "INACTIVE",
-            "grafana.k8s.region-001.s-euc-1.braze.eu": "INACTIVE",
-            "k8s.region-001.s-euc-1.braze.eu": "INACTIVE"
-        },
-        "1575893298": {
-            "k8s.stc-001.s-euc-1.braze.eu": "INACTIVE"
-        },
-        "1575894129": {
-            "grafana.k8s.stc-001.s-euc-1.braze.eu": "INACTIVE"
-        },
-        "1575898367": {
-            "frontend.m6r.eu": "INACTIVE",
-            "gotthard.tunnel.dc19.m6r.eu": "INACTIVE"
-        },
-        "1575898368": {
-            "tracking.eu1.m6r.eu": "INACTIVE",
-            "www.cdn-network.medialead.eu": "INACTIVE"
-        },
-        "1575898369": {
-            "www.network.medialead.eu": "INACTIVE"
-        },
-        "1575898375": {
-            "saasfs3.slgnt.eu": "INACTIVE"
-        },
-        "1575898377": {
-            "ads.admetrics.events": "INACTIVE"
-        },
-        "1575898378": {
-            "apps.admetrics.events": "INACTIVE",
-            "kosmos.admetrics.events": "INACTIVE",
-            "wpad.example": "INVALID"
-        },
-        "1575898379": {
-            "api.simpli.fi": "INACTIVE",
-            "china.ads.simpli.fi": "INACTIVE"
-        },
-        "1575899792": {
-            "au.simpli.fi": "INACTIVE"
-        },
-        "1575899793": {
-            "dal.simpli.fi": "INACTIVE"
-        },
-        "1575899794": {
-            "dalads2.simpli.fi": "INACTIVE",
-            "dalads3.simpli.fi": "INACTIVE",
-            "dc.simpli.fi": "INACTIVE"
-        },
-        "1575899795": {
-            "dcads5.simpli.fi": "INACTIVE",
-            "dcads6.simpli.fi": "INACTIVE",
-            "dei1.simpli.fi": "INACTIVE"
-        },
-        "1575899796": {
-            "dev.simpli.fi": "INACTIVE"
-        },
-        "1575899797": {
-            "east.simpli.fi": "INACTIVE",
-            "euads.simpli.fi": "INACTIVE"
-        },
-        "1575899798": {
-            "int.simpli.fi": "INACTIVE"
-        },
-        "1575899799": {
-            "nl.simpli.fi": "INACTIVE",
-            "sg.simpli.fi": "INACTIVE"
-        },
-        "1575899800": {
-            "sgads2.simpli.fi": "INACTIVE",
-            "sj.simpli.fi": "INACTIVE",
-            "sjads3.simpli.fi": "INACTIVE"
-        },
-        "1575899801": {
-            "sjads4.simpli.fi": "INACTIVE",
-            "sjads5.simpli.fi": "INACTIVE"
-        },
-        "1575899802": {
-            "static.simpli.fi": "INACTIVE"
-        },
         "1575899803": {
             "west.simpli.fi": "INACTIVE",
             "www-new.simpli.fi": "INACTIVE"
@@ -43030,6 +42926,92 @@
         "1578023453": {
             "www.xups.xplosion.de": "INACTIVE",
             "xadc.xplosion.de": "INACTIVE"
+        },
+        "1578024148": {
+            "flytest.gaug.es": "INACTIVE",
+            "sheep.gaug.es": "INACTIVE",
+            "www.ads.mediasmart.es": "INACTIVE",
+            "www.secure.gaug.es": "INACTIVE"
+        },
+        "1578024149": {
+            "ecads.mediasmart.es": "INACTIVE"
+        },
+        "1578024150": {
+            "pub-services.fra.braze.eu": "INACTIVE",
+            "pub-services.staging.fra.braze.eu": "INACTIVE",
+            "services.fra.braze.eu": "INACTIVE"
+        },
+        "1578024151": {
+            "k8s.region-001.p-euc-1.braze.eu": "INACTIVE"
+        },
+        "1578024152": {
+            "grafana.k8s.cluster-001.s-euc-1.braze.eu": "INACTIVE",
+            "k8s.cluster-001.p-euc-1.braze.eu": "INACTIVE",
+            "k8s.cluster-001.s-euc-1.braze.eu": "INACTIVE",
+            "k8s.stc-001.p-euc-1.braze.eu": "INACTIVE",
+            "k8s.stc-002.p-euc-1.braze.eu": "INACTIVE"
+        },
+        "1578024153": {
+            "grafana.k8s.region-001.s-euc-1.braze.eu": "INACTIVE",
+            "grafana.k8s.stc-001.s-euc-1.braze.eu": "INACTIVE",
+            "k8s.region-001.s-euc-1.braze.eu": "INACTIVE",
+            "k8s.stc-001.s-euc-1.braze.eu": "INACTIVE"
+        },
+        "1578024154": {
+            "frontend.m6r.eu": "INACTIVE",
+            "gotthard.tunnel.dc19.m6r.eu": "INACTIVE",
+            "tracking.eu1.m6r.eu": "INACTIVE"
+        },
+        "1578024155": {
+            "www.cdn-network.medialead.eu": "INACTIVE",
+            "www.network.medialead.eu": "INACTIVE"
+        },
+        "1578024159": {
+            "saasfs3.slgnt.eu": "INACTIVE"
+        },
+        "1578024160": {
+            "ads.admetrics.events": "INACTIVE"
+        },
+        "1578024161": {
+            "apps.admetrics.events": "INACTIVE",
+            "china.ads.simpli.fi": "INACTIVE",
+            "kosmos.admetrics.events": "INACTIVE",
+            "wpad.example": "INVALID"
+        },
+        "1578024162": {
+            "api.simpli.fi": "INACTIVE",
+            "au.simpli.fi": "INACTIVE",
+            "dal.simpli.fi": "INACTIVE"
+        },
+        "1578024163": {
+            "dalads2.simpli.fi": "INACTIVE",
+            "dalads3.simpli.fi": "INACTIVE",
+            "dc.simpli.fi": "INACTIVE",
+            "dcads5.simpli.fi": "INACTIVE",
+            "dcads6.simpli.fi": "INACTIVE"
+        },
+        "1578024164": {
+            "dei1.simpli.fi": "INACTIVE",
+            "dev.simpli.fi": "INACTIVE"
+        },
+        "1578024165": {
+            "east.simpli.fi": "INACTIVE",
+            "euads.simpli.fi": "INACTIVE",
+            "int.simpli.fi": "INACTIVE"
+        },
+        "1578024166": {
+            "nl.simpli.fi": "INACTIVE",
+            "sg.simpli.fi": "INACTIVE",
+            "sgads2.simpli.fi": "INACTIVE"
+        },
+        "1578024167": {
+            "sj.simpli.fi": "INACTIVE",
+            "sjads3.simpli.fi": "INACTIVE",
+            "sjads4.simpli.fi": "INACTIVE",
+            "sjads5.simpli.fi": "INACTIVE"
+        },
+        "1578024168": {
+            "static.simpli.fi": "INACTIVE"
         }
     }
 }
