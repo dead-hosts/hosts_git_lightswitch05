@@ -1309,8 +1309,8 @@
 0.0.0.0 assets2.huluim.com
 0.0.0.0 assets3.brightedge.com
 0.0.0.0 assets.5rocks.io
-0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets-acceptance.sharethrough.com
+0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets.adtechus.com
 0.0.0.0 assets.applvn.com
 0.0.0.0 assets.drawbrid.ge
@@ -2233,6 +2233,7 @@
 0.0.0.0 cf.metrigo.com
 0.0.0.0 cf-test.doublemax.net
 0.0.0.0 cf-wp-prod.sharethis.com
+0.0.0.0 c.gcp.msas.media.net
 0.0.0.0 c.googlesyndication.com
 0.0.0.0 cg.ra.linksynergy.com
 0.0.0.0 challenge.onebox.so.com
@@ -3072,6 +3073,7 @@
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 dooka.dev-iad.amobee.com
 0.0.0.0 dooka.qa-iad.amobee.com
+0.0.0.0 doorman.msas.media.net
 0.0.0.0 dop.mediav.com
 0.0.0.0 dops2.media.net
 0.0.0.0 dops.media.net
@@ -3196,6 +3198,8 @@
 0.0.0.0 e.analytics.yahoo.com
 0.0.0.0 earhart2018110500475516.saas.appdynamics.com
 0.0.0.0 east.aspera.extremereach.com.extremereach.com
+0.0.0.0 east.c.gcp.msas.media.net
+0.0.0.0 east.d.gcp.msas.media.net
 0.0.0.0 east.faspex.aspera.extremereach.com.extremereach.com
 0.0.0.0 east.ftp.dev.extremereach.com
 0.0.0.0 east-pool.a.company-target.com
@@ -4264,10 +4268,10 @@
 0.0.0.0 idr.ad.gt
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
-0.0.0.0 i.ds.ad.gt
 0.0.0.0 id-s.ad.gt
-0.0.0.0 i-ds.ad.gt
+0.0.0.0 i.ds.ad.gt
 0.0.0.0 id.s.ad.gt
+0.0.0.0 i-ds.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
 0.0.0.0 idsq.ad.gt
@@ -4876,6 +4880,7 @@
 0.0.0.0 latest.atlassbx.com
 0.0.0.0 latest.liverail.com
 0.0.0.0 latinopeoplemeet.adlegend.com
+0.0.0.0 lax-1.media.net
 0.0.0.0 lax.reachlocal.com
 0.0.0.0 lax-rtb1.rfihub.com
 0.0.0.0 laxwww.addthis.com
@@ -5422,6 +5427,7 @@
 0.0.0.0 mm3.propellerads.com
 0.0.0.0 mm4.propellerads.com
 0.0.0.0 mm.chitika.net
+0.0.0.0 m.media.net
 0.0.0.0 m.mets.madmobile.com
 0.0.0.0 mmex.pxl.ace.advertising.com
 0.0.0.0 mmgl.cd.serving-sys.com
@@ -5430,6 +5436,7 @@
 0.0.0.0 mmo2de.amobee.com
 0.0.0.0 m.monsterhigh.staging.madmobile.com
 0.0.0.0 mmp.adtz.com
+0.0.0.0 mnetrtbcdn.media.net
 0.0.0.0 moatads.com.edgekey.net
 0.0.0.0 moat.pxl.ace.advertising.com
 0.0.0.0 mob.adcash.com
@@ -5649,6 +5656,7 @@
 0.0.0.0 native-staging.sharethrough.com
 0.0.0.0 naturalizer.sp1.convertro.com
 0.0.0.0 naws.awin.com
+0.0.0.0 nawy.media.net
 0.0.0.0 n-ca.wtp101.com
 0.0.0.0 nc-s.jwpltx.com
 0.0.0.0 ndf.weborama.com
@@ -5663,6 +5671,7 @@
 0.0.0.0 netmoncanarybfrdfe.footprintdns.com
 0.0.0.0 netmoncanaryrdfe.footprintdns.com
 0.0.0.0 netshops.rdr.channelintelligence.com
+0.0.0.0 netstoragetest.media.net
 0.0.0.0 net.vsassets.com
 0.0.0.0 network2admin.247realmedia.com
 0.0.0.0 network3reporting.247realmedia.com
@@ -5790,6 +5799,7 @@
 0.0.0.0 ns1.hkg1.turn.com
 0.0.0.0 ns1.linkstorm.net
 0.0.0.0 ns1.mediaforge.com
+0.0.0.0 ns1.media.net
 0.0.0.0 ns1.mediav.com
 0.0.0.0 ns1.panadvert.com
 0.0.0.0 ns1.zemanta.com
@@ -5800,6 +5810,7 @@
 0.0.0.0 ns2.dg.ecom.acxiom.com
 0.0.0.0 ns2.doubleclick.com
 0.0.0.0 ns2.linkstorm.net
+0.0.0.0 ns2.media.net
 0.0.0.0 ns2.mediav.com
 0.0.0.0 ns2.panadvert.com
 0.0.0.0 ns2.unicast.com
@@ -6674,6 +6685,7 @@
 0.0.0.0 production.eu-west-2.kops.kargo.com
 0.0.0.0 production.ewr.mathmon.mediamath.com
 0.0.0.0 production.kargo.com
+0.0.0.0 productlistings.media.net
 0.0.0.0 product.microad.jp
 0.0.0.0 products.hlserve.com
 0.0.0.0 products.snapads.com
@@ -6682,11 +6694,13 @@
 0.0.0.0 prod.useast1.int.siftscience.com
 0.0.0.0 prod-us-east-1.swrve.com
 0.0.0.0 prod.us-west-1.kops.kargo.com
+0.0.0.0 programmatic.media.net
 0.0.0.0 project.datadome.co
 0.0.0.0 pr-old.adform.com
 0.0.0.0 prom-central.infra.voodoo-ads.io
 0.0.0.0 prom.convertcart.com
 0.0.0.0 prometheus1.datadome.co
+0.0.0.0 prometheus.msas.media.net
 0.0.0.0 prometheus.staging.fullstory.com
 0.0.0.0 prom.fullstory.com
 0.0.0.0 prom.infra.apester.com
@@ -6831,6 +6845,7 @@
 0.0.0.0 pub-services.staging.fra.braze.eu
 0.0.0.0 pubs.smrtb.com
 0.0.0.0 pub.weborama.fr
+0.0.0.0 pulp.media.net
 0.0.0.0 pulsepoint.dca.events.bidstalk.com
 0.0.0.0 pulse-test-gw.conviva.com
 0.0.0.0 pulse-uat.inmobi.com
@@ -7015,6 +7030,7 @@
 0.0.0.0 rd.advertising.com
 0.0.0.0 rdbrck-tagan.adlightning.com
 0.0.0.0 rd-ext.rlcdn.com
+0.0.0.0 rd.media.net
 0.0.0.0 rdocs.zineone.com
 0.0.0.0 rd.rlcdn.com
 0.0.0.0 rdr-test2.adsfactor.net
@@ -7311,8 +7327,8 @@
 0.0.0.0 s10.allinviews.com
 0.0.0.0 s-10.optvdo.com
 0.0.0.0 s10.optvdo.com
-0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.optvdo.com
+0.0.0.0 s-12.optvdo.com
 0.0.0.0 s12.urbaninsight.com
 0.0.0.0 s13.ayads.co
 0.0.0.0 s13.optvdo.com
@@ -7335,6 +7351,7 @@
 0.0.0.0 s2.fanbread.com
 0.0.0.0 s2.optvdo.com
 0.0.0.0 s2s.ae1.mparticle.com
+0.0.0.0 s2s.msas.media.net
 0.0.0.0 s2s-us-central1.loopme.me
 0.0.0.0 s2.tribl.io
 0.0.0.0 s-30.algovid.com
@@ -7596,6 +7613,7 @@
 0.0.0.0 secure.widget.dynamic.advertising.com
 0.0.0.0 secure-xy.imrworldwide.com
 0.0.0.0 seg2.ayads.co
+0.0.0.0 se.gcp.msas.media.net
 0.0.0.0 segment.wbinsights.com
 0.0.0.0 seg.nzaza.com
 0.0.0.0 selfserve.ebuzzing.com
@@ -8066,6 +8084,7 @@
 0.0.0.0 staging.saastest.appdynamics.com
 0.0.0.0 stagingsecurity.taptica.com
 0.0.0.0 staging-se.usabilla.com
+0.0.0.0 staging.sh.msas.media.net
 0.0.0.0 staging.signifyd.com
 0.0.0.0 staging.svc.tapad.com
 0.0.0.0 staging-sync.alcmpn.com
@@ -8682,8 +8701,8 @@
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking-rce.veeseo.com
+0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -9357,8 +9376,8 @@
 0.0.0.0 video.inmobi.com
 0.0.0.0 videology.ndf.weborama.com
 0.0.0.0 videomax.neodatagroup.com
-0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.acceptance.sharethrough.com
+0.0.0.0 videos-acceptance.sharethrough.com
 0.0.0.0 videos.sharethrough.com
 0.0.0.0 videos.springserve.com
 0.0.0.0 videos.staging.sharethrough.com
@@ -9579,6 +9598,8 @@
 0.0.0.0 wemedia.so.com
 0.0.0.0 wen.rdr.channelintelligence.com
 0.0.0.0 west.aspera.extremereach.com.extremereach.com
+0.0.0.0 west.c.gcp.msas.media.net
+0.0.0.0 west.d.gcp.msas.media.net
 0.0.0.0 west.faspex.aspera.extremereach.com.extremereach.com
 0.0.0.0 westfield-p.shopcurbside.com
 0.0.0.0 westfield.shopcurbside.com
