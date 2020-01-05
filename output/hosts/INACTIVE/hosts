@@ -1096,8 +1096,8 @@
 0.0.0.0 api.simpli.fi
 0.0.0.0 apis.sharethrough.com
 0.0.0.0 api-ssl.demandbase.com
-0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 apis.staging.sharethrough.com
+0.0.0.0 apis-staging.sharethrough.com
 0.0.0.0 api.staging.connatix.com
 0.0.0.0 api-staging.playbuzz.com
 0.0.0.0 api-staging-us-west-2.lisnr.com
@@ -1314,8 +1314,8 @@
 0.0.0.0 assets2.huluim.com
 0.0.0.0 assets3.brightedge.com
 0.0.0.0 assets.5rocks.io
-0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets-acceptance.sharethrough.com
+0.0.0.0 assets.acceptance.sharethrough.com
 0.0.0.0 assets.adtechus.com
 0.0.0.0 assets.applvn.com
 0.0.0.0 assets.drawbrid.ge
@@ -1474,8 +1474,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azure-res-provider.newrelic.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1-apac1-win.zemanta.com
 0.0.0.0 b1-euc1-win.zemanta.com
 0.0.0.0 b1-euc2.zemanta.com
@@ -3534,8 +3534,8 @@
 0.0.0.0 expn.agkn.com
 0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 exporthtml5.bannersnack.com
-0.0.0.0 export.int.applicationinsights.io
 0.0.0.0 export-int.applicationinsights.io
+0.0.0.0 export.int.applicationinsights.io
 0.0.0.0 export.swrve.com
 0.0.0.0 express-p.shopcurbside.com
 0.0.0.0 express.shopcurbside.com
@@ -4285,10 +4285,10 @@
 0.0.0.0 idr.ad.gt
 0.0.0.0 idrs.ad.gt
 0.0.0.0 idsa.ad.gt
-0.0.0.0 id-s.ad.gt
-0.0.0.0 id.s.ad.gt
 0.0.0.0 i-ds.ad.gt
+0.0.0.0 id-s.ad.gt
 0.0.0.0 i.ds.ad.gt
+0.0.0.0 id.s.ad.gt
 0.0.0.0 idsd.ad.gt
 0.0.0.0 idse.ad.gt
 0.0.0.0 idsq.ad.gt
@@ -4466,8 +4466,8 @@
 0.0.0.0 initjs-staging.gcp.rfksrv.com
 0.0.0.0 initjs-test.gcp.rfksrv.com
 0.0.0.0 init-latency-test.supersonicads.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inline.sharethis.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
@@ -6345,8 +6345,8 @@
 0.0.0.0 ping-origin-stg.jwpltx.com
 0.0.0.0 pink.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pinsight.rtb.loopme.me
-0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pinyou-cm.cn.miaozhen.com
+0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pi.stormiq.com
 0.0.0.0 pi-ue1-lb1.pardot.com
 0.0.0.0 pi-ue1-lb2.pardot.com
@@ -8738,8 +8738,8 @@
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking.outriggermedia.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
-0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking-rce.veeseo.com
+0.0.0.0 tracking.rce.veeseo.com
 0.0.0.0 tracking.servebom.com
 0.0.0.0 track.ligatus.com
 0.0.0.0 track.locsensads.com
@@ -9176,8 +9176,8 @@
 0.0.0.0 us-east-1.rtb.districtm.io
 0.0.0.0 us-east-1.segment-asg.bidr.io
 0.0.0.0 us-east-1.stinger-ad.bidr.io
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -10356,6 +10356,7 @@
 0.0.0.0 www.events.marketo.com
 0.0.0.0 www.e.visualdna.com
 0.0.0.0 www.evt.adrcntr.com
+0.0.0.0 www.exp.mxptint.net
 0.0.0.0 www.ext.dynamicyield.com
 0.0.0.0 www.extranet.dotomi.com
 0.0.0.0 www.facebook.adtelligence.de
@@ -10588,6 +10589,7 @@
 0.0.0.0 www.lookup.bluecava.com
 0.0.0.0 www.lootsie.com
 0.0.0.0 www.lp.outbrain.com
+0.0.0.0 www.lrp.mxptint.net
 0.0.0.0 www.lyncdiscover.undertone.com
 0.0.0.0 www.lyncpool.foreseeresults.com
 0.0.0.0 www.madata2.newlook.com
@@ -10652,6 +10654,7 @@
 0.0.0.0 www.mktg.mediamind.com
 0.0.0.0 www.mkto-sj090022.com
 0.0.0.0 www.mlc.maxpoint.com
+0.0.0.0 www.mlc.mxptint.net
 0.0.0.0 www.mldev.sigma.inmobi.com
 0.0.0.0 www.mm.marketo.com
 0.0.0.0 www.mmm.ctrix.com
@@ -10667,9 +10670,15 @@
 0.0.0.0 www.m.one.impact-ad.jp
 0.0.0.0 www.money.scupio.com
 0.0.0.0 www.morningflashsee.club
+0.0.0.0 www.mpc.mxptint.net
+0.0.0.0 www.mpc.nl.mxptint.net
+0.0.0.0 www.mpd.mxptint.net
 0.0.0.0 www.mpintelligence.maxpoint.com
+0.0.0.0 www.mpp.emea.mxptint.net
+0.0.0.0 www.mpp.mxptint.net
 0.0.0.0 www.mp.poprule.com
 0.0.0.0 www.m.preapps.com
+0.0.0.0 www.mps.mxptint.net
 0.0.0.0 www.msi.greatviews.de
 0.0.0.0 www.mstr.sharethrough.com
 0.0.0.0 www.munchkin.marketo.net
@@ -10728,6 +10737,7 @@
 0.0.0.0 www.out-stream-wizard.zentrick.com
 0.0.0.0 www.owa1.amobee.com
 0.0.0.0 www.owitms.ga
+0.0.0.0 www.oxp.emea.mxptint.net
 0.0.0.0 www.pa3.b.audiencetag.com
 0.0.0.0 www.p.ad.gt
 0.0.0.0 www.partner.api.getadmiral.com
@@ -10850,6 +10860,7 @@
 0.0.0.0 www.randy-temp-1.joystickinteractive.com
 0.0.0.0 www.raven.pek1.pulse.inmobi.com
 0.0.0.0 www.r.bidswitch.net
+0.0.0.0 www.rbp.emea.mxptint.net
 0.0.0.0 www.rce-reporting.ligatus.com
 0.0.0.0 www.rcom.dynamicyield.com
 0.0.0.0 www.rcom-staging.dynamicyield.com
