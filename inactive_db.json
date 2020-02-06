@@ -42629,46 +42629,7 @@
             "ww2849.adsbysmart.cn": "INACTIVE",
             "ww2886.adsbysmart.cn": "INACTIVE"
         },
-        "1580764728": {
-            "rt.ascend.ai": "INACTIVE"
-        },
-        "1580764729": {
-            "com.tenjin.ios.api": "INVALID"
-        },
-        "1580764730": {
-            "adtracker.valuedopinions.com.au": "INACTIVE",
-            "app.pangeo.geoedge.be": "INACTIVE",
-            "gateway.geoedge.be": "INACTIVE",
-            "gui.geoedge.be": "INACTIVE",
-            "pangeopro.geoedge.be": "INACTIVE"
-        },
-        "1580764731": {
-            "st-nginx-proxy.geoedge.be": "INACTIVE",
-            "st-rum-elb.geoedge.be": "INACTIVE",
-            "staging.geoedge.be": "INACTIVE",
-            "www.rumcdn.geoedge.be": "INACTIVE"
-        },
-        "1580764732": {
-            "cdn.digitmate.bid": "INACTIVE",
-            "f1-hk.digitmate.bid": "INACTIVE",
-            "f1-us-ca.digitmate.bid": "INACTIVE",
-            "f1-us-tx.digitmate.bid": "INACTIVE",
-            "f1-us-va.digitmate.bid": "INACTIVE",
-            "f14-de.digitmate.bid": "INACTIVE"
-        },
-        "1580764733": {
-            "f17-us-va.digitmate.bid": "INACTIVE",
-            "f2-de.digitmate.bid": "INACTIVE",
-            "f2-us-tx.digitmate.bid": "INACTIVE",
-            "f2-us-va.digitmate.bid": "INACTIVE",
-            "f21-de-tmp.digitmate.bid": "INACTIVE",
-            "f21-us-va.digitmate.bid": "INACTIVE",
-            "f22-us-va.digitmate.bid": "INACTIVE"
-        },
         "1580764734": {
-            "f23-us-va.digitmate.bid": "INACTIVE",
-            "f24-us-va.digitmate.bid": "INACTIVE",
-            "f25-us-va.digitmate.bid": "INACTIVE",
             "f26-us-va.digitmate.bid": "INACTIVE",
             "f27-us-va.digitmate.bid": "INACTIVE",
             "f3-us-tx.digitmate.bid": "INACTIVE"
@@ -42791,9 +42752,6 @@
             "adx.mixmarket.biz": "INACTIVE",
             "s.cunda.advolution.biz": "INACTIVE"
         },
-        "1580772805": {
-            "useast2clb.geoedge.be": "INACTIVE"
-        },
         "1580772809": {
             "ba.e.360.cn": "INACTIVE",
             "push.dc.360.cn": "INACTIVE"
@@ -42831,9 +42789,6 @@
             "mobile.360.cn": "INACTIVE",
             "mtazwt2.360.cn": "INACTIVE",
             "mtazwt3.360.cn": "INACTIVE"
-        },
-        "1580776844": {
-            "useast1clb.geoedge.be": "INACTIVE"
         },
         "1580776846": {
             "adtracker.airmilesopinions.ca": "INACTIVE",
@@ -42919,18 +42874,6 @@
             "s3.360.cn": "INACTIVE",
             "safe.360.cn": "INACTIVE"
         },
-        "1580796710": {
-            "data.native.ai": "INACTIVE",
-            "delta.native.ai": "INACTIVE",
-            "ns1.native.ai": "INACTIVE",
-            "ns2.native.ai": "INACTIVE"
-        },
-        "1580796711": {
-            "kpublisher.geoedge.be": "INACTIVE"
-        },
-        "1580796712": {
-            "stagingalb.geoedge.be": "INACTIVE"
-        },
         "1580800429": {
             "i.mdm.tianji.360.cn": "INACTIVE",
             "mdm.tianji.360.cn": "INACTIVE",
@@ -42942,10 +42885,6 @@
             "vcloud.360.cn": "INACTIVE",
             "wangzhan.360.cn": "INACTIVE"
         },
-        "1580804465": {
-            "alpha.native.ai": "INACTIVE",
-            "app.native.ai": "INACTIVE"
-        },
         "1580804467": {
             "1294944689.us.mixmarket.biz": "INACTIVE",
             "1294945777.us.mixmarket.biz": "INACTIVE"
@@ -42956,17 +42895,58 @@
         "1580820867": {
             "adtrack.link.ch": "INACTIVE"
         },
-        "1580824782": {
-            "next.native.ai": "INACTIVE"
-        },
-        "1580832894": {
-            "stagingelb.geoedge.be": "INACTIVE"
-        },
-        "1580837025": {
-            "api.test.native.ai": "INACTIVE"
-        },
         "1580837028": {
             "ratmx.reamp.com.br": "INACTIVE"
+        },
+        "1580948845": {
+            "dm-us.hybrid.ai": "INACTIVE",
+            "dm.hybrid.ai": "INACTIVE",
+            "rt.ascend.ai": "INACTIVE"
+        },
+        "1580948846": {
+            "apps.media-lab.ai": "INACTIVE",
+            "dsa-us.hybrid.ai": "INACTIVE"
+        },
+        "1580948847": {
+            "com.tenjin.ios.api": "INVALID"
+        },
+        "1580948848": {
+            "adtracker.valuedopinions.com.au": "INACTIVE",
+            "gui.geoedge.be": "INACTIVE",
+            "kpublisher.geoedge.be": "INACTIVE"
+        },
+        "1580948849": {
+            "app.pangeo.geoedge.be": "INACTIVE",
+            "pangeo.geoedge.be": "INACTIVE",
+            "pangeopro.geoedge.be": "INACTIVE",
+            "st-nginx-proxy.geoedge.be": "INACTIVE",
+            "staging.geoedge.be": "INACTIVE",
+            "www.rumcdn.geoedge.be": "INACTIVE"
+        },
+        "1580948850": {
+            "cdn.digitmate.bid": "INACTIVE",
+            "f1-hk.digitmate.bid": "INACTIVE",
+            "st-rum-elb.geoedge.be": "INACTIVE"
+        },
+        "1580948851": {
+            "f1-us-ca.digitmate.bid": "INACTIVE",
+            "f1-us-tx.digitmate.bid": "INACTIVE",
+            "f1-us-va.digitmate.bid": "INACTIVE",
+            "f14-de.digitmate.bid": "INACTIVE",
+            "f17-us-va.digitmate.bid": "INACTIVE",
+            "f2-de.digitmate.bid": "INACTIVE"
+        },
+        "1580948852": {
+            "f2-us-tx.digitmate.bid": "INACTIVE",
+            "f2-us-va.digitmate.bid": "INACTIVE",
+            "f21-de-tmp.digitmate.bid": "INACTIVE",
+            "f21-us-va.digitmate.bid": "INACTIVE",
+            "f22-us-va.digitmate.bid": "INACTIVE",
+            "f23-us-va.digitmate.bid": "INACTIVE"
+        },
+        "1580948853": {
+            "f24-us-va.digitmate.bid": "INACTIVE",
+            "f25-us-va.digitmate.bid": "INACTIVE"
         }
     }
 }
