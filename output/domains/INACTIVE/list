@@ -196,6 +196,7 @@ aka-cdn.geo.adtechus.com
 akamai.citacx.acxiom.com
 ak-assets.applovin.com
 akila.adswizz.com
+akil.c3metrics.com
 ak-img.applovin.com
 ak-pdn.applovin.com
 ak-vid.applovin.com
@@ -298,6 +299,7 @@ api.backoffice.adikteev.com
 api.bidstalk.com
 api.bidtellect.com
 api.bizographics.com
+api.bytegain.com
 api-cache.adsnative.com
 api.caipiao.163.com
 api.cossette.adgear.com
@@ -523,6 +525,7 @@ bifrost-ny.247realmedia.com
 bifrost-pa.247realmedia.com
 bigjay.adsnative.com
 bigjay-us-west-2.adsnative.com
+bigscience.bytegain.com
 bi.infra.apester.com
 bis2.allinviews.com
 bis2-ssl.allinviews.com
@@ -565,6 +568,7 @@ bplb2.atlassbx.com
 brain.beeketing.com
 brainfights.adform.com
 brandsolutions.adform.com
+breathe.c3metrics.com
 brm-core-websphere-0.brsrvr.com
 brother-trial.saas.appdynamics.com
 brucelead.adk2x.com
@@ -832,6 +836,7 @@ dal1.activengage.com
 dal3.activengage.com
 darriens.adk2x.com
 dashb.dca.bidstalk.com
+dashboard-staging.bytegain.com
 dashboardtest.appsflyer.com
 data3.bluekai.com
 data4.bluekai.com
@@ -1074,6 +1079,7 @@ email.bizographics.com
 email.buzzdeck.com
 email.circlebackemail.appboy.com
 embed.orbee.co
+engage.bytegain.com
 eng.appdynamics.com
 engine.adpushup.com
 engine.audiens.com
@@ -1111,8 +1117,8 @@ eu-west-3.gamma.analytics.console.aws.a2z.com
 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 eu-west-3.prod.analytics.console.aws.a2z.com
 event.adserver.adikteev.com
-event.backoffice.adikteev.com
 event-backoffice.adikteev.com
+event.backoffice.adikteev.com
 event.bidstalk.com
 event.cmp.advertising.com
 events.adform.com
@@ -1120,6 +1126,7 @@ events.bidstalk.com
 events.brightedge.com
 events-go.apester.com
 events.smrt.as
+event-viewer.bytegain.com
 evolution.adwyze.com
 ewr-delivery-1.sys.adgear.com
 ewr-delivery-6.sys.adgear.com
@@ -1490,6 +1497,8 @@ johanna-schummelt.awsmppl.com
 jp.adlearnop.advertising.com
 jp.advertising.com
 jpeoplemeet.adlegend.com
+js-api.bytegain.com
+js.bytegain.com
 j-serval.adtdp.com
 jswf.amoad.com
 juninloo.dev-iad.amobee.com
@@ -1578,6 +1587,7 @@ lga-delivery-10.sys.adgear.com
 library.247realmedia.com
 life.adform.com
 lifebuzz-tagan.adlightning.com
+lifelock.c3metrics.com
 link.ad-brix.com
 link.apsalar.com
 li.pxl.ace.advertising.com
@@ -1732,9 +1742,12 @@ mobile.ace.advertising.com
 mobile.smedia.ca
 mobk2.adk2x.com
 mobviks.adk2x.com
+modelbot.bytegain.com
+model-viewer.bytegain.com
 moh.saas.appdynamics.com
 moments.advertising.com
 monitoring.adwyze.com
+monitoring.c3metrics.com
 monster.adlegend.com
 monster.ca.adlegend.com
 mopub.dca.events.bidstalk.com
@@ -1765,6 +1778,7 @@ mwr-neu.antvoice.com
 mx1.acxiom.com
 mx2.acxiom.com
 mx.braze.com
+myaccounts.capitolone.com
 myflaviaus.adlegend.com
 my-k8s.dev-iad.amobee.com
 my.network-stg.bazaarvoice.com
@@ -2048,6 +2062,7 @@ pixel.concord.buzzdeck.com
 pixel.ingest.at.atwola.com
 pixel-sc2.adsymptotic.com
 pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com
+pixel.warner.buzzdeck.com
 pix.silverpush.co
 plated.adlegend.com
 platform.adadyn.com
@@ -2144,8 +2159,8 @@ prometheus.k8s.stc-002.p-use-1.braze.com
 prom.infra.apester.com
 propellerad.adk2x.com
 prophet.acxiom.com
-provider-gateway-production.browsiprod.com
 provider-gateway.production.browsiprod.com
+provider-gateway-production.browsiprod.com
 proxy.beeviewd.com
 proxy-ssl.beeviewd.com
 prvy.awsmppl.com
@@ -2706,10 +2721,12 @@ staging.3lift.com
 staging.adotmob.com
 staging.adwyze.com
 staging.aniview.com
+staging-api.bytegain.com
 staging.bc0a.com
 staging.beeketing.com
 staging.bizible.com
 staging.bounceexchange.com
+staging.bytegain.com
 staging-console-cdn.appnexus.com
 staging-dps.adotmob.com
 staging.geoedge.be
@@ -2942,8 +2959,8 @@ us-east-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.prod.analytics.console.aws.a2z.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-1.tr.blismedia.com
@@ -3076,8 +3093,8 @@ video.bidsimulator.com
 video.uk.advertising.com
 view.skyrocket.adtdp.com
 vip.admaster.com.cn
-visit-backoffice.adikteev.com
 visit.backoffice.adikteev.com
+visit-backoffice.adikteev.com
 visitor-qa.activengage.com
 vivad.advertising.com
 vivad.at.atwola.com
@@ -3129,6 +3146,7 @@ web.stag2.bounceexchange.com
 web.staging.bidstalk.com
 westsevendrugs-tagan.adlightning.com
 westseven-tagan.adlightning.com
+whb.bytegain.com
 white.k8s.test-001.d-usw-2.braze.com
 widget.dynamic.advertising.com
 wifi.amobee.com
@@ -3142,6 +3160,7 @@ wowcard.163.com
 wp.adchoice.com
 wpadmin.privacynews.acxiom.com
 wp.apester.com
+wp.bytegain.com
 wp.orbee.co
 wpplydrpad01.vidconlab.acxiom.com
 wrapper-tasker-ap-northeast-1.adsafeprotected.com
@@ -3202,6 +3221,7 @@ www.ads-twitter.com
 www.adv.api.admedia.com
 www.adwords.smedia.ca
 www.aertb.com
+www.agility.cartoonnetwork.com
 www.airvertiseme.com
 www.alpha-assets.adcolony.com
 www.amazesoft.com
@@ -3245,7 +3265,9 @@ www.billboard.amobee.com
 www.bp.adkmob.com
 www.bulkapi-rc.phx.bluekai.com
 www.buypixelads.com
+www.buzzdeck.com
 www.c4d-cdn.adcolony.com
+www.campaign-archive.com
 www.campaigns.bannersnack.com
 www.cdn.adasiaholdings.com
 www.cdn.adrta.com
@@ -3269,6 +3291,7 @@ www.connect.adxpose.com
 www.content.adroll.com
 www.core.adotube.com
 www.cpa.analyticson.com
+www.cpanel06.c3metrics.com
 www.cpmcontrol.adk2x.com
 www.crash-metrics.sdk.inmobi.cn
 www.d.agkn.com
@@ -3455,6 +3478,7 @@ www.speednetwork3.adk2x.com
 www.sskzeu.ayads.co
 www.sslcdn.adstudiomobile.com
 www.ssp.analyticson.com
+www.sstats.cartoonnetwork.com
 www.stag-admin.adyoulike.com
 www-stage.agkn.com
 www-staging.bounceexchange.com
