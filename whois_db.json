@@ -1044,6 +1044,11 @@
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
+    "adsquare.com": {
+        "epoch": 1600819200.0,
+        "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
     "adsrvr.cn": {
         "epoch": 1619481600.0,
         "expiration_date": "27-apr-2021",
@@ -1055,8 +1060,13 @@
         "state": "future"
     },
     "adsrvs.com": {
-        "epoch": 1580083200.0,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
+    "adssets.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
         "state": "future"
     },
     "adssyscom.com": {
@@ -1100,18 +1110,23 @@
         "state": "future"
     },
     "adtdp.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
         "state": "future"
     },
     "adtechjp.com": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "adtechus.com": {
         "epoch": 1635206400.0,
         "expiration_date": "26-oct-2021",
+        "state": "future"
+    },
+    "adtelligent.com": {
+        "epoch": 1643760000.0,
+        "expiration_date": "02-feb-2022",
         "state": "future"
     },
     "adtheorent.com": {
