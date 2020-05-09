@@ -179,6 +179,7 @@
 0.0.0.0 aggreports.appsflyer.com
 0.0.0.0 agora.advertising.com
 0.0.0.0 ahboopublishing.advertserve.com
+0.0.0.0 airflow.blis.com
 0.0.0.0 airtrack.adtdp.com
 0.0.0.0 airvertiseme.com
 0.0.0.0 ai.silverpush.co
@@ -284,6 +285,8 @@
 0.0.0.0 api-ap-southeast-1.adsnative.com
 0.0.0.0 api.backoffice.adikteev.com
 0.0.0.0 api.bidstalk.com
+0.0.0.0 api.bidtellect.com
+0.0.0.0 api.bizographics.com
 0.0.0.0 api-cache.adsnative.com
 0.0.0.0 api.caipiao.163.com
 0.0.0.0 api.cossette.adgear.com
@@ -394,6 +397,7 @@
 0.0.0.0 avis.adlegend.com
 0.0.0.0 avocarrot.dca.events.bidstalk.com
 0.0.0.0 aw.aertb.com
+0.0.0.0 awesome.bizible.com
 0.0.0.0 aws-adserver-origin.adtechjp.com
 0.0.0.0 aws-adserver-origin-ap-northeast-1.adtechjp.com
 0.0.0.0 aws-adserver-origin-ap-southeast-1.adtechjp.com
@@ -608,6 +612,7 @@
 0.0.0.0 cdnatstr.adgear.com
 0.0.0.0 cdnau1.abtasty.com
 0.0.0.0 cdnau2.abtasty.com
+0.0.0.0 cdn.bizographics.com
 0.0.0.0 cdn.caipiao.163.com
 0.0.0.0 cdn-c.amazon-adsystem.com
 0.0.0.0 cdn-cmp-advertising-com.geo.adtechus.com
@@ -797,8 +802,11 @@
 0.0.0.0 dc.adsequence.com
 0.0.0.0 dca.event.bidstalk.com
 0.0.0.0 dca.events.bidstalk.com
+0.0.0.0 dca.notify.bidstalk.com
 0.0.0.0 dca-rtbprod.applovin.com
 0.0.0.0 dcastage-rtb.applovin.com
+0.0.0.0 dca.win.bidstalk.com
+0.0.0.0 dc.geo.bizographics.com
 0.0.0.0 dcnsterm01.acxiom.com
 0.0.0.0 dcnsterm02.acxiom.com
 0.0.0.0 dco.admotion.com
@@ -853,6 +861,7 @@
 0.0.0.0 dev.discovery.uu.163.com
 0.0.0.0 dev.districtm.ca
 0.0.0.0 developers-test.amplitude.com
+0.0.0.0 development.blis.com
 0.0.0.0 development.knightbridge.acxiom.com
 0.0.0.0 develop.tech.163.com
 0.0.0.0 develop.webapp.163.com
@@ -975,6 +984,7 @@
 0.0.0.0 eliteprospects-tagan.adlightning.com
 0.0.0.0 ellechina.adsame.com
 0.0.0.0 email.advertising.com
+0.0.0.0 email.bizographics.com
 0.0.0.0 email.circlebackemail.appboy.com
 0.0.0.0 embed.orbee.co
 0.0.0.0 eng.appdynamics.com
@@ -984,6 +994,7 @@
 0.0.0.0 enterprise-cname.bannersnack.com
 0.0.0.0 epom.dca.events.bidstalk.com
 0.0.0.0 epro.awin.com
+0.0.0.0 error.bizographics.com
 0.0.0.0 errors.adwyze.com
 0.0.0.0 esp-photobox-tracking.adalyser.com
 0.0.0.0 es-test-azure.datadome.co
@@ -1200,9 +1211,12 @@
 0.0.0.0 hive.locationsciences.ai
 0.0.0.0 hive-tagan.adlightning.com
 0.0.0.0 hkg.bids.bidstalk.com
+0.0.0.0 hkg.bidstalk.com
 0.0.0.0 hkg.click.bidstalk.com
 0.0.0.0 hkg.event.bidstalk.com
 0.0.0.0 hkg.events.bidstalk.com
+0.0.0.0 hkg.notify.bidstalk.com
+0.0.0.0 hkg.win.bidstalk.com
 0.0.0.0 hlamedia.adk2x.com
 0.0.0.0 hlsmaster1.adswizz.com
 0.0.0.0 homeflat.awsmppl.com
@@ -1260,10 +1274,12 @@
 0.0.0.0 img-8.3lift.com
 0.0.0.0 img-9.3lift.com
 0.0.0.0 img.applvn.com
+0.0.0.0 img.bizographics.com
 0.0.0.0 imgblur.adkmob.com
 0.0.0.0 img-origin.adtechus.com
 0.0.0.0 img-origin-us-east-1.prod.adtechus.com
 0.0.0.0 img-origin-us-west-1.prod.adtechus.com
+0.0.0.0 imp2.bizographics.com
 0.0.0.0 imp.adrd.co
 0.0.0.0 imp.bid.ace.advertising.com
 0.0.0.0 impd.awsmppl.com
@@ -1274,12 +1290,14 @@
 0.0.0.0 imx.hkg.events.bidstalk.com
 0.0.0.0 inbound.leadback.advertising.com
 0.0.0.0 indiamatch.adlegend.com
+0.0.0.0 infinity.gcp.blis.com
 0.0.0.0 info.datadome.co
 0.0.0.0 infra.apester.com
 0.0.0.0 ingest.advertising.com
 0.0.0.0 ingest.at.atwola.com
 0.0.0.0 iniitian.saas.appdynamics.com
 0.0.0.0 inneractive.dca.events.bidstalk.com
+0.0.0.0 inneractive.win.bidstalk.com
 0.0.0.0 insights.adsttc.com
 0.0.0.0 insightxe.247realmedia.com
 0.0.0.0 ins.ma.163.com
@@ -1290,6 +1308,7 @@
 0.0.0.0 interactivebrokers.adlegend.com
 0.0.0.0 intergi-sb-ec.adtechus.com
 0.0.0.0 internal.beeketing.com
+0.0.0.0 internal.bidstalk.com
 0.0.0.0 internal.datadome.co
 0.0.0.0 internals.adotmob.com
 0.0.0.0 intern.atlassbx.com
@@ -1403,6 +1422,8 @@
 0.0.0.0 lax-delivery-1.sys.adgear.com
 0.0.0.0 lax-delivery-3.sys.adgear.com
 0.0.0.0 laxwww.addthis.com
+0.0.0.0 lb.infinity.gcp.blis.com
+0.0.0.0 lbnative.bidtellect.com
 0.0.0.0 lconn.mpush.163.com
 0.0.0.0 lct-fast.addthis.com
 0.0.0.0 ldsplanet.adlegend.com
@@ -1425,6 +1446,7 @@
 0.0.0.0 livefeed.adform.com
 0.0.0.0 livepreview2.adform.com
 0.0.0.0 liverail.adtheorent.com
+0.0.0.0 liverail-bids.bidtheatre.com
 0.0.0.0 llpstream.atdmt.com
 0.0.0.0 load.adlegend.com
 0.0.0.0 local.adotmob.com
@@ -1558,7 +1580,10 @@
 0.0.0.0 monster.adlegend.com
 0.0.0.0 monster.ca.adlegend.com
 0.0.0.0 mopub.dca.events.bidstalk.com
+0.0.0.0 mopub.events.bidstalk.com
+0.0.0.0 mopub.notify.bidstalk.com
 0.0.0.0 mopubretargeting.dca.events.bidstalk.com
+0.0.0.0 mopub.win.bidstalk.com
 0.0.0.0 m-origin-redirect.addthis.com
 0.0.0.0 morningflashsee.club
 0.0.0.0 mottnow.adk2x.com
@@ -1609,6 +1634,7 @@
 0.0.0.0 newmanage.aniview.com
 0.0.0.0 news.apester.com
 0.0.0.0 news.fa.163.com
+0.0.0.0 newsite.bidtheatre.com
 0.0.0.0 newsmax.bevo.adsnative.com
 0.0.0.0 newsmax.cdn.adsnative.com
 0.0.0.0 news.tagtoo.co
@@ -1617,6 +1643,7 @@
 0.0.0.0 nexage.click.bidstalk.com
 0.0.0.0 nexage.dca.events.bidstalk.com
 0.0.0.0 nexage.hkg.events.bidstalk.com
+0.0.0.0 nexage.win.bidstalk.com
 0.0.0.0 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 0.0.0.0 nj3.adconion.com
 0.0.0.0 nn.advertising.com
@@ -1730,6 +1757,8 @@
 0.0.0.0 openadstream-se.247realmedia.com
 0.0.0.0 openx.dca.events.bidstalk.com
 0.0.0.0 openx.hkg.events.bidstalk.com
+0.0.0.0 openx.notify.bidstalk.com
+0.0.0.0 openx.win.bidstalk.com
 0.0.0.0 opera1-servedby.advertising.com
 0.0.0.0 opera3-servedby.advertising.com
 0.0.0.0 opera.dca.events.bidstalk.com
@@ -1897,6 +1926,7 @@
 0.0.0.0 presto-ldap.adotmob.com
 0.0.0.0 presto-prod.adotmob.com
 0.0.0.0 preview.adsnative.com
+0.0.0.0 preview.bidtellect.com
 0.0.0.0 preview.uatrmb.adhese.com
 0.0.0.0 pri-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 0.0.0.0 pri-adserver-b-origin-ap-southeast-1.prod.adtechjp.com
@@ -2015,6 +2045,7 @@
 0.0.0.0 recon.advertserve.com
 0.0.0.0 recorder.meeting.abtasty.com
 0.0.0.0 recs-ws.atgsvcs.com
+0.0.0.0 redash.internal.bidstalk.com
 0.0.0.0 redirect.adkmob.com
 0.0.0.0 ref.amplitude.com
 0.0.0.0 reidentrdsprd1.acxiom.com
@@ -2154,6 +2185,7 @@
 0.0.0.0 salon-tagan.adlightning.com
 0.0.0.0 sammax.adsame.com
 0.0.0.0 sand.api.appnexus.com
+0.0.0.0 sand.bizible.com
 0.0.0.0 sandbox2.auditude.com
 0.0.0.0 sandbox3.auditude.com
 0.0.0.0 saoptin.vip.bos.3cinteractive.com
@@ -2268,8 +2300,11 @@
 0.0.0.0 sl.advertising.com
 0.0.0.0 slv.adpiano.com
 0.0.0.0 smaato.dca.events.bidstalk.com
+0.0.0.0 smaato.events.bidstalk.com
+0.0.0.0 smaato.hkg.events.bidstalk.com
 0.0.0.0 smaato.mads.advertising.com
 0.0.0.0 smaatopremium.dca.events.bidstalk.com
+0.0.0.0 smaato.win.bidstalk.com
 0.0.0.0 smartpak.adlegend.com
 0.0.0.0 smartyads.dca.events.bidstalk.com
 0.0.0.0 smediawebsite.smedia.ca
@@ -2356,6 +2391,7 @@
 0.0.0.0 staging.aniview.com
 0.0.0.0 staging.bc0a.com
 0.0.0.0 staging.beeketing.com
+0.0.0.0 staging.bizible.com
 0.0.0.0 staging-console-cdn.appnexus.com
 0.0.0.0 staging-dps.adotmob.com
 0.0.0.0 staging.geoedge.be
@@ -2481,6 +2517,7 @@
 0.0.0.0 tools-tracking.adform.com
 0.0.0.0 tower.adwyze.com
 0.0.0.0 toysrus.adlegend.com
+0.0.0.0 tpmn.hkg.events.bidstalk.com
 0.0.0.0 trace.antvoice.com
 0.0.0.0 trace.beeketing.com
 0.0.0.0 trace-preprod.antvoice.com
@@ -2500,6 +2537,7 @@
 0.0.0.0 trafficedge.adk2x.com
 0.0.0.0 trafficmoose.adk2x.com
 0.0.0.0 training7.247realmedia.com
+0.0.0.0 tr.gcp.blis.com
 0.0.0.0 triplelift.pxl.ace.advertising.com
 0.0.0.0 trsig.silverpush.co
 0.0.0.0 tr.silverpush.co
@@ -2723,12 +2761,15 @@
 0.0.0.0 webmedia01.adlegend.com
 0.0.0.0 websdk-stage.appsflyer.com
 0.0.0.0 website.adsnative.com
+0.0.0.0 web.staging.bidstalk.com
 0.0.0.0 westsevendrugs-tagan.adlightning.com
 0.0.0.0 westseven-tagan.adlightning.com
 0.0.0.0 widget.dynamic.advertising.com
 0.0.0.0 wifi.amobee.com
 0.0.0.0 wifiquiz.smedia.ca
+0.0.0.0 win.bidstalk.com
 0.0.0.0 winnotice.skyrocket.adtdp.com
+0.0.0.0 win.smaato.bidstalk.com
 0.0.0.0 wmedia.adk2x.com
 0.0.0.0 wolf.163.com
 0.0.0.0 wowcard.163.com
@@ -2760,6 +2801,7 @@
 0.0.0.0 ww7.beeftransmission.com
 0.0.0.0 ww92.adsbysmart.cn
 0.0.0.0 ww.beeftransmission.com
+0.0.0.0 www2.bidtheatre.com
 0.0.0.0 www.2fspeednetwork14.adk2x.com
 0.0.0.0 www.accounts.appboy.com
 0.0.0.0 www.acs--corp.com
@@ -2820,6 +2862,7 @@
 0.0.0.0 www.audiencetag.com
 0.0.0.0 www.authorisation.analyticson.com
 0.0.0.0 www.avangate.appsee.com
+0.0.0.0 www.awesome.bizible.com
 0.0.0.0 www.banners.analyticson.com
 0.0.0.0 www.beacon.airvertiseme.com
 0.0.0.0 www.beeftransmission.com
@@ -2827,6 +2870,7 @@
 0.0.0.0 www.bender.appboy.com
 0.0.0.0 www.bestadbid.com
 0.0.0.0 www.beta.addesk.advertising.com
+0.0.0.0 www.bidstalk.com
 0.0.0.0 www.billboard.amobee.com
 0.0.0.0 www.bp.adkmob.com
 0.0.0.0 www.c4d-cdn.adcolony.com
@@ -2835,6 +2879,7 @@
 0.0.0.0 www.cdn.adrta.com
 0.0.0.0 www.cdn.airfind.com
 0.0.0.0 www.cdn.bannersnack.com
+0.0.0.0 www.cdn.bizible.com
 0.0.0.0 www.ci.appboy.com
 0.0.0.0 www.clarity.inmobi.cn
 0.0.0.0 www.clickus.admailtiser.com
@@ -2926,6 +2971,7 @@
 0.0.0.0 www.mail.adverline.com
 0.0.0.0 www.manual.dsp.analyticson.com
 0.0.0.0 www.marketplace.analyticson.com
+0.0.0.0 www.match.adsby.bidtheatre.com
 0.0.0.0 www.m.audiencetag.com
 0.0.0.0 www.media10.adlegend.com
 0.0.0.0 www.media12.adlegend.com

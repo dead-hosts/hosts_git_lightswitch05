@@ -179,6 +179,7 @@ affle.bevo.adsnative.com
 aggreports.appsflyer.com
 agora.advertising.com
 ahboopublishing.advertserve.com
+airflow.blis.com
 airtrack.adtdp.com
 airvertiseme.com
 ai.silverpush.co
@@ -284,6 +285,8 @@ api.appdynamics.com
 api-ap-southeast-1.adsnative.com
 api.backoffice.adikteev.com
 api.bidstalk.com
+api.bidtellect.com
+api.bizographics.com
 api-cache.adsnative.com
 api.caipiao.163.com
 api.cossette.adgear.com
@@ -394,6 +397,7 @@ av.acxiom.com
 avis.adlegend.com
 avocarrot.dca.events.bidstalk.com
 aw.aertb.com
+awesome.bizible.com
 aws-adserver-origin.adtechjp.com
 aws-adserver-origin-ap-northeast-1.adtechjp.com
 aws-adserver-origin-ap-southeast-1.adtechjp.com
@@ -608,6 +612,7 @@ cdn.aralego.com
 cdnatstr.adgear.com
 cdnau1.abtasty.com
 cdnau2.abtasty.com
+cdn.bizographics.com
 cdn.caipiao.163.com
 cdn-c.amazon-adsystem.com
 cdn-cmp-advertising-com.geo.adtechus.com
@@ -797,8 +802,11 @@ dca.click.bidstalk.com
 dc.adsequence.com
 dca.event.bidstalk.com
 dca.events.bidstalk.com
+dca.notify.bidstalk.com
 dca-rtbprod.applovin.com
 dcastage-rtb.applovin.com
+dca.win.bidstalk.com
+dc.geo.bizographics.com
 dcnsterm01.acxiom.com
 dcnsterm02.acxiom.com
 dco.admotion.com
@@ -853,6 +861,7 @@ dev-dashboard-rest-api.datadome.co
 dev.discovery.uu.163.com
 dev.districtm.ca
 developers-test.amplitude.com
+development.blis.com
 development.knightbridge.acxiom.com
 develop.tech.163.com
 develop.webapp.163.com
@@ -975,6 +984,7 @@ elephant201902181910379.saas.appdynamics.com
 eliteprospects-tagan.adlightning.com
 ellechina.adsame.com
 email.advertising.com
+email.bizographics.com
 email.circlebackemail.appboy.com
 embed.orbee.co
 eng.appdynamics.com
@@ -984,6 +994,7 @@ en.support.appsflyer.com
 enterprise-cname.bannersnack.com
 epom.dca.events.bidstalk.com
 epro.awin.com
+error.bizographics.com
 errors.adwyze.com
 esp-photobox-tracking.adalyser.com
 es-test-azure.datadome.co
@@ -1009,8 +1020,8 @@ eu-west-3.gamma.analytics.console.aws.a2z.com
 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 eu-west-3.prod.analytics.console.aws.a2z.com
 event.adserver.adikteev.com
-event-backoffice.adikteev.com
 event.backoffice.adikteev.com
+event-backoffice.adikteev.com
 event.bidstalk.com
 event.cmp.advertising.com
 events.adform.com
@@ -1200,9 +1211,12 @@ hipmunk.adlegend.com
 hive.locationsciences.ai
 hive-tagan.adlightning.com
 hkg.bids.bidstalk.com
+hkg.bidstalk.com
 hkg.click.bidstalk.com
 hkg.event.bidstalk.com
 hkg.events.bidstalk.com
+hkg.notify.bidstalk.com
+hkg.win.bidstalk.com
 hlamedia.adk2x.com
 hlsmaster1.adswizz.com
 homeflat.awsmppl.com
@@ -1260,10 +1274,12 @@ img-7.3lift.com
 img-8.3lift.com
 img-9.3lift.com
 img.applvn.com
+img.bizographics.com
 imgblur.adkmob.com
 img-origin.adtechus.com
 img-origin-us-east-1.prod.adtechus.com
 img-origin-us-west-1.prod.adtechus.com
+imp2.bizographics.com
 imp.adrd.co
 imp.bid.ace.advertising.com
 impd.awsmppl.com
@@ -1274,12 +1290,14 @@ imx.dca.events.bidstalk.com
 imx.hkg.events.bidstalk.com
 inbound.leadback.advertising.com
 indiamatch.adlegend.com
+infinity.gcp.blis.com
 info.datadome.co
 infra.apester.com
 ingest.advertising.com
 ingest.at.atwola.com
 iniitian.saas.appdynamics.com
 inneractive.dca.events.bidstalk.com
+inneractive.win.bidstalk.com
 insights.adsttc.com
 insightxe.247realmedia.com
 ins.ma.163.com
@@ -1290,6 +1308,7 @@ interaction.pe.apester.com
 interactivebrokers.adlegend.com
 intergi-sb-ec.adtechus.com
 internal.beeketing.com
+internal.bidstalk.com
 internal.datadome.co
 internals.adotmob.com
 intern.atlassbx.com
@@ -1403,6 +1422,8 @@ latinopeoplemeet.adlegend.com
 lax-delivery-1.sys.adgear.com
 lax-delivery-3.sys.adgear.com
 laxwww.addthis.com
+lb.infinity.gcp.blis.com
+lbnative.bidtellect.com
 lconn.mpush.163.com
 lct-fast.addthis.com
 ldsplanet.adlegend.com
@@ -1425,6 +1446,7 @@ littlesheep.adsame.com
 livefeed.adform.com
 livepreview2.adform.com
 liverail.adtheorent.com
+liverail-bids.bidtheatre.com
 llpstream.atdmt.com
 load.adlegend.com
 local.adotmob.com
@@ -1558,7 +1580,10 @@ monitoring.adwyze.com
 monster.adlegend.com
 monster.ca.adlegend.com
 mopub.dca.events.bidstalk.com
+mopub.events.bidstalk.com
+mopub.notify.bidstalk.com
 mopubretargeting.dca.events.bidstalk.com
+mopub.win.bidstalk.com
 m-origin-redirect.addthis.com
 morningflashsee.club
 mottnow.adk2x.com
@@ -1609,6 +1634,7 @@ new-jobs.adventive.com
 newmanage.aniview.com
 news.apester.com
 news.fa.163.com
+newsite.bidtheatre.com
 newsmax.bevo.adsnative.com
 newsmax.cdn.adsnative.com
 news.tagtoo.co
@@ -1617,6 +1643,7 @@ new.tracking.quality.awin.com
 nexage.click.bidstalk.com
 nexage.dca.events.bidstalk.com
 nexage.hkg.events.bidstalk.com
+nexage.win.bidstalk.com
 nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com
 nj3.adconion.com
 nn.advertising.com
@@ -1730,6 +1757,8 @@ openadstream-eustage1.247realmedia.com
 openadstream-se.247realmedia.com
 openx.dca.events.bidstalk.com
 openx.hkg.events.bidstalk.com
+openx.notify.bidstalk.com
+openx.win.bidstalk.com
 opera1-servedby.advertising.com
 opera3-servedby.advertising.com
 opera.dca.events.bidstalk.com
@@ -1897,6 +1926,7 @@ presto-internals.adotmob.com
 presto-ldap.adotmob.com
 presto-prod.adotmob.com
 preview.adsnative.com
+preview.bidtellect.com
 preview.uatrmb.adhese.com
 pri-adserver-a-origin-ap-southeast-1.prod.adtechjp.com
 pri-adserver-b-origin-ap-southeast-1.prod.adtechjp.com
@@ -2015,6 +2045,7 @@ recommend-events.apester.com
 recon.advertserve.com
 recorder.meeting.abtasty.com
 recs-ws.atgsvcs.com
+redash.internal.bidstalk.com
 redirect.adkmob.com
 ref.amplitude.com
 reidentrdsprd1.acxiom.com
@@ -2154,6 +2185,7 @@ sales.appsflyer.com
 salon-tagan.adlightning.com
 sammax.adsame.com
 sand.api.appnexus.com
+sand.bizible.com
 sandbox2.auditude.com
 sandbox3.auditude.com
 saoptin.vip.bos.3cinteractive.com
@@ -2268,8 +2300,11 @@ skyrocket.adtdp.com
 sl.advertising.com
 slv.adpiano.com
 smaato.dca.events.bidstalk.com
+smaato.events.bidstalk.com
+smaato.hkg.events.bidstalk.com
 smaato.mads.advertising.com
 smaatopremium.dca.events.bidstalk.com
+smaato.win.bidstalk.com
 smartpak.adlegend.com
 smartyads.dca.events.bidstalk.com
 smediawebsite.smedia.ca
@@ -2356,6 +2391,7 @@ staging.adwyze.com
 staging.aniview.com
 staging.bc0a.com
 staging.beeketing.com
+staging.bizible.com
 staging-console-cdn.appnexus.com
 staging-dps.adotmob.com
 staging.geoedge.be
@@ -2481,6 +2517,7 @@ tools.acs--corp.com
 tools-tracking.adform.com
 tower.adwyze.com
 toysrus.adlegend.com
+tpmn.hkg.events.bidstalk.com
 trace.antvoice.com
 trace.beeketing.com
 trace-preprod.antvoice.com
@@ -2500,6 +2537,7 @@ traffic.adpiano.com
 trafficedge.adk2x.com
 trafficmoose.adk2x.com
 training7.247realmedia.com
+tr.gcp.blis.com
 triplelift.pxl.ace.advertising.com
 trsig.silverpush.co
 tr.silverpush.co
@@ -2549,8 +2587,8 @@ us-east-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.prod.analytics.console.aws.a2z.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-2.gamma.analytics.console.aws.a2z.com
@@ -2680,8 +2718,8 @@ video.bidsimulator.com
 video.uk.advertising.com
 view.skyrocket.adtdp.com
 vip.admaster.com.cn
-visit.backoffice.adikteev.com
 visit-backoffice.adikteev.com
+visit.backoffice.adikteev.com
 visitor-qa.activengage.com
 vivad.advertising.com
 vivad.at.atwola.com
@@ -2723,12 +2761,15 @@ webdisk.dev.smedia.ca
 webmedia01.adlegend.com
 websdk-stage.appsflyer.com
 website.adsnative.com
+web.staging.bidstalk.com
 westsevendrugs-tagan.adlightning.com
 westseven-tagan.adlightning.com
 widget.dynamic.advertising.com
 wifi.amobee.com
 wifiquiz.smedia.ca
+win.bidstalk.com
 winnotice.skyrocket.adtdp.com
+win.smaato.bidstalk.com
 wmedia.adk2x.com
 wolf.163.com
 wowcard.163.com
@@ -2760,6 +2801,7 @@ ww3093.adsbysmart.cn
 ww7.beeftransmission.com
 ww92.adsbysmart.cn
 ww.beeftransmission.com
+www2.bidtheatre.com
 www.2fspeednetwork14.adk2x.com
 www.accounts.appboy.com
 www.acs--corp.com
@@ -2820,6 +2862,7 @@ www.assets.pcrl.co
 www.audiencetag.com
 www.authorisation.analyticson.com
 www.avangate.appsee.com
+www.awesome.bizible.com
 www.banners.analyticson.com
 www.beacon.airvertiseme.com
 www.beeftransmission.com
@@ -2827,6 +2870,7 @@ www.beeviewd.com
 www.bender.appboy.com
 www.bestadbid.com
 www.beta.addesk.advertising.com
+www.bidstalk.com
 www.billboard.amobee.com
 www.bp.adkmob.com
 www.c4d-cdn.adcolony.com
@@ -2835,6 +2879,7 @@ www.cdn.adasiaholdings.com
 www.cdn.adrta.com
 www.cdn.airfind.com
 www.cdn.bannersnack.com
+www.cdn.bizible.com
 www.ci.appboy.com
 www.clarity.inmobi.cn
 www.clickus.admailtiser.com
@@ -2926,6 +2971,7 @@ www.mail.adswizz.com
 www.mail.adverline.com
 www.manual.dsp.analyticson.com
 www.marketplace.analyticson.com
+www.match.adsby.bidtheatre.com
 www.m.audiencetag.com
 www.media10.adlegend.com
 www.media12.adlegend.com
