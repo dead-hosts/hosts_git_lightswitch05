@@ -199,6 +199,7 @@
 0.0.0.0 ak-pdn.applovin.com
 0.0.0.0 ak-vid.applovin.com
 0.0.0.0 alert.infra.apester.com
+0.0.0.0 alertmanager.k8s.stc-002.p-use-1.braze.com
 0.0.0.0 alk.advertserve.com
 0.0.0.0 allabs-test.answermedia.com
 0.0.0.0 alp.adgear.com
@@ -231,6 +232,7 @@
 0.0.0.0 analytics.teemo.co
 0.0.0.0 analyzer.apester.com
 0.0.0.0 ancestry.adlegend.com
+0.0.0.0 android.k8s.test-001.p-aze-us.braze.com
 0.0.0.0 an-imp.bid.ace.advertising.com
 0.0.0.0 an.pxl.ace.advertising.com
 0.0.0.0 a.ns.ish.atdmt.com
@@ -328,6 +330,8 @@
 0.0.0.0 ap-northeast-1.prod.analytics.console.aws.a2z.com
 0.0.0.0 ap-northeast-2.gamma.analytics.console.aws.a2z.com
 0.0.0.0 ap-northeast-2.prod.analytics.console.aws.a2z.com
+0.0.0.0 apns.k8.region-001.p-aze-us.braze.com
+0.0.0.0 apns.k8s.region-001.s-euc-1.braze.com
 0.0.0.0 app3.autopilothq.com
 0.0.0.0 app.adizio.com
 0.0.0.0 app.admedo.com
@@ -427,8 +431,8 @@
 0.0.0.0 azadt.adsafeprotected.com
 0.0.0.0 azjdt.adsafeprotected.com
 0.0.0.0 azkaban.adwyze.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b4.arcadeyum.com
 0.0.0.0 baba.dev-iad.amobee.com
@@ -694,6 +698,10 @@
 0.0.0.0 christmas.adform.com
 0.0.0.0 chrono.awsmppl.com
 0.0.0.0 chronograf.adwyze.com
+0.0.0.0 churn-pangolin.k8s.region-001.p-euc-1.braze.com
+0.0.0.0 churn-pangolin.k8s.region-001.s-euc-1.braze.com
+0.0.0.0 churn-pangolin.p-euc-1.braze.com
+0.0.0.0 churn-pangolin.s-euc-1.braze.com
 0.0.0.0 ci.adwyze.com
 0.0.0.0 cipbox.awsmppl.com
 0.0.0.0 cirkoza.qa-iad.amobee.com
@@ -819,6 +827,7 @@
 0.0.0.0 data.bidsimulator.com
 0.0.0.0 data.choice.atdmt.com
 0.0.0.0 data-collector.streaming.adswizz.com
+0.0.0.0 data-lake-connect.k8s.region-001.p-aze-us.braze.com
 0.0.0.0 dataroom.apester.com
 0.0.0.0 data-staging.scoota.co
 0.0.0.0 datatrack-hk.admaxim.com
@@ -1082,8 +1091,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 events.adform.com
@@ -1262,6 +1271,7 @@
 0.0.0.0 grafanaboard.appsflyer.com
 0.0.0.0 grafana-dev.awin.com
 0.0.0.0 grafana.infra.apester.com
+0.0.0.0 grafana.k8s.stc-002.p-use-1.braze.com
 0.0.0.0 grafana-mysql.infra.apester.com
 0.0.0.0 grape.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 greylog.snackly.co
@@ -1463,8 +1473,18 @@
 0.0.0.0 k300.infra.apester.com
 0.0.0.0 k8dev.adsrvr.cn
 0.0.0.0 k8prd.adsrvr.cn
+0.0.0.0 k8s.cluster-001.p-use-1.braze.com
+0.0.0.0 k8s.cluster-001.s-use-1.braze.com
 0.0.0.0 k8s.infra-001.i-use-1.braze.com
+0.0.0.0 k8s.region-001.p-use-1.braze.com
+0.0.0.0 k8s.region-001.s-use-1.braze.com
+0.0.0.0 k8s-sondheim.braze.com
+0.0.0.0 k8s.stc-001.p-use-1.braze.com
+0.0.0.0 k8s.stc-001.s-use-1.braze.com
+0.0.0.0 k8s.stc-002.p-use-1.braze.com
+0.0.0.0 k8s-sweeney.braze.com
 0.0.0.0 k8s.test-002.d-usw-2.braze.com
+0.0.0.0 k8s-todd.braze.com
 0.0.0.0 kabbage.adlegend.com
 0.0.0.0 kalcmi.awsmppl.com
 0.0.0.0 kalemat.adk2x.com
@@ -1481,6 +1501,7 @@
 0.0.0.0 klobchat.awsmppl.com
 0.0.0.0 know.appnexus.com
 0.0.0.0 ko.support.appsflyer.com
+0.0.0.0 kubecost.k8s.stc-002.p-use-1.braze.com
 0.0.0.0 kubient-tagan.adlightning.com
 0.0.0.0 kubotasystems-trial.saas.appdynamics.com
 0.0.0.0 l3-assets.applovin.com
@@ -1494,6 +1515,7 @@
 0.0.0.0 lab5.adconion.com
 0.0.0.0 lab9.adconion.com
 0.0.0.0 lab.adform.com
+0.0.0.0 labpages.braze.com
 0.0.0.0 l.adadyn.com
 0.0.0.0 l.adk2x.com
 0.0.0.0 language.security.data.360safe.com
@@ -1698,6 +1720,7 @@
 0.0.0.0 mwr-neu.antvoice.com
 0.0.0.0 mx1.acxiom.com
 0.0.0.0 mx2.acxiom.com
+0.0.0.0 mx.braze.com
 0.0.0.0 myflaviaus.adlegend.com
 0.0.0.0 my-k8s.dev-iad.amobee.com
 0.0.0.0 my.network-stg.bazaarvoice.com
@@ -2058,6 +2081,7 @@
 0.0.0.0 project.datadome.co
 0.0.0.0 pr-old.adform.com
 0.0.0.0 prometheus1.datadome.co
+0.0.0.0 prometheus.k8s.stc-002.p-use-1.braze.com
 0.0.0.0 prom.infra.apester.com
 0.0.0.0 propellerad.adk2x.com
 0.0.0.0 prophet.acxiom.com
@@ -2836,8 +2860,8 @@
 0.0.0.0 us-east-1.prod.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -3015,6 +3039,7 @@
 0.0.0.0 webdisk.dev.smedia.ca
 0.0.0.0 webhook.k8s.region-001.d-usw-2.braze.com
 0.0.0.0 webmedia01.adlegend.com
+0.0.0.0 webpush.k8s.region-001.p-euc-1.braze.com
 0.0.0.0 websdk-stage.appsflyer.com
 0.0.0.0 website.adsnative.com
 0.0.0.0 web.stag2.bounceexchange.com
@@ -3221,6 +3246,7 @@
 0.0.0.0 www.js.ad-score.com
 0.0.0.0 www.js.appboycdn.com
 0.0.0.0 www.jss.adroll.com
+0.0.0.0 www.lab.braze.com
 0.0.0.0 www.landing.analyticson.com
 0.0.0.0 www.l.betrad.com
 0.0.0.0 www.ldap01.adroll.com
@@ -3271,6 +3297,7 @@
 0.0.0.0 www-origin.appdynamics.com
 0.0.0.0 www.owa1.amobee.com
 0.0.0.0 www.pa3.b.audiencetag.com
+0.0.0.0 www.partnerlab.braze.com
 0.0.0.0 www.partners.analyticson.com
 0.0.0.0 www.pdb.inmobi.cn
 0.0.0.0 www.peednetwork14.adk2x.com

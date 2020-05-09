@@ -199,6 +199,7 @@ ak-img.applovin.com
 ak-pdn.applovin.com
 ak-vid.applovin.com
 alert.infra.apester.com
+alertmanager.k8s.stc-002.p-use-1.braze.com
 alk.advertserve.com
 allabs-test.answermedia.com
 alp.adgear.com
@@ -231,6 +232,7 @@ analytics.staging.teemo.co
 analytics.teemo.co
 analyzer.apester.com
 ancestry.adlegend.com
+android.k8s.test-001.p-aze-us.braze.com
 an-imp.bid.ace.advertising.com
 an.pxl.ace.advertising.com
 a.ns.ish.atdmt.com
@@ -328,6 +330,8 @@ ap-northeast-1.gamma.analytics.console.aws.a2z.com
 ap-northeast-1.prod.analytics.console.aws.a2z.com
 ap-northeast-2.gamma.analytics.console.aws.a2z.com
 ap-northeast-2.prod.analytics.console.aws.a2z.com
+apns.k8.region-001.p-aze-us.braze.com
+apns.k8s.region-001.s-euc-1.braze.com
 app3.autopilothq.com
 app.adizio.com
 app.admedo.com
@@ -427,8 +431,8 @@ ayafa.qa-iad.amobee.com
 azadt.adsafeprotected.com
 azjdt.adsafeprotected.com
 azkaban.adwyze.com
-b1473-k8s.dev-iad.amobee.com
 b-1473-k8s.dev-iad.amobee.com
+b1473-k8s.dev-iad.amobee.com
 b3.arcadeyum.com
 b4.arcadeyum.com
 baba.dev-iad.amobee.com
@@ -694,6 +698,10 @@ choueiri.adswizz.com
 christmas.adform.com
 chrono.awsmppl.com
 chronograf.adwyze.com
+churn-pangolin.k8s.region-001.p-euc-1.braze.com
+churn-pangolin.k8s.region-001.s-euc-1.braze.com
+churn-pangolin.p-euc-1.braze.com
+churn-pangolin.s-euc-1.braze.com
 ci.adwyze.com
 cipbox.awsmppl.com
 cirkoza.qa-iad.amobee.com
@@ -819,6 +827,7 @@ data.ayads.co
 data.bidsimulator.com
 data.choice.atdmt.com
 data-collector.streaming.adswizz.com
+data-lake-connect.k8s.region-001.p-aze-us.braze.com
 dataroom.apester.com
 data-staging.scoota.co
 datatrack-hk.admaxim.com
@@ -1262,6 +1271,7 @@ grafana.awin.com
 grafanaboard.appsflyer.com
 grafana-dev.awin.com
 grafana.infra.apester.com
+grafana.k8s.stc-002.p-use-1.braze.com
 grafana-mysql.infra.apester.com
 grape.k8s.test-001.d-usw-2.braze.com
 greylog.snackly.co
@@ -1463,8 +1473,18 @@ k300.apester.com
 k300.infra.apester.com
 k8dev.adsrvr.cn
 k8prd.adsrvr.cn
+k8s.cluster-001.p-use-1.braze.com
+k8s.cluster-001.s-use-1.braze.com
 k8s.infra-001.i-use-1.braze.com
+k8s.region-001.p-use-1.braze.com
+k8s.region-001.s-use-1.braze.com
+k8s-sondheim.braze.com
+k8s.stc-001.p-use-1.braze.com
+k8s.stc-001.s-use-1.braze.com
+k8s.stc-002.p-use-1.braze.com
+k8s-sweeney.braze.com
 k8s.test-002.d-usw-2.braze.com
+k8s-todd.braze.com
 kabbage.adlegend.com
 kalcmi.awsmppl.com
 kalemat.adk2x.com
@@ -1481,6 +1501,7 @@ kimsuf.awsmppl.com
 klobchat.awsmppl.com
 know.appnexus.com
 ko.support.appsflyer.com
+kubecost.k8s.stc-002.p-use-1.braze.com
 kubient-tagan.adlightning.com
 kubotasystems-trial.saas.appdynamics.com
 l3-assets.applovin.com
@@ -1494,6 +1515,7 @@ lab4.adconion.com
 lab5.adconion.com
 lab9.adconion.com
 lab.adform.com
+labpages.braze.com
 l.adadyn.com
 l.adk2x.com
 language.security.data.360safe.com
@@ -1698,6 +1720,7 @@ mweb-thecapitalgrille.vip.bos.3cinteractive.com
 mwr-neu.antvoice.com
 mx1.acxiom.com
 mx2.acxiom.com
+mx.braze.com
 myflaviaus.adlegend.com
 my-k8s.dev-iad.amobee.com
 my.network-stg.bazaarvoice.com
@@ -2058,6 +2081,7 @@ prod-uswest-spop1-openx.spotad.co
 project.datadome.co
 pr-old.adform.com
 prometheus1.datadome.co
+prometheus.k8s.stc-002.p-use-1.braze.com
 prom.infra.apester.com
 propellerad.adk2x.com
 prophet.acxiom.com
@@ -2836,8 +2860,8 @@ us-east-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.prod.analytics.console.aws.a2z.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-1.tr.blismedia.com
@@ -3015,6 +3039,7 @@ webdisk.analyticson.com
 webdisk.dev.smedia.ca
 webhook.k8s.region-001.d-usw-2.braze.com
 webmedia01.adlegend.com
+webpush.k8s.region-001.p-euc-1.braze.com
 websdk-stage.appsflyer.com
 website.adsnative.com
 web.stag2.bounceexchange.com
@@ -3221,6 +3246,7 @@ www.js.adrta.com
 www.js.ad-score.com
 www.js.appboycdn.com
 www.jss.adroll.com
+www.lab.braze.com
 www.landing.analyticson.com
 www.l.betrad.com
 www.ldap01.adroll.com
@@ -3271,6 +3297,7 @@ www.office.analyticson.com
 www-origin.appdynamics.com
 www.owa1.amobee.com
 www.pa3.b.audiencetag.com
+www.partnerlab.braze.com
 www.partners.analyticson.com
 www.pdb.inmobi.cn
 www.peednetwork14.adk2x.com
