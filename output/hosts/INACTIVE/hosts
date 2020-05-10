@@ -33,6 +33,7 @@
 0.0.0.0 38a8efb9ef62c340.clickpoint.com
 0.0.0.0 3a.clickpoint.com
 0.0.0.0 3adisplay.clickpoint.com
+0.0.0.0 3blue.hostedprebid.com
 0.0.0.0 3qdigital.adlegend.com
 0.0.0.0 3zly2uywmndncwuddnaonbxdti8tq3yqb3wfpz2p.datadome.co
 0.0.0.0 40.fanbread.com
@@ -787,6 +788,8 @@
 0.0.0.0 beacon.airvertiseme.com
 0.0.0.0 beacon.apptrckr.com
 0.0.0.0 beacon.bidsimulator.com
+0.0.0.0 beacon.hlserve.com
+0.0.0.0 beam2.hlserve.com
 0.0.0.0 beats.sp1.convertro.com
 0.0.0.0 beaucoup.sp1.convertro.com
 0.0.0.0 bebe.sp1.convertro.com
@@ -1756,6 +1759,7 @@
 0.0.0.0 eu.cloud.360safe.com
 0.0.0.0 eu.content.cmp.advertising.com
 0.0.0.0 eu.criteo.com
+0.0.0.0 eu.hlserve.com
 0.0.0.0 eumsm.eum-appdynamics.com
 0.0.0.0 eu-pool.a.company-target.com
 0.0.0.0 eu-pool.d.company-target.com
@@ -1776,8 +1780,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -1801,6 +1805,7 @@
 0.0.0.0 example-ruby-service.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 exchange2.channelintelligence.com
 0.0.0.0 excite.corp.com
+0.0.0.0 expedia.hlserve.com
 0.0.0.0 expn.agkn.com
 0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 exporthtml5.bannersnack.com
@@ -1989,6 +1994,7 @@
 0.0.0.0 get.appsflyer.com
 0.0.0.0 getcoding.advertising.com
 0.0.0.0 get.convertcart.com
+0.0.0.0 get.hotjar.com
 0.0.0.0 gg-ams.gravityrd-services.com
 0.0.0.0 ggl.adpiano.com
 0.0.0.0 ght.gmial.com
@@ -2054,6 +2060,8 @@
 0.0.0.0 grandhaus.corp.com
 0.0.0.0 grape.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 gratka-ams.gravityrd-services.com
+0.0.0.0 graylog2.hotjar.com
+0.0.0.0 graylog.hotjar.com
 0.0.0.0 greylog.snackly.co
 0.0.0.0 grizly-tagan.adlightning.com
 0.0.0.0 growth.adroll.com
@@ -2075,7 +2083,9 @@
 0.0.0.0 hahajknew.bnmla.com
 0.0.0.0 hammer.corp.com
 0.0.0.0 hannah.gmial.com
+0.0.0.0 haroldcdn.hlserve.com
 0.0.0.0 hartz.links.channelintelligence.com
+0.0.0.0 hcom.hlserve.com
 0.0.0.0 hd.dao.163.com
 0.0.0.0 hdflash.brightedge.com
 0.0.0.0 h.dlx.addthis.com
@@ -2113,6 +2123,7 @@
 0.0.0.0 hlamedia.adk2x.com
 0.0.0.0 hlc.rt.cquotient.com
 0.0.0.0 hlsmaster1.adswizz.com
+0.0.0.0 hnyhnyhny.com
 0.0.0.0 homedepot.rdr.channelintelligence.com
 0.0.0.0 homeflat.awsmppl.com
 0.0.0.0 honeout.fanbread.com
@@ -2238,9 +2249,29 @@
 0.0.0.0 inneractive.dca.events.bidstalk.com
 0.0.0.0 inneractive.win.bidstalk.com
 0.0.0.0 in.player.h-cdn.com
+0.0.0.0 ins10.hotjar.com
+0.0.0.0 ins11.hotjar.com
+0.0.0.0 ins12.hotjar.com
+0.0.0.0 ins13.hotjar.com
+0.0.0.0 ins14.hotjar.com
+0.0.0.0 ins15.hotjar.com
+0.0.0.0 ins16.hotjar.com
+0.0.0.0 ins17.hotjar.com
+0.0.0.0 ins18.hotjar.com
+0.0.0.0 ins1.hotjar.com
+0.0.0.0 ins2.hotjar.com
+0.0.0.0 ins3.hotjar.com
+0.0.0.0 ins4.hotjar.com
+0.0.0.0 ins5.hotjar.com
+0.0.0.0 ins6.hotjar.com
+0.0.0.0 ins7.hotjar.com
+0.0.0.0 ins8.hotjar.com
+0.0.0.0 ins9.hotjar.com
 0.0.0.0 insight.eloqua.com
 0.0.0.0 insight.exelator.com
 0.0.0.0 insights.adsttc.com
+0.0.0.0 insights-dc.hotjar.com
+0.0.0.0 insights-split.hotjar.com
 0.0.0.0 insightxe.247realmedia.com
 0.0.0.0 ins.ma.163.com
 0.0.0.0 instructions.getadmiral.com
@@ -2543,6 +2574,7 @@
 0.0.0.0 local.adotmob.com
 0.0.0.0 local.bridgewell.com
 0.0.0.0 local.deviceatlas.com
+0.0.0.0 local.hotjar.com
 0.0.0.0 log.adsafeprotected.com
 0.0.0.0 log.beeketing.com
 0.0.0.0 log.c.163.com
@@ -2922,9 +2954,11 @@
 0.0.0.0 n.eu.dynstc.com
 0.0.0.0 n.eu.dyntrk.com
 0.0.0.0 newadmaster.adsame.com
+0.0.0.0 new-adm.hotjar.com
 0.0.0.0 new-admin.adventive.com
 0.0.0.0 new-billing.adventive.com
 0.0.0.0 new.flurry.com
+0.0.0.0 new.hotjar.com
 0.0.0.0 new-iq.adtechus.com
 0.0.0.0 new-jobs.adventive.com
 0.0.0.0 newmanage.aniview.com
@@ -3095,6 +3129,7 @@
 0.0.0.0 odds.caipiao.163.com
 0.0.0.0 o.dev.criteo.com
 0.0.0.0 offer.adpiano.com
+0.0.0.0 offers.hotjar.com
 0.0.0.0 ofs.aiprx.freewheel.com
 0.0.0.0 ofw-pivot-prd.production.fyber.com
 0.0.0.0 og1-iad2.adsymptotic.com
@@ -3182,6 +3217,7 @@
 0.0.0.0 outbound.crashlytics.com
 0.0.0.0 out.gmial.com
 0.0.0.0 outgoing.gmial.com
+0.0.0.0 outside.hotjar.com
 0.0.0.0 overrider.apester.com
 0.0.0.0 overstock.rdr.channelintelligence.com
 0.0.0.0 owap1.acxiom.com
@@ -3312,6 +3348,7 @@
 0.0.0.0 pink.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 pixall-qa-ui.non-prod.analytics.dealer.com
 0.0.0.0 pix.dco.advertising.com
+0.0.0.0 pixel2.hnyhnyhny.com
 0.0.0.0 pixel.adssafeprotected.com
 0.0.0.0 pixel.agkn.com
 0.0.0.0 pixel-apc.adsymptotic.com
@@ -3450,6 +3487,7 @@
 0.0.0.0 prod-k8s.prod-dub.atv.amobee.com
 0.0.0.0 prod.snackly.co
 0.0.0.0 product.abtasty.com
+0.0.0.0 productads.hlserve.com
 0.0.0.0 productanalyticsplaybook.amplitude.com
 0.0.0.0 product.beta.adwyze.com
 0.0.0.0 production-adserver-666328397.us-east-1.elb.amazonaws.com
@@ -3457,6 +3495,7 @@
 0.0.0.0 production-bidding-agent.fyber.com
 0.0.0.0 production.cjadsystems.dotomi.com
 0.0.0.0 production.knightbridge.acxiom.com
+0.0.0.0 products.hlserve.com
 0.0.0.0 product.staging.adwyze.com
 0.0.0.0 prod.us-east-2.adotmob.com
 0.0.0.0 prod-uswest-spop1-openx.spotad.co
@@ -3474,8 +3513,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 proxy.beeviewd.com
 0.0.0.0 proxy.dynamicyield.com
 0.0.0.0 proxy.prometheus.staging.fullstory.com
@@ -3787,6 +3826,7 @@
 0.0.0.0 rest.api.chatid.com
 0.0.0.0 rest-api.datadome.co
 0.0.0.0 rest.qa.exacttarget.com
+0.0.0.0 retail-walmart.productads.hlserve.com
 0.0.0.0 retention.appsflyer.com
 0.0.0.0 rev2pub.adk2x.com
 0.0.0.0 reve.dev-iad.amobee.com
@@ -4011,6 +4051,9 @@
 0.0.0.0 scpweb.s3.qa2.exacttarget.com
 0.0.0.0 screenshot.convertcart.com
 0.0.0.0 screentek.corp.com
+0.0.0.0 script-edgecast.hotjar.com
+0.0.0.0 script-sio.hotjar.com
+0.0.0.0 script-staging-test.hotjar.com
 0.0.0.0 s.cunda.advolution.biz
 0.0.0.0 sdcert.acxiom.com
 0.0.0.0 sdcertreport.acxiom.com
@@ -4106,6 +4149,8 @@
 0.0.0.0 sentry.beeketing.com
 0.0.0.0 sentry.connatix.com
 0.0.0.0 sentry.getadmiral.com
+0.0.0.0 sentry.hotjar.com
+0.0.0.0 sentry.kops.hotjar.com
 0.0.0.0 sentry-web-lb-160711358.us-east-1.elb.amazonaws.com
 0.0.0.0 serval.adtdp.com
 0.0.0.0 serve.adserver.adikteev.com
@@ -4167,8 +4212,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -4648,6 +4693,11 @@
 0.0.0.0 training7.247realmedia.com
 0.0.0.0 tr.ams.contextweb.com
 0.0.0.0 transfer.bluecava.com
+0.0.0.0 travelads.hlserve.com
+0.0.0.0 travelapis.hlserve.com
+0.0.0.0 travelhook.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trdev.fuel451.com
 0.0.0.0 tr.gcp.blis.com
@@ -4677,6 +4727,7 @@
 0.0.0.0 tw.fiksu.com
 0.0.0.0 twitter-srv.buysellads.com
 0.0.0.0 txsnb001.exelator.com
+0.0.0.0 uat-b.hlserve.com
 0.0.0.0 uat-centraltag-service.dbidatatech.com
 0.0.0.0 uat.extremereach.com
 0.0.0.0 uat.prosvs.247realmedia.com
@@ -4870,6 +4921,7 @@
 0.0.0.0 vds2.fingereach.com
 0.0.0.0 vds3.fingereach.com
 0.0.0.0 vds.fingereach.com
+0.0.0.0 vegas.hlserve.com
 0.0.0.0 vendio.corp.com
 0.0.0.0 verity-api-internal.gumgum.com
 0.0.0.0 verity-api-test.gumgum.com
@@ -4906,8 +4958,8 @@
 0.0.0.0 viewsonic.links.channelintelligence.com
 0.0.0.0 vi.gumgum.com
 0.0.0.0 vip.admaster.com.cn
-0.0.0.0 visit-backoffice.adikteev.com
 0.0.0.0 visit.backoffice.adikteev.com
+0.0.0.0 visit-backoffice.adikteev.com
 0.0.0.0 visitor-qa.activengage.com
 0.0.0.0 vivad.advertising.com
 0.0.0.0 vivad.at.atwola.com
@@ -5039,6 +5091,7 @@
 0.0.0.0 winnotice.skyrocket.adtdp.com
 0.0.0.0 win.smaato.bidstalk.com
 0.0.0.0 wmedia.adk2x.com
+0.0.0.0 wmt.hlserve.com
 0.0.0.0 wolf.163.com
 0.0.0.0 women.fanbread.com
 0.0.0.0 woolworths.sp1.convertro.com
@@ -5122,6 +5175,7 @@
 0.0.0.0 www2.bidtheatre.com
 0.0.0.0 www2.clickz.com
 0.0.0.0 www.2fspeednetwork14.adk2x.com
+0.0.0.0 www.3blue.hostedprebid.com
 0.0.0.0 www3.gmial.com
 0.0.0.0 www.abm-certification.demandbase.com
 0.0.0.0 www.access.eloqua.com
@@ -5398,6 +5452,7 @@
 0.0.0.0 www.helix.inmobi.cn
 0.0.0.0 www.helixuat.inmobi.cn
 0.0.0.0 www.hlamedia.adk2x.com
+0.0.0.0 www.hnyhnyhny.com
 0.0.0.0 www.homeslice.appboy.com
 0.0.0.0 www.hooli.adrizer.com
 0.0.0.0 www.iadsdk.apple.com
