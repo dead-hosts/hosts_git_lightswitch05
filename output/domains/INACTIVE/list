@@ -94,6 +94,7 @@ abr.rt.cquotient.com
 ac1.vip.sc9.admob.com
 ac.brainient.com
 accapplesecure.awsmppl.com
+access-users.nexus.liveramp.com
 accobrands.links.channelintelligence.com
 accounts.appboy.com
 account-settings.appsflyer.com
@@ -483,6 +484,7 @@ analytics.staging.teemo.co
 analytics.teemo.co
 analytics-testing.lisnr.com
 analytics-test.lisnr.com
+analyticstest.localytics.com
 analytics-web5679.lisnr.com
 analytics-web5680.lisnr.com
 analytics-web5838.lisnr.com
@@ -578,9 +580,12 @@ api.bizographics.com
 api.bytegain.com
 api-cache.adsnative.com
 api.caipiao.163.com
+api.chillyc.env.sandbox53.localytics.com
+api.chris.env.sandbox53.localytics.com
 api.connatix.com
 api.corporate.marketplaceadvisor.channeladvisor.com
 api.cossette.adgear.com
+api.dans-parsley-change-test.env.sandbox53.localytics.com
 api-dev1.social.conviva.com
 api-dev2.social.conviva.com
 api-dev.demandbase.com
@@ -596,8 +601,10 @@ api.essads.com
 api-eu-west-1.adsnative.com
 api-external-test.demandbase.com
 api.extremereach.com.extremereach.com
+api.final.env.sandbox53.localytics.com
 api.freeskreen.com
 api.fuel451.com
+api-gateway-rishi.sandbox53.localytics.com
 api.g.caipiao.163.com
 api.getadmiral.com
 api.getrockerbox.com
@@ -608,13 +615,18 @@ api.intel.dynamicyield.com
 api-intowow-dev.intowow.com
 api-intowow-production.intowow.com
 api-intowow-staging.intowow.com
+api.joanna.env.sandbox53.localytics.com
+api.joanna-test.env.sandbox53.localytics.com
+api.joe.env.sandbox53.localytics.com
 api.lapresse.adgear.com
 api.lapresse-staging.adgear.com
 api-latest-grpc.lightstep.com
 api-latest.lightstep.com
+api.mcclusterface.k8s.liveramp.com
 ap.impdesk.com
 api.poc.exacttarget.com
 api.portal.staging2.inskinmedia.com
+api.prod.env.53.localytics.com
 api.productdata.awin.com
 api.pt.163.com
 api-public-fast.addthis.com
@@ -1637,6 +1649,7 @@ dataroom.apester.com
 data-staging.scoota.co
 datatrack-hk.admaxim.com
 datavisualization.acxiom.com
+data-viz-challenge.localytics.com
 da.us.criteo.com
 da-v-eu.amazon-adsystem.com
 da-v-fe.amazon-adsystem.com
@@ -2116,8 +2129,8 @@ eu-west-3.gamma.analytics.console.aws.a2z.com
 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 eu-west-3.prod.analytics.console.aws.a2z.com
 event.adserver.adikteev.com
-event-backoffice.adikteev.com
 event.backoffice.adikteev.com
+event-backoffice.adikteev.com
 event.bidstalk.com
 event.cmp.advertising.com
 event-dev.api.driftt.com
@@ -2294,6 +2307,7 @@ fr.eu.criteo.com
 freud.links.channelintelligence.com
 fr.eu.preprod.criteo.com
 fr.fr-staging.identity.api.liveramp.com
+frontbeta.localytics.com
 frontend.snackly.co
 frontprod.datadome.co
 fr.support.appsflyer.com
@@ -2302,6 +2316,7 @@ fs.interpolls.com
 fsr3.fuel451.com
 fsres.advertising.com
 fsr.fuel451.com
+fsstaging.us-east-1-staging.k8s.liveramp.com
 fstorage.elfsight.com
 fsuser.advertising.com
 ftb.gumgum.com
@@ -2468,6 +2483,7 @@ gw.api.163.com
 h1.fastly-insights.com
 h2.fastly-insights.com
 hackathon.dynamicyield.com
+hackathon.localytics.com
 hacks.chartbeat.com
 hahajknew.bnmla.com
 hammer.corp.com
@@ -2620,10 +2636,10 @@ idsync.districtm.ca
 idtest.acxiom.com
 ie.corp.com
 i.essads.com
-ifc2-vip-dfw1.inmobi.com
 ifc2.vip.dfw1.inmobi.com
-ifc2.vip.hkg1.inmobi.com
+ifc2-vip-dfw1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
+ifc2.vip.hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -2702,8 +2718,8 @@ ingest.at.atwola.com
 ingress-test-api.newstags.stag.bounceexchange.com
 ingress-test.newstags.stag.bounceexchange.com
 iniitian.saas.appdynamics.com
-in.jwpltx.com
 i.n.jwpltx.com
+in.jwpltx.com
 inneractive.dca.events.bidstalk.com
 inneractive.win.bidstalk.com
 innocraft-cloud-mars.innocraft.com
@@ -3223,6 +3239,7 @@ master.dev.advertiser-integration-tool.awin.com
 match.adlegend.com
 matchuseast-1393638539.us-east-1.elb.amazonaws.com
 materiais.inlocomedia.com
+matillion.liveramp.com
 matomo.apester.com
 mattmessinger.fanbread.com
 maverick-gamma.boldchat.com
@@ -3768,6 +3785,8 @@ opx-winners-ap-southeast-1-rtb.adroll.com
 orami-sin.gravityrd-services.com
 orange.k8s.test-001.d-usw-2.braze.com
 order.mall.163.com
+orders.localiq.com
+orders.qa.localiq.com
 origin.adcash.com
 originadessl.clmbtech.com
 origin.adlegend.com
@@ -4130,8 +4149,8 @@ prospect-cm.dsp.linksynergy.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway-production.browsiprod.com
 provider-gateway.production.browsiprod.com
+provider-gateway-production.browsiprod.com
 proximiter-stg.joystickinteractive.com
 proximiter-temp.joystickinteractive.com
 proximiter-tmp.joystickinteractive.com
@@ -4242,6 +4261,7 @@ pubgenius-tagan.adlightning.com
 pubgmobilegift.dnset.com
 publisher.advertising.com
 publisher.clickpoint.com
+publisher.liveramp.com
 publishers.clickpoint.com
 pubmatic.hkg.events.bidstalk.com
 pubmatic-winners-ap-southeast-1-rtb.adroll.com
@@ -4392,6 +4412,8 @@ randy-temp-1.joystickinteractive.com
 r.appsflyer.com
 ratapa.dev-iad.amobee.com
 ratdgo.reamp.com.br
+rater.localytics.com
+ratnest-cockroach-test.nexus.liveramp.com
 rbac00-k8s.dev-iad.amobee.com
 rbac0-k8s.dev-iad.amobee.com
 rbac1-k8s.dev-iad.amobee.com
@@ -4471,6 +4493,7 @@ reports.dm.channelintelligence.com
 reports.dna.247realmedia.com
 reports.jp.advertising.com
 reports.sem.advertising.com
+repository.liveramp.com
 republicanpeoplemeet.adlegend.com
 res2.scsstatic.ch
 resource.inmobi.com
@@ -4775,8 +4798,8 @@ seagate.links.channelintelligence.com
 sean.ittest.33across.com
 search.advertisingbox.com
 search.at.atwola.com
-search-cldellow.deployads.com
 searchcldellow.deployads.com
+search-cldellow.deployads.com
 search.deployads.com
 search.igodigital.com
 searsoutlet.rdr.channelintelligence.com
@@ -4840,6 +4863,7 @@ secure.widget.dynamic.advertising.com
 secure-xy.imrworldwide.com
 seg2.ayads.co
 segmentgcp.connect.liveramp.com
+segment.liveramp.com
 selfserve.ebuzzing.com
 sem.advertising.com
 semantic.acxiom.com
@@ -4935,8 +4959,8 @@ sip.awsmppl.com
 sipexternal.foresee.com
 sipexternal.gmial.com
 _sipfederationtls._tcp.admedia.com
-_sipfederationtls._tcp.gmial.com
 sipfederationtls.tcp.gmial.com
+_sipfederationtls._tcp.gmial.com
 sip.gmial.com
 sipinternal.gmial.com
 siri.adwyze.com
@@ -5026,6 +5050,7 @@ speednetwork6.adk2x.com
 speednetwork8.adk2x.com
 speedycash.sp1.convertro.com
 s.ping-origin-prd.jwpltx.com
+spinnakertest.nexus.liveramp.com
 splash.getadmiral.com
 spms-staging.innity.com
 sportsmansguide.rdr.channelintelligence.com
@@ -5102,6 +5127,7 @@ stage.convertro.com
 stage.driftt.com
 stage.guce.convertro.com
 stage.mail.elfsight.com
+stager2.53.localytics.com
 stage-secure.leadback.advertising.com
 stage-www.demandbase.com
 staging2.mater.iubenda.com
@@ -5341,6 +5367,7 @@ telamon.corp.com
 teleflora.sp1.convertro.com
 telemetry.sdk.ams1.appgw.inmobi.com
 telemetry.sdk.dfw1.vip.inmobi.com
+telenor-creatives.53.localytics.com
 temo.analyticson.com
 templates-beta.convertcart.com
 templates.convertcart.com
@@ -5437,6 +5464,7 @@ tlstest.igodigital.com
 tlx-packet.3lift.com
 tm.inmobi.com
 tmp-heliosiq.adtechus.com
+tmp-user-mgmt-svc-internal.nexus.liveramp.com
 tm-rtods.prod.corp.acxiom.com
 tmt.corp.com
 tmwcaptions.rt.cquotient.com
@@ -5557,8 +5585,8 @@ transfer.bluecava.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel.productads.hlserve.com
 travel-productads.hlserve.com
+travel.productads.hlserve.com
 travelup.dc.ignitionone.com
 travelup.t.ignitionone.com
 tr.bnmla.com
@@ -5713,6 +5741,7 @@ uovz.awsmppl.com
 updater.hyde.ligatus.com
 upezzo.qa-iad.amobee.com
 upload.liverail.com
+upload.liveramp.com
 url.apester.com
 url.cloud.360safe.com
 us1.appsflyer.com
@@ -5936,8 +5965,8 @@ view.skyrocket.adtdp.com
 viewsonic.links.channelintelligence.com
 vi.gumgum.com
 vip.admaster.com.cn
-visit-backoffice.adikteev.com
 visit.backoffice.adikteev.com
+visit-backoffice.adikteev.com
 visitor-qa.activengage.com
 vivad.advertising.com
 vivad.at.atwola.com
@@ -6319,6 +6348,7 @@ www.auth.k8s-test.fiksu.com
 www.authorisation.analyticson.com
 www.autoconfig.gmial.com
 www.autodiscover.gmial.com
+www.auto.localiq.com
 www.auto-px.dynamicyield.com
 www.avangate.appsee.com
 www.avn.innity.com
@@ -6646,6 +6676,7 @@ www.livepass.conviva.com
 www.livepassdl.conviva.com
 www.livepassdl.secure.conviva.com
 www.livethumb.huluim.com
+www.llanalytics.com
 www.load.exelator.com
 www.local.attributionapp.com
 www.log.getadblock.com
@@ -6806,6 +6837,7 @@ www.rcom.dynamicyield.com
 www.rcom-staging.dynamicyield.com
 www.rc-studio.inmobi.com
 www.reaper.pulse.inmobi.com
+www.recruitment.localiq.com
 www.recs.igodigital.com
 www.recs-ws.atgsvcs.com
 www.reddit.co

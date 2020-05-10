@@ -94,6 +94,7 @@
 0.0.0.0 ac1.vip.sc9.admob.com
 0.0.0.0 ac.brainient.com
 0.0.0.0 accapplesecure.awsmppl.com
+0.0.0.0 access-users.nexus.liveramp.com
 0.0.0.0 accobrands.links.channelintelligence.com
 0.0.0.0 accounts.appboy.com
 0.0.0.0 account-settings.appsflyer.com
@@ -483,6 +484,7 @@
 0.0.0.0 analytics.teemo.co
 0.0.0.0 analytics-testing.lisnr.com
 0.0.0.0 analytics-test.lisnr.com
+0.0.0.0 analyticstest.localytics.com
 0.0.0.0 analytics-web5679.lisnr.com
 0.0.0.0 analytics-web5680.lisnr.com
 0.0.0.0 analytics-web5838.lisnr.com
@@ -578,9 +580,12 @@
 0.0.0.0 api.bytegain.com
 0.0.0.0 api-cache.adsnative.com
 0.0.0.0 api.caipiao.163.com
+0.0.0.0 api.chillyc.env.sandbox53.localytics.com
+0.0.0.0 api.chris.env.sandbox53.localytics.com
 0.0.0.0 api.connatix.com
 0.0.0.0 api.corporate.marketplaceadvisor.channeladvisor.com
 0.0.0.0 api.cossette.adgear.com
+0.0.0.0 api.dans-parsley-change-test.env.sandbox53.localytics.com
 0.0.0.0 api-dev1.social.conviva.com
 0.0.0.0 api-dev2.social.conviva.com
 0.0.0.0 api-dev.demandbase.com
@@ -596,8 +601,10 @@
 0.0.0.0 api-eu-west-1.adsnative.com
 0.0.0.0 api-external-test.demandbase.com
 0.0.0.0 api.extremereach.com.extremereach.com
+0.0.0.0 api.final.env.sandbox53.localytics.com
 0.0.0.0 api.freeskreen.com
 0.0.0.0 api.fuel451.com
+0.0.0.0 api-gateway-rishi.sandbox53.localytics.com
 0.0.0.0 api.g.caipiao.163.com
 0.0.0.0 api.getadmiral.com
 0.0.0.0 api.getrockerbox.com
@@ -608,13 +615,18 @@
 0.0.0.0 api-intowow-dev.intowow.com
 0.0.0.0 api-intowow-production.intowow.com
 0.0.0.0 api-intowow-staging.intowow.com
+0.0.0.0 api.joanna.env.sandbox53.localytics.com
+0.0.0.0 api.joanna-test.env.sandbox53.localytics.com
+0.0.0.0 api.joe.env.sandbox53.localytics.com
 0.0.0.0 api.lapresse.adgear.com
 0.0.0.0 api.lapresse-staging.adgear.com
 0.0.0.0 api-latest-grpc.lightstep.com
 0.0.0.0 api-latest.lightstep.com
+0.0.0.0 api.mcclusterface.k8s.liveramp.com
 0.0.0.0 ap.impdesk.com
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 api.portal.staging2.inskinmedia.com
+0.0.0.0 api.prod.env.53.localytics.com
 0.0.0.0 api.productdata.awin.com
 0.0.0.0 api.pt.163.com
 0.0.0.0 api-public-fast.addthis.com
@@ -1637,6 +1649,7 @@
 0.0.0.0 data-staging.scoota.co
 0.0.0.0 datatrack-hk.admaxim.com
 0.0.0.0 datavisualization.acxiom.com
+0.0.0.0 data-viz-challenge.localytics.com
 0.0.0.0 da.us.criteo.com
 0.0.0.0 da-v-eu.amazon-adsystem.com
 0.0.0.0 da-v-fe.amazon-adsystem.com
@@ -2116,8 +2129,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2294,6 +2307,7 @@
 0.0.0.0 freud.links.channelintelligence.com
 0.0.0.0 fr.eu.preprod.criteo.com
 0.0.0.0 fr.fr-staging.identity.api.liveramp.com
+0.0.0.0 frontbeta.localytics.com
 0.0.0.0 frontend.snackly.co
 0.0.0.0 frontprod.datadome.co
 0.0.0.0 fr.support.appsflyer.com
@@ -2302,6 +2316,7 @@
 0.0.0.0 fsr3.fuel451.com
 0.0.0.0 fsres.advertising.com
 0.0.0.0 fsr.fuel451.com
+0.0.0.0 fsstaging.us-east-1-staging.k8s.liveramp.com
 0.0.0.0 fstorage.elfsight.com
 0.0.0.0 fsuser.advertising.com
 0.0.0.0 ftb.gumgum.com
@@ -2468,6 +2483,7 @@
 0.0.0.0 h1.fastly-insights.com
 0.0.0.0 h2.fastly-insights.com
 0.0.0.0 hackathon.dynamicyield.com
+0.0.0.0 hackathon.localytics.com
 0.0.0.0 hacks.chartbeat.com
 0.0.0.0 hahajknew.bnmla.com
 0.0.0.0 hammer.corp.com
@@ -3223,6 +3239,7 @@
 0.0.0.0 match.adlegend.com
 0.0.0.0 matchuseast-1393638539.us-east-1.elb.amazonaws.com
 0.0.0.0 materiais.inlocomedia.com
+0.0.0.0 matillion.liveramp.com
 0.0.0.0 matomo.apester.com
 0.0.0.0 mattmessinger.fanbread.com
 0.0.0.0 maverick-gamma.boldchat.com
@@ -3768,6 +3785,8 @@
 0.0.0.0 orami-sin.gravityrd-services.com
 0.0.0.0 orange.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 order.mall.163.com
+0.0.0.0 orders.localiq.com
+0.0.0.0 orders.qa.localiq.com
 0.0.0.0 origin.adcash.com
 0.0.0.0 originadessl.clmbtech.com
 0.0.0.0 origin.adlegend.com
@@ -4242,6 +4261,7 @@
 0.0.0.0 pubgmobilegift.dnset.com
 0.0.0.0 publisher.advertising.com
 0.0.0.0 publisher.clickpoint.com
+0.0.0.0 publisher.liveramp.com
 0.0.0.0 publishers.clickpoint.com
 0.0.0.0 pubmatic.hkg.events.bidstalk.com
 0.0.0.0 pubmatic-winners-ap-southeast-1-rtb.adroll.com
@@ -4392,6 +4412,8 @@
 0.0.0.0 r.appsflyer.com
 0.0.0.0 ratapa.dev-iad.amobee.com
 0.0.0.0 ratdgo.reamp.com.br
+0.0.0.0 rater.localytics.com
+0.0.0.0 ratnest-cockroach-test.nexus.liveramp.com
 0.0.0.0 rbac00-k8s.dev-iad.amobee.com
 0.0.0.0 rbac0-k8s.dev-iad.amobee.com
 0.0.0.0 rbac1-k8s.dev-iad.amobee.com
@@ -4471,6 +4493,7 @@
 0.0.0.0 reports.dna.247realmedia.com
 0.0.0.0 reports.jp.advertising.com
 0.0.0.0 reports.sem.advertising.com
+0.0.0.0 repository.liveramp.com
 0.0.0.0 republicanpeoplemeet.adlegend.com
 0.0.0.0 res2.scsstatic.ch
 0.0.0.0 resource.inmobi.com
@@ -4840,6 +4863,7 @@
 0.0.0.0 secure-xy.imrworldwide.com
 0.0.0.0 seg2.ayads.co
 0.0.0.0 segmentgcp.connect.liveramp.com
+0.0.0.0 segment.liveramp.com
 0.0.0.0 selfserve.ebuzzing.com
 0.0.0.0 sem.advertising.com
 0.0.0.0 semantic.acxiom.com
@@ -4935,8 +4959,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sipfederationtls.tcp.gmial.com
+0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -5026,6 +5050,7 @@
 0.0.0.0 speednetwork8.adk2x.com
 0.0.0.0 speedycash.sp1.convertro.com
 0.0.0.0 s.ping-origin-prd.jwpltx.com
+0.0.0.0 spinnakertest.nexus.liveramp.com
 0.0.0.0 splash.getadmiral.com
 0.0.0.0 spms-staging.innity.com
 0.0.0.0 sportsmansguide.rdr.channelintelligence.com
@@ -5102,6 +5127,7 @@
 0.0.0.0 stage.driftt.com
 0.0.0.0 stage.guce.convertro.com
 0.0.0.0 stage.mail.elfsight.com
+0.0.0.0 stager2.53.localytics.com
 0.0.0.0 stage-secure.leadback.advertising.com
 0.0.0.0 stage-www.demandbase.com
 0.0.0.0 staging2.mater.iubenda.com
@@ -5341,6 +5367,7 @@
 0.0.0.0 teleflora.sp1.convertro.com
 0.0.0.0 telemetry.sdk.ams1.appgw.inmobi.com
 0.0.0.0 telemetry.sdk.dfw1.vip.inmobi.com
+0.0.0.0 telenor-creatives.53.localytics.com
 0.0.0.0 temo.analyticson.com
 0.0.0.0 templates-beta.convertcart.com
 0.0.0.0 templates.convertcart.com
@@ -5437,6 +5464,7 @@
 0.0.0.0 tlx-packet.3lift.com
 0.0.0.0 tm.inmobi.com
 0.0.0.0 tmp-heliosiq.adtechus.com
+0.0.0.0 tmp-user-mgmt-svc-internal.nexus.liveramp.com
 0.0.0.0 tm-rtods.prod.corp.acxiom.com
 0.0.0.0 tmt.corp.com
 0.0.0.0 tmwcaptions.rt.cquotient.com
@@ -5557,8 +5585,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -5713,6 +5741,7 @@
 0.0.0.0 updater.hyde.ligatus.com
 0.0.0.0 upezzo.qa-iad.amobee.com
 0.0.0.0 upload.liverail.com
+0.0.0.0 upload.liveramp.com
 0.0.0.0 url.apester.com
 0.0.0.0 url.cloud.360safe.com
 0.0.0.0 us1.appsflyer.com
@@ -5731,8 +5760,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -6319,6 +6348,7 @@
 0.0.0.0 www.authorisation.analyticson.com
 0.0.0.0 www.autoconfig.gmial.com
 0.0.0.0 www.autodiscover.gmial.com
+0.0.0.0 www.auto.localiq.com
 0.0.0.0 www.auto-px.dynamicyield.com
 0.0.0.0 www.avangate.appsee.com
 0.0.0.0 www.avn.innity.com
@@ -6646,6 +6676,7 @@
 0.0.0.0 www.livepassdl.conviva.com
 0.0.0.0 www.livepassdl.secure.conviva.com
 0.0.0.0 www.livethumb.huluim.com
+0.0.0.0 www.llanalytics.com
 0.0.0.0 www.load.exelator.com
 0.0.0.0 www.local.attributionapp.com
 0.0.0.0 www.log.getadblock.com
@@ -6806,6 +6837,7 @@
 0.0.0.0 www.rcom-staging.dynamicyield.com
 0.0.0.0 www.rc-studio.inmobi.com
 0.0.0.0 www.reaper.pulse.inmobi.com
+0.0.0.0 www.recruitment.localiq.com
 0.0.0.0 www.recs.igodigital.com
 0.0.0.0 www.recs-ws.atgsvcs.com
 0.0.0.0 www.reddit.co
