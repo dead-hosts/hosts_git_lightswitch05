@@ -625,6 +625,7 @@
 0.0.0.0 api-latest-grpc.lightstep.com
 0.0.0.0 api-latest.lightstep.com
 0.0.0.0 api.locsensads.com
+0.0.0.0 api.lootsie.com
 0.0.0.0 api.mcclusterface.k8s.liveramp.com
 0.0.0.0 ap.impdesk.com
 0.0.0.0 api.nonewlines.env.sandbox53.localytics.com
@@ -664,6 +665,7 @@
 0.0.0.0 api-us-east-1.adsnative.com
 0.0.0.0 api-us-wyoming-1.datadome.co
 0.0.0.0 api-v2.instartlogic.com
+0.0.0.0 api-v2.lootsie.com
 0.0.0.0 api.warehouse.adikteev.com
 0.0.0.0 api.webchunker.streaming.adswizz.com
 0.0.0.0 api.yoni.env.sandbox53.localytics.com
@@ -709,6 +711,7 @@
 0.0.0.0 applovin.hkg.events.bidstalk.com
 0.0.0.0 applus.corp.com
 0.0.0.0 appodeal.dca.events.bidstalk.com
+0.0.0.0 appodeal.loopmertb.com
 0.0.0.0 app.pangeo.geoedge.be
 0.0.0.0 app.qa.exacttarget.com
 0.0.0.0 app.response.demandbase.com
@@ -798,6 +801,7 @@
 0.0.0.0 atlassian.fyber.com
 0.0.0.0 at-lat.listrakbi.com
 0.0.0.0 atl.corp.com
+0.0.0.0 at.lokaplatform.com
 0.0.0.0 atom.link.apsalar.com
 0.0.0.0 atwola-sb-ec.adtechus.com
 0.0.0.0 atwola-sb-wc.adtechus.com
@@ -1146,6 +1150,7 @@
 0.0.0.0 brother.links.channelintelligence.com
 0.0.0.0 brother-trial.saas.appdynamics.com
 0.0.0.0 brownshoe.sp1.convertro.com
+0.0.0.0 browser-sdk.lootsie.com
 0.0.0.0 brucelead.adk2x.com
 0.0.0.0 bruleemedia-tagan.adlightning.com
 0.0.0.0 brx.pxl.ace.advertising.com
@@ -1448,6 +1453,7 @@
 0.0.0.0 clients.answerscloud.com
 0.0.0.0 clientstats.advertising.com
 0.0.0.0 client-uat-fast.addthis.com
+0.0.0.0 client-um.macromill.com
 0.0.0.0 c.ligatus.com
 0.0.0.0 clitest.linksynergy.com
 0.0.0.0 clk.adpiano.com
@@ -1457,6 +1463,7 @@
 0.0.0.0 cloudadvertising.adk2x.com
 0.0.0.0 cloud.clickpoint.com
 0.0.0.0 cloudconnectors.eloqua.com
+0.0.0.0 cloud.lokaplatform.com
 0.0.0.0 cloud.spotad.co
 0.0.0.0 cloud.staging.teemo.co
 0.0.0.0 cloud.zina.dnset.com
@@ -1535,6 +1542,7 @@
 0.0.0.0 content.heapanalytics.com
 0.0.0.0 content.jetlore.com
 0.0.0.0 content.links.channelintelligence.com
+0.0.0.0 content.lokaplatform.com
 0.0.0.0 convdb.buysellads.com
 0.0.0.0 conversation.dev.api.driftt.com
 0.0.0.0 conv.log.go.com
@@ -1658,6 +1666,7 @@
 0.0.0.0 data.innovativemetrics.com
 0.0.0.0 data.inskinmedia.com
 0.0.0.0 data-lake-connect.k8s.region-001.p-aze-us.braze.com
+0.0.0.0 data.m-freeway.com
 0.0.0.0 dataproxy.heapanalytics.com
 0.0.0.0 dataroom.apester.com
 0.0.0.0 data-staging.scoota.co
@@ -2125,6 +2134,7 @@
 0.0.0.0 eu-pool.a.company-target.com
 0.0.0.0 eu-pool.d.company-target.com
 0.0.0.0 eu.preprod.criteo.com
+0.0.0.0 eu-rtb.loopmertb.com
 0.0.0.0 eu.services.247realmedia.com
 0.0.0.0 eu-test.addthis.com
 0.0.0.0 eu-tools.247realmedia.com
@@ -2372,6 +2382,8 @@
 0.0.0.0 g.beeketing.com
 0.0.0.0 gb-fourfour.identity.api.liveramp.com
 0.0.0.0 g.caipiao.163.com
+0.0.0.0 gc-api.loopme.com
+0.0.0.0 gc.loopme.com
 0.0.0.0 gcp-events.apester.com
 0.0.0.0 g.defold.com
 0.0.0.0 g.dlx.addthis.com
@@ -2500,6 +2512,7 @@
 0.0.0.0 hackathon.localytics.com
 0.0.0.0 hacks.chartbeat.com
 0.0.0.0 hahajknew.bnmla.com
+0.0.0.0 hal.loopme.com
 0.0.0.0 hammer.corp.com
 0.0.0.0 hannah.gmial.com
 0.0.0.0 haroldcdn.hlserve.com
@@ -2667,6 +2680,7 @@
 0.0.0.0 ikee.dev-iad.amobee.com
 0.0.0.0 ikee.qa-iad.amobee.com
 0.0.0.0 ilcvperfetto.adlegend.com
+0.0.0.0 illimity.logrocket.com
 0.0.0.0 ima.corp.com
 0.0.0.0 im.adtechus.com
 0.0.0.0 image.admedo.com
@@ -2732,8 +2746,8 @@
 0.0.0.0 ingress-test-api.newstags.stag.bounceexchange.com
 0.0.0.0 ingress-test.newstags.stag.bounceexchange.com
 0.0.0.0 iniitian.saas.appdynamics.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inneractive.dca.events.bidstalk.com
 0.0.0.0 inneractive.win.bidstalk.com
 0.0.0.0 innocraft-cloud-mars.innocraft.com
@@ -3141,6 +3155,7 @@
 0.0.0.0 logs2.appsflyer.com
 0.0.0.0 logs.freeskreen.com
 0.0.0.0 logs.getsitecontrol.com
+0.0.0.0 logs.logrocket.com
 0.0.0.0 logs.panelcz.gemius.com
 0.0.0.0 logs.panel.gemius.com
 0.0.0.0 logs.panelkz.gemius.com
@@ -3253,6 +3268,7 @@
 0.0.0.0 match.adlegend.com
 0.0.0.0 matchuseast-1393638539.us-east-1.elb.amazonaws.com
 0.0.0.0 materiais.inlocomedia.com
+0.0.0.0 materials.lokaplatform.com
 0.0.0.0 matillion.liveramp.com
 0.0.0.0 matomo.apester.com
 0.0.0.0 mattmessinger.fanbread.com
@@ -4588,6 +4604,7 @@
 0.0.0.0 rtg.clickpoint.com
 0.0.0.0 rt.infra.apester.com
 0.0.0.0 rtl_prod-bud.gravityrd-services.com
+0.0.0.0 rtmp.lokaplatform.com
 0.0.0.0 rtp.cert.acxiom.com
 0.0.0.0 rtpdemo.acxiom.com
 0.0.0.0 rts-lga-lb.contextweb.com
@@ -4815,8 +4832,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 searchcldellow.deployads.com
+0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -4934,6 +4951,7 @@
 0.0.0.0 service.stg-aws.fyber.com
 0.0.0.0 settings.firebase.crashlytics.com
 0.0.0.0 s-et.w.inmobi.cn
+0.0.0.0 sf-cci.lokaplatform.com
 0.0.0.0 sfdc.clearbit.com
 0.0.0.0 sfi.corp.com
 0.0.0.0 sfi.exacttarget.com
@@ -5144,6 +5162,8 @@
 0.0.0.0 stage.driftt.com
 0.0.0.0 stage.guce.convertro.com
 0.0.0.0 stage.mail.elfsight.com
+0.0.0.0 stage-prime-api.lootsie.com
+0.0.0.0 stage-prime-www.lootsie.com
 0.0.0.0 stager2.53.localytics.com
 0.0.0.0 stage-secure.leadback.advertising.com
 0.0.0.0 stage-www.demandbase.com
@@ -5348,6 +5368,7 @@
 0.0.0.0 tag.tag-test.beta.stag.bounceexchange.com
 0.0.0.0 tag-test-api.beta.stag.bounceexchange.com
 0.0.0.0 tag-test.beta.stag.bounceexchange.com
+0.0.0.0 tag-us.loopmertb.com
 0.0.0.0 taiwat.gmial.com
 0.0.0.0 t.ambra.com
 0.0.0.0 tando.dev-iad.amobee.com
@@ -5607,8 +5628,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -5690,6 +5711,8 @@
 0.0.0.0 trsig.silverpush.co
 0.0.0.0 tr.silverpush.co
 0.0.0.0 trueffect.adlegend.com
+0.0.0.0 trunk-front.lokaplatform.com
+0.0.0.0 trunk-front-staging.lokaplatform.com
 0.0.0.0 trunk.guce.convertro.com
 0.0.0.0 trunkstable.atlassbx.com
 0.0.0.0 try.hotjar.com
@@ -5783,8 +5806,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -5989,8 +6012,8 @@
 0.0.0.0 viewsonic.links.channelintelligence.com
 0.0.0.0 vi.gumgum.com
 0.0.0.0 vip.admaster.com.cn
-0.0.0.0 visit-backoffice.adikteev.com
 0.0.0.0 visit.backoffice.adikteev.com
+0.0.0.0 visit-backoffice.adikteev.com
 0.0.0.0 visitor-qa.activengage.com
 0.0.0.0 vivad.advertising.com
 0.0.0.0 vivad.at.atwola.com
@@ -6053,6 +6076,7 @@
 0.0.0.0 web64.jumptap.com
 0.0.0.0 web65.jumptap.com
 0.0.0.0 web-apple.intowow.com
+0.0.0.0 webapp.lootsie.com
 0.0.0.0 web.awsmppl.com
 0.0.0.0 web-beta.convertcart.com
 0.0.0.0 webc.antvoice.com
