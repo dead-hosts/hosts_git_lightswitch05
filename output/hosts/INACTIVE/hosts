@@ -1497,7 +1497,9 @@
 0.0.0.0 cn2pubdns1.coremetrics.com
 0.0.0.0 cname.getrockerbox.com
 0.0.0.0 cn.bridgewell.com
+0.0.0.0 cn-enquete.macromill.com
 0.0.0.0 cnf.altitude-arena.com
+0.0.0.0 cn-monitor.macromill.com
 0.0.0.0 cn.support.appsflyer.com
 0.0.0.0 cobis.corp.com
 0.0.0.0 co.clickpoint.com
@@ -1662,6 +1664,7 @@
 0.0.0.0 data.choice.atdmt.com
 0.0.0.0 data.cn.cmcore.com
 0.0.0.0 data-collector.streaming.adswizz.com
+0.0.0.0 dataconnect.macromill.com
 0.0.0.0 data-ftp-legacy.criteo.com
 0.0.0.0 data.innovativemetrics.com
 0.0.0.0 data.inskinmedia.com
@@ -1761,10 +1764,12 @@
 0.0.0.0 demo5.instartlogic.com
 0.0.0.0 demo7.instartlogic.com
 0.0.0.0 demo8.instartlogic.com
+0.0.0.0 demo-admin.macromill.com
 0.0.0.0 demo-api.adsnative.com
 0.0.0.0 demo-api.newstags.stag.bounceexchange.com
 0.0.0.0 democraticpeoplemeet.adlegend.com
 0.0.0.0 demo-jp.adlearnop.advertising.com
+0.0.0.0 demo-monitor.macromill.com
 0.0.0.0 demon2.dev-iad.amobee.com
 0.0.0.0 demoralize-api.beta.stag.bounceexchange.com
 0.0.0.0 demoralize.beta.stag.bounceexchange.com
@@ -1822,6 +1827,7 @@
 0.0.0.0 dev.discovery.uu.163.com
 0.0.0.0 dev.districtm.ca
 0.0.0.0 dev-dockerhub.corp.inmobi.com
+0.0.0.0 develop.dataconnect.macromill.com
 0.0.0.0 developers-test.amplitude.com
 0.0.0.0 development.blis.com
 0.0.0.0 development.knightbridge.acxiom.com
@@ -2153,8 +2159,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2663,8 +2669,8 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -4179,8 +4185,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -5628,8 +5634,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -5806,8 +5812,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -6485,6 +6491,7 @@
 0.0.0.0 www.cmd--corp.com
 0.0.0.0 www.cms-xch-chicago.33across.com
 0.0.0.0 www.cn.bridgewell.com
+0.0.0.0 www.cn.macromill.com
 0.0.0.0 www.cntr.adrcntr.com
 0.0.0.0 www.coadvertise.com
 0.0.0.0 www.code.deadlinefunnel.com
