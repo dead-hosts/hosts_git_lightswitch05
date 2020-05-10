@@ -773,8 +773,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b3.greatarcadehits.com
@@ -1852,8 +1852,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2066,6 +2066,7 @@
 0.0.0.0 gem.corp.inmobi.com
 0.0.0.0 gem.criteo.com
 0.0.0.0 gemini.acxiom.com
+0.0.0.0 generic-tarball.corp.inmobi.com
 0.0.0.0 gen.exoclick.com
 0.0.0.0 geniee.hkg.events.bidstalk.com
 0.0.0.0 genxpeoplemeet.adlegend.com
@@ -2084,6 +2085,7 @@
 0.0.0.0 ght.gmial.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
 0.0.0.0 gitea.convertcart.com
+0.0.0.0 github.corp.inmobi.com
 0.0.0.0 gitz.adform.com
 0.0.0.0 gkng.ayads.co
 0.0.0.0 gl-7001dc16.curalate.com
@@ -2271,6 +2273,7 @@
 0.0.0.0 id.beeketing.com
 0.0.0.0 ideas.antvoice.com
 0.0.0.0 ideas.appcues.com
+0.0.0.0 idp.corp.inmobi.com
 0.0.0.0 idprod.acxiom.com
 0.0.0.0 idsync.districtm.ca
 0.0.0.0 idtest.acxiom.com
@@ -2336,6 +2339,7 @@
 0.0.0.0 info.datadome.co
 0.0.0.0 infonet.corp.com
 0.0.0.0 info.ny.us.criteo.com
+0.0.0.0 infosec.corp.inmobi.com
 0.0.0.0 infra.apester.com
 0.0.0.0 infra.igodigital.com
 0.0.0.0 ingest.advertising.com
@@ -2428,6 +2432,7 @@
 0.0.0.0 iqreport.adtechus.com
 0.0.0.0 iran.gmial.com
 0.0.0.0 i.reamp.com.br
+0.0.0.0 irvadcvw01.corp.inmobi.com
 0.0.0.0 isooka-sin.gravityrd-services.com
 0.0.0.0 isrpad01int.avc.acxiom.com
 0.0.0.0 isys.infusionsoft.com
@@ -2719,6 +2724,7 @@
 0.0.0.0 logs.panelmena.gemius.com
 0.0.0.0 logs.t.altitude-arena.com
 0.0.0.0 logstash-dashboard.k8s.test-001.d-usw-2.braze.com
+0.0.0.0 loki.corp.inmobi.com
 0.0.0.0 lol.gmial.com
 0.0.0.0 lombard2017111917482011.saas.appdynamics.com
 0.0.0.0 lon1.100tb.heyzap.com
@@ -3148,6 +3154,7 @@
 0.0.0.0 now.clickpoint.com
 0.0.0.0 now.gemius.com
 0.0.0.0 npc.adotube.com
+0.0.0.0 npm.corp.inmobi.com
 0.0.0.0 nrt-v4.pops.fastly-insights.com
 0.0.0.0 ns01-au.imrworldwide.com
 0.0.0.0 ns01-it.imrworldwide.com
@@ -3787,6 +3794,7 @@
 0.0.0.0 pxl.ace.advertising.com
 0.0.0.0 pxl.adroll.com
 0.0.0.0 pypal-account.awsmppl.com
+0.0.0.0 pypi.corp.inmobi.com
 0.0.0.0 q2e.channeladvisor.com
 0.0.0.0 q2e.qa.channeladvisor.com
 0.0.0.0 qa.ace.advertising.com
@@ -4246,6 +4254,7 @@
 0.0.0.0 se.clickpoint.com
 0.0.0.0 second-stag-api.newstags.stag.bounceexchange.com
 0.0.0.0 second-stag.newstags.stag.bounceexchange.com
+0.0.0.0 secrets.corp.inmobi.com
 0.0.0.0 secsite.163.com
 0.0.0.0 section.freeskreen.com
 0.0.0.0 secure.ace1.advertising.com
@@ -4346,6 +4355,7 @@
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p05.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p06.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-s50.exacttarget.com
+0.0.0.0 sfoadcpw02.corp.inmobi.com
 0.0.0.0 sftpfeed01-fr.criteo.com
 0.0.0.0 sgsdata.adtechus.com
 0.0.0.0 sg-stb.blis.com
@@ -4374,8 +4384,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -4831,6 +4841,7 @@
 0.0.0.0 tmwcaptions.rt.cquotient.com
 0.0.0.0 tmw.hansel.cquotient.com
 0.0.0.0 tmw.rt.cquotient.com
+0.0.0.0 token.corp.inmobi.com
 0.0.0.0 tomo.qa-iad.amobee.com
 0.0.0.0 tonton.qa-iad.amobee.com
 0.0.0.0 tools.acs--corp.com
@@ -4879,8 +4890,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -5759,6 +5770,7 @@
 0.0.0.0 www.in.admedia.com
 0.0.0.0 www.info.amplitude.com
 0.0.0.0 www.info.engagio.com
+0.0.0.0 www.infosec.corp.inmobi.com
 0.0.0.0 www.inside.getambassador.com
 0.0.0.0 www.insights.evidon.com
 0.0.0.0 www.integration.foreseeresults.com
@@ -5795,6 +5807,7 @@
 0.0.0.0 www.login-dev.amobee.com
 0.0.0.0 www.log.intellimize.co
 0.0.0.0 www.log.reflow.co
+0.0.0.0 www.loki.corp.inmobi.com
 0.0.0.0 www.looker.amobee.com
 0.0.0.0 www.lookup.bluecava.com
 0.0.0.0 www.lyncdiscover.gmial.com
@@ -5937,6 +5950,7 @@
 0.0.0.0 www.sdk-orion.appboy.com
 0.0.0.0 www.seal.godaddy.com
 0.0.0.0 www.search.advertisingbox.com
+0.0.0.0 www.secrets.corp.inmobi.com
 0.0.0.0 www.secure0.adswizz.com
 0.0.0.0 www.secure.addthis.com
 0.0.0.0 www.secure.admailtiser.com
