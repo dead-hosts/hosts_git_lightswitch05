@@ -540,6 +540,7 @@
 0.0.0.0 api-dev2.social.conviva.com
 0.0.0.0 api-dev.demandbase.com
 0.0.0.0 api-dev.ensighten.com
+0.0.0.0 api.dev.inskinmedia.com
 0.0.0.0 api.dna.247realmedia.com
 0.0.0.0 api-doc.adtechus.com
 0.0.0.0 api.driftt.com
@@ -554,12 +555,14 @@
 0.0.0.0 api.g.caipiao.163.com
 0.0.0.0 api.getadmiral.com
 0.0.0.0 api.getrockerbox.com
+0.0.0.0 api.inskinmedia.com
 0.0.0.0 api.int.drift.com
 0.0.0.0 api.intel.dynamicyield.com
 0.0.0.0 api.lapresse.adgear.com
 0.0.0.0 api.lapresse-staging.adgear.com
 0.0.0.0 ap.impdesk.com
 0.0.0.0 api.poc.exacttarget.com
+0.0.0.0 api.portal.staging2.inskinmedia.com
 0.0.0.0 api.productdata.awin.com
 0.0.0.0 api.pt.163.com
 0.0.0.0 api-public-fast.addthis.com
@@ -781,8 +784,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b3.greatarcadehits.com
@@ -869,6 +872,8 @@
 0.0.0.0 beta-app.infusionsoft.com
 0.0.0.0 beta.channeladvisor.com
 0.0.0.0 beta.crashlytics.com
+0.0.0.0 beta.creatorapi.inskinmedia.com
+0.0.0.0 beta.creator.inskinmedia.com
 0.0.0.0 beta.data.native.ai
 0.0.0.0 beta.f.adbull.com
 0.0.0.0 beta.getsentry.com
@@ -1153,6 +1158,7 @@
 0.0.0.0 cdn.imrworldwide.com
 0.0.0.0 cdn.inmobi.com
 0.0.0.0 cdn.innity.com
+0.0.0.0 cdn.inskinmedia.com
 0.0.0.0 cdn.ish.atdmt.com
 0.0.0.0 cdnl.toolbar.complex.com
 0.0.0.0 cdn-minisite.fortvision.com
@@ -1374,8 +1380,10 @@
 0.0.0.0 creativeassets.highcdn.brainient.com
 0.0.0.0 creative.bidstalk.com
 0.0.0.0 creativecentral.advertising.com
+0.0.0.0 creative.inskinmedia.com
 0.0.0.0 creativepreview.ui.awin.com
 0.0.0.0 creative.skyrocket.adtdp.com
+0.0.0.0 creatorapi.inskinmedia.com
 0.0.0.0 crm.antvoice.com
 0.0.0.0 crmapi.idsp.inmobi.com
 0.0.0.0 crownandcaliber.adlegend.com
@@ -1448,6 +1456,7 @@
 0.0.0.0 data-collector.streaming.adswizz.com
 0.0.0.0 data-ftp-legacy.criteo.com
 0.0.0.0 data.innovativemetrics.com
+0.0.0.0 data.inskinmedia.com
 0.0.0.0 data-lake-connect.k8s.region-001.p-aze-us.braze.com
 0.0.0.0 dataproxy.heapanalytics.com
 0.0.0.0 dataroom.apester.com
@@ -1577,6 +1586,8 @@
 0.0.0.0 dev.chartbeat.com
 0.0.0.0 dev.cjadsystems.dotomi.com
 0.0.0.0 dev.coadvertise.com
+0.0.0.0 dev.creatorapi.inskinmedia.com
+0.0.0.0 dev.creator.inskinmedia.com
 0.0.0.0 dev.darkroomstaticwebsitedev.analytics.console.aws.a2z.com
 0.0.0.0 dev-dashboard.datadome.co
 0.0.0.0 dev.dashboard.gumgum.com
@@ -1596,6 +1607,7 @@
 0.0.0.0 dev.forter.com
 0.0.0.0 dev-front.register.criteo.com
 0.0.0.0 dev-health.register.criteo.com
+0.0.0.0 dev.inskinmedia.com
 0.0.0.0 dev.itown.163.com
 0.0.0.0 dev-j-serval.adtdp.com
 0.0.0.0 dev-k8s.beeketing.com
@@ -1607,9 +1619,13 @@
 0.0.0.0 devopspro.adform.com
 0.0.0.0 dev.pixel.fuel451.com
 0.0.0.0 dev-playground.scoota.co
+0.0.0.0 dev.portalapi.inskinmedia.com
+0.0.0.0 dev.portal.inskinmedia.com
 0.0.0.0 dev.rebel.ai
 0.0.0.0 dev-rec.aralego.com
 0.0.0.0 dev.redirection.adtz.com
+0.0.0.0 dev.reportsapi.inskinmedia.com
+0.0.0.0 dev.reports.inskinmedia.com
 0.0.0.0 dev.saastest.appdynamics.com
 0.0.0.0 dev.smedia.ca
 0.0.0.0 dev.unir.facebook-ads.adtz.com
@@ -1720,6 +1736,8 @@
 0.0.0.0 dummysan3.247realmedia.com
 0.0.0.0 durham.gmial.com
 0.0.0.0 dvd.aertb.com
+0.0.0.0 dv.innovid.com
+0.0.0.0 dvma.innovid.com
 0.0.0.0 dw.adsafeprotected.com
 0.0.0.0 dy-eks-dev.dynamicyield.com
 0.0.0.0 dy-eks-prod.dynamicyield.com
@@ -1821,6 +1839,8 @@
 0.0.0.0 en.support.appsflyer.com
 0.0.0.0 enterprise-cname.bannersnack.com
 0.0.0.0 enterpriseenrollment.gmial.com
+0.0.0.0 eoc-report.development.inskinmedia.com
+0.0.0.0 eoc-report.dev.inskinmedia.com
 0.0.0.0 ep-apsoutheast.ifc.inmobi.com
 0.0.0.0 ep-euwest.ifc.inmobi.com
 0.0.0.0 ep.ifc.inmobi.com
@@ -2281,6 +2301,7 @@
 0.0.0.0 html5toolkit.adform.com
 0.0.0.0 html.aggregateknowledge.com
 0.0.0.0 html.agkn.com
+0.0.0.0 hub.staging2.inskinmedia.com
 0.0.0.0 humanunlimited.dc.ignitionone.com
 0.0.0.0 humanunlimited.t.ignitionone.com
 0.0.0.0 hunterdouglas.dc.ignitionone.com
@@ -2320,10 +2341,10 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -3643,7 +3664,9 @@
 0.0.0.0 pops.staging.fastly-insights.com
 0.0.0.0 pops.test.fastly-insights.com
 0.0.0.0 popups.ad-logics.com
+0.0.0.0 portal2.inskinmedia.com
 0.0.0.0 portal-answerscloud-com.lb.foreseeresults.com
+0.0.0.0 portalapi.inskinmedia.com
 0.0.0.0 portal-fynd.headlinerlabs.com
 0.0.0.0 post.update.criteo.com
 0.0.0.0 pr-a.adtechus.com
@@ -4035,7 +4058,9 @@
 0.0.0.0 reports.admanmedia.com
 0.0.0.0 reports.admotion.com
 0.0.0.0 reports.advertising.com
+0.0.0.0 reportsapi.inskinmedia.com
 0.0.0.0 reports.appsflyer.com
+0.0.0.0 reports.dev.inskinmedia.com
 0.0.0.0 reports.dm.channelintelligence.com
 0.0.0.0 reports.dna.247realmedia.com
 0.0.0.0 reports.jp.advertising.com
@@ -4267,6 +4292,7 @@
 0.0.0.0 scd.ingest.at.atwola.com
 0.0.0.0 scdn.mm.atwola.com
 0.0.0.0 scexp001.exelator.com
+0.0.0.0 scheduler.dev.inskinmedia.com
 0.0.0.0 scheduler.foresee.com
 0.0.0.0 schedule.vidconlab.acxiom.com
 0.0.0.0 schemas.amoad.com
@@ -4410,6 +4436,7 @@
 0.0.0.0 sfdc.clearbit.com
 0.0.0.0 sfi.corp.com
 0.0.0.0 sfi.exacttarget.com
+0.0.0.0 s-file.innovid.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p01.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p02.exacttarget.com
 0.0.0.0 sfmc-docker-prod-local.artifactory-xt-p03.exacttarget.com
@@ -4616,6 +4643,8 @@
 0.0.0.0 staging.bounceexchange.com
 0.0.0.0 staging.bytegain.com
 0.0.0.0 staging-console-cdn.appnexus.com
+0.0.0.0 staging.creatorapi.inskinmedia.com
+0.0.0.0 staging.creator.inskinmedia.com
 0.0.0.0 staging.demandbase.com
 0.0.0.0 staging-dps.adotmob.com
 0.0.0.0 staging.extremereach.com
@@ -5121,8 +5150,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -5756,6 +5785,7 @@
 0.0.0.0 www.cpmcontrol.adk2x.com
 0.0.0.0 www.crash-metrics.sdk.inmobi.cn
 0.0.0.0 www.crash-metrics.sdk.inmobi.com
+0.0.0.0 www.crb.innovid.com
 0.0.0.0 www.crmapi.idsp.inmobi.com
 0.0.0.0 www.crm-preview.dynamicyield.com
 0.0.0.0 www.crux.cloud.inmobi.com
@@ -5828,6 +5858,7 @@
 0.0.0.0 www.events.advidi.com
 0.0.0.0 www.events.amplitude.com
 0.0.0.0 www.events.foreseeresults.com
+0.0.0.0 www.events.innovid.com
 0.0.0.0 www.evt.adrcntr.com
 0.0.0.0 www.ext.dynamicyield.com
 0.0.0.0 www.extranet.dotomi.com
@@ -6052,6 +6083,7 @@
 0.0.0.0 www.platform.blismedia.com
 0.0.0.0 www.platform.ifc.inmobi.com
 0.0.0.0 www.player.h-cdn.com
+0.0.0.0 www.player.innovid.com
 0.0.0.0 www.plds4001.grid.dfw1.inmobi.com
 0.0.0.0 www.plds4010.grid.dfw1.inmobi.com
 0.0.0.0 www.pmo01-tech.amobee.com
@@ -6065,6 +6097,7 @@
 0.0.0.0 www.prclick.inmobi.com
 0.0.0.0 www.presentation.analyticson.com
 0.0.0.0 www-preview.bugsnag.com
+0.0.0.0 www.priority.innovid.com
 0.0.0.0 www.prod.sea.geoservice.inmobi.com
 0.0.0.0 www.prod.useast.geoservice.inmobi.com
 0.0.0.0 www.promo.amplitude.com
@@ -6215,6 +6248,7 @@
 0.0.0.0 www.support-test.dynamicyield.com
 0.0.0.0 www.survey.bannersnack.com
 0.0.0.0 www.survey.foreseeresults.com
+0.0.0.0 www.surveys.insightexpressai.com
 0.0.0.0 www.sutdio.glance.inmobi.com
 0.0.0.0 www.sweeney.appboy.com
 0.0.0.0 www-tabletopstrategies-com.fanbread.com
@@ -6299,6 +6333,7 @@
 0.0.0.0 www.xml.adventurefeeds.com
 0.0.0.0 www.xray.corp.inmobi.com
 0.0.0.0 www.ya.clickpoint.com
+0.0.0.0 www.your-surveys.insightexpressai.com
 0.0.0.0 www.z.deadlinefunnel.com
 0.0.0.0 www.zentr.cc
 0.0.0.0 www.zulip.dynamicyield.com

@@ -540,6 +540,7 @@ api-dev1.social.conviva.com
 api-dev2.social.conviva.com
 api-dev.demandbase.com
 api-dev.ensighten.com
+api.dev.inskinmedia.com
 api.dna.247realmedia.com
 api-doc.adtechus.com
 api.driftt.com
@@ -554,12 +555,14 @@ api.fuel451.com
 api.g.caipiao.163.com
 api.getadmiral.com
 api.getrockerbox.com
+api.inskinmedia.com
 api.int.drift.com
 api.intel.dynamicyield.com
 api.lapresse.adgear.com
 api.lapresse-staging.adgear.com
 ap.impdesk.com
 api.poc.exacttarget.com
+api.portal.staging2.inskinmedia.com
 api.productdata.awin.com
 api.pt.163.com
 api-public-fast.addthis.com
@@ -781,8 +784,8 @@ azjdt.adsafeprotected.com
 azjsc.iasds01.com
 azkaban.adwyze.com
 azores.corp.com
-b1473-k8s.dev-iad.amobee.com
 b-1473-k8s.dev-iad.amobee.com
+b1473-k8s.dev-iad.amobee.com
 b3.arcadeyum.com
 b3.crusharcade.com
 b3.greatarcadehits.com
@@ -869,6 +872,8 @@ beta.api.adlearnop.advertising.com
 beta-app.infusionsoft.com
 beta.channeladvisor.com
 beta.crashlytics.com
+beta.creatorapi.inskinmedia.com
+beta.creator.inskinmedia.com
 beta.data.native.ai
 beta.f.adbull.com
 beta.getsentry.com
@@ -1153,6 +1158,7 @@ cdn.imgsniper.com
 cdn.imrworldwide.com
 cdn.inmobi.com
 cdn.innity.com
+cdn.inskinmedia.com
 cdn.ish.atdmt.com
 cdnl.toolbar.complex.com
 cdn-minisite.fortvision.com
@@ -1374,8 +1380,10 @@ creative.agkn.com
 creativeassets.highcdn.brainient.com
 creative.bidstalk.com
 creativecentral.advertising.com
+creative.inskinmedia.com
 creativepreview.ui.awin.com
 creative.skyrocket.adtdp.com
+creatorapi.inskinmedia.com
 crm.antvoice.com
 crmapi.idsp.inmobi.com
 crownandcaliber.adlegend.com
@@ -1448,6 +1456,7 @@ data.cn.cmcore.com
 data-collector.streaming.adswizz.com
 data-ftp-legacy.criteo.com
 data.innovativemetrics.com
+data.inskinmedia.com
 data-lake-connect.k8s.region-001.p-aze-us.braze.com
 dataproxy.heapanalytics.com
 dataroom.apester.com
@@ -1577,6 +1586,8 @@ dev.channeladvisor.com
 dev.chartbeat.com
 dev.cjadsystems.dotomi.com
 dev.coadvertise.com
+dev.creatorapi.inskinmedia.com
+dev.creator.inskinmedia.com
 dev.darkroomstaticwebsitedev.analytics.console.aws.a2z.com
 dev-dashboard.datadome.co
 dev.dashboard.gumgum.com
@@ -1596,6 +1607,7 @@ dev.extremereach.com
 dev.forter.com
 dev-front.register.criteo.com
 dev-health.register.criteo.com
+dev.inskinmedia.com
 dev.itown.163.com
 dev-j-serval.adtdp.com
 dev-k8s.beeketing.com
@@ -1607,9 +1619,13 @@ dev.oauth.getadmiral.com
 devopspro.adform.com
 dev.pixel.fuel451.com
 dev-playground.scoota.co
+dev.portalapi.inskinmedia.com
+dev.portal.inskinmedia.com
 dev.rebel.ai
 dev-rec.aralego.com
 dev.redirection.adtz.com
+dev.reportsapi.inskinmedia.com
+dev.reports.inskinmedia.com
 dev.saastest.appdynamics.com
 dev.smedia.ca
 dev.unir.facebook-ads.adtz.com
@@ -1720,6 +1736,8 @@ dummysan2.247realmedia.com
 dummysan3.247realmedia.com
 durham.gmial.com
 dvd.aertb.com
+dv.innovid.com
+dvma.innovid.com
 dw.adsafeprotected.com
 dy-eks-dev.dynamicyield.com
 dy-eks-prod.dynamicyield.com
@@ -1821,6 +1839,8 @@ en-studiotraining.inmobi.com
 en.support.appsflyer.com
 enterprise-cname.bannersnack.com
 enterpriseenrollment.gmial.com
+eoc-report.development.inskinmedia.com
+eoc-report.dev.inskinmedia.com
 ep-apsoutheast.ifc.inmobi.com
 ep-euwest.ifc.inmobi.com
 ep.ifc.inmobi.com
@@ -1885,8 +1905,8 @@ eu-west-3.gamma.analytics.console.aws.a2z.com
 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 eu-west-3.prod.analytics.console.aws.a2z.com
 event.adserver.adikteev.com
-event.backoffice.adikteev.com
 event-backoffice.adikteev.com
+event.backoffice.adikteev.com
 event.bidstalk.com
 event.cmp.advertising.com
 event-dev.api.driftt.com
@@ -2281,6 +2301,7 @@ hsi.gmial.com
 html5toolkit.adform.com
 html.aggregateknowledge.com
 html.agkn.com
+hub.staging2.inskinmedia.com
 humanunlimited.dc.ignitionone.com
 humanunlimited.t.ignitionone.com
 hunterdouglas.dc.ignitionone.com
@@ -2320,8 +2341,8 @@ idsync.districtm.ca
 idtest.acxiom.com
 ie.corp.com
 i.essads.com
-ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
+ifc2.vip.dfw1.inmobi.com
 ifc2.vip.hkg1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
@@ -3643,7 +3664,9 @@ pops.sec.fastly-insights.com
 pops.staging.fastly-insights.com
 pops.test.fastly-insights.com
 popups.ad-logics.com
+portal2.inskinmedia.com
 portal-answerscloud-com.lb.foreseeresults.com
+portalapi.inskinmedia.com
 portal-fynd.headlinerlabs.com
 post.update.criteo.com
 pr-a.adtechus.com
@@ -3723,8 +3746,8 @@ prophet.acxiom.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 proxy.beeviewd.com
 proxy.dynamicyield.com
 proxy.prometheus.staging.fullstory.com
@@ -4035,7 +4058,9 @@ reports.adconion.com
 reports.admanmedia.com
 reports.admotion.com
 reports.advertising.com
+reportsapi.inskinmedia.com
 reports.appsflyer.com
+reports.dev.inskinmedia.com
 reports.dm.channelintelligence.com
 reports.dna.247realmedia.com
 reports.jp.advertising.com
@@ -4267,6 +4292,7 @@ scam.beta.stag.bounceexchange.com
 scd.ingest.at.atwola.com
 scdn.mm.atwola.com
 scexp001.exelator.com
+scheduler.dev.inskinmedia.com
 scheduler.foresee.com
 schedule.vidconlab.acxiom.com
 schemas.amoad.com
@@ -4305,8 +4331,8 @@ seagate.links.channelintelligence.com
 sean.ittest.33across.com
 search.advertisingbox.com
 search.at.atwola.com
-search-cldellow.deployads.com
 searchcldellow.deployads.com
+search-cldellow.deployads.com
 search.deployads.com
 search.igodigital.com
 searsoutlet.rdr.channelintelligence.com
@@ -4410,6 +4436,7 @@ s-et.w.inmobi.cn
 sfdc.clearbit.com
 sfi.corp.com
 sfi.exacttarget.com
+s-file.innovid.com
 sfmc-docker-prod-local.artifactory-xt-p01.exacttarget.com
 sfmc-docker-prod-local.artifactory-xt-p02.exacttarget.com
 sfmc-docker-prod-local.artifactory-xt-p03.exacttarget.com
@@ -4446,8 +4473,8 @@ sip.awsmppl.com
 sipexternal.foresee.com
 sipexternal.gmial.com
 _sipfederationtls._tcp.admedia.com
-_sipfederationtls._tcp.gmial.com
 sipfederationtls.tcp.gmial.com
+_sipfederationtls._tcp.gmial.com
 sip.gmial.com
 sipinternal.gmial.com
 siri.adwyze.com
@@ -4616,6 +4643,8 @@ staging.bizible.com
 staging.bounceexchange.com
 staging.bytegain.com
 staging-console-cdn.appnexus.com
+staging.creatorapi.inskinmedia.com
+staging.creator.inskinmedia.com
 staging.demandbase.com
 staging-dps.adotmob.com
 staging.extremereach.com
@@ -5121,8 +5150,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-1.tr.blismedia.com
@@ -5298,8 +5327,8 @@ view.skyrocket.adtdp.com
 viewsonic.links.channelintelligence.com
 vi.gumgum.com
 vip.admaster.com.cn
-visit.backoffice.adikteev.com
 visit-backoffice.adikteev.com
+visit.backoffice.adikteev.com
 visitor-qa.activengage.com
 vivad.advertising.com
 vivad.at.atwola.com
@@ -5756,6 +5785,7 @@ www.cpanel06.c3metrics.com
 www.cpmcontrol.adk2x.com
 www.crash-metrics.sdk.inmobi.cn
 www.crash-metrics.sdk.inmobi.com
+www.crb.innovid.com
 www.crmapi.idsp.inmobi.com
 www.crm-preview.dynamicyield.com
 www.crux.cloud.inmobi.com
@@ -5828,6 +5858,7 @@ www.et-integration.dynamicyield.com
 www.events.advidi.com
 www.events.amplitude.com
 www.events.foreseeresults.com
+www.events.innovid.com
 www.evt.adrcntr.com
 www.ext.dynamicyield.com
 www.extranet.dotomi.com
@@ -6052,6 +6083,7 @@ www.platform.amobee.com
 www.platform.blismedia.com
 www.platform.ifc.inmobi.com
 www.player.h-cdn.com
+www.player.innovid.com
 www.plds4001.grid.dfw1.inmobi.com
 www.plds4010.grid.dfw1.inmobi.com
 www.pmo01-tech.amobee.com
@@ -6065,6 +6097,7 @@ www.ppd.clrstm.com
 www.prclick.inmobi.com
 www.presentation.analyticson.com
 www-preview.bugsnag.com
+www.priority.innovid.com
 www.prod.sea.geoservice.inmobi.com
 www.prod.useast.geoservice.inmobi.com
 www.promo.amplitude.com
@@ -6215,6 +6248,7 @@ www.support-staging.dynamicyield.com
 www.support-test.dynamicyield.com
 www.survey.bannersnack.com
 www.survey.foreseeresults.com
+www.surveys.insightexpressai.com
 www.sutdio.glance.inmobi.com
 www.sweeney.appboy.com
 www-tabletopstrategies-com.fanbread.com
@@ -6299,6 +6333,7 @@ www.xadchina.cn
 www.xml.adventurefeeds.com
 www.xray.corp.inmobi.com
 www.ya.clickpoint.com
+www.your-surveys.insightexpressai.com
 www.z.deadlinefunnel.com
 www.zentr.cc
 www.zulip.dynamicyield.com
