@@ -657,6 +657,7 @@ asset4.fyber.com
 asset-cdn.conductrics.com
 assets1.brightedge.com
 assets2.brightedge.com
+assets2.huluim.com
 assets3.brightedge.com
 assets.adtechus.com
 assets.applvn.com
@@ -677,6 +678,7 @@ atwola-sb-ec.adtechus.com
 atwola-sb-wc.adtechus.com
 atxd.adgear.com
 au.clickpoint.com
+audgo.httptrack.com
 audible.sp1.convertro.com
 audiences-phx-b.bluekai.com
 audiences-qa-iad.bluekai.com
@@ -741,8 +743,8 @@ azadt.adsafeprotected.com
 azjdt.adsafeprotected.com
 azkaban.adwyze.com
 azores.corp.com
-b1473-k8s.dev-iad.amobee.com
 b-1473-k8s.dev-iad.amobee.com
+b1473-k8s.dev-iad.amobee.com
 b3.arcadeyum.com
 b3.crusharcade.com
 b3.greatarcadehits.com
@@ -3203,6 +3205,7 @@ origin.adlegend.com
 origin-akamai-members.s50.exacttarget.com
 origin-auth.s2.qa3.exacttarget.com
 origin.craft.advertising.com
+origin-ib.els.huluim.com
 origin.uac.advertising.com
 origin-vlibs.advertising.com
 origo-bud.gravityrd-services.com
@@ -3513,8 +3516,8 @@ prophet.acxiom.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 proxy.beeviewd.com
 proxy.dynamicyield.com
 proxy.prometheus.staging.fullstory.com
@@ -4418,8 +4421,10 @@ static.beeviewd.com
 static.black.erne.co
 static.blue.erne.co
 static.dasha.apester.com
+static-edgecast.hotjar.com
 static.gold.erne.co
 static.grey.erne.co
+static-sio.hotjar.com
 static-ssl.exoclick.com
 static.tagoo.cc
 static.tagoo.co
@@ -4488,6 +4493,7 @@ support-test.dynamicyield.com
 survey.foreseeresults.com.lb.foreseeresults.com
 surveymonkey.sp1.convertro.com
 survey-qa.foreseeresults.com
+surveys-split.hotjar.com
 svc.smrt.as
 svr1.bridgewell.com
 svr1.east.cloud.ftp.extremereach.com
@@ -4604,6 +4610,7 @@ test-dex-k8s.dev-iad.amobee.com
 teste.teste.aunica.com
 test-foo.dev-iad.amobee.com
 test.freeskreen.com
+test.hotjar.com
 test-k8s.dev-iad.amobee.com
 test.k8s.test-002.d-usw-2.braze.com
 test.king.163.com
@@ -4669,6 +4676,9 @@ tr2.fuel451.com
 trace.antvoice.com
 trace.beeketing.com
 trace-preprod.antvoice.com
+track11.httptrack.com
+track1.httptrack.com
+track2.httptrack.com
 track6.aniview.com
 track.adello.com
 track.adview.com
@@ -4696,8 +4706,8 @@ transfer.bluecava.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel-productads.hlserve.com
 travel.productads.hlserve.com
+travel-productads.hlserve.com
 tr.bnmla.com
 trdev.fuel451.com
 tr.gcp.blis.com
@@ -4710,6 +4720,7 @@ tr.silverpush.co
 trueffect.adlegend.com
 trunk.guce.convertro.com
 trunkstable.atlassbx.com
+try.hotjar.com
 tsapi-e.brsrvr.com
 ts.flurry.com
 tstorage.elfsight.com
@@ -4787,8 +4798,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.analytics.console.aws.a2z.com
+us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-1.tr.blismedia.com
@@ -4866,6 +4877,9 @@ vaes-preprod.pdx.amazon-adsystem.com
 vankman.acxiom.com
 vansoft.corp.com
 vapi.connatix.com
+vars-edgecast.hotjar.com
+vars-sio.hotjar.com
+vars-staging-test.hotjar.com
 va.saas.appdynamics.com
 vast.adsnative.com
 vast-f10-de.digitmate.bid
@@ -5396,6 +5410,7 @@ www.discover.deviceatlas.com
 www.displayincloud2.adk2x.com
 www.diveschool.engagio.com
 www.divvycloud.cbsi.com
+www.doppler.hulu.com
 www.dsp.analyticson.com
 www.dtzads.com
 www.dynamic.adcrowd.com
@@ -5491,6 +5506,7 @@ www.link.dynamicyield.com
 www.livepass.conviva.com
 www.livepassdl.conviva.com
 www.livepassdl.secure.conviva.com
+www.livethumb.huluim.com
 www.load.exelator.com
 www.local.attributionapp.com
 www.log.getadblock.com
@@ -5757,6 +5773,7 @@ www.vast.doubleverify.com
 www.vastproxy.brand.inmobi.cn
 www.vds.fingereach.com
 www.velis.adk2x.com
+www.vortex.hulu.com
 www.vpaid.adsafeprotected.com
 www.vpaid.doubleverify.com
 www.vpn2.govops.appdynamics.com

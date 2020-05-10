@@ -657,6 +657,7 @@
 0.0.0.0 asset-cdn.conductrics.com
 0.0.0.0 assets1.brightedge.com
 0.0.0.0 assets2.brightedge.com
+0.0.0.0 assets2.huluim.com
 0.0.0.0 assets3.brightedge.com
 0.0.0.0 assets.adtechus.com
 0.0.0.0 assets.applvn.com
@@ -677,6 +678,7 @@
 0.0.0.0 atwola-sb-wc.adtechus.com
 0.0.0.0 atxd.adgear.com
 0.0.0.0 au.clickpoint.com
+0.0.0.0 audgo.httptrack.com
 0.0.0.0 audible.sp1.convertro.com
 0.0.0.0 audiences-phx-b.bluekai.com
 0.0.0.0 audiences-qa-iad.bluekai.com
@@ -1780,8 +1782,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -3203,6 +3205,7 @@
 0.0.0.0 origin-akamai-members.s50.exacttarget.com
 0.0.0.0 origin-auth.s2.qa3.exacttarget.com
 0.0.0.0 origin.craft.advertising.com
+0.0.0.0 origin-ib.els.huluim.com
 0.0.0.0 origin.uac.advertising.com
 0.0.0.0 origin-vlibs.advertising.com
 0.0.0.0 origo-bud.gravityrd-services.com
@@ -4077,8 +4080,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 searchcldellow.deployads.com
+0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
 0.0.0.0 sears.rdr.channelintelligence.com
@@ -4212,8 +4215,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sipfederationtls.tcp.gmial.com
+0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -4418,8 +4421,10 @@
 0.0.0.0 static.black.erne.co
 0.0.0.0 static.blue.erne.co
 0.0.0.0 static.dasha.apester.com
+0.0.0.0 static-edgecast.hotjar.com
 0.0.0.0 static.gold.erne.co
 0.0.0.0 static.grey.erne.co
+0.0.0.0 static-sio.hotjar.com
 0.0.0.0 static-ssl.exoclick.com
 0.0.0.0 static.tagoo.cc
 0.0.0.0 static.tagoo.co
@@ -4488,6 +4493,7 @@
 0.0.0.0 survey.foreseeresults.com.lb.foreseeresults.com
 0.0.0.0 surveymonkey.sp1.convertro.com
 0.0.0.0 survey-qa.foreseeresults.com
+0.0.0.0 surveys-split.hotjar.com
 0.0.0.0 svc.smrt.as
 0.0.0.0 svr1.bridgewell.com
 0.0.0.0 svr1.east.cloud.ftp.extremereach.com
@@ -4604,6 +4610,7 @@
 0.0.0.0 teste.teste.aunica.com
 0.0.0.0 test-foo.dev-iad.amobee.com
 0.0.0.0 test.freeskreen.com
+0.0.0.0 test.hotjar.com
 0.0.0.0 test-k8s.dev-iad.amobee.com
 0.0.0.0 test.k8s.test-002.d-usw-2.braze.com
 0.0.0.0 test.king.163.com
@@ -4669,6 +4676,9 @@
 0.0.0.0 trace.antvoice.com
 0.0.0.0 trace.beeketing.com
 0.0.0.0 trace-preprod.antvoice.com
+0.0.0.0 track11.httptrack.com
+0.0.0.0 track1.httptrack.com
+0.0.0.0 track2.httptrack.com
 0.0.0.0 track6.aniview.com
 0.0.0.0 track.adello.com
 0.0.0.0 track.adview.com
@@ -4710,6 +4720,7 @@
 0.0.0.0 trueffect.adlegend.com
 0.0.0.0 trunk.guce.convertro.com
 0.0.0.0 trunkstable.atlassbx.com
+0.0.0.0 try.hotjar.com
 0.0.0.0 tsapi-e.brsrvr.com
 0.0.0.0 ts.flurry.com
 0.0.0.0 tstorage.elfsight.com
@@ -4866,6 +4877,9 @@
 0.0.0.0 vankman.acxiom.com
 0.0.0.0 vansoft.corp.com
 0.0.0.0 vapi.connatix.com
+0.0.0.0 vars-edgecast.hotjar.com
+0.0.0.0 vars-sio.hotjar.com
+0.0.0.0 vars-staging-test.hotjar.com
 0.0.0.0 va.saas.appdynamics.com
 0.0.0.0 vast.adsnative.com
 0.0.0.0 vast-f10-de.digitmate.bid
@@ -4958,8 +4972,8 @@
 0.0.0.0 viewsonic.links.channelintelligence.com
 0.0.0.0 vi.gumgum.com
 0.0.0.0 vip.admaster.com.cn
-0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visit-backoffice.adikteev.com
+0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visitor-qa.activengage.com
 0.0.0.0 vivad.advertising.com
 0.0.0.0 vivad.at.atwola.com
@@ -5396,6 +5410,7 @@
 0.0.0.0 www.displayincloud2.adk2x.com
 0.0.0.0 www.diveschool.engagio.com
 0.0.0.0 www.divvycloud.cbsi.com
+0.0.0.0 www.doppler.hulu.com
 0.0.0.0 www.dsp.analyticson.com
 0.0.0.0 www.dtzads.com
 0.0.0.0 www.dynamic.adcrowd.com
@@ -5491,6 +5506,7 @@
 0.0.0.0 www.livepass.conviva.com
 0.0.0.0 www.livepassdl.conviva.com
 0.0.0.0 www.livepassdl.secure.conviva.com
+0.0.0.0 www.livethumb.huluim.com
 0.0.0.0 www.load.exelator.com
 0.0.0.0 www.local.attributionapp.com
 0.0.0.0 www.log.getadblock.com
@@ -5757,6 +5773,7 @@
 0.0.0.0 www.vastproxy.brand.inmobi.cn
 0.0.0.0 www.vds.fingereach.com
 0.0.0.0 www.velis.adk2x.com
+0.0.0.0 www.vortex.hulu.com
 0.0.0.0 www.vpaid.adsafeprotected.com
 0.0.0.0 www.vpaid.doubleverify.com
 0.0.0.0 www.vpn2.govops.appdynamics.com
