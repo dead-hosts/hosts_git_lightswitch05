@@ -186,6 +186,7 @@
 0.0.0.0 ads.beeketing.com
 0.0.0.0 ads.brainient.com
 0.0.0.0 ads.buysellads.com
+0.0.0.0 ads-cluster.rd.linksynergy.com
 0.0.0.0 ads-direct-wc.adaptv.advertising.com
 0.0.0.0 ads.dynamicyield.com
 0.0.0.0 ads-east-colo.adsymptotic.com
@@ -676,6 +677,8 @@
 0.0.0.0 ap-south-1.gamma.analytics.console.aws.a2z.com
 0.0.0.0 ap-south-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 ap-south-1.prod.analytics.console.aws.a2z.com
+0.0.0.0 ap-southeast-1.dmp-api.ads.linkedin.com
+0.0.0.0 ap-southeast-1.dmp-api-dev.ads.linkedin.com
 0.0.0.0 ap-southeast-1.gamma.analytics.console.aws.a2z.com
 0.0.0.0 ap-southeast-1.prod.analytics.console.aws.a2z.com
 0.0.0.0 ap-southeast-2.gamma.analytics.console.aws.a2z.com
@@ -694,6 +697,7 @@
 0.0.0.0 arch.awsmppl.com
 0.0.0.0 archives.adlegend.com
 0.0.0.0 ar.clickpoint.com
+0.0.0.0 areport.linksynergy.com
 0.0.0.0 a.rockabox.co
 0.0.0.0 artifactory-xt-p01.exacttarget.com
 0.0.0.0 artifactory-xt-p02.exacttarget.com
@@ -767,6 +771,7 @@
 0.0.0.0 auth.global.exacttarget.com
 0.0.0.0 auth.infra.apester.com
 0.0.0.0 auth.iponweb.com
+0.0.0.0 auth.linksynergy.com
 0.0.0.0 auth.meeting.abtasty.com
 0.0.0.0 authorisation.analyticson.com
 0.0.0.0 authorization.affiliates.advidi.com
@@ -1304,6 +1309,7 @@
 0.0.0.0 cflb.convertcart.com
 0.0.0.0 cftest.adsnative.com
 0.0.0.0 c.googlesyndication.com
+0.0.0.0 cg.ra.linksynergy.com
 0.0.0.0 chaplin2019052207423110.saas.appdynamics.com
 0.0.0.0 charter.adlegend.com
 0.0.0.0 chat2.activengage.com
@@ -1355,6 +1361,7 @@
 0.0.0.0 clic2pub.adk2x.com
 0.0.0.0 clic.adk2x.com
 0.0.0.0 click.bidstalk.com
+0.0.0.0 click-cluster.rd.linksynergy.com
 0.0.0.0 click.comms.doubleclick.com
 0.0.0.0 clickers.rtb.adroll.com
 0.0.0.0 clicks2install.go2affise.com
@@ -1374,6 +1381,7 @@
 0.0.0.0 clientstats.advertising.com
 0.0.0.0 client-uat-fast.addthis.com
 0.0.0.0 c.ligatus.com
+0.0.0.0 clitest.linksynergy.com
 0.0.0.0 clk.adpiano.com
 0.0.0.0 clk.fuel451.com
 0.0.0.0 cloud.360safe.com
@@ -1399,6 +1407,7 @@
 0.0.0.0 cmap.rub.ace.advertising.com
 0.0.0.0 cmap.uac.ace.advertising.com
 0.0.0.0 cmd--corp.com
+0.0.0.0 cm.dsp.linksynergy.com
 0.0.0.0 cm.mobile.ace.advertising.com
 0.0.0.0 cm.nationalcar.ca.cns.coremetrics.com
 0.0.0.0 cm.nationalcar.com.cns.coremetrics.com
@@ -1609,6 +1618,7 @@
 0.0.0.0 dc2-9.abtasty.com
 0.0.0.0 dc3.corp.appdynamics.com
 0.0.0.0 dc6.eloqua.com
+0.0.0.0 dc7.x.lijit.com
 0.0.0.0 dca.bids.bidstalk.com
 0.0.0.0 dca.bidstalk.com
 0.0.0.0 dca.cevent.bidstalk.com
@@ -1863,6 +1873,7 @@
 0.0.0.0 dsp-link99.adpiano.com
 0.0.0.0 dsp-link9.adpiano.com
 0.0.0.0 dsp-link.adpiano.com
+0.0.0.0 dsp.linksynergy.com
 0.0.0.0 dsp-miami.adkernel.com
 0.0.0.0 dsp-pixel.contextweb.com
 0.0.0.0 dsp-preprod.inmobi.com
@@ -2041,6 +2052,8 @@
 0.0.0.0 eu-test.addthis.com
 0.0.0.0 eu-tools.247realmedia.com
 0.0.0.0 eu-west-1.banner-server.fyber.com
+0.0.0.0 eu-west-1.dmp-api.ads.linkedin.com
+0.0.0.0 eu-west-1.dmp-api-dev.ads.linkedin.com
 0.0.0.0 eu-west-1.gamma.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-1.prod.analytics.console.aws.a2z.com
@@ -2159,6 +2172,7 @@
 0.0.0.0 feedads.googleadservices.com
 0.0.0.0 feedback.geo.adrecover.com
 0.0.0.0 feed.clickpoint.com
+0.0.0.0 feed.linksynergy.com
 0.0.0.0 feeds.clickz.com
 0.0.0.0 feeds.joystickinteractive.com
 0.0.0.0 f.email.freewheel.com
@@ -2552,8 +2566,8 @@
 0.0.0.0 i.essads.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -2796,6 +2810,7 @@
 0.0.0.0 jordyn-smith.fanbread.com
 0.0.0.0 joyedu.joystickinteractive.com
 0.0.0.0 jp.adlearnop.advertising.com
+0.0.0.0 jp-ads-cluster.rd.linksynergy.com
 0.0.0.0 jp.advertising.com
 0.0.0.0 jp.as.criteo.com
 0.0.0.0 jpdtconfig.gaeadata.com
@@ -2983,9 +2998,12 @@
 0.0.0.0 livepreview2.adform.com
 0.0.0.0 liverail.adtheorent.com
 0.0.0.0 liverail-bids.bidtheatre.com
+0.0.0.0 llamagraphics-api.ads.linkedin.com
+0.0.0.0 llamagraphics-api-dev.ads.linkedin.com
 0.0.0.0 llbean.sp1.convertro.com
 0.0.0.0 l.ligatus.com
 0.0.0.0 llpstream.atdmt.com
+0.0.0.0 lms.linksynergy.com
 0.0.0.0 lns.emetriq.com
 0.0.0.0 load.adlegend.com
 0.0.0.0 loadm.tm.ssl.exelator.com
@@ -2999,6 +3017,7 @@
 0.0.0.0 local.bridgewell.com
 0.0.0.0 local.deviceatlas.com
 0.0.0.0 local.hotjar.com
+0.0.0.0 local.linksynergy.com
 0.0.0.0 log.adsafeprotected.com
 0.0.0.0 log.beeketing.com
 0.0.0.0 log.c.163.com
@@ -3195,6 +3214,7 @@
 0.0.0.0 members.11.exacttarget.com
 0.0.0.0 members.poc.exacttarget.com
 0.0.0.0 mep.centraltag.com
+0.0.0.0 merlin.linksynergy.com
 0.0.0.0 meta1.adlegend.com
 0.0.0.0 meta2.adlegend.com
 0.0.0.0 metabase.apester.com
@@ -3511,15 +3531,21 @@
 0.0.0.0 ns4.arcadeyum.com
 0.0.0.0 ns4.corp.adconion.com
 0.0.0.0 ns4.ldap.adconion.com
+0.0.0.0 ns4.linksynergy.com
 0.0.0.0 ns5.adk2x.com
 0.0.0.0 ns5.criteo.com
 0.0.0.0 ns5.greatarcadehits.com
+0.0.0.0 ns5.linksynergy.com
 0.0.0.0 ns6.adk2x.com
 0.0.0.0 ns6.greatarcadehits.com
+0.0.0.0 ns6.linksynergy.com
 0.0.0.0 ns7.adk2x.com
 0.0.0.0 ns7.greatarcadehits.com
+0.0.0.0 ns7.linksynergy.com
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 ns8.greatarcadehits.com
+0.0.0.0 ns8.linksynergy.com
+0.0.0.0 ns9.linksynergy.com
 0.0.0.0 ns.lab2.adconion.com
 0.0.0.0 nt1.dc-storm.com
 0.0.0.0 nt.criteo.com
@@ -3546,6 +3572,7 @@
 0.0.0.0 nyeta.qa-iad.amobee.com
 0.0.0.0 nyjexp001.exelator.com
 0.0.0.0 nym2-tr.adnxs.com
+0.0.0.0 nyms.linksynergy.com
 0.0.0.0 nysnb001.exelator.com
 0.0.0.0 nyst1.dc-storm.com
 0.0.0.0 nytimes.activate.ensighten.com
@@ -3843,6 +3870,7 @@
 0.0.0.0 pixel.buzzdeck.com
 0.0.0.0 pixel.collosteam.com
 0.0.0.0 pixel.concord.buzzdeck.com
+0.0.0.0 pixel.dsp.linksynergy.com
 0.0.0.0 pixel.ingest.at.atwola.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel-sc2.adsymptotic.com
@@ -3963,6 +3991,7 @@
 0.0.0.0 pri-adserver-origin-ap-southeast-1.prod.adtechjp.com
 0.0.0.0 privacynews.acxiom.com
 0.0.0.0 privateexchange.dca.events.bidstalk.com
+0.0.0.0 private.linksynergy.com
 0.0.0.0 proactiv.rdr.channelintelligence.com
 0.0.0.0 pro.awsmppl.com
 0.0.0.0 process.convertcart.com
@@ -4011,6 +4040,7 @@
 0.0.0.0 prontera.inlocomedia.com
 0.0.0.0 propellerad.adk2x.com
 0.0.0.0 prophet.acxiom.com
+0.0.0.0 prospect-cm.dsp.linksynergy.com
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
@@ -4266,6 +4296,7 @@
 0.0.0.0 rado.segmentation.staging.leanplum.com
 0.0.0.0 rad.rad.atdmt.com
 0.0.0.0 rakuten.adroll.com
+0.0.0.0 ra.linksynergy.com
 0.0.0.0 rambler-ams.gravityrd-services.com
 0.0.0.0 ramsayandwellington.one-integration.ci.convertro.com
 0.0.0.0 rancher-k8s.demandbase.com
@@ -4651,8 +4682,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search-cldellow.deployads.com
+0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -5356,8 +5387,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -5428,6 +5459,7 @@
 0.0.0.0 trk9-eucentral1.snt.imrworldwide.com
 0.0.0.0 trk9.snt.imrworldwide.com
 0.0.0.0 trk.clmbtech.com
+0.0.0.0 trk.dsp.linksynergy.com
 0.0.0.0 trk.elios.ligatus.com
 0.0.0.0 trk.helios.ligatus.com
 0.0.0.0 trk.hellos.ligatus.com
@@ -5545,6 +5577,12 @@
 0.0.0.0 usermatix.corp.inmobi.com
 0.0.0.0 users.bidsimulator.com
 0.0.0.0 users.dasha.apester.com
+0.0.0.0 userservice-api-dev.local.linksynergy.com
+0.0.0.0 userservice-api-qa.local.linksynergy.com
+0.0.0.0 userservice-api-staging1.local.linksynergy.com
+0.0.0.0 userservice-dev.local.linksynergy.com
+0.0.0.0 userservice-qa.local.linksynergy.com
+0.0.0.0 userservice-staging1.local.linksynergy.com
 0.0.0.0 users.pe.apester.com
 0.0.0.0 users-temp.apester.com
 0.0.0.0 ushqlyncpool.foresee.com
@@ -5563,6 +5601,8 @@
 0.0.0.0 us-west-1.tr.blismedia.com
 0.0.0.0 us-west-2.beta.analytics.console.aws.a2z.com
 0.0.0.0 us-west-2.beta.routing.panorama.analytics.console.aws.a2z.com
+0.0.0.0 us-west-2.dmp-api.ads.linkedin.com
+0.0.0.0 us-west-2.dmp-api-dev.ads.linkedin.com
 0.0.0.0 us-west-2.gamma.analytics.console.aws.a2z.com
 0.0.0.0 us-west-2.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-west-2.prod.analytics.console.aws.a2z.com
@@ -5578,6 +5618,11 @@
 0.0.0.0 utkonos-ams.gravityrd-services.com
 0.0.0.0 uts.advertising.com
 0.0.0.0 uts-api.at.atwola.com
+0.0.0.0 uttesteu.ra.linksynergy.com
+0.0.0.0 uttestjp.ra.linksynergy.com
+0.0.0.0 ut-test.ra.linksynergy.com
+0.0.0.0 uttestus.ra.linksynergy.com
+0.0.0.0 ut-usc.ra.linksynergy.com
 0.0.0.0 ux.appsee.com
 0.0.0.0 v1ad.adlegend.com
 0.0.0.0 v1-tr.ams.contextweb.com
@@ -5608,7 +5653,12 @@
 0.0.0.0 vaes-preprod.pdx.amazon-adsystem.com
 0.0.0.0 vankman.acxiom.com
 0.0.0.0 vansoft.corp.com
+0.0.0.0 vap3sjc1.lijit.com
+0.0.0.0 vap4sjc1.lijit.com
+0.0.0.0 vap5iad2.lijit.com
+0.0.0.0 vap5sjc1.lijit.com
 0.0.0.0 vapi.connatix.com
+0.0.0.0 va.private.linksynergy.com
 0.0.0.0 vars-edgecast.hotjar.com
 0.0.0.0 vars-sio.hotjar.com
 0.0.0.0 vars-staging-test.hotjar.com
@@ -5656,9 +5706,13 @@
 0.0.0.0 vasttrack.fuel451.com
 0.0.0.0 vasttracktest.fuel451.com
 0.0.0.0 vault.adform.com
+0.0.0.0 vault-ec-ui.private.linksynergy.com
+0.0.0.0 vault-qa-ui.private.linksynergy.com
 0.0.0.0 vault-ui.mgmt.us-east-1.kops.kargo.com
+0.0.0.0 vault-ui.private.linksynergy.com
 0.0.0.0 va.us.criteo.com
 0.0.0.0 vb2.beeviewd.com
+0.0.0.0 vbp1den1.lijit.com
 0.0.0.0 vcenter.corp.appdynamics.com
 0.0.0.0 vcnf.altitude-arena.com
 0.0.0.0 v.curalate.com
@@ -5761,6 +5815,7 @@
 0.0.0.0 wayne-goss.fanbread.com
 0.0.0.0 wbw.imrworldwide.com
 0.0.0.0 wc.adapf.com
+0.0.0.0 wcdc.kaas.private.linksynergy.com
 0.0.0.0 w.cp.163.com
 0.0.0.0 wdc4.activengage.com
 0.0.0.0 w.e0mn.com
@@ -6168,6 +6223,7 @@
 0.0.0.0 www.clientmanagement.lijit.com
 0.0.0.0 www.clients.dealeronlinemarketing.com
 0.0.0.0 www.clientsmedia2.adrime.com
+0.0.0.0 www.clitest.linksynergy.com
 0.0.0.0 www.cloudflarewh.getadmiral.com
 0.0.0.0 www.cmd--corp.com
 0.0.0.0 www.cms-xch-chicago.33across.com
@@ -6209,6 +6265,7 @@
 0.0.0.0 www.dataexchange.inmobi.com
 0.0.0.0 www.data.innovativemetrics.com
 0.0.0.0 www.dawoikllees.com
+0.0.0.0 www.dc7.x.lijit.com
 0.0.0.0 www.dc.mobile.abtasty.com
 0.0.0.0 www.de17a.com
 0.0.0.0 www.de17aserver.com
