@@ -540,8 +540,8 @@
 0.0.0.0 azjdt.adsafeprotected.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b4.arcadeyum.com
@@ -1854,6 +1854,7 @@
 0.0.0.0 iniitian.saas.appdynamics.com
 0.0.0.0 inneractive.dca.events.bidstalk.com
 0.0.0.0 inneractive.win.bidstalk.com
+0.0.0.0 insight.eloqua.com
 0.0.0.0 insights.adsttc.com
 0.0.0.0 insightxe.247realmedia.com
 0.0.0.0 ins.ma.163.com
@@ -2105,6 +2106,7 @@
 0.0.0.0 liverail-bids.bidtheatre.com
 0.0.0.0 llbean.sp1.convertro.com
 0.0.0.0 llpstream.atdmt.com
+0.0.0.0 lns.emetriq.com
 0.0.0.0 load.adlegend.com
 0.0.0.0 local0-slave1.brightedge.com
 0.0.0.0 local0-slave3.brightedge.com
@@ -2605,6 +2607,12 @@
 0.0.0.0 ox-d.advanseads.com
 0.0.0.0 ox-i.advanseads.com
 0.0.0.0 ox.pxl.ace.advertising.com
+0.0.0.0 p01.eloqua.com
+0.0.0.0 p02.eloqua.com
+0.0.0.0 p03.eloqua.com
+0.0.0.0 p04.eloqua.com
+0.0.0.0 p06.eloqua.com
+0.0.0.0 p07.eloqua.com
 0.0.0.0 p1optout.agkn.com
 0.0.0.0 p1.vip.sc9.admob.com
 0.0.0.0 p2.channeladvisor.com
@@ -2848,8 +2856,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 proxy.beeviewd.com
 0.0.0.0 proxy.dynamicyield.com
 0.0.0.0 proxy-ssl.beeviewd.com
@@ -3070,6 +3078,8 @@
 0.0.0.0 report.clickpoint.com
 0.0.0.0 report.crashlytics.com
 0.0.0.0 reporting.adtouchlabs.com
+0.0.0.0 reporting.secure.eloqua.com
+0.0.0.0 reporting.www02.secure.eloqua.com
 0.0.0.0 reports.adconion.com
 0.0.0.0 reports.admanmedia.com
 0.0.0.0 reports.admotion.com
@@ -3310,8 +3320,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 searchcldellow.deployads.com
+0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
 0.0.0.0 sears.rdr.channelintelligence.com
@@ -3444,6 +3454,7 @@
 0.0.0.0 smaato.mads.advertising.com
 0.0.0.0 smaatopremium.dca.events.bidstalk.com
 0.0.0.0 smaato.win.bidstalk.com
+0.0.0.0 s-mail02.eloqua.com
 0.0.0.0 smartpak.adlegend.com
 0.0.0.0 smartyads.dca.events.bidstalk.com
 0.0.0.0 smediawebsite.smedia.ca
@@ -3647,6 +3658,8 @@
 0.0.0.0 svr1.bridgewell.com
 0.0.0.0 sv.us.criteo.com
 0.0.0.0 swang.conviva.com
+0.0.0.0 sy3.eloqua.com
+0.0.0.0 syd.eloqua.com
 0.0.0.0 s.yjtag.btstatic.com
 0.0.0.0 sync.company-target.com
 0.0.0.0 sync-ovh.adotmob.com
@@ -3786,6 +3799,7 @@
 0.0.0.0 tools.acs--corp.com
 0.0.0.0 tools.ebuzzing.com
 0.0.0.0 tools-tracking.adform.com
+0.0.0.0 tor6.eloqua.com
 0.0.0.0 tower.adwyze.com
 0.0.0.0 toysrus.adlegend.com
 0.0.0.0 tpi.corp.com
@@ -4422,6 +4436,7 @@
 0.0.0.0 www.ebuzzingvideo.com
 0.0.0.0 www.e.crashlytics.com
 0.0.0.0 www.edge.facebook-ads.adtz.com
+0.0.0.0 www.emailonlinechase.com
 0.0.0.0 www.em.dynamicyield.com
 0.0.0.0 www.et-integration.dynamicyield.com
 0.0.0.0 www.events.advidi.com
@@ -4528,6 +4543,7 @@
 0.0.0.0 www.mobile.smedia.ca
 0.0.0.0 www.morningflashsee.club
 0.0.0.0 www.my.appcues.com
+0.0.0.0 www.mysite.eloqua.com
 0.0.0.0 www.narjesmedia.adk2x.com
 0.0.0.0 wwwnew.appnexus.com
 0.0.0.0 www.newstest.audiens.com
@@ -4749,6 +4765,7 @@
 0.0.0.0 yuyu.dev-iad.amobee.com
 0.0.0.0 yyg.v1.163.com
 0.0.0.0 yylg.v1.163.com
+0.0.0.0 yyz.eloqua.com
 0.0.0.0 zabbix.bluekai.com
 0.0.0.0 zagg.rdr.channelintelligence.com
 0.0.0.0 zapak.corp.com
