@@ -773,8 +773,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b3.greatarcadehits.com
@@ -990,6 +990,7 @@
 0.0.0.0 btmu-pre.saas.appdynamics.com
 0.0.0.0 btncaptions.rt.cquotient.com
 0.0.0.0 btn.rt.cquotient.com
+0.0.0.0 build1500.scm.ev1.inmobi.com
 0.0.0.0 build-dev.corp.inmobi.com
 0.0.0.0 bulkapi06.wdc.bluekai.com
 0.0.0.0 bulkapi-rc.phx.bluekai.com
@@ -1316,6 +1317,7 @@
 0.0.0.0 content.channelintelligence.com
 0.0.0.0 content.cmp.advertising.com
 0.0.0.0 content.contextweb.com
+0.0.0.0 content.glance.inmobi.com
 0.0.0.0 content.heapanalytics.com
 0.0.0.0 content.links.channelintelligence.com
 0.0.0.0 convdb.buysellads.com
@@ -1359,6 +1361,7 @@
 0.0.0.0 creativepreview.ui.awin.com
 0.0.0.0 creative.skyrocket.adtdp.com
 0.0.0.0 crm.antvoice.com
+0.0.0.0 crmapi.idsp.inmobi.com
 0.0.0.0 crownandcaliber.adlegend.com
 0.0.0.0 crsp.awsmppl.com
 0.0.0.0 crunch.ebuzzing.com
@@ -1637,6 +1640,7 @@
 0.0.0.0 docker-registry.adswizz.com
 0.0.0.0 docker-registry.amobee.com
 0.0.0.0 docker-registry.repo.amobee.com
+0.0.0.0 dock.inmobi.com
 0.0.0.0 doc.talent.extremereach.com
 0.0.0.0 dod.appsflyer.com
 0.0.0.0 dollar.adlegend.com
@@ -1685,6 +1689,7 @@
 0.0.0.0 dsp-link.adpiano.com
 0.0.0.0 dsp-miami.adkernel.com
 0.0.0.0 dsp-pixel.contextweb.com
+0.0.0.0 dsp-preprod.inmobi.com
 0.0.0.0 dspssl.coadvertise.com
 0.0.0.0 dstw.adgear.com
 0.0.0.0 dsx.adpiano.com
@@ -1769,6 +1774,7 @@
 0.0.0.0 eliteprospects-tagan.adlightning.com
 0.0.0.0 ellechina.adsame.com
 0.0.0.0 ellie-jared.fanbread.com
+0.0.0.0 e-ltvp.inmobi.com
 0.0.0.0 emagbg-bud.gravityrd-services.com
 0.0.0.0 emag-bud.gravityrd-services.com
 0.0.0.0 emaghu-bud.gravityrd-services.com
@@ -1792,11 +1798,16 @@
 0.0.0.0 engine.adpushup.com
 0.0.0.0 engine.audiens.com
 0.0.0.0 eniac.corp.com
+0.0.0.0 en-studiotraining.inmobi.com
 0.0.0.0 en.support.appsflyer.com
 0.0.0.0 enterprise-cname.bannersnack.com
 0.0.0.0 enterpriseenrollment.gmial.com
+0.0.0.0 ep-apsoutheast.ifc.inmobi.com
+0.0.0.0 ep-euwest.ifc.inmobi.com
+0.0.0.0 ep.ifc.inmobi.com
 0.0.0.0 epom.dca.events.bidstalk.com
 0.0.0.0 epro.awin.com
+0.0.0.0 ep-uswest.ifc.inmobi.com
 0.0.0.0 eqb-ui-soak-01.bluekai.com
 0.0.0.0 er2d2.criteo.com
 0.0.0.0 er.criteo.com
@@ -1815,6 +1826,7 @@
 0.0.0.0 es-test-azure.datadome.co
 0.0.0.0 estest.convertcart.com
 0.0.0.0 etappx.qa.exacttarget.com
+0.0.0.0 et-cn.apac.gslb.inmobi.com
 0.0.0.0 etinswdem01.exacttarget.com
 0.0.0.0 etmall.bridgewell.com
 0.0.0.0 et.w.ams1.appgw.inmobi.com
@@ -2149,6 +2161,7 @@
 0.0.0.0 gratka-ams.gravityrd-services.com
 0.0.0.0 graylog2.hotjar.com
 0.0.0.0 graylog.hotjar.com
+0.0.0.0 graylog.ops.dfw2.inmobi.com
 0.0.0.0 greylog.snackly.co
 0.0.0.0 grizly-tagan.adlightning.com
 0.0.0.0 growth.adroll.com
@@ -2183,6 +2196,7 @@
 0.0.0.0 hearst.activate.ensighten.com
 0.0.0.0 heatmap.buzzdeck.com
 0.0.0.0 heisenberg.cdn.inmobi.com
+0.0.0.0 heisenberg.inmobi.com
 0.0.0.0 heisenberg-uswest.cdn.inmobi.com
 0.0.0.0 helixuat.inmobi.cn
 0.0.0.0 hell.corp.com
@@ -2256,6 +2270,7 @@
 0.0.0.0 i.4see.mobi.lb.foreseeresults.com
 0.0.0.0 iad-05.braze.com
 0.0.0.0 iad-apple.com
+0.0.0.0 iam-preprod.inmobi.com
 0.0.0.0 i.apester.com
 0.0.0.0 i.awin.com
 0.0.0.0 ib2.3lift.com
@@ -2279,6 +2294,8 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifs.aiprx.freewheel.com
 0.0.0.0 ihg.activate.ensighten.com
 0.0.0.0 ikea-bud.gravityrd-services.com
@@ -3147,6 +3164,7 @@
 0.0.0.0 node9.fractionalmedia.com
 0.0.0.0 nonprod-classic-rest-api.dev.adtechus.com
 0.0.0.0 nonprod.flurry.com
+0.0.0.0 nonprod.useast.geoservice.inmobi.com
 0.0.0.0 northerntool.rdr.channelintelligence.com
 0.0.0.0 notifications.apester.com
 0.0.0.0 notifications.chartbeat.com
@@ -4568,6 +4586,7 @@
 0.0.0.0 staging.tagmanager.alcmpn.com
 0.0.0.0 staging.toolbar.complex.com
 0.0.0.0 staging-use1.dynamicyield.com
+0.0.0.0 staging.vangogher.glance.inmobi.com
 0.0.0.0 staging-video-broker.fyber.com
 0.0.0.0 stags.iad.bluekai.com
 0.0.0.0 stalker.corp.com
@@ -4658,6 +4677,7 @@
 0.0.0.0 stuartweitzman.sp1.convertro.com
 0.0.0.0 studio.adadyn.com
 0.0.0.0 studioapi.doubleclick.com
+0.0.0.0 studio.ev1.inmobi.com
 0.0.0.0 sublimelog.ayads.co
 0.0.0.0 summercamp.adform.com
 0.0.0.0 sunhingtdg.corp.com
@@ -4669,6 +4689,7 @@
 0.0.0.0 surveymonkey.sp1.convertro.com
 0.0.0.0 survey-qa.foreseeresults.com
 0.0.0.0 surveys-split.hotjar.com
+0.0.0.0 sutdio.glance.inmobi.com
 0.0.0.0 svc.smrt.as
 0.0.0.0 svr1.bridgewell.com
 0.0.0.0 svr1.east.cloud.ftp.extremereach.com
@@ -4896,6 +4917,7 @@
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trdev.fuel451.com
+0.0.0.0 trello-callback.glance-internal.inmobi.com
 0.0.0.0 tr.gcp.blis.com
 0.0.0.0 triplelift.pxl.ace.advertising.com
 0.0.0.0 triston.fanbread.com
@@ -5048,8 +5070,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -5224,8 +5246,8 @@
 0.0.0.0 viewsonic.links.channelintelligence.com
 0.0.0.0 vi.gumgum.com
 0.0.0.0 vip.admaster.com.cn
-0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visit-backoffice.adikteev.com
+0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visitor-qa.activengage.com
 0.0.0.0 vivad.advertising.com
 0.0.0.0 vivad.at.atwola.com
@@ -5515,11 +5537,14 @@
 0.0.0.0 www.altweb.fluxloop.com
 0.0.0.0 www.amazesoft.com
 0.0.0.0 www.amazin.com
+0.0.0.0 www.amp.dataexchange.inmobi.com
 0.0.0.0 www.amplify.amplitude.com
+0.0.0.0 www.amp-staging.dataexchange.inmobi.com
 0.0.0.0 www.ams.d41.co
 0.0.0.0 www.ams-stg.d41.co
 0.0.0.0 www.ana.analyticson.com
 0.0.0.0 www.analytics.arinetapi.com
+0.0.0.0 www.analytics.glance.inmobi.com
 0.0.0.0 www.ans.audience2media.com
 0.0.0.0 www.answers.chartboost.com
 0.0.0.0 www.aorta-secure.clickagy.com
@@ -5532,9 +5557,11 @@
 0.0.0.0 www.api.clrstm.com
 0.0.0.0 www.api.curalate.com
 0.0.0.0 www.api.db-ip.com
+0.0.0.0 www.api.dsp.inmobi.com
 0.0.0.0 www.api.dynamicyield.com
 0.0.0.0 www.api.flyertown.ca
 0.0.0.0 www.api.forter.com
+0.0.0.0 www.api.glance.inmobi.com
 0.0.0.0 www.api.inmobi.cn
 0.0.0.0 www.api.inmobi.com
 0.0.0.0 www.api.intel.dynamicyield.com
@@ -5590,6 +5617,7 @@
 0.0.0.0 www.blrvpn.inmobi.com
 0.0.0.0 www.blrxenappvw01.corp.inmobi.com
 0.0.0.0 www.bp.adkmob.com
+0.0.0.0 www.build1500.scm.ev1.inmobi.com
 0.0.0.0 www.build-dev.corp.inmobi.com
 0.0.0.0 www.bulkapi-rc.phx.bluekai.com
 0.0.0.0 www.buypixelads.com
@@ -5616,11 +5644,15 @@
 0.0.0.0 www.cdn.inmobi.com
 0.0.0.0 www.cdn-preview.dynamicyield.com
 0.0.0.0 www.cdns.brsrvr.com
+0.0.0.0 www.cdp-staging.dataexchange.inmobi.com
 0.0.0.0 www.c.gmail.gr.com
 0.0.0.0 www.ci.appboy.com
+0.0.0.0 www.ci.heartbeat.inmobi.com
 0.0.0.0 www.cimetrix.inmobi.com
 0.0.0.0 www.citoengine.corp.inmobi.com
 0.0.0.0 www.clarity.beta.corp.inmobi.com
+0.0.0.0 www.clarity.corp.iap.inmobi.com
+0.0.0.0 www.clarity.idsp.inmobi.com
 0.0.0.0 www.clarity.inmobi.cn
 0.0.0.0 www.clarity.inmobi.com
 0.0.0.0 www.clickus.admailtiser.com
@@ -5652,6 +5684,7 @@
 0.0.0.0 www.cpanel06.c3metrics.com
 0.0.0.0 www.cpmcontrol.adk2x.com
 0.0.0.0 www.crash-metrics.sdk.inmobi.cn
+0.0.0.0 www.crmapi.idsp.inmobi.com
 0.0.0.0 www.crm-preview.dynamicyield.com
 0.0.0.0 www.crux.cloud.inmobi.com
 0.0.0.0 www.customer-folder.dynamicyield.com
@@ -5659,6 +5692,7 @@
 0.0.0.0 www.d.agkn.com
 0.0.0.0 www.data.ad-score.com
 0.0.0.0 www.data.bidsimulator.com
+0.0.0.0 www.dataexchange.inmobi.com
 0.0.0.0 www.dawoikllees.com
 0.0.0.0 www.dc.mobile.abtasty.com
 0.0.0.0 www.de17a.com
@@ -5696,8 +5730,10 @@
 0.0.0.0 www.displayincloud2.adk2x.com
 0.0.0.0 www.diveschool.engagio.com
 0.0.0.0 www.divvycloud.cbsi.com
+0.0.0.0 www.dl.inmobi.com
 0.0.0.0 www.doppler.hulu.com
 0.0.0.0 www.dsp.analyticson.com
+0.0.0.0 www.dsp-preprod.inmobi.com
 0.0.0.0 www.dtzads.com
 0.0.0.0 www.dynamic.adcrowd.com
 0.0.0.0 www.dyode.dynamicyield.com
@@ -5711,6 +5747,8 @@
 0.0.0.0 www.em.dynamicyield.com
 0.0.0.0 www.enhanced2trk.com
 0.0.0.0 www.enhancedstats.com
+0.0.0.0 www.en-studiotraining.inmobi.com
+0.0.0.0 www.ep.ifc.inmobi.com
 0.0.0.0 www.eqads.com
 0.0.0.0 www.et-integration.dynamicyield.com
 0.0.0.0 www.events.advidi.com
@@ -5729,6 +5767,7 @@
 0.0.0.0 www.fwcs01.casalemedia.com
 0.0.0.0 www.gallery.adikteev.com
 0.0.0.0 www.gateway.dynamicyield.com
+0.0.0.0 www.gateway.ifc.inmobi.com
 0.0.0.0 www.gdpr-verify.forter.com
 0.0.0.0 www.gerrit.ops.appdynamics.com
 0.0.0.0 www.get.addthis.com
@@ -5741,7 +5780,10 @@
 0.0.0.0 www.glbl.adlegend.com
 0.0.0.0 www.gmail.com.gmial.com
 0.0.0.0 www.gpu4001.ds.ams1.inmobi.com
+0.0.0.0 www.gpu4001.ds.ev1.inmobi.com
 0.0.0.0 www.graylog.ops.ams1.inmobi.com
+0.0.0.0 www.graylog.ops.dfw1.inmobi.com
+0.0.0.0 www.graylog.ops.dfw2.inmobi.com
 0.0.0.0 www.groproext.com
 0.0.0.0 www.grp.dynamicyield.com
 0.0.0.0 www.gs.api.igodigital.com
@@ -5754,12 +5796,17 @@
 0.0.0.0 www.hd.dao.163.com
 0.0.0.0 www.hdfsboapp.acxiom.com
 0.0.0.0 www.helix.inmobi.cn
+0.0.0.0 www.helix.inmobi.com
 0.0.0.0 www.helixuat.inmobi.cn
+0.0.0.0 www.helixuat.inmobi.com
 0.0.0.0 www.hlamedia.adk2x.com
 0.0.0.0 www.hnyhnyhny.com
 0.0.0.0 www.homeslice.appboy.com
 0.0.0.0 www.hooli.adrizer.com
 0.0.0.0 www.iadsdk.apple.com
+0.0.0.0 www.iam.inmobi.com
+0.0.0.0 www.iam-preprod.inmobi.com
+0.0.0.0 www.iapadmin.inmobi.com
 0.0.0.0 www.ibv.doubleclick.rtb.adx1.com
 0.0.0.0 www.identity.appdynamics.com
 0.0.0.0 www.identity-staging.appdynamics.com
@@ -5771,6 +5818,8 @@
 0.0.0.0 www.import.igodigital.com
 0.0.0.0 www.imtwjwoasak.com
 0.0.0.0 www.in.admedia.com
+0.0.0.0 www.in.analytics.glance.inmobi.com
+0.0.0.0 www.in.api.glance.inmobi.com
 0.0.0.0 www.info.amplitude.com
 0.0.0.0 www.info.engagio.com
 0.0.0.0 www.infosec.corp.inmobi.com
@@ -5782,6 +5831,7 @@
 0.0.0.0 www.intel-mock-api.dynamicyield.com
 0.0.0.0 www.intel-mock.dynamicyield.com
 0.0.0.0 www.interactive.inmobi.cn
+0.0.0.0 www.internal-clarity.idsp.inmobi.com
 0.0.0.0 www.intersite.adrizer.com
 0.0.0.0 www.jagi.buypixelads.com
 0.0.0.0 www.java.greystripe.com
@@ -5798,6 +5848,8 @@
 0.0.0.0 www.l.betrad.com
 0.0.0.0 www.ldap01.adroll.com
 0.0.0.0 www.leads.demandbase.com
+0.0.0.0 www.lens.data.inmobi.com
+0.0.0.0 www.lens.secondry.data.dfw1.inmobi.com
 0.0.0.0 www.link.dynamicyield.com
 0.0.0.0 www.livepass.conviva.com
 0.0.0.0 www.livepassdl.conviva.com
@@ -5865,6 +5917,8 @@
 0.0.0.0 wwwnew.appnexus.com
 0.0.0.0 www.newstest.audiens.com
 0.0.0.0 www.newsupport.dynamicyield.com
+0.0.0.0 www.nonprod.sea.geoservice.inmobi.com
+0.0.0.0 www.nonprod.useast.geoservice.inmobi.com
 0.0.0.0 www.ns6.adk2x.com
 0.0.0.0 www.nsof-web.dynamicyield.com
 0.0.0.0 www.ntm3.adotube.com
@@ -5873,12 +5927,14 @@
 0.0.0.0 www.ocum.corp.appdynamics.com
 0.0.0.0 www.office.analyticson.com
 0.0.0.0 www.officewebapps.foresee.com
+0.0.0.0 www.oppo.analytics.glance.inmobi.com
 0.0.0.0 www.opt.use.dynamicyield.com
 0.0.0.0 www-origin.appdynamics.com
 0.0.0.0 www.out.gmial.com
 0.0.0.0 www.owa1.amobee.com
 0.0.0.0 www.pa3.b.audiencetag.com
 0.0.0.0 www.partner.api.getadmiral.com
+0.0.0.0 www.partner.glance.inmobi.com
 0.0.0.0 www.partnerlab.braze.com
 0.0.0.0 www.partners.analyticson.com
 0.0.0.0 www.partners.celebrus.com
@@ -5900,7 +5956,10 @@
 0.0.0.0 www.pix.silverpush.co
 0.0.0.0 www.platform.amobee.com
 0.0.0.0 www.platform.blismedia.com
+0.0.0.0 www.platform.ifc.inmobi.com
 0.0.0.0 www.player.h-cdn.com
+0.0.0.0 www.plds4001.grid.dfw1.inmobi.com
+0.0.0.0 www.plds4010.grid.dfw1.inmobi.com
 0.0.0.0 www.pmo01-tech.amobee.com
 0.0.0.0 www.polo.feathr.co
 0.0.0.0 www.polo-v1.feathr.co
@@ -5911,6 +5970,8 @@
 0.0.0.0 www.ppd.clrstm.com
 0.0.0.0 www.presentation.analyticson.com
 0.0.0.0 www-preview.bugsnag.com
+0.0.0.0 www.prod.sea.geoservice.inmobi.com
+0.0.0.0 www.prod.useast.geoservice.inmobi.com
 0.0.0.0 www.promo.amplitude.com
 0.0.0.0 www.proxy.dynamicyield.com
 0.0.0.0 www.proxy.zentr.cc
@@ -6016,12 +6077,14 @@
 0.0.0.0 www.staging.delivery.api.getadmiral.com
 0.0.0.0 www.staging.getadmiral.com
 0.0.0.0 www.staging.getsentry.com
+0.0.0.0 www.staging.iam.inmobi.com
 0.0.0.0 www.staging.instructions.getadmiral.com
 0.0.0.0 www.staging.internal.getadmiral.com
 0.0.0.0 www.staging.my.getadmiral.com
 0.0.0.0 www.staging.partner.api.getadmiral.com
 0.0.0.0 www.staging.query.api.getadmiral.com
 0.0.0.0 www.staging-sidekiq-status.appboy.com
+0.0.0.0 www.staging.vangogher.glance.inmobi.com
 0.0.0.0 www.start.adpushup.com
 0.0.0.0 www.static.addtoany.com
 0.0.0.0 www.static.audiensis.com
@@ -6031,6 +6094,7 @@
 0.0.0.0 www.st.dynamicyield.com
 0.0.0.0 www.sting.de17aserver.com
 0.0.0.0 www.stripewh.getadmiral.com
+0.0.0.0 www.studio.glance.inmobi.com
 0.0.0.0 www.superstudio.facebook-ads.adtz.com
 0.0.0.0 www.supply-tool.inmobi.cn
 0.0.0.0 www.support-beta.demandbase.com
@@ -6038,6 +6102,7 @@
 0.0.0.0 www.support-test.dynamicyield.com
 0.0.0.0 www.survey.bannersnack.com
 0.0.0.0 www.survey.foreseeresults.com
+0.0.0.0 www.sutdio.glance.inmobi.com
 0.0.0.0 www.sweeney.appboy.com
 0.0.0.0 www-tabletopstrategies-com.fanbread.com
 0.0.0.0 www.tag.clrstm.com
@@ -6051,6 +6116,7 @@
 0.0.0.0 www.test.adthrive.com
 0.0.0.0 www.test-auth.conviva.com
 0.0.0.0 www.testbanners.analyticson.com
+0.0.0.0 www.testjira.corp.ev1.inmobi.com
 0.0.0.0 www.t.getadmiral.com
 0.0.0.0 www.tm.smedia.ca
 0.0.0.0 www.token.corp.inmobi.com
@@ -6075,6 +6141,7 @@
 0.0.0.0 www.us.view.adjug.com
 0.0.0.0 www.v1ad.adlegend.com
 0.0.0.0 www.v.adsrvs.com
+0.0.0.0 www.vangogher.glance.inmobi.com
 0.0.0.0 www.vast2.doubleverify.com
 0.0.0.0 www.vast.doubleverify.com
 0.0.0.0 www.vastproxy.brand.inmobi.cn
@@ -6148,6 +6215,7 @@
 0.0.0.0 ypw.163.com
 0.0.0.0 yt.srs.doubleverify.com
 0.0.0.0 yul-delivery-6.sys.adgear.com
+0.0.0.0 yum.corp.inmobi.com
 0.0.0.0 yuyu.dev-iad.amobee.com
 0.0.0.0 yyg.v1.163.com
 0.0.0.0 yylg.v1.163.com
