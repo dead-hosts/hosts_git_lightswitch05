@@ -180,6 +180,7 @@ ads104.adtelligent.com
 ads177.adtelligent.com
 ads1.fingereach.com
 ads2.fingereach.com
+ads2.locsensads.com
 ads351.adtelligent.com
 ads352.adtelligent.com
 ads3.fingereach.com
@@ -618,12 +619,15 @@ api-intowow-staging.intowow.com
 api.joanna.env.sandbox53.localytics.com
 api.joanna-test.env.sandbox53.localytics.com
 api.joe.env.sandbox53.localytics.com
+api.josh.env.sandbox53.localytics.com
 api.lapresse.adgear.com
 api.lapresse-staging.adgear.com
 api-latest-grpc.lightstep.com
 api-latest.lightstep.com
+api.locsensads.com
 api.mcclusterface.k8s.liveramp.com
 ap.impdesk.com
+api.nonewlines.env.sandbox53.localytics.com
 api.poc.exacttarget.com
 api.portal.staging2.inskinmedia.com
 api.prod.env.53.localytics.com
@@ -633,8 +637,10 @@ api-public-fast.addthis.com
 api-public-test.addthis.com
 api.qa.drift.com
 api.qa.exacttarget.com
+api.raphael.env.sandbox53.localytics.com
 api.register.criteo.com
 api.reports.advertising.com
+api.rishi.env.sandbox53.localytics.com
 apis.adsymptotic.com
 api.shannon.test.appsee.com
 api.silverpush.co
@@ -645,7 +651,12 @@ api.t.163.com
 api.tags.iad.bluekai.com
 api.tags.phx.bluekai.com.bk.phx.addthis.com
 api.tags-rc.iad.bluekai.com
+api.terraform-outputs.env.sandbox53.localytics.com
 api.test.native.ai
+api.tushar-test.env.sandbox53.localytics.com
+api.tutorial.env.sandbox53.localytics.com
+api.tutorial-sharing-again.env.sandbox53.localytics.com
+api.tutorial-sharing.env.sandbox53.localytics.com
 api.uat.opinion.inmobi.com
 api.uat.opinions.inmobi.com
 api.unruly.co
@@ -655,6 +666,8 @@ api-us-wyoming-1.datadome.co
 api-v2.instartlogic.com
 api.warehouse.adikteev.com
 api.webchunker.streaming.adswizz.com
+api.yoni.env.sandbox53.localytics.com
+api.ysamlan-initial-test.env.sandbox53.localytics.com
 ap.ligatus.com
 apn.admotion.com
 ap-northeast-1.gamma.analytics.console.aws.a2z.com
@@ -870,8 +883,8 @@ azjdt.adsafeprotected.com
 azjsc.iasds01.com
 azkaban.adwyze.com
 azores.corp.com
-b1473-k8s.dev-iad.amobee.com
 b-1473-k8s.dev-iad.amobee.com
+b1473-k8s.dev-iad.amobee.com
 b3.arcadeyum.com
 b3.crusharcade.com
 b3.greatarcadehits.com
@@ -1555,6 +1568,7 @@ cp.ligatus.com
 cpl.rt.cquotient.com
 cpm2.admob.com
 cpm2.vip.sc9.admob.com
+cra.locsensads.com
 crash.amplitude.com
 crave.dev.joystickinteractive.com
 crdb.infra.apester.com
@@ -2636,10 +2650,10 @@ idsync.districtm.ca
 idtest.acxiom.com
 ie.corp.com
 i.essads.com
-ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
-ifc2-vip-hkg1.inmobi.com
+ifc2.vip.dfw1.inmobi.com
 ifc2.vip.hkg1.inmobi.com
+ifc2-vip-hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -2718,8 +2732,8 @@ ingest.at.atwola.com
 ingress-test-api.newstags.stag.bounceexchange.com
 ingress-test.newstags.stag.bounceexchange.com
 iniitian.saas.appdynamics.com
-i.n.jwpltx.com
 in.jwpltx.com
+i.n.jwpltx.com
 inneractive.dca.events.bidstalk.com
 inneractive.win.bidstalk.com
 innocraft-cloud-mars.innocraft.com
@@ -4149,8 +4163,8 @@ prospect-cm.dsp.linksynergy.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 proximiter-stg.joystickinteractive.com
 proximiter-temp.joystickinteractive.com
 proximiter-tmp.joystickinteractive.com
@@ -4330,6 +4344,7 @@ q-test.addthis.com
 quant.fa.163.com
 quanzi.caipiao.163.com
 quanzi.platform.mall.163.com
+queuer-elb.sandbox53.localytics.com
 quidco.t.ignitionone.com
 quill.rdr.channelintelligence.com
 quintana.impresionesweb.com
@@ -4480,6 +4495,7 @@ report.clickpoint.com
 report.crashlytics.com
 report-d2.ligatus.com
 reporting.adtouchlabs.com
+reporting.locsensads.com
 reporting.secure.eloqua.com
 reporting.www02.secure.eloqua.com
 reports.adconion.com
@@ -4731,6 +4747,7 @@ sc.aertb.com
 scaleout.hkg.events.bidstalk.com
 scam-api.beta.stag.bounceexchange.com
 scam.beta.stag.bounceexchange.com
+scavenger.localytics.com
 scd.ingest.at.atwola.com
 scdn.mm.atwola.com
 scexp001.exelator.com
@@ -4798,8 +4815,8 @@ seagate.links.channelintelligence.com
 sean.ittest.33across.com
 search.advertisingbox.com
 search.at.atwola.com
-searchcldellow.deployads.com
 search-cldellow.deployads.com
+searchcldellow.deployads.com
 search.deployads.com
 search.igodigital.com
 searsoutlet.rdr.channelintelligence.com
@@ -4959,8 +4976,8 @@ sip.awsmppl.com
 sipexternal.foresee.com
 sipexternal.gmial.com
 _sipfederationtls._tcp.admedia.com
-sipfederationtls.tcp.gmial.com
 _sipfederationtls._tcp.gmial.com
+sipfederationtls.tcp.gmial.com
 sip.gmial.com
 sipinternal.gmial.com
 siri.adwyze.com
@@ -5367,7 +5384,9 @@ telamon.corp.com
 teleflora.sp1.convertro.com
 telemetry.sdk.ams1.appgw.inmobi.com
 telemetry.sdk.dfw1.vip.inmobi.com
+telenor-analytics.localytics.com
 telenor-creatives.53.localytics.com
+telenor-profile.localytics.com
 temo.analyticson.com
 templates-beta.convertcart.com
 templates.convertcart.com
@@ -5390,11 +5409,13 @@ test2-dex-k8s.dev-iad.amobee.com
 test4.instartlogic.com
 test5.instartlogic.com
 test-adserver.adtechus.com
+testads.locsensads.com
 test.adsnative.com
 test.adthrive.com
 test.api.darkroom.analytics.console.aws.a2z.com
 test.appdynamics.com
 testbanners.analyticson.com
+testbids.locsensads.com
 testcert.247realmedia.com
 test-cert.dev-iad.amobee.com
 test.chartbeat.com
@@ -5571,6 +5592,7 @@ tracking.downloadyeah.com
 tracking.hyde.ligatus.com
 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
 track.ligatus.com
+track.locsensads.com
 track-staging.scoota.co
 track-uswest.admaxim.com
 trackv3.aniview.com
@@ -5585,8 +5607,8 @@ transfer.bluecava.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel-productads.hlserve.com
 travel.productads.hlserve.com
+travel-productads.hlserve.com
 travelup.dc.ignitionone.com
 travelup.t.ignitionone.com
 tr.bnmla.com
@@ -5663,6 +5685,7 @@ trk.helios.ligatus.com
 trk.hellos.ligatus.com
 trkx-east.kissmetrics.com
 trk.yjp.kissmetrics.com
+tr.locsensads.com
 troy-nalls.fanbread.com
 trsig.silverpush.co
 tr.silverpush.co
@@ -5760,8 +5783,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-1.tr.blismedia.com
@@ -5959,14 +5982,15 @@ video.bidsimulator.com
 video.flashtalking.com
 video.inmobi.com
 video.uk.advertising.com
+vid.locsensads.com
 vietnamworks-sin.gravityrd-services.com
 view.comms.doubleclick.com
 view.skyrocket.adtdp.com
 viewsonic.links.channelintelligence.com
 vi.gumgum.com
 vip.admaster.com.cn
-visit.backoffice.adikteev.com
 visit-backoffice.adikteev.com
+visit.backoffice.adikteev.com
 visitor-qa.activengage.com
 vivad.advertising.com
 vivad.at.atwola.com
@@ -6128,6 +6152,7 @@ wmt.hlserve.com
 wolf.163.com
 women.fanbread.com
 woolworths.sp1.convertro.com
+workflows.sandbox53.localytics.com
 wowcard.163.com
 wp.adchoice.com
 wpadmin.privacynews.acxiom.com

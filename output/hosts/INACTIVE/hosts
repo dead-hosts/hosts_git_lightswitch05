@@ -180,6 +180,7 @@
 0.0.0.0 ads177.adtelligent.com
 0.0.0.0 ads1.fingereach.com
 0.0.0.0 ads2.fingereach.com
+0.0.0.0 ads2.locsensads.com
 0.0.0.0 ads351.adtelligent.com
 0.0.0.0 ads352.adtelligent.com
 0.0.0.0 ads3.fingereach.com
@@ -618,12 +619,15 @@
 0.0.0.0 api.joanna.env.sandbox53.localytics.com
 0.0.0.0 api.joanna-test.env.sandbox53.localytics.com
 0.0.0.0 api.joe.env.sandbox53.localytics.com
+0.0.0.0 api.josh.env.sandbox53.localytics.com
 0.0.0.0 api.lapresse.adgear.com
 0.0.0.0 api.lapresse-staging.adgear.com
 0.0.0.0 api-latest-grpc.lightstep.com
 0.0.0.0 api-latest.lightstep.com
+0.0.0.0 api.locsensads.com
 0.0.0.0 api.mcclusterface.k8s.liveramp.com
 0.0.0.0 ap.impdesk.com
+0.0.0.0 api.nonewlines.env.sandbox53.localytics.com
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 api.portal.staging2.inskinmedia.com
 0.0.0.0 api.prod.env.53.localytics.com
@@ -633,8 +637,10 @@
 0.0.0.0 api-public-test.addthis.com
 0.0.0.0 api.qa.drift.com
 0.0.0.0 api.qa.exacttarget.com
+0.0.0.0 api.raphael.env.sandbox53.localytics.com
 0.0.0.0 api.register.criteo.com
 0.0.0.0 api.reports.advertising.com
+0.0.0.0 api.rishi.env.sandbox53.localytics.com
 0.0.0.0 apis.adsymptotic.com
 0.0.0.0 api.shannon.test.appsee.com
 0.0.0.0 api.silverpush.co
@@ -645,7 +651,12 @@
 0.0.0.0 api.tags.iad.bluekai.com
 0.0.0.0 api.tags.phx.bluekai.com.bk.phx.addthis.com
 0.0.0.0 api.tags-rc.iad.bluekai.com
+0.0.0.0 api.terraform-outputs.env.sandbox53.localytics.com
 0.0.0.0 api.test.native.ai
+0.0.0.0 api.tushar-test.env.sandbox53.localytics.com
+0.0.0.0 api.tutorial.env.sandbox53.localytics.com
+0.0.0.0 api.tutorial-sharing-again.env.sandbox53.localytics.com
+0.0.0.0 api.tutorial-sharing.env.sandbox53.localytics.com
 0.0.0.0 api.uat.opinion.inmobi.com
 0.0.0.0 api.uat.opinions.inmobi.com
 0.0.0.0 api.unruly.co
@@ -655,6 +666,8 @@
 0.0.0.0 api-v2.instartlogic.com
 0.0.0.0 api.warehouse.adikteev.com
 0.0.0.0 api.webchunker.streaming.adswizz.com
+0.0.0.0 api.yoni.env.sandbox53.localytics.com
+0.0.0.0 api.ysamlan-initial-test.env.sandbox53.localytics.com
 0.0.0.0 ap.ligatus.com
 0.0.0.0 apn.admotion.com
 0.0.0.0 ap-northeast-1.gamma.analytics.console.aws.a2z.com
@@ -870,8 +883,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b3.greatarcadehits.com
@@ -1555,6 +1568,7 @@
 0.0.0.0 cpl.rt.cquotient.com
 0.0.0.0 cpm2.admob.com
 0.0.0.0 cpm2.vip.sc9.admob.com
+0.0.0.0 cra.locsensads.com
 0.0.0.0 crash.amplitude.com
 0.0.0.0 crave.dev.joystickinteractive.com
 0.0.0.0 crdb.infra.apester.com
@@ -2129,8 +2143,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2638,8 +2652,8 @@
 0.0.0.0 i.essads.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -4330,6 +4344,7 @@
 0.0.0.0 quant.fa.163.com
 0.0.0.0 quanzi.caipiao.163.com
 0.0.0.0 quanzi.platform.mall.163.com
+0.0.0.0 queuer-elb.sandbox53.localytics.com
 0.0.0.0 quidco.t.ignitionone.com
 0.0.0.0 quill.rdr.channelintelligence.com
 0.0.0.0 quintana.impresionesweb.com
@@ -4480,6 +4495,7 @@
 0.0.0.0 report.crashlytics.com
 0.0.0.0 report-d2.ligatus.com
 0.0.0.0 reporting.adtouchlabs.com
+0.0.0.0 reporting.locsensads.com
 0.0.0.0 reporting.secure.eloqua.com
 0.0.0.0 reporting.www02.secure.eloqua.com
 0.0.0.0 reports.adconion.com
@@ -4731,6 +4747,7 @@
 0.0.0.0 scaleout.hkg.events.bidstalk.com
 0.0.0.0 scam-api.beta.stag.bounceexchange.com
 0.0.0.0 scam.beta.stag.bounceexchange.com
+0.0.0.0 scavenger.localytics.com
 0.0.0.0 scd.ingest.at.atwola.com
 0.0.0.0 scdn.mm.atwola.com
 0.0.0.0 scexp001.exelator.com
@@ -4798,8 +4815,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search-cldellow.deployads.com
+0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -5367,7 +5384,9 @@
 0.0.0.0 teleflora.sp1.convertro.com
 0.0.0.0 telemetry.sdk.ams1.appgw.inmobi.com
 0.0.0.0 telemetry.sdk.dfw1.vip.inmobi.com
+0.0.0.0 telenor-analytics.localytics.com
 0.0.0.0 telenor-creatives.53.localytics.com
+0.0.0.0 telenor-profile.localytics.com
 0.0.0.0 temo.analyticson.com
 0.0.0.0 templates-beta.convertcart.com
 0.0.0.0 templates.convertcart.com
@@ -5390,11 +5409,13 @@
 0.0.0.0 test4.instartlogic.com
 0.0.0.0 test5.instartlogic.com
 0.0.0.0 test-adserver.adtechus.com
+0.0.0.0 testads.locsensads.com
 0.0.0.0 test.adsnative.com
 0.0.0.0 test.adthrive.com
 0.0.0.0 test.api.darkroom.analytics.console.aws.a2z.com
 0.0.0.0 test.appdynamics.com
 0.0.0.0 testbanners.analyticson.com
+0.0.0.0 testbids.locsensads.com
 0.0.0.0 testcert.247realmedia.com
 0.0.0.0 test-cert.dev-iad.amobee.com
 0.0.0.0 test.chartbeat.com
@@ -5571,6 +5592,7 @@
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
 0.0.0.0 track.ligatus.com
+0.0.0.0 track.locsensads.com
 0.0.0.0 track-staging.scoota.co
 0.0.0.0 track-uswest.admaxim.com
 0.0.0.0 trackv3.aniview.com
@@ -5585,8 +5607,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -5663,6 +5685,7 @@
 0.0.0.0 trk.hellos.ligatus.com
 0.0.0.0 trkx-east.kissmetrics.com
 0.0.0.0 trk.yjp.kissmetrics.com
+0.0.0.0 tr.locsensads.com
 0.0.0.0 troy-nalls.fanbread.com
 0.0.0.0 trsig.silverpush.co
 0.0.0.0 tr.silverpush.co
@@ -5959,6 +5982,7 @@
 0.0.0.0 video.flashtalking.com
 0.0.0.0 video.inmobi.com
 0.0.0.0 video.uk.advertising.com
+0.0.0.0 vid.locsensads.com
 0.0.0.0 vietnamworks-sin.gravityrd-services.com
 0.0.0.0 view.comms.doubleclick.com
 0.0.0.0 view.skyrocket.adtdp.com
@@ -6128,6 +6152,7 @@
 0.0.0.0 wolf.163.com
 0.0.0.0 women.fanbread.com
 0.0.0.0 woolworths.sp1.convertro.com
+0.0.0.0 workflows.sandbox53.localytics.com
 0.0.0.0 wowcard.163.com
 0.0.0.0 wp.adchoice.com
 0.0.0.0 wpadmin.privacynews.acxiom.com
