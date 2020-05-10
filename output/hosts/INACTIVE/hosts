@@ -10,6 +10,7 @@
 0.0.0.0 01.webproxy.sin1.appnexus.com
 0.0.0.0 01-winserv.test.corp.appnexus.com
 0.0.0.0 05.gmial.com
+0.0.0.0 100001963.collect.igodigital.com
 0.0.0.0 1-10-k8s.dev-iad.amobee.com
 0.0.0.0 11.gmial.com
 0.0.0.0 12vasquez.gmial.com
@@ -420,6 +421,7 @@
 0.0.0.0 analytics.apester.com
 0.0.0.0 analytics-dash.airpr.com
 0.0.0.0 analytics.elfsight.com
+0.0.0.0 analytics-qa.igodigital.com
 0.0.0.0 analytics.skyrocket.adtdp.com
 0.0.0.0 analytics.staging.teemo.co
 0.0.0.0 analytics.teemo.co
@@ -711,6 +713,7 @@
 0.0.0.0 autodiscover.eu.acxiom.com
 0.0.0.0 autodiscover.fluxloop.com
 0.0.0.0 autodiscover.gmial.com
+0.0.0.0 autodiscover.igodigital.com
 0.0.0.0 autodiscover.o365.foresee.com
 0.0.0.0 _autodiscover._tcp.aggregateknowledge.com
 0.0.0.0 _autodiscover._tcp.agkn.com
@@ -734,13 +737,17 @@
 0.0.0.0 aws-production-video-broker-eu-west-1.video-v2.fyber.com
 0.0.0.0 aws-production-video-broker-us-west-2.video-v2.fyber.com
 0.0.0.0 aws-staging-banner-eu-west-1.staging-banner.fyber.com
+0.0.0.0 axa.dc.ignitionone.com
+0.0.0.0 axa.t.ignitionone.com
 0.0.0.0 axonix.dca.events.bidstalk.com
 0.0.0.0 axonixdirect.dca.events.bidstalk.com
 0.0.0.0 axonix.events.bidstalk.com
 0.0.0.0 ayafa.dev-iad.amobee.com
 0.0.0.0 ayafa.qa-iad.amobee.com
 0.0.0.0 azadt.adsafeprotected.com
+0.0.0.0 azasc.iasds01.com
 0.0.0.0 azjdt.adsafeprotected.com
+0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
@@ -775,6 +782,8 @@
 0.0.0.0 bar.dev-iad.amobee.com
 0.0.0.0 baseurl.admarvel.com
 0.0.0.0 bathandbodyworks.adlegend.com
+0.0.0.0 bato.dc.ignitionone.com
+0.0.0.0 bato.t.ignitionone.com
 0.0.0.0 baublebar.sp1.convertro.com
 0.0.0.0 b.audiencetag.com
 0.0.0.0 bbpeoplemeet.adlegend.com
@@ -914,6 +923,8 @@
 0.0.0.0 blue.erne.co
 0.0.0.0 blue.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 bms-ext.nyc2.appnexus.com
+0.0.0.0 bmwnl.dc.ignitionone.com
+0.0.0.0 bmwnl.t.ignitionone.com
 0.0.0.0 bo.beeviewd.com
 0.0.0.0 bok.qa-iad.amobee.com
 0.0.0.0 bonobos.sp1.convertro.com
@@ -1112,6 +1123,8 @@
 0.0.0.0 centraltag-admin.dbidatatech.com
 0.0.0.0 centraltag-service.dbidatatech.com
 0.0.0.0 centro-indy.exacttarget.com
+0.0.0.0 centurylink.dc.ignitionone.com
+0.0.0.0 centurylink.t.ignitionone.com
 0.0.0.0 cert.acxiom.com
 0.0.0.0 cert-foo.dev-iad.amobee.com
 0.0.0.0 certitaudit.acxiom.com
@@ -1540,6 +1553,7 @@
 0.0.0.0 diablo.links.channelintelligence.com
 0.0.0.0 diag.adsafeprotected.com
 0.0.0.0 dialin.acxiom.com
+0.0.0.0 d.iesnare.com
 0.0.0.0 dikwass.qa-iad.amobee.com
 0.0.0.0 discover.dasha.apester.com
 0.0.0.0 dishdigital.sp1.convertro.com
@@ -1782,8 +1796,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -1812,6 +1826,8 @@
 0.0.0.0 exportdata.appsflyer.com
 0.0.0.0 exporthtml5.bannersnack.com
 0.0.0.0 ext.dynamicyield.com
+0.0.0.0 extendedstayamerica.dc.ignitionone.com
+0.0.0.0 extendedstayamerica.t.ignitionone.com
 0.0.0.0 extension.fortvision.com
 0.0.0.0 external.gemius.com
 0.0.0.0 external.labs.ebuzzing.com
@@ -1869,6 +1885,8 @@
 0.0.0.0 fb.ebuzzing.com
 0.0.0.0 fb-proxy-003.friendbuy.com
 0.0.0.0 fc1-eu.adsymptotic.com
+0.0.0.0 fca.dc.ignitionone.com
+0.0.0.0 fca.t.ignitionone.com
 0.0.0.0 fc-lb2-vip0.eu.adsymptotic.com
 0.0.0.0 fda.corp.com
 0.0.0.0 feed1.50million.club
@@ -1904,6 +1922,7 @@
 0.0.0.0 flink-test.datadome.co
 0.0.0.0 flink-test-ovh.datadome.co
 0.0.0.0 fl-mail01.channelintelligence.com
+0.0.0.0 floridacitrus.dc.ignitionone.com
 0.0.0.0 flyingleadwire.awsmppl.com
 0.0.0.0 focus.meeting.abtasty.com
 0.0.0.0 foo1-k8s.dev-iad.amobee.com
@@ -1957,6 +1976,8 @@
 0.0.0.0 fw.ad-score.com
 0.0.0.0 fwcf.adsafeprotected.com
 0.0.0.0 fync.bfmio.com
+0.0.0.0 g6hospitality.dc.ignitionone.com
+0.0.0.0 g6hospitality.t.ignitionone.com
 0.0.0.0 g.agkn.com
 0.0.0.0 gallery.admotion.com
 0.0.0.0 game.caipiao.163.com
@@ -2069,6 +2090,8 @@
 0.0.0.0 growth.adroll.com
 0.0.0.0 growth.api.driftt.com
 0.0.0.0 grxblog.grxstaging.com
+0.0.0.0 gs.api.igodigital.com
+0.0.0.0 gst.api.igodigital.com
 0.0.0.0 gtncaptions.rt.cquotient.com
 0.0.0.0 gtn.rt.cquotient.com
 0.0.0.0 guardedgovernor.com
@@ -2151,6 +2174,9 @@
 0.0.0.0 html5toolkit.adform.com
 0.0.0.0 html.aggregateknowledge.com
 0.0.0.0 html.agkn.com
+0.0.0.0 humanunlimited.dc.ignitionone.com
+0.0.0.0 humanunlimited.t.ignitionone.com
+0.0.0.0 hunterdouglas.dc.ignitionone.com
 0.0.0.0 hunya.dev-iad.amobee.com
 0.0.0.0 hunya.qa-iad.amobee.com
 0.0.0.0 hw-assets.applovin.com
@@ -2162,6 +2188,7 @@
 0.0.0.0 hzh-secure.adsbysmart.cn
 0.0.0.0 i.4see.mobi.lb.foreseeresults.com
 0.0.0.0 iad-05.braze.com
+0.0.0.0 iad-apple.com
 0.0.0.0 i.apester.com
 0.0.0.0 i.awin.com
 0.0.0.0 ib2.3lift.com
@@ -2309,6 +2336,8 @@
 0.0.0.0 intra.fyber.com
 0.0.0.0 intuit.adlegend.com
 0.0.0.0 intuit.sp1.convertro.com
+0.0.0.0 invalance.dc.ignitionone.com
+0.0.0.0 invalance.t.ignitionone.com
 0.0.0.0 inventory.beeviewd.com
 0.0.0.0 inventorysvc.adlearnop.advertising.com
 0.0.0.0 investors.acxiom.com
@@ -2318,6 +2347,8 @@
 0.0.0.0 in.webapp.163.com
 0.0.0.0 inyour.atlassbx.com
 0.0.0.0 iomsgpprn02.corp.com
+0.0.0.0 ione.dc.ignitionone.com
+0.0.0.0 ione.t.ignitionone.com
 0.0.0.0 ios.ma.163.com
 0.0.0.0 ios.sp1.convertro.com
 0.0.0.0 iosus.ma.163.com
@@ -2371,6 +2402,8 @@
 0.0.0.0 jabberthehutt.adconion.com
 0.0.0.0 jackspade.adlegend.com
 0.0.0.0 jagi.buypixelads.com
+0.0.0.0 jaguar.dc.ignitionone.com
+0.0.0.0 jaguar.t.ignitionone.com
 0.0.0.0 jane.sp1.convertro.com
 0.0.0.0 janestar.fanbread.com
 0.0.0.0 jarvis.adwyze.com
@@ -2493,8 +2526,12 @@
 0.0.0.0 landingmy.bucksense.com
 0.0.0.0 landingqa.bucksense.com
 0.0.0.0 landingsa.bucksense.com
+0.0.0.0 landrover.dc.ignitionone.com
+0.0.0.0 landrover.t.ignitionone.com
 0.0.0.0 language.security.data.360safe.com
 0.0.0.0 lapresse.adgear.com
+0.0.0.0 laquinta.dc.ignitionone.com
+0.0.0.0 laquinta.t.ignitionone.com
 0.0.0.0 lastpass.sp1.convertro.com
 0.0.0.0 latency.banner-server.fyber.com
 0.0.0.0 latest.atlassbx.com
@@ -2523,8 +2560,10 @@
 0.0.0.0 legacy-sb-wc.adtechus.com
 0.0.0.0 legalzoom.sp1.convertro.com
 0.0.0.0 lendingtree.sp1.convertro.com
+0.0.0.0 lenovo.dc.ignitionone.com
 0.0.0.0 lenovo.links.channelintelligence.com
 0.0.0.0 lenovo.sp1.convertro.com
+0.0.0.0 lenovo.t.ignitionone.com
 0.0.0.0 lenta-ams.gravityrd-services.com
 0.0.0.0 le-tester.chartboost.com
 0.0.0.0 lexar.links.channelintelligence.com
@@ -2544,6 +2583,8 @@
 0.0.0.0 lifelock.c3metrics.com
 0.0.0.0 lig.corp.com
 0.0.0.0 lindenlab.activate.ensighten.com
+0.0.0.0 lindnerde.dc.ignitionone.com
+0.0.0.0 lindnerde.t.ignitionone.com
 0.0.0.0 link.ad-brix.com
 0.0.0.0 link.apsalar.com
 0.0.0.0 links.channelintelligence.com
@@ -2571,6 +2612,7 @@
 0.0.0.0 loadvxny.exelator.com
 0.0.0.0 loadvxsc.exelator.com
 0.0.0.0 loadxl.exelator.com
+0.0.0.0 loandepot.dc.ignitionone.com
 0.0.0.0 local0-slave1.brightedge.com
 0.0.0.0 local0-slave3.brightedge.com
 0.0.0.0 local.adotmob.com
@@ -2627,6 +2669,7 @@
 0.0.0.0 lrs.fuel451.com
 0.0.0.0 lsc.rt.cquotient.com
 0.0.0.0 luckyslots.fanbread.com
+0.0.0.0 lumberliquidators.dc.ignitionone.com
 0.0.0.0 luxottica.sp1.convertro.com
 0.0.0.0 lyft.sp1.convertro.com
 0.0.0.0 lyncadmin.foreseeresults.com
@@ -2724,6 +2767,7 @@
 0.0.0.0 mc-login-qa3.exacttarget.com
 0.0.0.0 mdbcr24cogp1.acxiom.com
 0.0.0.0 mdvip.sp1.convertro.com
+0.0.0.0 meadjohnson.dc.ignitionone.com
 0.0.0.0 mebeliopl-ams.gravityrd-services.com
 0.0.0.0 media10.adlegend.com
 0.0.0.0 media12.adlegend.com
@@ -2743,6 +2787,8 @@
 0.0.0.0 media.fuel451.com
 0.0.0.0 media.getsentry.com
 0.0.0.0 media-insights.bluekai.com
+0.0.0.0 mediamarkt.dc.ignitionone.com
+0.0.0.0 mediamarkt.t.ignitionone.com
 0.0.0.0 media.pe.apester.com
 0.0.0.0 medias.analyticson.com
 0.0.0.0 media.staging.getsentry.com
@@ -2794,6 +2840,8 @@
 0.0.0.0 midfirst-elliemae.saas.appdynamics.com
 0.0.0.0 mill.corp.com
 0.0.0.0 minergate.awsmppl.com
+0.0.0.0 minifr.dc.ignitionone.com
+0.0.0.0 minifr.t.ignitionone.com
 0.0.0.0 minisite.fortvision.com
 0.0.0.0 mir-stage.ad-stir.com
 0.0.0.0 misc.ebuzzing.com
@@ -2930,6 +2978,8 @@
 0.0.0.0 n.as1.dyntrk.com
 0.0.0.0 native.fuel451.com
 0.0.0.0 naturalizer.sp1.convertro.com
+0.0.0.0 nav.dc.ignitionone.com
+0.0.0.0 nav.t.ignitionone.com
 0.0.0.0 naws.awin.com
 0.0.0.0 nazar.adsnative.com
 0.0.0.0 nc.atdmt.com
@@ -3472,6 +3522,7 @@
 0.0.0.0 proactiv.rdr.channelintelligence.com
 0.0.0.0 pro.awsmppl.com
 0.0.0.0 process.convertcart.com
+0.0.0.0 prod1.ac-prod.ignitionone.com
 0.0.0.0 prod1.autopilothq.com
 0.0.0.0 prod2.autopilothq.com
 0.0.0.0 prod3.autopilothq.com
@@ -3627,6 +3678,8 @@
 0.0.0.0 pub.pxl.ace.advertising.com
 0.0.0.0 pulsepoint.dca.events.bidstalk.com
 0.0.0.0 pulse-test-gw.conviva.com
+0.0.0.0 pureinfluencer.dc.ignitionone.com
+0.0.0.0 pureinfluencer.t.ignitionone.com
 0.0.0.0 push.ad-pixel.com
 0.0.0.0 push.convertcart.com
 0.0.0.0 pv.awin.com
@@ -3677,6 +3730,7 @@
 0.0.0.0 quant.fa.163.com
 0.0.0.0 quanzi.caipiao.163.com
 0.0.0.0 quanzi.platform.mall.163.com
+0.0.0.0 quidco.t.ignitionone.com
 0.0.0.0 quill.rdr.channelintelligence.com
 0.0.0.0 quiz.wp.orbee.co
 0.0.0.0 qvc.adlegend.com
@@ -3743,6 +3797,7 @@
 0.0.0.0 rachel.fanbread.com
 0.0.0.0 rachelfisher.fanbread.com
 0.0.0.0 rachel-gariepy.fanbread.com
+0.0.0.0 radius.pl.hurra.com
 0.0.0.0 r.admob.com
 0.0.0.0 rad.rad.atdmt.com
 0.0.0.0 rakuten.adroll.com
@@ -3790,6 +3845,7 @@
 0.0.0.0 redash.internal.bidstalk.com
 0.0.0.0 red.dmpxs.com
 0.0.0.0 redirect.adkmob.com
+0.0.0.0 redroofinn.dc.ignitionone.com
 0.0.0.0 reebok.rdr.channelintelligence.com
 0.0.0.0 ref.amplitude.com
 0.0.0.0 register.clickcease.com
@@ -3797,6 +3853,8 @@
 0.0.0.0 reidentrdsprd1.acxiom.com
 0.0.0.0 relay.gmial.com
 0.0.0.0 releasenotes.autopilothq.com
+0.0.0.0 renaultfr.dc.ignitionone.com
+0.0.0.0 renaultfr.t.ignitionone.com
 0.0.0.0 render.btserve.com
 0.0.0.0 renderer.dasha.apester.com
 0.0.0.0 renderer.pe.apester.com
@@ -4080,8 +4138,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search-cldellow.deployads.com
+0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
 0.0.0.0 sears.rdr.channelintelligence.com
@@ -4215,8 +4273,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -4229,6 +4287,7 @@
 0.0.0.0 sjc-delivery-10.sys.adgear.com
 0.0.0.0 sj.lianmeng.360.cn
 0.0.0.0 skiathos.gr.com
+0.0.0.0 skiimobile.gst.api.igodigital.com
 0.0.0.0 skyeye.360safe.com
 0.0.0.0 skyrocket.adtdp.com
 0.0.0.0 sl.advertising.com
@@ -4265,6 +4324,7 @@
 0.0.0.0 socket.adpushup.com
 0.0.0.0 so.extremereach.com
 0.0.0.0 softevocative.adk2x.com
+0.0.0.0 softsurroundings.dc.ignitionone.com
 0.0.0.0 solanki.gmial.com
 0.0.0.0 solavei.3cinteractive.com
 0.0.0.0 solv4.citacx.acxiom.com
@@ -4476,6 +4536,8 @@
 0.0.0.0 stpcaptions.rt.cquotient.com
 0.0.0.0 stp.hansel.cquotient.com
 0.0.0.0 stp.rt.cquotient.com
+0.0.0.0 strayer.dc.ignitionone.com
+0.0.0.0 strayer.t.ignitionone.com
 0.0.0.0 stream.beeviewd.com
 0.0.0.0 strm.atdmt.com
 0.0.0.0 st-rum-elb.geoedge.be
@@ -4557,6 +4619,7 @@
 0.0.0.0 targus.links.channelintelligence.com
 0.0.0.0 t.atdmt.com
 0.0.0.0 tat.flashtalking.com
+0.0.0.0 tatp.iesnare.com
 0.0.0.0 t.beeketing.com
 0.0.0.0 tc.corp.com
 0.0.0.0 tcpcaptions.rt.cquotient.com
@@ -4668,7 +4731,10 @@
 0.0.0.0 tools-tracking.adform.com
 0.0.0.0 tor6.eloqua.com
 0.0.0.0 tower.adwyze.com
+0.0.0.0 toyota-nl.dc.ignitionone.com
+0.0.0.0 toyota-nl.t.ignitionone.com
 0.0.0.0 toysrus.adlegend.com
+0.0.0.0 toysrus.dc.ignitionone.com
 0.0.0.0 tpi.corp.com
 0.0.0.0 tpmn.hkg.events.bidstalk.com
 0.0.0.0 tr1.fuel451.com
@@ -4708,6 +4774,8 @@
 0.0.0.0 travelhook.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travelup.dc.ignitionone.com
+0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
 0.0.0.0 trdev.fuel451.com
 0.0.0.0 tr.gcp.blis.com
@@ -4972,8 +5040,8 @@
 0.0.0.0 viewsonic.links.channelintelligence.com
 0.0.0.0 vi.gumgum.com
 0.0.0.0 vip.admaster.com.cn
-0.0.0.0 visit-backoffice.adikteev.com
 0.0.0.0 visit.backoffice.adikteev.com
+0.0.0.0 visit-backoffice.adikteev.com
 0.0.0.0 visitor-qa.activengage.com
 0.0.0.0 vivad.advertising.com
 0.0.0.0 vivad.at.atwola.com
@@ -4986,6 +5054,8 @@
 0.0.0.0 vodafone.corp.com
 0.0.0.0 voicefive-sb-ec.adtechus.com
 0.0.0.0 voicefive-sb-wc.adtechus.com
+0.0.0.0 volkswagenbr.dc.ignitionone.com
+0.0.0.0 volkswagenbr.t.ignitionone.com
 0.0.0.0 vonage.sp1.convertro.com
 0.0.0.0 vox-static.liverail.co
 0.0.0.0 vpaid.fuel451.com
@@ -5034,6 +5104,7 @@
 0.0.0.0 webdisk.chartboost.com
 0.0.0.0 webdisk.dev.smedia.ca
 0.0.0.0 webdisk.fluxloop.com
+0.0.0.0 webdisk.ibrahimjabbari.com
 0.0.0.0 webhook.k8s.region-001.d-usw-2.braze.com
 0.0.0.0 webmedia01.adlegend.com
 0.0.0.0 webpush.k8s.region-001.p-euc-1.braze.com
@@ -5083,6 +5154,7 @@
 0.0.0.0 westsevendrugs-tagan.adlightning.com
 0.0.0.0 westseven-tagan.adlightning.com
 0.0.0.0 west.webftp.dev.extremereach.com
+0.0.0.0 wgaca.t.ignitionone.com
 0.0.0.0 whb.bytegain.com
 0.0.0.0 whirlpool.links.channelintelligence.com
 0.0.0.0 whirlpool.sp1.convertro.com
@@ -5276,6 +5348,7 @@
 0.0.0.0 www.app.beeketing.com
 0.0.0.0 www.app.cpmktg.com
 0.0.0.0 www.app.getcoopt.com
+0.0.0.0 www.app.igodigital.com
 0.0.0.0 www.app.intellimize.co
 0.0.0.0 www.app.nirror.abtasty.com
 0.0.0.0 www.apps.elfsight.com
@@ -5456,6 +5529,7 @@
 0.0.0.0 www.gmail.com.gmial.com
 0.0.0.0 www.groproext.com
 0.0.0.0 www.grp.dynamicyield.com
+0.0.0.0 www.gs.api.igodigital.com
 0.0.0.0 www.gw.fyber.com
 0.0.0.0 www.gw-il.fyber.com
 0.0.0.0 www.gw-sf.fyber.com
@@ -5474,6 +5548,7 @@
 0.0.0.0 www.ibv.doubleclick.rtb.adx1.com
 0.0.0.0 www.identity.appdynamics.com
 0.0.0.0 www.identity-staging.appdynamics.com
+0.0.0.0 www.iesnare.com
 0.0.0.0 www.images.awin1.com
 0.0.0.0 www.imedia.adk2x.com
 0.0.0.0 www.in.admedia.com
@@ -5685,6 +5760,7 @@
 0.0.0.0 www.sip.foreseeresults.com
 0.0.0.0 www.sip.gmial.com
 0.0.0.0 www.sipinternal.gmial.com
+0.0.0.0 www.skiimobile.gst.api.igodigital.com
 0.0.0.0 www.smetrics.aetn.com
 0.0.0.0 www.smetrics.cnn.com
 0.0.0.0 www.smetrics.couponcabin.com
