@@ -548,6 +548,8 @@ appcloud-node-stage.corp.flurry.com
 app.convertexperiments.com
 app.cospot.com
 app.crashlytics.com
+appengage-fyber.fyber.com
+appengage-video.staging.fyber.com
 app.extremereach.com.extremereach.com
 app.gamer.163.com
 appgrowth.appsee.com
@@ -617,6 +619,10 @@ asos.sp1.convertro.com
 aspera.extremereach.com
 aspera.extremereach.com.extremereach.com
 assessment.acxiom.com
+asset1.fyber.com
+asset2.fyber.com
+asset3.fyber.com
+asset4.fyber.com
 asset-cdn.conductrics.com
 assets1.brightedge.com
 assets2.brightedge.com
@@ -632,6 +638,8 @@ at-a-mtc.atwola.com
 at-a-scd.atwola.com
 atlas-cdn.forter.com
 atlas.ensighten.com
+atlassian2.fyber.com
+atlassian.fyber.com
 atl.corp.com
 atom.link.apsalar.com
 atwola-sb-ec.adtechus.com
@@ -685,6 +693,12 @@ aws-adserver-origin-ap-northeast-1.adtechjp.com
 aws-adserver-origin-ap-southeast-1.adtechjp.com
 aws-event.chicoryapp.com
 aws.footprintdns.com
+aws-production-banner-server-eu-west-1.banner-server.fyber.com
+aws-production-banner-server-us-west-2.banner-server.fyber.com
+aws-production-tracker-us-west-2.tracker.fyber.com
+aws-production-video-broker-eu-west-1.video-v2.fyber.com
+aws-production-video-broker-us-west-2.video-v2.fyber.com
+aws-staging-banner-eu-west-1.staging-banner.fyber.com
 axonix.dca.events.bidstalk.com
 axonixdirect.dca.events.bidstalk.com
 axonix.events.bidstalk.com
@@ -744,6 +758,7 @@ beaucoup.sp1.convertro.com
 bebe.sp1.convertro.com
 because-race-car.fanbread.com
 be.clickpoint.com
+be.fyber.com
 bell-ads.acuityplatform.com
 bell-ex.acuityplatform.com
 bell-img.acuityplatform.com
@@ -872,7 +887,10 @@ brandon.fanbread.com
 brandsolutions.adform.com
 br.clickpoint.com
 breathe.c3metrics.com
+bre.fyber.com
 brm-core-websphere-0.brsrvr.com
+broker-builder.staging-video-v2.fyber.com
+broker.video-v2.fyber.com
 brother.links.channelintelligence.com
 brother-trial.saas.appdynamics.com
 brownshoe.sp1.convertro.com
@@ -880,6 +898,7 @@ brucelead.adk2x.com
 bruleemedia-tagan.adlightning.com
 brx.pxl.ace.advertising.com
 bsapi-test-ssl.brsrvr.com
+bs-creatives-fix.fyber.com
 bs.fiksu.com
 bsw.pxl.ace.advertising.com
 bsw-winners-ap-southeast-1-rtb.adroll.com
@@ -969,6 +988,7 @@ cdh4.ebuzzing.com
 cdim.channelintelligence.com
 c.dlx.addthis.com
 cdmts.acxiom.com
+cdn0.fyber.com
 cdn10.abtasty.com
 cdn11.abtasty.com
 cdn12.abtasty.com
@@ -976,9 +996,13 @@ cdn13.abtasty.com
 cdn14.abtasty.com
 cdn1.abtasty.com
 cdn1.forter.com
+cdn1.fyber.com
 cdn2.bnmla.com
+cdn2.fyber.com
 cdn3.abtasty.com
+cdn3.fyber.com
 cdn4.abtasty.com
+cdn4.fyber.com
 cdn4.usw.forter.com
 cdn5.abtasty.com
 cdn6.abtasty.com
@@ -1016,6 +1040,7 @@ cdn-dev.advanseads.com
 cdn.digitmate.bid
 cdn.dtzads.com
 cdn.eqads.com
+cdn.fyber.com
 cdn-google-v3.conductrics.com
 cdn.ish.atdmt.com
 cdnl.toolbar.complex.com
@@ -1596,6 +1621,7 @@ ee02hmq.advertising.com
 ee12gp4.advertising.com
 eero.sp1.convertro.com
 eiort34.awsmppl.com
+eks-common.prd-aws.fyber.com
 eks.dynamicyield.com
 e.l.admob.com
 elasticstack.cbsi.com
@@ -1665,6 +1691,7 @@ eu.preprod.criteo.com
 eu.services.247realmedia.com
 eu-test.addthis.com
 eu-tools.247realmedia.com
+eu-west-1.banner-server.fyber.com
 eu-west-1.gamma.analytics.console.aws.a2z.com
 eu-west-1.gamma.routing.panorama.analytics.console.aws.a2z.com
 eu-west-1.prod.analytics.console.aws.a2z.com
@@ -1677,8 +1704,8 @@ eu-west-3.gamma.analytics.console.aws.a2z.com
 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 eu-west-3.prod.analytics.console.aws.a2z.com
 event.adserver.adikteev.com
-event-backoffice.adikteev.com
 event.backoffice.adikteev.com
+event-backoffice.adikteev.com
 event.bidstalk.com
 event.cmp.advertising.com
 event-dev.api.driftt.com
@@ -1748,6 +1775,7 @@ f9-us-tx.digitmate.bid
 facebook-ads.adtz.com
 facebook.channelintelligence.com
 facebook-com.fanbread.com
+factory.funnelenvy.com
 f.adbull.com
 falk.dca.events.bidstalk.com
 fanbread-quizzes.fanbread.com
@@ -1807,6 +1835,7 @@ forth-stag-api.newstags.stag.bounceexchange.com
 forth-stag.newstags.stag.bounceexchange.com
 fp.bluecava.com
 fp.fuel451.com
+fps-prd.production.fyber.com
 fra-lb10.eu.adsymptotic.com
 fra-lb1.eu.adsymptotic.com
 fra-lb2.eu.adsymptotic.com
@@ -1937,6 +1966,7 @@ grafana-dev.awin.com
 grafana.infra.apester.com
 grafana.k8s.stc-002.p-use-1.braze.com
 grafana-mysql.infra.apester.com
+grafana.prd.fyber.com
 grandhaus.corp.com
 grape.k8s.test-001.d-usw-2.braze.com
 greylog.snackly.co
@@ -2145,6 +2175,7 @@ intern.atlassbx.com
 interracialpeoplemeet.adlegend.com
 int-front.register.criteo.com
 int-health.register.criteo.com
+intra.fyber.com
 intuit.adlegend.com
 intuit.sp1.convertro.com
 inventory.beeviewd.com
@@ -2224,7 +2255,10 @@ jordyn-smith.fanbread.com
 jp.adlearnop.advertising.com
 jp.advertising.com
 jp.as.criteo.com
+jpdtconfig.gaeadata.com
+jpdtmdc.gaeadata.com
 jpeoplemeet.adlegend.com
+jpmdc.gaeadata.com
 jp-pool.a.company-target.com
 jp-pool.d.company-target.com
 jp.tracking.fingereach.com
@@ -2276,6 +2310,8 @@ keeza.qa-iad.amobee.com
 kenkou.corp.com
 kibana-dev.awin.com
 kibana.infra.apester.com
+kibana.prd.fyber.com
+kibana.tracker.fyber.com
 kiberchat.awsmppl.com
 kiluyak.dev-iad.amobee.com
 kilzci.qa-iad.amobee.com
@@ -2320,6 +2356,7 @@ landingsa.bucksense.com
 language.security.data.360safe.com
 lapresse.adgear.com
 lastpass.sp1.convertro.com
+latency.banner-server.fyber.com
 latest.atlassbx.com
 latinopeoplemeet.adlegend.com
 lax-delivery-1.sys.adgear.com
@@ -2490,6 +2527,7 @@ manual.dsp.analyticson.com
 manuistdoof.awsmppl.com
 map.dstillery.com
 maps.adcolony.com
+marathon.prd.fyber.com
 m.arcadeyum.com
 markel.corp.com
 marketing.demandbase.com
@@ -2511,6 +2549,9 @@ mattmessinger.fanbread.com
 maverick-gamma.boldchat.com
 m.awin1.com
 max-kelley.fanbread.com
+mbe-cdn-rtb.fyber.com
+mbe-cdn-rtb-staging.fyber.com
+mbe-monitoring.fyber.com
 mcdata.de.coremetrics.com
 mcdemo.exacttarget.com
 mc-login-qa2.exacttarget.com
@@ -2896,12 +2937,14 @@ obi.dev.advertising.com
 obi.qat.addesk.advertising.com
 ob.links.channelintelligence.com
 observer.k8s.test-001.d-usw-2.braze.com
+observium.prd.fyber.com
 obx.acxiom.com
 ocum.corp.appdynamics.com
 odds.caipiao.163.com
 o.dev.criteo.com
 offer.adpiano.com
 ofs.aiprx.freewheel.com
+ofw-pivot-prd.production.fyber.com
 og1-iad2.adsymptotic.com
 og-ams1.adsymptotic.com
 oidc-foo-k8s.dev-iad.amobee.com
@@ -3163,6 +3206,8 @@ pl.clickpoint.com
 pldcaptions.rt.cquotient.com
 pld.rt.cquotient.com
 pmg.ad-logics.com
+pmm.prd-aws.fyber.com
+pmm.stg-aws.fyber.com
 pmo01-tech.amobee.com
 poc10.celebrus.com
 poc11.celebrus.com
@@ -3236,6 +3281,7 @@ productanalyticsplaybook.amplitude.com
 product.beta.adwyze.com
 production-adserver-666328397.us-east-1.elb.amazonaws.com
 production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
+production-bidding-agent.fyber.com
 production.cjadsystems.dotomi.com
 production.knightbridge.acxiom.com
 product.staging.adwyze.com
@@ -3447,6 +3493,7 @@ rbac-k8s.dev-iad.amobee.com
 rbcpp.s4.exacttarget.com
 rbc.s4.exacttarget.com
 rb.links.channelintelligence.com
+rc01-debe.intra.fyber.com
 rc2.tr.blismedia.com
 rc.blis.com
 rc.fiksu.com
@@ -3562,6 +3609,7 @@ rtb-rubicon.hk.cn.criteo.com
 rtbtrack.admaxim.com
 rtb-trk.adcolony.com
 rtbwin-506c.applovin.com
+rtcc.fyber.com
 rt.cquotient.com
 rtg.clickpoint.com
 rt.infra.apester.com
@@ -3588,6 +3636,7 @@ rudytest7-api.beta.stag.bounceexchange.com
 rudytest7.beta.stag.bounceexchange.com
 rudytest8-api.beta.stag.bounceexchange.com
 rudytest8.beta.stag.bounceexchange.com
+rundeck.bi.fyber.com
 rwcountrystore.7p.com
 rw-ip-yieldmo-com-1332066544.us-east-1.elb.amazonaws.com
 s10.allinviews.com
@@ -3669,6 +3718,7 @@ sandbox3.auditude.com
 sandowcorp.corp.com
 sanfrancisco18.events.brightedge.com
 sanfrancisco.events.brightedge.com
+san.fyber.com
 santanderam.corp.com
 saoptin.vip.bos.3cinteractive.com
 sap011.channeladvisor.com
@@ -3748,8 +3798,8 @@ seagate.links.channelintelligence.com
 sean.ittest.33across.com
 search.advertisingbox.com
 search.at.atwola.com
-search-cldellow.deployads.com
 searchcldellow.deployads.com
+search-cldellow.deployads.com
 search.deployads.com
 searsoutlet.rdr.channelintelligence.com
 sears.rdr.channelintelligence.com
@@ -3838,6 +3888,7 @@ services.adtelligent.com
 services.cmp.advertising.com
 services.extremereach.com.extremereach.com
 services.iad.braze.com
+service.stg-aws.fyber.com
 settings.firebase.crashlytics.com
 s-et.w.inmobi.cn
 sfdc.clearbit.com
@@ -3853,6 +3904,7 @@ sfmc-docker-prod-local.artifactory-xt-s50.exacttarget.com
 sftpfeed01-fr.criteo.com
 sgsdata.adtechus.com
 sg-stb.blis.com
+shadow.cloud.fyber.com
 shanay.dev-iad.amobee.com
 share15.events.brightedge.com
 share17.events.brightedge.com
@@ -4040,6 +4092,7 @@ staging-tag-endpoint.abtasty.com
 staging.tagmanager.alcmpn.com
 staging.toolbar.complex.com
 staging-use1.dynamicyield.com
+staging-video-broker.fyber.com
 stags.iad.bluekai.com
 stalker.corp.com
 staples2.activate.ensighten.com
@@ -4093,6 +4146,7 @@ steinmart.adlegend.com
 stephaniewain.fanbread.com
 st.extremereach.com
 stg.auditude.com
+stg.fyber.com
 stg-j-serval.adtdp.com
 stgstatic.clmbtech.com
 stiangate.w.cp.163.com
@@ -4359,7 +4413,9 @@ ufs.adkmob.com
 ugama.dev-iad.amobee.com
 ugama.qa-iad.amobee.com
 ui.agkn.com
+ui-dsp-rtb.fyber.com
 uiservices.adtechus.com
+ui.staging-api-docs.fyber.com
 uk.adlearnop.advertising.com
 ulink.adjust.com
 umbraco.adform.com
@@ -4400,8 +4456,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-1.tr.blismedia.com
@@ -4554,6 +4610,7 @@ vid.atdmt.com
 video.adconion.com
 video.adpredictive.com
 video.aniview.com
+video-aws-staging.fyber.com
 video.bidsimulator.com
 video.flashtalking.com
 video.uk.advertising.com
@@ -4561,8 +4618,8 @@ view.comms.doubleclick.com
 view.skyrocket.adtdp.com
 viewsonic.links.channelintelligence.com
 vip.admaster.com.cn
-visit.backoffice.adikteev.com
 visit-backoffice.adikteev.com
+visit.backoffice.adikteev.com
 visitor-qa.activengage.com
 vivad.advertising.com
 vivad.at.atwola.com
@@ -5010,9 +5067,13 @@ www.get.amplitude.com
 www.get.appsee.com
 www.get.appsflyer.com
 www.get.convertcart.com
+www.get.funnelenvy.com
 www.gilda.keywee.co
 www.glbl.adlegend.com
 www.grp.dynamicyield.com
+www.gw.fyber.com
+www.gw-il.fyber.com
+www.gw-sf.fyber.com
 www.h5.helix.inmobi.cn
 www.hackathon.dynamicyield.com
 www.hackers.adpushup.com
@@ -5046,6 +5107,7 @@ www.js.ad-score.com
 www.js.appboycdn.com
 www.js-cdn.dynatrace.com
 www.jss.adroll.com
+www.kibana.prd.fyber.com
 www.lab.braze.com
 www.labs.criteo.com
 www.landing.analyticson.com
