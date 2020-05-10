@@ -883,6 +883,9 @@
 0.0.0.0 cirkoza.qa-iad.amobee.com
 0.0.0.0 citacx.acxiom.com
 0.0.0.0 citacxdmz.acxiom.com
+0.0.0.0 cjadsystems.dotomi.com
+0.0.0.0 cjpersonalizer-dev.dotomi.com
+0.0.0.0 cjpersonalizer.dotomi.com
 0.0.0.0 ck.ny.us.criteo.com
 0.0.0.0 ck.sv.us.criteo.com
 0.0.0.0 clariad.adk2x.com
@@ -912,6 +915,7 @@
 0.0.0.0 cloud.clickpoint.com
 0.0.0.0 cloud.spotad.co
 0.0.0.0 cloud.staging.teemo.co
+0.0.0.0 cloud.zina.dnset.com
 0.0.0.0 clr.corp.com
 0.0.0.0 cmap.ace.advertising.com
 0.0.0.0 cmap.adt.ace.advertising.com
@@ -1166,6 +1170,7 @@
 0.0.0.0 dev.cbg.163.com
 0.0.0.0 dev.channeladvisor.com
 0.0.0.0 dev.chartbeat.com
+0.0.0.0 dev.cjadsystems.dotomi.com
 0.0.0.0 dev.coadvertise.com
 0.0.0.0 dev.darkroomstaticwebsitedev.analytics.console.aws.a2z.com
 0.0.0.0 dev-dashboard.datadome.co
@@ -1399,8 +1404,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 events.adform.com
@@ -1614,6 +1619,9 @@
 0.0.0.0 goggl.aniview.com
 0.0.0.0 gogowa.dev-iad.amobee.com
 0.0.0.0 gogowa.qa-iad.amobee.com
+0.0.0.0 gold5-cdn-jca.ad.dotandad.com
+0.0.0.0 gold5-jca-mzn.ad.dotandad.com
+0.0.0.0 gold5.js.ad.dotandad.com
 0.0.0.0 gold.erne.co
 0.0.0.0 goldluxe.corp.com
 0.0.0.0 gomjam.dev-iad.amobee.com
@@ -1883,10 +1891,12 @@
 0.0.0.0 jpeoplemeet.adlegend.com
 0.0.0.0 jp-pool.a.company-target.com
 0.0.0.0 jp-pool.d.company-target.com
+0.0.0.0 js.ad.dotandad.com
 0.0.0.0 js-api.bytegain.com
 0.0.0.0 js.bytegain.com
 0.0.0.0 j-serval.adtdp.com
 0.0.0.0 jsmt.corp.com
+0.0.0.0 js.tiscali.dotandad.com
 0.0.0.0 jswf.amoad.com
 0.0.0.0 juninloo.dev-iad.amobee.com
 0.0.0.0 justdance.163.com
@@ -2234,6 +2244,7 @@
 0.0.0.0 mpx.corp.com
 0.0.0.0 m.qe1.conviva.com
 0.0.0.0 m.reddit.co
+0.0.0.0 msg.i.dotomi.com
 0.0.0.0 msm.corp.com
 0.0.0.0 msrv.dev.saastest.appdynamics.com
 0.0.0.0 msrv.saas.appdynamics.com
@@ -2733,6 +2744,7 @@
 0.0.0.0 product.beta.adwyze.com
 0.0.0.0 production-adserver-666328397.us-east-1.elb.amazonaws.com
 0.0.0.0 production-analytics-collector-592917094.us-east-1.elb.amazonaws.com
+0.0.0.0 production.cjadsystems.dotomi.com
 0.0.0.0 production.knightbridge.acxiom.com
 0.0.0.0 product.staging.adwyze.com
 0.0.0.0 prod.us-east-2.adotmob.com
@@ -3203,8 +3215,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search-cldellow.deployads.com
+0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
 0.0.0.0 sears.rdr.channelintelligence.com
@@ -3251,6 +3263,7 @@
 0.0.0.0 secure-leadback.ticketsnow.db.advertising.com
 0.0.0.0 secure-leadback.tradera.db.advertising.com
 0.0.0.0 secure-leadback.tui.db.advertising.com
+0.0.0.0 secure-msg.dotomi.com
 0.0.0.0 secure-rtbtrack-uk.admaxim.com
 0.0.0.0 secure.sr.mads.advertising.com
 0.0.0.0 secure.uac.advertising.com
@@ -3762,8 +3775,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -3907,8 +3920,8 @@
 0.0.0.0 view.skyrocket.adtdp.com
 0.0.0.0 viewsonic.links.channelintelligence.com
 0.0.0.0 vip.admaster.com.cn
-0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visit-backoffice.adikteev.com
+0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visitor-qa.activengage.com
 0.0.0.0 vivad.advertising.com
 0.0.0.0 vivad.at.atwola.com
@@ -4184,6 +4197,7 @@
 0.0.0.0 www.ci.appboy.com
 0.0.0.0 www.clarity.inmobi.cn
 0.0.0.0 www.clickus.admailtiser.com
+0.0.0.0 www.client.dotomi.com
 0.0.0.0 www.clients.dealeronlinemarketing.com
 0.0.0.0 www.clientsmedia2.adrime.com
 0.0.0.0 www.cmd--corp.com
@@ -4243,6 +4257,7 @@
 0.0.0.0 www.events.advidi.com
 0.0.0.0 www.events.amplitude.com
 0.0.0.0 www.evt.adrcntr.com
+0.0.0.0 www.extranet.dotomi.com
 0.0.0.0 www.facebook.channelintelligence.com
 0.0.0.0 www.fb.adotube.com
 0.0.0.0 www.fbstats.adotube.com
