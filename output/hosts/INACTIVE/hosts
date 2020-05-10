@@ -1233,6 +1233,7 @@
 0.0.0.0 cdn.bizographics.com
 0.0.0.0 cdn.caipiao.163.com
 0.0.0.0 cdn-c.amazon-adsystem.com
+0.0.0.0 cdn-cdx-woa.helios.ligatus.com
 0.0.0.0 cdn.centraltag.com
 0.0.0.0 cdn-cmp-advertising-com.geo.adtechus.com
 0.0.0.0 cdn.coadvertise.com
@@ -1640,6 +1641,7 @@
 0.0.0.0 delivery1.altitude-arena.com
 0.0.0.0 delivery6.altitude-arena.com
 0.0.0.0 delivery.analyticson.com
+0.0.0.0 delivery.hyde.ligatus.com
 0.0.0.0 delivery.uat.247realmedia.com
 0.0.0.0 delta.bluecava.com
 0.0.0.0 delta.links.channelintelligence.com
@@ -2036,8 +2038,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2468,6 +2470,7 @@
 0.0.0.0 hw-img.applovin.com
 0.0.0.0 hw-pdn.applovin.com
 0.0.0.0 hw-vid.applovin.com
+0.0.0.0 hyde.ligatus.com
 0.0.0.0 hydra.w.cp.163.com
 0.0.0.0 hzh.adsbysmart.cn
 0.0.0.0 hzh-secure.adsbysmart.cn
@@ -2531,10 +2534,10 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -3984,8 +3987,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -4294,6 +4297,7 @@
 0.0.0.0 renderer.dasha.apester.com
 0.0.0.0 renderer.pe.apester.com
 0.0.0.0 render.helio.ligatus.com
+0.0.0.0 render.helios.ligatus.com
 0.0.0.0 rep-ibi.adtechus.com
 0.0.0.0 replay.answerscloud.com
 0.0.0.0 replay.lb.foreseeresults.com
@@ -4765,8 +4769,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sipfederationtls.tcp.gmial.com
+0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -5293,6 +5297,7 @@
 0.0.0.0 tracking.bannerflow.com
 0.0.0.0 tracking.cp.ligatus.com
 0.0.0.0 tracking.downloadyeah.com
+0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
 0.0.0.0 track-staging.scoota.co
 0.0.0.0 track-uswest.admaxim.com
@@ -5316,6 +5321,7 @@
 0.0.0.0 trdev.fuel451.com
 0.0.0.0 trello-callback.glance-internal.inmobi.com
 0.0.0.0 tr.gcp.blis.com
+0.0.0.0 tr.hugin.ligatus.com
 0.0.0.0 triplelift.pxl.ace.advertising.com
 0.0.0.0 triston.fanbread.com
 0.0.0.0 trk10-eucentral1.snt.imrworldwide.com
@@ -5380,6 +5386,8 @@
 0.0.0.0 trk9.snt.imrworldwide.com
 0.0.0.0 trk.clmbtech.com
 0.0.0.0 trk.elios.ligatus.com
+0.0.0.0 trk.helios.ligatus.com
+0.0.0.0 trk.hellos.ligatus.com
 0.0.0.0 trkx-east.kissmetrics.com
 0.0.0.0 trk.yjp.kissmetrics.com
 0.0.0.0 troy-nalls.fanbread.com
@@ -5400,6 +5408,7 @@
 0.0.0.0 ttwbs.channelintelligence.com
 0.0.0.0 tuckernet-32231.prod.analytics.dealer.com
 0.0.0.0 t.update.criteo.com
+0.0.0.0 turbo.hyde.ligatus.com
 0.0.0.0 turbotax.adlegend.com
 0.0.0.0 turner-tagan.adlightning.com
 0.0.0.0 t.vi.ai
@@ -5455,6 +5464,7 @@
 0.0.0.0 unlockme.corp.inmobi.com
 0.0.0.0 unsdksv.ios.ma.163.com
 0.0.0.0 uovz.awsmppl.com
+0.0.0.0 updater.hyde.ligatus.com
 0.0.0.0 upezzo.qa-iad.amobee.com
 0.0.0.0 url.apester.com
 0.0.0.0 url.cloud.360safe.com
@@ -5488,6 +5498,7 @@
 0.0.0.0 use.dynamicyield.com
 0.0.0.0 user-ext.getresponse.com
 0.0.0.0 userfile.gaeadata.com
+0.0.0.0 user.hyde.ligatus.com
 0.0.0.0 usermatix.corp.inmobi.com
 0.0.0.0 users.bidsimulator.com
 0.0.0.0 users.dasha.apester.com
