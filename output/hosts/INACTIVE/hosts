@@ -586,6 +586,8 @@
 0.0.0.0 api-intowow-staging.intowow.com
 0.0.0.0 api.lapresse.adgear.com
 0.0.0.0 api.lapresse-staging.adgear.com
+0.0.0.0 api-latest-grpc.lightstep.com
+0.0.0.0 api-latest.lightstep.com
 0.0.0.0 ap.impdesk.com
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 api.portal.staging2.inskinmedia.com
@@ -643,6 +645,7 @@
 0.0.0.0 appgrowth.appsee.com
 0.0.0.0 appieloginaccount-support.awsmppl.com
 0.0.0.0 app.intellimize.co
+0.0.0.0 app-latest.lightstep.com
 0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 appleid-apple.awsmppl.com
 0.0.0.0 appleid-apple-com.awsmppl.com
@@ -1531,6 +1534,7 @@
 0.0.0.0 c-vip2.eu.adsymptotic.com
 0.0.0.0 cvonline-bud.gravityrd-services.com
 0.0.0.0 cvotest.sp1.convertro.com
+0.0.0.0 cvpn01.intern.ligatus.com
 0.0.0.0 cvproxy01.acxiom.com
 0.0.0.0 cws-app-eu-west-1.conviva.com
 0.0.0.0 cws-app-us-west-2.conviva.com
@@ -1749,6 +1753,7 @@
 0.0.0.0 dev.reports.inskinmedia.com
 0.0.0.0 dev.saastest.appdynamics.com
 0.0.0.0 dev.smedia.ca
+0.0.0.0 dev.tagmanager.ligatus.com
 0.0.0.0 dev.unir.facebook-ads.adtz.com
 0.0.0.0 dev-use1.dynamicyield.com
 0.0.0.0 dev.uu.163.com
@@ -2528,6 +2533,7 @@
 0.0.0.0 ideas.antvoice.com
 0.0.0.0 ideas.appcues.com
 0.0.0.0 i.dev.jwpltx.com
+0.0.0.0 id.ligatus.com
 0.0.0.0 idp.corp.inmobi.com
 0.0.0.0 idprod.acxiom.com
 0.0.0.0 idsync.districtm.ca
@@ -2616,8 +2622,8 @@
 0.0.0.0 ingress-test-api.newstags.stag.bounceexchange.com
 0.0.0.0 ingress-test.newstags.stag.bounceexchange.com
 0.0.0.0 iniitian.saas.appdynamics.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inneractive.dca.events.bidstalk.com
 0.0.0.0 inneractive.win.bidstalk.com
 0.0.0.0 innocraft-cloud-mars.innocraft.com
@@ -2675,6 +2681,7 @@
 0.0.0.0 internals.adotmob.com
 0.0.0.0 internals.instartlogic.com
 0.0.0.0 intern.atlassbx.com
+0.0.0.0 intern.ligatus.com
 0.0.0.0 interracialpeoplemeet.adlegend.com
 0.0.0.0 int-front.register.criteo.com
 0.0.0.0 int.getresponse.com
@@ -2698,6 +2705,8 @@
 0.0.0.0 ione.dc.ignitionone.com
 0.0.0.0 ione.t.ignitionone.com
 0.0.0.0 i-origin.jumptap.com
+0.0.0.0 i-origin.ligatus.com
+0.0.0.0 i-origin-mhenrich.webdev.ligatus.com
 0.0.0.0 ios.ma.163.com
 0.0.0.0 ios.sp1.convertro.com
 0.0.0.0 iosus.ma.163.com
@@ -2820,6 +2829,7 @@
 0.0.0.0 k8s.test-002.s-usw-2.braze.com
 0.0.0.0 k8s-todd.braze.com
 0.0.0.0 kabbage.adlegend.com
+0.0.0.0 kace1100-01.intern.ligatus.com
 0.0.0.0 kace.corp.ligatus.com
 0.0.0.0 kafka.connect.worker.flurry.com
 0.0.0.0 kalcmi.awsmppl.com
@@ -2964,6 +2974,7 @@
 0.0.0.0 liverail.adtheorent.com
 0.0.0.0 liverail-bids.bidtheatre.com
 0.0.0.0 llbean.sp1.convertro.com
+0.0.0.0 l.ligatus.com
 0.0.0.0 llpstream.atdmt.com
 0.0.0.0 lns.emetriq.com
 0.0.0.0 load.adlegend.com
@@ -3270,6 +3281,7 @@
 0.0.0.0 m.reddit.co
 0.0.0.0 mr.fuel451.com
 0.0.0.0 msg.i.dotomi.com
+0.0.0.0 ms.ligatus.com
 0.0.0.0 msm.corp.com
 0.0.0.0 msrv.dev.saastest.appdynamics.com
 0.0.0.0 msrv.saas.appdynamics.com
@@ -3836,6 +3848,7 @@
 0.0.0.0 platform.bluecava.com
 0.0.0.0 platform-dashboard.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 platform.districtm.ca
+0.0.0.0 platform.ligatus.com
 0.0.0.0 platform.mall.163.com
 0.0.0.0 platform-v.amobee.com
 0.0.0.0 platfrom-api.beeviewd.com
@@ -3987,8 +4000,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -4112,6 +4125,7 @@
 0.0.0.0 pureinfluencer.t.ignitionone.com
 0.0.0.0 push.ad-pixel.com
 0.0.0.0 push.convertcart.com
+0.0.0.0 push.rce.ligatus.com
 0.0.0.0 pv.awin.com
 0.0.0.0 pv.tacoda.at.atwola.com
 0.0.0.0 pwreset.acxiom.com
@@ -4144,6 +4158,7 @@
 0.0.0.0 qa-haproxy.chicoryapp.com
 0.0.0.0 qa.imiclk.com
 0.0.0.0 qai-uk.adlearnop.advertising.com
+0.0.0.0 qa.ligatus.com
 0.0.0.0 qa-moments.advertising.com
 0.0.0.0 qa-network2.chicoryapp.com
 0.0.0.0 qa.origin.craft.advertising.com
@@ -4257,6 +4272,8 @@
 0.0.0.0 rc01-debe.intra.fyber.com
 0.0.0.0 rc2.tr.blismedia.com
 0.0.0.0 rc.blis.com
+0.0.0.0 rce.ligatus.com
+0.0.0.0 rce-reporting.ligatus.com
 0.0.0.0 rc.fiksu.com
 0.0.0.0 rcnc.syndication.kbb.com
 0.0.0.0 rco.reamp.com.br
@@ -4303,8 +4320,10 @@
 0.0.0.0 replay.lb.foreseeresults.com
 0.0.0.0 repo.adsymptotic.com
 0.0.0.0 report.adtz.com
+0.0.0.0 report-a.ligatus.com
 0.0.0.0 report.clickpoint.com
 0.0.0.0 report.crashlytics.com
+0.0.0.0 report-d2.ligatus.com
 0.0.0.0 reporting.adtouchlabs.com
 0.0.0.0 reporting.secure.eloqua.com
 0.0.0.0 reporting.www02.secure.eloqua.com
@@ -4332,6 +4351,7 @@
 0.0.0.0 rest-api.datadome.co
 0.0.0.0 rest.instantcheckmate.com
 0.0.0.0 rest.qa.exacttarget.com
+0.0.0.0 ret01.ligatus.com
 0.0.0.0 retail-walmart.productads.hlserve.com
 0.0.0.0 retention.appsflyer.com
 0.0.0.0 rev2pub.adk2x.com
@@ -4346,6 +4366,7 @@
 0.0.0.0 risc-test.getrockerbox.com
 0.0.0.0 ris.fiksu.com
 0.0.0.0 rlec-use.dynamicyield.com
+0.0.0.0 r.ligatus.com
 0.0.0.0 rma.adcolony.com
 0.0.0.0 rm.analyticson.com
 0.0.0.0 rmd.atdmt.com
@@ -4381,6 +4402,7 @@
 0.0.0.0 rtb-api.ad-stir.com
 0.0.0.0 rtb-appnexus.admaxim.com
 0.0.0.0 rtb-lb2-vip0.eu.adsymptotic.com
+0.0.0.0 rtb.ligatus.com
 0.0.0.0 rtb-rubicon.hk.cn.criteo.com
 0.0.0.0 rtbtrack.admaxim.com
 0.0.0.0 rtb-trk.adcolony.com
@@ -4479,6 +4501,7 @@
 0.0.0.0 s9.allinviews.com
 0.0.0.0 s9-fast.addthis.com
 0.0.0.0 sac4.ayads.co
+0.0.0.0 sac.ligatus.com
 0.0.0.0 s.admaster.com.cn
 0.0.0.0 s.adotube.com
 0.0.0.0 s.ad-pixel.com
@@ -4769,8 +4792,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -4789,6 +4812,7 @@
 0.0.0.0 skyeye.360safe.com
 0.0.0.0 skyrocket.adtdp.com
 0.0.0.0 sl.advertising.com
+0.0.0.0 s.ligatus.com
 0.0.0.0 slv.adpiano.com
 0.0.0.0 smaato.dca.events.bidstalk.com
 0.0.0.0 smaato.events.bidstalk.com
@@ -5015,6 +5039,7 @@
 0.0.0.0 stats-dss1402.epom.com
 0.0.0.0 stats-dss1953.epom.com
 0.0.0.0 stats.exoclick.com
+0.0.0.0 stats.ligatus.com
 0.0.0.0 stats-us-tx-2.buysellads.com
 0.0.0.0 status.addthis.com
 0.0.0.0 status.adsnative.com
@@ -5111,6 +5136,7 @@
 0.0.0.0 tag-direct.lga.contextweb.com
 0.0.0.0 tag-direct.sjc.contextweb.com
 0.0.0.0 tagila.adk2x.com
+0.0.0.0 tagmanager.ligatus.com
 0.0.0.0 tag-routing-api.beta.stag.bounceexchange.com
 0.0.0.0 tag-routing.beta.stag.bounceexchange.com
 0.0.0.0 tags0.dal.bluekai.com
@@ -5299,6 +5325,7 @@
 0.0.0.0 tracking.downloadyeah.com
 0.0.0.0 tracking.hyde.ligatus.com
 0.0.0.0 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
+0.0.0.0 track.ligatus.com
 0.0.0.0 track-staging.scoota.co
 0.0.0.0 track-uswest.admaxim.com
 0.0.0.0 trackv3.aniview.com
@@ -5629,6 +5656,7 @@
 0.0.0.0 vendio.corp.com
 0.0.0.0 verity-api-internal.gumgum.com
 0.0.0.0 verity-api-test.gumgum.com
+0.0.0.0 vext.ligatus.com
 0.0.0.0 vg.jumptap.com
 0.0.0.0 viber.cdn.adsnative.com
 0.0.0.0 viber.console.adsnative.com
@@ -6511,6 +6539,7 @@
 0.0.0.0 www.query.api.getadmiral.com
 0.0.0.0 www.randy-temp-1.joystickinteractive.com
 0.0.0.0 www.raven.pek1.pulse.inmobi.com
+0.0.0.0 www.rce-reporting.ligatus.com
 0.0.0.0 www.rcom.dynamicyield.com
 0.0.0.0 www.rcom-staging.dynamicyield.com
 0.0.0.0 www.rc-studio.inmobi.com
@@ -6637,6 +6666,7 @@
 0.0.0.0 www.static.dynamicyield.com
 0.0.0.0 www.stats3.adotube.com
 0.0.0.0 www.stats.bannersnack.com
+0.0.0.0 www.stats.ligatus.com
 0.0.0.0 www.st.dynamicyield.com
 0.0.0.0 www.stg-ads.inmobi.com
 0.0.0.0 www.stg.oem.inmobi.com
@@ -6761,10 +6791,12 @@
 0.0.0.0 xg.reddit.co
 0.0.0.0 x.heyzap.com
 0.0.0.0 xlaa9098.citacx.acxiom.com
+0.0.0.0 x.ligatus.com
 0.0.0.0 xlla9583.citacx.acxiom.com
 0.0.0.0 xnjc.cp.163.com
 0.0.0.0 xn--kwra032hnma422efv1c.awsmppl.com
 0.0.0.0 x.play.163.com
+0.0.0.0 x-qa.ligatus.com
 0.0.0.0 xqn.zhidao.163.com
 0.0.0.0 xray.corp.inmobi.com
 0.0.0.0 xsdk.adkmob.com

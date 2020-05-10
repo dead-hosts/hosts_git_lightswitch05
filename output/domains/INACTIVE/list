@@ -586,6 +586,8 @@ api-intowow-production.intowow.com
 api-intowow-staging.intowow.com
 api.lapresse.adgear.com
 api.lapresse-staging.adgear.com
+api-latest-grpc.lightstep.com
+api-latest.lightstep.com
 ap.impdesk.com
 api.poc.exacttarget.com
 api.portal.staging2.inskinmedia.com
@@ -643,6 +645,7 @@ app.gamer.163.com
 appgrowth.appsee.com
 appieloginaccount-support.awsmppl.com
 app.intellimize.co
+app-latest.lightstep.com
 apple.comscoreresearch.com
 appleid-apple.awsmppl.com
 appleid-apple-com.awsmppl.com
@@ -821,8 +824,8 @@ azjdt.adsafeprotected.com
 azjsc.iasds01.com
 azkaban.adwyze.com
 azores.corp.com
-b1473-k8s.dev-iad.amobee.com
 b-1473-k8s.dev-iad.amobee.com
+b1473-k8s.dev-iad.amobee.com
 b3.arcadeyum.com
 b3.crusharcade.com
 b3.greatarcadehits.com
@@ -1531,6 +1534,7 @@ c-vip1.eu.adsymptotic.com
 c-vip2.eu.adsymptotic.com
 cvonline-bud.gravityrd-services.com
 cvotest.sp1.convertro.com
+cvpn01.intern.ligatus.com
 cvproxy01.acxiom.com
 cws-app-eu-west-1.conviva.com
 cws-app-us-west-2.conviva.com
@@ -1749,6 +1753,7 @@ dev.reportsapi.inskinmedia.com
 dev.reports.inskinmedia.com
 dev.saastest.appdynamics.com
 dev.smedia.ca
+dev.tagmanager.ligatus.com
 dev.unir.facebook-ads.adtz.com
 dev-use1.dynamicyield.com
 dev.uu.163.com
@@ -2528,6 +2533,7 @@ id.beeketing.com
 ideas.antvoice.com
 ideas.appcues.com
 i.dev.jwpltx.com
+id.ligatus.com
 idp.corp.inmobi.com
 idprod.acxiom.com
 idsync.districtm.ca
@@ -2536,8 +2542,8 @@ ie.corp.com
 i.essads.com
 ifc2.vip.dfw1.inmobi.com
 ifc2-vip-dfw1.inmobi.com
-ifc2.vip.hkg1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
+ifc2.vip.hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -2616,8 +2622,8 @@ ingest.at.atwola.com
 ingress-test-api.newstags.stag.bounceexchange.com
 ingress-test.newstags.stag.bounceexchange.com
 iniitian.saas.appdynamics.com
-in.jwpltx.com
 i.n.jwpltx.com
+in.jwpltx.com
 inneractive.dca.events.bidstalk.com
 inneractive.win.bidstalk.com
 innocraft-cloud-mars.innocraft.com
@@ -2675,6 +2681,7 @@ internal.s50.exacttarget.com
 internals.adotmob.com
 internals.instartlogic.com
 intern.atlassbx.com
+intern.ligatus.com
 interracialpeoplemeet.adlegend.com
 int-front.register.criteo.com
 int.getresponse.com
@@ -2698,6 +2705,8 @@ iomsgpprn02.corp.com
 ione.dc.ignitionone.com
 ione.t.ignitionone.com
 i-origin.jumptap.com
+i-origin.ligatus.com
+i-origin-mhenrich.webdev.ligatus.com
 ios.ma.163.com
 ios.sp1.convertro.com
 iosus.ma.163.com
@@ -2820,6 +2829,7 @@ k8s.test-002.d-usw-2.braze.com
 k8s.test-002.s-usw-2.braze.com
 k8s-todd.braze.com
 kabbage.adlegend.com
+kace1100-01.intern.ligatus.com
 kace.corp.ligatus.com
 kafka.connect.worker.flurry.com
 kalcmi.awsmppl.com
@@ -2964,6 +2974,7 @@ livepreview2.adform.com
 liverail.adtheorent.com
 liverail-bids.bidtheatre.com
 llbean.sp1.convertro.com
+l.ligatus.com
 llpstream.atdmt.com
 lns.emetriq.com
 load.adlegend.com
@@ -3270,6 +3281,7 @@ m.qe1.conviva.com
 m.reddit.co
 mr.fuel451.com
 msg.i.dotomi.com
+ms.ligatus.com
 msm.corp.com
 msrv.dev.saastest.appdynamics.com
 msrv.saas.appdynamics.com
@@ -3836,6 +3848,7 @@ platform-api.k8s.test-001.d-usw-2.braze.com
 platform.bluecava.com
 platform-dashboard.k8s.test-001.d-usw-2.braze.com
 platform.districtm.ca
+platform.ligatus.com
 platform.mall.163.com
 platform-v.amobee.com
 platfrom-api.beeviewd.com
@@ -3987,8 +4000,8 @@ prophet.acxiom.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 proximiter-stg.joystickinteractive.com
 proximiter-temp.joystickinteractive.com
 proximiter-tmp.joystickinteractive.com
@@ -4112,6 +4125,7 @@ pureinfluencer.dc.ignitionone.com
 pureinfluencer.t.ignitionone.com
 push.ad-pixel.com
 push.convertcart.com
+push.rce.ligatus.com
 pv.awin.com
 pv.tacoda.at.atwola.com
 pwreset.acxiom.com
@@ -4144,6 +4158,7 @@ qa-fwdauth.chicoryapp.com
 qa-haproxy.chicoryapp.com
 qa.imiclk.com
 qai-uk.adlearnop.advertising.com
+qa.ligatus.com
 qa-moments.advertising.com
 qa-network2.chicoryapp.com
 qa.origin.craft.advertising.com
@@ -4257,6 +4272,8 @@ rb.links.channelintelligence.com
 rc01-debe.intra.fyber.com
 rc2.tr.blismedia.com
 rc.blis.com
+rce.ligatus.com
+rce-reporting.ligatus.com
 rc.fiksu.com
 rcnc.syndication.kbb.com
 rco.reamp.com.br
@@ -4303,8 +4320,10 @@ replay.answerscloud.com
 replay.lb.foreseeresults.com
 repo.adsymptotic.com
 report.adtz.com
+report-a.ligatus.com
 report.clickpoint.com
 report.crashlytics.com
+report-d2.ligatus.com
 reporting.adtouchlabs.com
 reporting.secure.eloqua.com
 reporting.www02.secure.eloqua.com
@@ -4332,6 +4351,7 @@ rest.api.chatid.com
 rest-api.datadome.co
 rest.instantcheckmate.com
 rest.qa.exacttarget.com
+ret01.ligatus.com
 retail-walmart.productads.hlserve.com
 retention.appsflyer.com
 rev2pub.adk2x.com
@@ -4346,6 +4366,7 @@ riju.ittest.33across.com
 risc-test.getrockerbox.com
 ris.fiksu.com
 rlec-use.dynamicyield.com
+r.ligatus.com
 rma.adcolony.com
 rm.analyticson.com
 rmd.atdmt.com
@@ -4381,6 +4402,7 @@ rtb-apac.adsymptotic.com
 rtb-api.ad-stir.com
 rtb-appnexus.admaxim.com
 rtb-lb2-vip0.eu.adsymptotic.com
+rtb.ligatus.com
 rtb-rubicon.hk.cn.criteo.com
 rtbtrack.admaxim.com
 rtb-trk.adcolony.com
@@ -4479,6 +4501,7 @@ s-93.algovid.com
 s9.allinviews.com
 s9-fast.addthis.com
 sac4.ayads.co
+sac.ligatus.com
 s.admaster.com.cn
 s.adotube.com
 s.ad-pixel.com
@@ -4612,8 +4635,8 @@ seagate.links.channelintelligence.com
 sean.ittest.33across.com
 search.advertisingbox.com
 search.at.atwola.com
-search-cldellow.deployads.com
 searchcldellow.deployads.com
+search-cldellow.deployads.com
 search.deployads.com
 search.igodigital.com
 searsoutlet.rdr.channelintelligence.com
@@ -4789,6 +4812,7 @@ skiimobile.gst.api.igodigital.com
 skyeye.360safe.com
 skyrocket.adtdp.com
 sl.advertising.com
+s.ligatus.com
 slv.adpiano.com
 smaato.dca.events.bidstalk.com
 smaato.events.bidstalk.com
@@ -5015,6 +5039,7 @@ stats-d272.epom.com
 stats-dss1402.epom.com
 stats-dss1953.epom.com
 stats.exoclick.com
+stats.ligatus.com
 stats-us-tx-2.buysellads.com
 status.addthis.com
 status.adsnative.com
@@ -5111,6 +5136,7 @@ tag-direct.ams.contextweb.com
 tag-direct.lga.contextweb.com
 tag-direct.sjc.contextweb.com
 tagila.adk2x.com
+tagmanager.ligatus.com
 tag-routing-api.beta.stag.bounceexchange.com
 tag-routing.beta.stag.bounceexchange.com
 tags0.dal.bluekai.com
@@ -5299,6 +5325,7 @@ tracking.cp.ligatus.com
 tracking.downloadyeah.com
 tracking.hyde.ligatus.com
 tracking-prod-public-2025738748.us-east-1.elb.amazonaws.com
+track.ligatus.com
 track-staging.scoota.co
 track-uswest.admaxim.com
 trackv3.aniview.com
@@ -5313,8 +5340,8 @@ transfer.bluecava.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel-productads.hlserve.com
 travel.productads.hlserve.com
+travel-productads.hlserve.com
 travelup.dc.ignitionone.com
 travelup.t.ignitionone.com
 tr.bnmla.com
@@ -5484,8 +5511,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.analytics.console.aws.a2z.com
+us-east-1-test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-1.tr.blismedia.com
@@ -5629,6 +5656,7 @@ vegas.hlserve.com
 vendio.corp.com
 verity-api-internal.gumgum.com
 verity-api-test.gumgum.com
+vext.ligatus.com
 vg.jumptap.com
 viber.cdn.adsnative.com
 viber.console.adsnative.com
@@ -6511,6 +6539,7 @@ www.p.zentr.cc
 www.query.api.getadmiral.com
 www.randy-temp-1.joystickinteractive.com
 www.raven.pek1.pulse.inmobi.com
+www.rce-reporting.ligatus.com
 www.rcom.dynamicyield.com
 www.rcom-staging.dynamicyield.com
 www.rc-studio.inmobi.com
@@ -6637,6 +6666,7 @@ www.static.audiensis.com
 www.static.dynamicyield.com
 www.stats3.adotube.com
 www.stats.bannersnack.com
+www.stats.ligatus.com
 www.st.dynamicyield.com
 www.stg-ads.inmobi.com
 www.stg.oem.inmobi.com
@@ -6761,10 +6791,12 @@ xerox.links.channelintelligence.com
 xg.reddit.co
 x.heyzap.com
 xlaa9098.citacx.acxiom.com
+x.ligatus.com
 xlla9583.citacx.acxiom.com
 xnjc.cp.163.com
 xn--kwra032hnma422efv1c.awsmppl.com
 x.play.163.com
+x-qa.ligatus.com
 xqn.zhidao.163.com
 xray.corp.inmobi.com
 xsdk.adkmob.com
