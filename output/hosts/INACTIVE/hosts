@@ -707,6 +707,7 @@
 0.0.0.0 backend.adsquare.com
 0.0.0.0 backoffice.pe.apester.com
 0.0.0.0 backpack.adform.com
+0.0.0.0 backstage-client.funnelenvy.com
 0.0.0.0 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
 0.0.0.0 badger.corp.com
 0.0.0.0 bagent-canary.convertcart.com
@@ -1676,8 +1677,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -3245,6 +3246,8 @@
 0.0.0.0 prom.convertcart.com
 0.0.0.0 prometheus1.datadome.co
 0.0.0.0 prometheus.k8s.stc-002.p-use-1.braze.com
+0.0.0.0 prometheus.staging.fullstory.com
+0.0.0.0 prom.fullstory.com
 0.0.0.0 prom.infra.apester.com
 0.0.0.0 promodigital.ebuzzingvideo.com
 0.0.0.0 propellerad.adk2x.com
@@ -3256,6 +3259,7 @@
 0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 proxy.beeviewd.com
 0.0.0.0 proxy.dynamicyield.com
+0.0.0.0 proxy.prometheus.staging.fullstory.com
 0.0.0.0 proxy-ssl.beeviewd.com
 0.0.0.0 prvy.awsmppl.com
 0.0.0.0 ps2002.wdc.bluekai.com
@@ -3946,6 +3950,7 @@
 0.0.0.0 speedycash.sp1.convertro.com
 0.0.0.0 sportsmansguide.rdr.channelintelligence.com
 0.0.0.0 spotify.deliveryengine.adswizz.com
+0.0.0.0 spotter.fuel451.com
 0.0.0.0 spp.163.com
 0.0.0.0 spscan.acxiom.com
 0.0.0.0 sql-dev.beeketing.com
@@ -4284,6 +4289,8 @@
 0.0.0.0 toysrus.adlegend.com
 0.0.0.0 tpi.corp.com
 0.0.0.0 tpmn.hkg.events.bidstalk.com
+0.0.0.0 tr1.fuel451.com
+0.0.0.0 tr2.fuel451.com
 0.0.0.0 trace.antvoice.com
 0.0.0.0 trace.beeketing.com
 0.0.0.0 trace-preprod.antvoice.com
@@ -4312,6 +4319,7 @@
 0.0.0.0 tr.ams.contextweb.com
 0.0.0.0 transfer.bluecava.com
 0.0.0.0 tr.bnmla.com
+0.0.0.0 trdev.fuel451.com
 0.0.0.0 tr.gcp.blis.com
 0.0.0.0 triplelift.pxl.ace.advertising.com
 0.0.0.0 triston.fanbread.com
@@ -4392,8 +4400,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -4507,6 +4515,9 @@
 0.0.0.0 vast-f8-us-ca.digitmate.bid
 0.0.0.0 vast-f9-de.digitmate.bid
 0.0.0.0 vast-f9-us-va.digitmate.bid
+0.0.0.0 vast.fuel451.com
+0.0.0.0 vasttrack.fuel451.com
+0.0.0.0 vasttracktest.fuel451.com
 0.0.0.0 vault.adform.com
 0.0.0.0 va.us.criteo.com
 0.0.0.0 vb2.beeviewd.com
@@ -4550,8 +4561,8 @@
 0.0.0.0 view.skyrocket.adtdp.com
 0.0.0.0 viewsonic.links.channelintelligence.com
 0.0.0.0 vip.admaster.com.cn
-0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visit-backoffice.adikteev.com
+0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visitor-qa.activengage.com
 0.0.0.0 vivad.advertising.com
 0.0.0.0 vivad.at.atwola.com
@@ -4566,6 +4577,7 @@
 0.0.0.0 voicefive-sb-wc.adtechus.com
 0.0.0.0 vonage.sp1.convertro.com
 0.0.0.0 vox-static.liverail.co
+0.0.0.0 vpaid.fuel451.com
 0.0.0.0 vpn-london.exacttarget.com
 0.0.0.0 vpnmobile.awin.com
 0.0.0.0 vps.advidi.com
@@ -4601,6 +4613,7 @@
 0.0.0.0 web.awsmppl.com
 0.0.0.0 web-beta.convertcart.com
 0.0.0.0 webc.antvoice.com
+0.0.0.0 webcdn.fuel451.com
 0.0.0.0 webconf.acxiom.com
 0.0.0.0 web.convertcart.com
 0.0.0.0 webdisk.adadqwq.cf
@@ -4986,6 +4999,7 @@
 0.0.0.0 www.fb.adotube.com
 0.0.0.0 www.fbstats.adotube.com
 0.0.0.0 www.firstfetchflash.club
+0.0.0.0 www.fuel451.com
 0.0.0.0 www.fwcs01.casalemedia.com
 0.0.0.0 www.gallery.adikteev.com
 0.0.0.0 www.gateway.dynamicyield.com
@@ -5109,6 +5123,7 @@
 0.0.0.0 www.partnerlab.braze.com
 0.0.0.0 www.partners.analyticson.com
 0.0.0.0 www.partners.celebrus.com
+0.0.0.0 www.partners.fullstory.com
 0.0.0.0 www.pdb.inmobi.cn
 0.0.0.0 www.peednetwork14.adk2x.com
 0.0.0.0 www.phone.sf.adroll.com
@@ -5194,6 +5209,7 @@
 0.0.0.0 www.showcase.blis.com
 0.0.0.0 www.sidekiq-status2.appboy.com
 0.0.0.0 www.sidekiq-status.appboy.com
+0.0.0.0 www.sigs.fullstory.com
 0.0.0.0 www.sip.foresee.com
 0.0.0.0 www.sip.foreseeresults.com
 0.0.0.0 www.smetrics.aetn.com
