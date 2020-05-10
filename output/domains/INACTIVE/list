@@ -478,11 +478,13 @@ api.int.drift.com
 api.intel.dynamicyield.com
 api.lapresse.adgear.com
 api.lapresse-staging.adgear.com
+api.poc.exacttarget.com
 api.productdata.awin.com
 api.pt.163.com
 api-public-fast.addthis.com
 api-public-test.addthis.com
 api.qa.drift.com
+api.qa.exacttarget.com
 api.register.criteo.com
 api.reports.advertising.com
 apis.adsymptotic.com
@@ -534,6 +536,7 @@ applovin.hkg.events.bidstalk.com
 applus.corp.com
 appodeal.dca.events.bidstalk.com
 app.pangeo.geoedge.be
+app.qa.exacttarget.com
 app.response.demandbase.com
 apps.adtz.com
 apps.bounceexchange.com
@@ -616,6 +619,10 @@ auth.infra.apester.com
 auth.meeting.abtasty.com
 authorisation.analyticson.com
 authorization.affiliates.advidi.com
+auth.poc.exacttarget.com
+auth.qa1.exacttarget.com
+auth.qa2.exacttarget.com
+auth.qa3.exacttarget.com
 auth-san.exacttarget.com
 autodiscover.airvertiseme.com
 autodiscover.analyticson.com
@@ -1539,6 +1546,7 @@ espenelopeseguros.clickpoint.com
 esp-photobox-tracking.adalyser.com
 es-test-azure.datadome.co
 estest.convertcart.com
+etappx.qa.exacttarget.com
 etinswdem01.exacttarget.com
 etmall.bridgewell.com
 eu1.appsflyer.com
@@ -1949,6 +1957,7 @@ imgblur.adkmob.com
 img-origin.adtechus.com
 img-origin-us-east-1.prod.adtechus.com
 img-origin-us-west-1.prod.adtechus.com
+imh.poc.exacttarget.com
 imi.sp1.convertro.com
 imp2.bizographics.com
 imp.adrd.co
@@ -2372,6 +2381,7 @@ mei.163.com
 meihua.adsame.com
 melia.sp1.convertro.com
 members.11.exacttarget.com
+members.poc.exacttarget.com
 mep.centraltag.com
 meta1.adlegend.com
 meta2.adlegend.com
@@ -2748,6 +2758,7 @@ order.mall.163.com
 origin.adcash.com
 originadessl.clmbtech.com
 origin.adlegend.com
+origin-auth.s2.qa3.exacttarget.com
 origin.craft.advertising.com
 origin.uac.advertising.com
 origin-vlibs.advertising.com
@@ -2785,7 +2796,10 @@ p-ads44.eu.adsymptotic.com
 p-ads54.eu.adsymptotic.com
 p-ads74.eu.adsymptotic.com
 pages.brightfunnel.com
+pages.citi.s4.exacttarget.com
 pages.gitlab.sele.co
+pages.pd1.qa.exacttarget.com
+pages.pd1.s2.qa2.exacttarget.com
 painted2018081600230618.saas.appdynamics.com
 pangeopro.geoedge.be
 panopticxcustomertest.acxiom.com
@@ -2957,6 +2971,9 @@ pr.atwola.com
 prebid.adnxs.co
 prebid.appnexus.com
 predaddit.reddit.co
+prem.qa1.exacttarget.com
+prem.qa2.exacttarget.com
+prem.qa3.exacttarget.com
 preprod-backoffice.datadome.co
 preprod.criteo.com
 preprod-dashboard.datadome.co
@@ -3016,8 +3033,8 @@ prophet.acxiom.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 proxy.beeviewd.com
 proxy.dynamicyield.com
 proxy-ssl.beeviewd.com
@@ -3257,6 +3274,7 @@ rest.aggregateknowledge.com
 rest.agkn.com
 rest.api.chatid.com
 rest-api.datadome.co
+rest.qa.exacttarget.com
 retention.appsflyer.com
 rev2pub.adk2x.com
 reve.dev-iad.amobee.com
@@ -3460,6 +3478,7 @@ scim.internal.adroll.com
 scjohnson.links.channelintelligence.com
 scope.infra.apester.com
 scppool.corp.com
+scpweb.s3.qa2.exacttarget.com
 screenshot.convertcart.com
 screentek.corp.com
 s.cunda.advolution.biz
@@ -4082,8 +4101,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-1.tr.blismedia.com
@@ -4318,6 +4337,8 @@ webserve-da888e9.euw1.dynamicyield.com
 webserve-f33d6d69.use.dynamicyield.com
 webserve-f9c5b52.use.dynamicyield.com
 webserve-faa4eb4.use.dynamicyield.com
+webservice.poc.exacttarget.com
+webservice.qa.exacttarget.com
 website.adsnative.com
 web.stag2.bounceexchange.com
 web.staging.bidstalk.com
@@ -4363,6 +4384,7 @@ wrapper-tasker-eu-west-1.adsafeprotected.com
 wrapper-tasker-us-west-2.adsafeprotected.com
 ws2.us-ec.adtechus.com
 ws-api.adtechus.com
+ws.qa.exacttarget.com
 ws.us-ec.adtechus.com
 wtags.bluekai.com
 wtb.channelintelligence.com
