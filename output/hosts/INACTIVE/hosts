@@ -925,8 +925,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1473-k8s.dev-iad.amobee.com
+0.0.0.0 b-1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b3.greatarcadehits.com
@@ -2729,8 +2729,8 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -2812,8 +2812,8 @@
 0.0.0.0 ingress-test-api.newstags.stag.bounceexchange.com
 0.0.0.0 ingress-test.newstags.stag.bounceexchange.com
 0.0.0.0 iniitian.saas.appdynamics.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
 0.0.0.0 inmobi.web10-east.manage.com
@@ -4176,6 +4176,7 @@
 0.0.0.0 poc7.celebrus.com
 0.0.0.0 poc8.celebrus.com
 0.0.0.0 poc9.celebrus.com
+0.0.0.0 podna-ab37.marketo.com
 0.0.0.0 poker.caipiao.163.com
 0.0.0.0 polaris.streaming-dev.adswizz.com
 0.0.0.0 polycom.links.channelintelligence.com
@@ -4449,6 +4450,7 @@
 0.0.0.0 qa.channeladvisor.com
 0.0.0.0 qa.dc-storm.com
 0.0.0.0 qadfw2.lijit.com
+0.0.0.0 qadynamics.marketo.com
 0.0.0.0 qa-editor.s1.fanbread.com
 0.0.0.0 qa-flower.chicoryapp.com
 0.0.0.0 qa.ftp.advertising.com
@@ -4725,6 +4727,8 @@
 0.0.0.0 rtmp.lokaplatform.com
 0.0.0.0 rtp.cert.acxiom.com
 0.0.0.0 rtpdemo.acxiom.com
+0.0.0.0 rtpdemo.marketo.com
+0.0.0.0 rtpitptest.marketo.com
 0.0.0.0 rts-lga-lb.contextweb.com
 0.0.0.0 rts-stage.contextweb.com
 0.0.0.0 rubac.qa-iad.amobee.com
@@ -5121,8 +5125,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sipfederationtls.tcp.gmial.com
+0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -5950,8 +5954,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -7137,6 +7141,7 @@
 0.0.0.0 www.smetrics.aetn.com
 0.0.0.0 www.smetrics.cnn.com
 0.0.0.0 www.smetrics.couponcabin.com
+0.0.0.0 www.smvpn.marketo.com
 0.0.0.0 www.sondheim.appboy.com
 0.0.0.0 www.sophos-secure.247realmedia.com
 0.0.0.0 www.sp1.convertro.com
@@ -7192,6 +7197,7 @@
 0.0.0.0 www.superstudio.facebook-ads.adtz.com
 0.0.0.0 www.supply-tool.inmobi.cn
 0.0.0.0 www.support-beta.demandbase.com
+0.0.0.0 www.support-case.marketo.com
 0.0.0.0 www.support-staging.dynamicyield.com
 0.0.0.0 www.support-test.dynamicyield.com
 0.0.0.0 www.survey.bannersnack.com
@@ -7199,6 +7205,7 @@
 0.0.0.0 www.surveys.insightexpressai.com
 0.0.0.0 www.sutdio.glance.inmobi.com
 0.0.0.0 www.sweeney.appboy.com
+0.0.0.0 www.tableau.marketo.com
 0.0.0.0 www-tabletopstrategies-com.fanbread.com
 0.0.0.0 www.tag.clrstm.com
 0.0.0.0 www.target.clickfunnels.com
@@ -7218,6 +7225,7 @@
 0.0.0.0 www.tfs2010.marketingg2.com
 0.0.0.0 www.tfs.marketingg2.com
 0.0.0.0 www.t.getadmiral.com
+0.0.0.0 www.tkovpn.marketo.com
 0.0.0.0 www.tm.inmobi.com
 0.0.0.0 www.tm.smedia.ca
 0.0.0.0 www.token.corp.inmobi.com
