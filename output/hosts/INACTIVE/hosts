@@ -237,6 +237,7 @@
 0.0.0.0 ads.innovativemetrics.com
 0.0.0.0 ads.lga.contextweb.com
 0.0.0.0 ads.lianmeng.360.cn
+0.0.0.0 ads.measuredads.com
 0.0.0.0 ads.mtc.ace.advertising.com
 0.0.0.0 ads.ntc.ace.advertising.com
 0.0.0.0 ads.pebblemedia.adhese.com
@@ -653,6 +654,7 @@
 0.0.0.0 api.lootsie.com
 0.0.0.0 api.maps-icloud.com
 0.0.0.0 api.mcclusterface.k8s.liveramp.com
+0.0.0.0 api.mdotlabs.com
 0.0.0.0 ap.impdesk.com
 0.0.0.0 api.nonewlines.env.sandbox53.localytics.com
 0.0.0.0 api.poc.exacttarget.com
@@ -926,8 +928,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b3.greatarcadehits.com
@@ -1129,6 +1131,7 @@
 0.0.0.0 blue2018111320591611.saas.appdynamics.com
 0.0.0.0 blue.erne.co
 0.0.0.0 blue.k8s.test-001.d-usw-2.braze.com
+0.0.0.0 b.measuredads.com
 0.0.0.0 bms-ext.nyc2.appnexus.com
 0.0.0.0 bmwnl.dc.ignitionone.com
 0.0.0.0 bmwnl.t.ignitionone.com
@@ -1478,6 +1481,7 @@
 0.0.0.0 clic2pub.adk2x.com
 0.0.0.0 clic.adk2x.com
 0.0.0.0 click.bidstalk.com
+0.0.0.0 click-cluster.mediaforge.com
 0.0.0.0 click-cluster.rd.linksynergy.com
 0.0.0.0 click.comms.doubleclick.com
 0.0.0.0 clickers.rtb.adroll.com
@@ -1583,6 +1587,7 @@
 0.0.0.0 content.adroll.com
 0.0.0.0 content.agkn.com
 0.0.0.0 content.channelintelligence.com
+0.0.0.0 content-cluster.mediaforge.com
 0.0.0.0 content.cmp.advertising.com
 0.0.0.0 content.contextweb.com
 0.0.0.0 content.glance.inmobi.com
@@ -2325,6 +2330,7 @@
 0.0.0.0 feed.linksynergy.com
 0.0.0.0 feeds.clickz.com
 0.0.0.0 feeds.joystickinteractive.com
+0.0.0.0 feeds.mediaforge.com
 0.0.0.0 f.email.freewheel.com
 0.0.0.0 festas.adform.com
 0.0.0.0 festival.lisnr.com
@@ -2486,6 +2492,7 @@
 0.0.0.0 ggl.adpiano.com
 0.0.0.0 ght.gmial.com
 0.0.0.0 giantdsp-env-2.us-west-2.elasticbeanstalk.com
+0.0.0.0 git-dev.mediaforge.com
 0.0.0.0 gitea.convertcart.com
 0.0.0.0 github.corp.inmobi.com
 0.0.0.0 gitz.adform.com
@@ -3007,6 +3014,7 @@
 0.0.0.0 jpdtmdc.gaeadata.com
 0.0.0.0 jpeoplemeet.adlegend.com
 0.0.0.0 jpmdc.gaeadata.com
+0.0.0.0 jp.mediaforge.com
 0.0.0.0 jp-pool.a.company-target.com
 0.0.0.0 jp-pool.d.company-target.com
 0.0.0.0 jp-tags-cluster.rd.linksynergy.com
@@ -3751,6 +3759,7 @@
 0.0.0.0 ns1.contextweb.com
 0.0.0.0 ns1.dg.ecom.acxiom.com
 0.0.0.0 ns1.digitmate.bid
+0.0.0.0 ns1.mediaforge.com
 0.0.0.0 ns2.addthis.com
 0.0.0.0 ns2.admotion.com
 0.0.0.0 ns2.adroll.com
@@ -3968,6 +3977,7 @@
 0.0.0.0 owap2.acxiom.com
 0.0.0.0 owncloud.advertserve.com
 0.0.0.0 ox-d.advanseads.com
+0.0.0.0 ox-d.mediaforge.com
 0.0.0.0 ox-i.advanseads.com
 0.0.0.0 ox.pxl.ace.advertising.com
 0.0.0.0 p01.eloqua.com
@@ -4971,8 +4981,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 searchcldellow.deployads.com
+0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -5135,8 +5145,8 @@
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 sipexternal.maxpoint.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sipfederationtls.tcp.gmial.com
+0.0.0.0 _sipfederationtls._tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -5382,6 +5392,7 @@
 0.0.0.0 staticwebsite.darkroom.analytics.console.aws.a2z.com
 0.0.0.0 static-xdn.apester.com
 0.0.0.0 stationery.gemius.com
+0.0.0.0 stats-cluster.mediaforge.com
 0.0.0.0 stats.complex.com
 0.0.0.0 stats-d1316.epom.com
 0.0.0.0 stats-d1328.epom.com
@@ -5785,8 +5796,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -5965,8 +5976,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -6171,8 +6182,8 @@
 0.0.0.0 viewsonic.links.channelintelligence.com
 0.0.0.0 vi.gumgum.com
 0.0.0.0 vip.admaster.com.cn
-0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visit-backoffice.adikteev.com
+0.0.0.0 visit.backoffice.adikteev.com
 0.0.0.0 visitor-qa.activengage.com
 0.0.0.0 vivad.advertising.com
 0.0.0.0 vivad.at.atwola.com
@@ -6528,6 +6539,7 @@
 0.0.0.0 www.api.intel.dynamicyield.com
 0.0.0.0 www.api.intellimize.co
 0.0.0.0 www.api.lisnr.com
+0.0.0.0 www.api.mdotlabs.com
 0.0.0.0 www.api.opinion.inmobi.com
 0.0.0.0 www.api.uat.opinion.inmobi.com
 0.0.0.0 www.api.uat.opinions.inmobi.com
