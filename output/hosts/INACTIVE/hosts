@@ -599,6 +599,7 @@
 0.0.0.0 api.adyoulike.com
 0.0.0.0 api.appdynamics.com
 0.0.0.0 api-ap-southeast-1.adsnative.com
+0.0.0.0 api.authorization.aws.mediamath.com
 0.0.0.0 api.backoffice.adikteev.com
 0.0.0.0 api.beta.extremereach.com
 0.0.0.0 api.bidstalk.com
@@ -680,6 +681,7 @@
 0.0.0.0 api.tags.iad.bluekai.com
 0.0.0.0 api.tags.phx.bluekai.com.bk.phx.addthis.com
 0.0.0.0 api.tags-rc.iad.bluekai.com
+0.0.0.0 api-temp.mediamath.com
 0.0.0.0 api.terraform-outputs.env.sandbox53.localytics.com
 0.0.0.0 api.test.native.ai
 0.0.0.0 api.tushar-test.env.sandbox53.localytics.com
@@ -856,6 +858,7 @@
 0.0.0.0 au.kampyle.com
 0.0.0.0 auth.api.driftt.com
 0.0.0.0 auth.demandbase.com
+0.0.0.0 auth-dev.mediamath.com
 0.0.0.0 auth.eu-staging.identity.api.liveramp.com
 0.0.0.0 auth.global.exacttarget.com
 0.0.0.0 auth.infra.apester.com
@@ -1055,6 +1058,7 @@
 0.0.0.0 bidder-dss1953.epom.com
 0.0.0.0 bidder-dss1958.epom.com
 0.0.0.0 bidder-europe.spotad.co
+0.0.0.0 bidder.mediamath.com
 0.0.0.0 bidder-useast-adx-ub14.spotad.co
 0.0.0.0 bidder.us.east.liverail.com
 0.0.0.0 bidder-useast.spotad.co
@@ -1076,6 +1080,7 @@
 0.0.0.0 bi.infra.apester.com
 0.0.0.0 bi.installfarm.com
 0.0.0.0 bikhir-ams.gravityrd-services.com
+0.0.0.0 bi.mediaiqdigital.com
 0.0.0.0 bionet.corp.com
 0.0.0.0 bis2.allinviews.com
 0.0.0.0 bis2.installfarm.com
@@ -1219,7 +1224,10 @@
 0.0.0.0 businessspectrum.adlegend.com
 0.0.0.0 buypixelads.com
 0.0.0.0 buzzeff.ebuzzing.com
+0.0.0.0 bv-central.byoa.mediamath.com
+0.0.0.0 bv-east.byoa.mediamath.com
 0.0.0.0 bvsrv.adk2x.com
+0.0.0.0 bv-west.byoa.mediamath.com
 0.0.0.0 bw.bidder.inmobi.com
 0.0.0.0 bw-euwest-bidder.appd.inmobi.com
 0.0.0.0 bwsedev.local.bridgewell.com
@@ -1564,6 +1572,7 @@
 0.0.0.0 collector-latest.lightstep.com
 0.0.0.0 collector-life360.lightstep.com
 0.0.0.0 comark.corp.com
+0.0.0.0 co.mediamath.com
 0.0.0.0 community-old2.dynamicyield.com
 0.0.0.0 community-old.dynamicyield.com
 0.0.0.0 components.forter.com
@@ -1655,6 +1664,7 @@
 0.0.0.0 csm.ny.us.criteo.com
 0.0.0.0 csm.sv.us.criteo.com
 0.0.0.0 cspsvcsprod.csa.comscore.com
+0.0.0.0 csre.mediamath.com
 0.0.0.0 csr.freewheel.com
 0.0.0.0 css.vidconlab.acxiom.com
 0.0.0.0 csync.intelligence.amobee.com
@@ -1774,6 +1784,7 @@
 0.0.0.0 dcos.lijit.com
 0.0.0.0 dc.pxl.ace.advertising.com
 0.0.0.0 dcs.adgear.com
+0.0.0.0 dcs.mediamath.com
 0.0.0.0 ddad-dev-metadata.intowow.com
 0.0.0.0 ddad.intowow.com
 0.0.0.0 ddad-prod-creative.intowow.com
@@ -1865,6 +1876,7 @@
 0.0.0.0 dev.cbg.163.com
 0.0.0.0 dev.channeladvisor.com
 0.0.0.0 dev.chartbeat.com
+0.0.0.0 dev-circleci.mediamath.com
 0.0.0.0 dev.cjadsystems.dotomi.com
 0.0.0.0 dev.coadvertise.com
 0.0.0.0 dev.creatorapi.inskinmedia.com
@@ -2034,6 +2046,8 @@
 0.0.0.0 dummysan2.247realmedia.com
 0.0.0.0 dummysan3.247realmedia.com
 0.0.0.0 durham.gmial.com
+0.0.0.0 dv-activation-production.campaigns.mediamath.com
+0.0.0.0 dv-activation-qa.campaigns.mediamath.com
 0.0.0.0 dvd.aertb.com
 0.0.0.0 dv.innovid.com
 0.0.0.0 dvma.innovid.com
@@ -2220,8 +2234,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2242,6 +2256,7 @@
 0.0.0.0 ewidget.dmpxs.com
 0.0.0.0 ewr-delivery-1.sys.adgear.com
 0.0.0.0 ewr-delivery-6.sys.adgear.com
+0.0.0.0 ewr-rtsdb-x1.mediamath.com
 0.0.0.0 example.airpr.com
 0.0.0.0 example-ruby-service.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 exchange2.channelintelligence.com
@@ -2376,6 +2391,7 @@
 0.0.0.0 foo.criteo.com
 0.0.0.0 foo.dev-iad.amobee.com
 0.0.0.0 foo-k8s.dev-iad.amobee.com
+0.0.0.0 forecaster-old.mediamath.com
 0.0.0.0 foreign.alcmpn.com
 0.0.0.0 forth-stag-api.newstags.stag.bounceexchange.com
 0.0.0.0 forth-stag.newstags.stag.bounceexchange.com
@@ -2743,10 +2759,10 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -2801,6 +2817,7 @@
 0.0.0.0 imp.bid.ace.advertising.com
 0.0.0.0 impd.awsmppl.com
 0.0.0.0 import.igodigital.com
+0.0.0.0 impression.mediaiqdigital.com
 0.0.0.0 impressions-gc.appsflyer.com
 0.0.0.0 imp.skyrocket.adtdp.com
 0.0.0.0 imspro.adtechus.com
@@ -3938,6 +3955,7 @@
 0.0.0.0 opera1-servedby.advertising.com
 0.0.0.0 opera3-servedby.advertising.com
 0.0.0.0 opera.dca.events.bidstalk.com
+0.0.0.0 opscenter.dcs.mediamath.com
 0.0.0.0 optimization.channelintelligence.com
 0.0.0.0 optimize.ensighten.com
 0.0.0.0 opt.jumptap.com
@@ -4285,6 +4303,7 @@
 0.0.0.0 prod.lijit.com
 0.0.0.0 prod.liverail.com
 0.0.0.0 prod.ping-origin-prd.jwpltx.com
+0.0.0.0 prod-public.cbe.mediamath.com
 0.0.0.0 prod.snackly.co
 0.0.0.0 product.abtasty.com
 0.0.0.0 productads.hlserve.com
@@ -4457,6 +4476,9 @@
 0.0.0.0 pypi.corp.inmobi.com
 0.0.0.0 q2e.channeladvisor.com
 0.0.0.0 q2e.qa.channeladvisor.com
+0.0.0.0 qa11-public.cbe.mediamath.com
+0.0.0.0 qa12-public.cbe.mediamath.com
+0.0.0.0 qa2.datasvc.mediamath.com
 0.0.0.0 qa.ace.advertising.com
 0.0.0.0 qa-ads-ban.advertising.com
 0.0.0.0 qa-adservices.cmp.advertising.com
@@ -4981,8 +5003,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search-cldellow.deployads.com
+0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -5145,8 +5167,8 @@
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 sipexternal.maxpoint.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -5330,6 +5352,7 @@
 0.0.0.0 staging.bizible.com
 0.0.0.0 staging.bounceexchange.com
 0.0.0.0 staging.bytegain.com
+0.0.0.0 staging.cms.mediaiqdigital.com
 0.0.0.0 staging-console-cdn.appnexus.com
 0.0.0.0 staging.creatorapi.inskinmedia.com
 0.0.0.0 staging.creator.inskinmedia.com
@@ -5517,6 +5540,7 @@
 0.0.0.0 tags-akamai-test.addthis.com
 0.0.0.0 tags-akamai-test.bluekai.com
 0.0.0.0 tag.scam.beta.stag.bounceexchange.com
+0.0.0.0 tags-cluster.mediaforge.com
 0.0.0.0 tags.dal.bluekai.com
 0.0.0.0 tags.iad.bluekai.com
 0.0.0.0 tags-rc.iad.bluekai.com
@@ -5976,8 +6000,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -6299,6 +6323,7 @@
 0.0.0.0 webserve-f33d6d69.use.dynamicyield.com
 0.0.0.0 webserve-f9c5b52.use.dynamicyield.com
 0.0.0.0 webserve-faa4eb4.use.dynamicyield.com
+0.0.0.0 webservice.mediaforge.com
 0.0.0.0 webservice.poc.exacttarget.com
 0.0.0.0 webservice.qa.exacttarget.com
 0.0.0.0 website.adsnative.com

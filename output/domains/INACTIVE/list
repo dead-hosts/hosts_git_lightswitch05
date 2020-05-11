@@ -599,6 +599,7 @@ api.adwyze.com
 api.adyoulike.com
 api.appdynamics.com
 api-ap-southeast-1.adsnative.com
+api.authorization.aws.mediamath.com
 api.backoffice.adikteev.com
 api.beta.extremereach.com
 api.bidstalk.com
@@ -680,6 +681,7 @@ api.t.163.com
 api.tags.iad.bluekai.com
 api.tags.phx.bluekai.com.bk.phx.addthis.com
 api.tags-rc.iad.bluekai.com
+api-temp.mediamath.com
 api.terraform-outputs.env.sandbox53.localytics.com
 api.test.native.ai
 api.tushar-test.env.sandbox53.localytics.com
@@ -856,6 +858,7 @@ au.flashtalking.com
 au.kampyle.com
 auth.api.driftt.com
 auth.demandbase.com
+auth-dev.mediamath.com
 auth.eu-staging.identity.api.liveramp.com
 auth.global.exacttarget.com
 auth.infra.apester.com
@@ -928,8 +931,8 @@ azjdt.adsafeprotected.com
 azjsc.iasds01.com
 azkaban.adwyze.com
 azores.corp.com
-b-1473-k8s.dev-iad.amobee.com
 b1473-k8s.dev-iad.amobee.com
+b-1473-k8s.dev-iad.amobee.com
 b3.arcadeyum.com
 b3.crusharcade.com
 b3.greatarcadehits.com
@@ -1055,6 +1058,7 @@ bidder-cf.criteo.com
 bidder-dss1953.epom.com
 bidder-dss1958.epom.com
 bidder-europe.spotad.co
+bidder.mediamath.com
 bidder-useast-adx-ub14.spotad.co
 bidder.us.east.liverail.com
 bidder-useast.spotad.co
@@ -1076,6 +1080,7 @@ bigscience.bytegain.com
 bi.infra.apester.com
 bi.installfarm.com
 bikhir-ams.gravityrd-services.com
+bi.mediaiqdigital.com
 bionet.corp.com
 bis2.allinviews.com
 bis2.installfarm.com
@@ -1219,7 +1224,10 @@ businessinsider-tagan.adlightning.com
 businessspectrum.adlegend.com
 buypixelads.com
 buzzeff.ebuzzing.com
+bv-central.byoa.mediamath.com
+bv-east.byoa.mediamath.com
 bvsrv.adk2x.com
+bv-west.byoa.mediamath.com
 bw.bidder.inmobi.com
 bw-euwest-bidder.appd.inmobi.com
 bwsedev.local.bridgewell.com
@@ -1564,6 +1572,7 @@ collector-istio.staging.lightstep.com
 collector-latest.lightstep.com
 collector-life360.lightstep.com
 comark.corp.com
+co.mediamath.com
 community-old2.dynamicyield.com
 community-old.dynamicyield.com
 components.forter.com
@@ -1655,6 +1664,7 @@ cs.iubenda.com
 csm.ny.us.criteo.com
 csm.sv.us.criteo.com
 cspsvcsprod.csa.comscore.com
+csre.mediamath.com
 csr.freewheel.com
 css.vidconlab.acxiom.com
 csync.intelligence.amobee.com
@@ -1774,6 +1784,7 @@ dco.impdesk.com
 dcos.lijit.com
 dc.pxl.ace.advertising.com
 dcs.adgear.com
+dcs.mediamath.com
 ddad-dev-metadata.intowow.com
 ddad.intowow.com
 ddad-prod-creative.intowow.com
@@ -1865,6 +1876,7 @@ dev.buzzdeck.com
 dev.cbg.163.com
 dev.channeladvisor.com
 dev.chartbeat.com
+dev-circleci.mediamath.com
 dev.cjadsystems.dotomi.com
 dev.coadvertise.com
 dev.creatorapi.inskinmedia.com
@@ -2034,6 +2046,8 @@ dummysan1.247realmedia.com
 dummysan2.247realmedia.com
 dummysan3.247realmedia.com
 durham.gmial.com
+dv-activation-production.campaigns.mediamath.com
+dv-activation-qa.campaigns.mediamath.com
 dvd.aertb.com
 dv.innovid.com
 dvma.innovid.com
@@ -2220,8 +2234,8 @@ eu-west-3.gamma.analytics.console.aws.a2z.com
 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 eu-west-3.prod.analytics.console.aws.a2z.com
 event.adserver.adikteev.com
-event.backoffice.adikteev.com
 event-backoffice.adikteev.com
+event.backoffice.adikteev.com
 event.bidstalk.com
 event.cmp.advertising.com
 event-dev.api.driftt.com
@@ -2242,6 +2256,7 @@ evolution.adwyze.com
 ewidget.dmpxs.com
 ewr-delivery-1.sys.adgear.com
 ewr-delivery-6.sys.adgear.com
+ewr-rtsdb-x1.mediamath.com
 example.airpr.com
 example-ruby-service.k8s.test-001.d-usw-2.braze.com
 exchange2.channelintelligence.com
@@ -2376,6 +2391,7 @@ foobar.dev-iad.amobee.com
 foo.criteo.com
 foo.dev-iad.amobee.com
 foo-k8s.dev-iad.amobee.com
+forecaster-old.mediamath.com
 foreign.alcmpn.com
 forth-stag-api.newstags.stag.bounceexchange.com
 forth-stag.newstags.stag.bounceexchange.com
@@ -2801,6 +2817,7 @@ imp.adrd.co
 imp.bid.ace.advertising.com
 impd.awsmppl.com
 import.igodigital.com
+impression.mediaiqdigital.com
 impressions-gc.appsflyer.com
 imp.skyrocket.adtdp.com
 imspro.adtechus.com
@@ -3938,6 +3955,7 @@ openx.win.bidstalk.com
 opera1-servedby.advertising.com
 opera3-servedby.advertising.com
 opera.dca.events.bidstalk.com
+opscenter.dcs.mediamath.com
 optimization.channelintelligence.com
 optimize.ensighten.com
 opt.jumptap.com
@@ -4285,6 +4303,7 @@ prod-k8s.prod-dub.atv.amobee.com
 prod.lijit.com
 prod.liverail.com
 prod.ping-origin-prd.jwpltx.com
+prod-public.cbe.mediamath.com
 prod.snackly.co
 product.abtasty.com
 productads.hlserve.com
@@ -4315,8 +4334,8 @@ prospect-cm.dsp.linksynergy.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway-production.browsiprod.com
 provider-gateway.production.browsiprod.com
+provider-gateway-production.browsiprod.com
 proximiter-stg.joystickinteractive.com
 proximiter-temp.joystickinteractive.com
 proximiter-tmp.joystickinteractive.com
@@ -4457,6 +4476,9 @@ pypal-account.awsmppl.com
 pypi.corp.inmobi.com
 q2e.channeladvisor.com
 q2e.qa.channeladvisor.com
+qa11-public.cbe.mediamath.com
+qa12-public.cbe.mediamath.com
+qa2.datasvc.mediamath.com
 qa.ace.advertising.com
 qa-ads-ban.advertising.com
 qa-adservices.cmp.advertising.com
@@ -4981,8 +5003,8 @@ seagate.links.channelintelligence.com
 sean.ittest.33across.com
 search.advertisingbox.com
 search.at.atwola.com
-searchcldellow.deployads.com
 search-cldellow.deployads.com
+searchcldellow.deployads.com
 search.deployads.com
 search.igodigital.com
 searsoutlet.rdr.channelintelligence.com
@@ -5145,8 +5167,8 @@ sipexternal.foresee.com
 sipexternal.gmial.com
 sipexternal.maxpoint.com
 _sipfederationtls._tcp.admedia.com
-_sipfederationtls._tcp.gmial.com
 sipfederationtls.tcp.gmial.com
+_sipfederationtls._tcp.gmial.com
 sip.gmial.com
 sipinternal.gmial.com
 siri.adwyze.com
@@ -5330,6 +5352,7 @@ staging.beeketing.com
 staging.bizible.com
 staging.bounceexchange.com
 staging.bytegain.com
+staging.cms.mediaiqdigital.com
 staging-console-cdn.appnexus.com
 staging.creatorapi.inskinmedia.com
 staging.creator.inskinmedia.com
@@ -5517,6 +5540,7 @@ tags.adk2x.com
 tags-akamai-test.addthis.com
 tags-akamai-test.bluekai.com
 tag.scam.beta.stag.bounceexchange.com
+tags-cluster.mediaforge.com
 tags.dal.bluekai.com
 tags.iad.bluekai.com
 tags-rc.iad.bluekai.com
@@ -5796,8 +5820,8 @@ transfer.bluecava.com
 travelads.hlserve.com
 travelapis.hlserve.com
 travelhook.hlserve.com
-travel-productads.hlserve.com
 travel.productads.hlserve.com
+travel-productads.hlserve.com
 travelup.dc.ignitionone.com
 travelup.t.ignitionone.com
 tr.bnmla.com
@@ -5976,8 +6000,8 @@ us-east-1.prod.internal.curalate.com
 us-east-1-production-web-tc.lift.acquia.com
 us-east-1-production-web-tw.lift.acquia.com
 us-east-1.qa.internal.curalate.com
-us-east-1.test.analytics.console.aws.a2z.com
 us-east-1-test.analytics.console.aws.a2z.com
+us-east-1.test.analytics.console.aws.a2z.com
 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 us-east-1.test.rp.analytics.console.aws.a2z.com
 us-east-1.tr.blismedia.com
@@ -6182,8 +6206,8 @@ view.skyrocket.adtdp.com
 viewsonic.links.channelintelligence.com
 vi.gumgum.com
 vip.admaster.com.cn
-visit-backoffice.adikteev.com
 visit.backoffice.adikteev.com
+visit-backoffice.adikteev.com
 visitor-qa.activengage.com
 vivad.advertising.com
 vivad.at.atwola.com
@@ -6299,6 +6323,7 @@ webserve-da888e9.euw1.dynamicyield.com
 webserve-f33d6d69.use.dynamicyield.com
 webserve-f9c5b52.use.dynamicyield.com
 webserve-faa4eb4.use.dynamicyield.com
+webservice.mediaforge.com
 webservice.poc.exacttarget.com
 webservice.qa.exacttarget.com
 website.adsnative.com

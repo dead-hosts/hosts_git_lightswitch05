@@ -99,8 +99,8 @@
 0.0.0.0 0f6jixa2.emltrk.com
 0.0.0.0 0fgraph0-2.accountkit.com
 0.0.0.0 0fgraph04.accountkit.com
-0.0.0.0 0fgraph0.accountkit.com
 0.0.0.0 0fgraph-0.accountkit.com
+0.0.0.0 0fgraph0.accountkit.com
 0.0.0.0 0fgraph1-0.accountkit.com
 0.0.0.0 0fgraph1-2.accountkit.com
 0.0.0.0 0fgraph14.accountkit.com
@@ -7024,6 +7024,7 @@
 0.0.0.0 accounts.fgl.com
 0.0.0.0 accounts.infusionsoft.com
 0.0.0.0 accounts.inlocomedia.com
+0.0.0.0 accounts.mediaiqdigital.com
 0.0.0.0 account.xiaomi.com.adserver.com
 0.0.0.0 ac.crsspxl.com
 0.0.0.0 accuen.optout.agkn.com
@@ -7789,6 +7790,7 @@
 0.0.0.0 adm.dynamicyield.com
 0.0.0.0 ad.media6degrees.com
 0.0.0.0 admedia.com
+0.0.0.0 ad.mediahead.com
 0.0.0.0 admedo.com
 0.0.0.0 admeld.adnxs.com
 0.0.0.0 admeld-match.dotomi.com
@@ -8373,6 +8375,7 @@
 0.0.0.0 adsximg.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adt.adelement.com
+0.0.0.0 adtag.mediaiqdigital.com
 0.0.0.0 ad.tagtoo.co
 0.0.0.0 adt-app-api.adtdp.com
 0.0.0.0 adt-app-dlv.adtdp.com
@@ -8406,8 +8409,8 @@
 0.0.0.0 adunitv2.cdn.auditude.com
 0.0.0.0 adunity.com
 0.0.0.0 adup-tech.com
-0.0.0.0 ad.us-ec.adtechus.com
 0.0.0.0 ad-us-ec.adtechus.com
+0.0.0.0 ad.us-ec.adtechus.com
 0.0.0.0 ad-us-wc.adtechus.com
 0.0.0.0 adv.adserver.com
 0.0.0.0 advancedsavings.leadpages.co
@@ -8684,6 +8687,7 @@
 0.0.0.0 ai-personalization-prod-static.demandbase.com
 0.0.0.0 aipiaqdk.emltrk.com
 0.0.0.0 aip-stg.insightexpressai.com
+0.0.0.0 aiq.mediaiqdigital.com
 0.0.0.0 airbrothersmechanical.clickfunnels.com
 0.0.0.0 aircanada-mkt-prod3.campaign.adobe.com
 0.0.0.0 aire.analytics-egain.com
@@ -8717,6 +8721,9 @@
 0.0.0.0 akamai.mathtag.com
 0.0.0.0 akamai-pubmatic.mathtag.com
 0.0.0.0 akamai-sonobi.mathtag.com
+0.0.0.0 akamai-ste.mediamath.com
+0.0.0.0 akamai-test.mediamath.com
+0.0.0.0 akam.mediamath.com
 0.0.0.0 akar.iad.appboy.com
 0.0.0.0 akilacms.deliveryengine.adswizz.com
 0.0.0.0 akinci.leadpages.co
@@ -8724,6 +8731,7 @@
 0.0.0.0 akl-v4.pops.fastly-insights.com
 0.0.0.0 ak-probe.abtasty.com
 0.0.0.0 aksdk-images.adikteev.com
+0.0.0.0 ak-sync.datasvc.mediamath.com
 0.0.0.0 al04.casalemedia.com
 0.0.0.0 al1.listrakbi.com
 0.0.0.0 al272.infusionsoft.com
@@ -9207,6 +9215,7 @@
 0.0.0.0 analytics.lucidchart.com
 0.0.0.0 analytics.lucidpress.com
 0.0.0.0 analytics.manage.com
+0.0.0.0 analytics.mediamath.com
 0.0.0.0 analyticson.com
 0.0.0.0 analytics.orbee.co
 0.0.0.0 analytics-poc.corp.liveramp.com
@@ -9483,8 +9492,8 @@
 0.0.0.0 api9761.d41.co
 0.0.0.0 api9865.d41.co
 0.0.0.0 api9873.d41.co
-0.0.0.0 apiab4c.ad-brix.com
 0.0.0.0 api.ab4c.ad-brix.com
+0.0.0.0 apiab4c.ad-brix.com
 0.0.0.0 api.abtasty.com
 0.0.0.0 api.aca.ftv.bugsnag.appstore.a2z.com
 0.0.0.0 api.accuweather.comwf.cbarsrv.com
@@ -9741,12 +9750,15 @@
 0.0.0.0 api.manage.com
 0.0.0.0 api.manage.ensighten.com
 0.0.0.0 api-mangalife.media-lab.ai
+0.0.0.0 api-mashery.mediamath.com
+0.0.0.0 api-mashery-qa.mediamath.com
 0.0.0.0 api.matt.env.sandbox53.localytics.com
 0.0.0.0 api.mediaforge.com
+0.0.0.0 api.mediamath.com
 0.0.0.0 api-me-south-1.datadome.co
 0.0.0.0 api-meta-grpc.lightstep.com
-0.0.0.0 api-meta.lightstep.com
 0.0.0.0 api.meta.lightstep.com
+0.0.0.0 api-meta.lightstep.com
 0.0.0.0 api-metrics-canary.flurry.com
 0.0.0.0 api-metrics-e2e.nonprod.flurry.com
 0.0.0.0 api-metrics.flurry.com
@@ -10312,8 +10324,8 @@
 0.0.0.0 app.stage.kissmetrics.com
 0.0.0.0 app-stage.marketo.com
 0.0.0.0 app.staging.fullstory.com
-0.0.0.0 app-staging.lightstep.com
 0.0.0.0 app.staging.lightstep.com
+0.0.0.0 app-staging.lightstep.com
 0.0.0.0 appstatic.bronto.com
 0.0.0.0 app-stg.ascend.ai
 0.0.0.0 app-st.marketo.com
@@ -10628,8 +10640,8 @@
 0.0.0.0 assureo.commander1.com
 0.0.0.0 astaging.adgear.com
 0.0.0.0 a.staging.idio.co
-0.0.0.0 a-sta.haloapps.com
 0.0.0.0 a.sta.haloapps.com
+0.0.0.0 a-sta.haloapps.com
 0.0.0.0 astamuse.adapf.com
 0.0.0.0 astegiudiziarieassistenza.clickfunnels.com
 0.0.0.0 asth.innity.com
@@ -10737,6 +10749,7 @@
 0.0.0.0 aubrandsummit.exponential.com
 0.0.0.0 auchan.commander1.com
 0.0.0.0 auchandrive.commander1.com
+0.0.0.0 au.co.mediamath.com
 0.0.0.0 auctioneer1.50million.club
 0.0.0.0 auctioneer2.50million.club
 0.0.0.0 auctioneer3.50million.club
@@ -10879,8 +10892,10 @@
 0.0.0.0 auth.ipdata.co
 0.0.0.0 auth.k8s-prod.fiksu.com
 0.0.0.0 auth.k8s-test.fiksu.com
+0.0.0.0 auth.mediamath.com
 0.0.0.0 authn.nexus.liveramp.com
 0.0.0.0 authoritypub.leadpages.co
+0.0.0.0 authorization.aws.mediamath.com
 0.0.0.0 auth-poc.adara.com
 0.0.0.0 auth.s100.exacttarget.com
 0.0.0.0 auth.s11.exacttarget.com
@@ -11002,8 +11017,8 @@
 0.0.0.0 avifg7bq.emltrk.com
 0.0.0.0 avit.dnset.com
 0.0.0.0 aviva1.saas.appdynamics.com
-0.0.0.0 avivadirect.commander1.com
 0.0.0.0 aviva_direct.commander1.com
+0.0.0.0 avivadirect.commander1.com
 0.0.0.0 avivainvestors-mkt-stage1-res.campaign.adobe.com
 0.0.0.0 aviva-mkt-dev1-t.campaign.adobe.com
 0.0.0.0 aviva-mkt-stage1-m.campaign.adobe.com
@@ -11039,6 +11054,7 @@
 0.0.0.0 aws.bitterstrawberry.com
 0.0.0.0 awscloud.lijit.com
 0.0.0.0 aws.conviva.com
+0.0.0.0 aws.csre.mediamath.com
 0.0.0.0 awselbads0.intentiq.com
 0.0.0.0 aws.foreseeresults.com
 0.0.0.0 aws.gethatch.com
@@ -11600,8 +11616,8 @@
 0.0.0.0 betsson-casinoeuro.bannerflow.com
 0.0.0.0 betsson-kroon-casino.bannerflow.com
 0.0.0.0 betsson-mrsmith.bannerflow.com
-0.0.0.0 betsson-nordicbetdk.bannerflow.com
 0.0.0.0 betsson-nordicbet-dk.bannerflow.com
+0.0.0.0 betsson-nordicbetdk.bannerflow.com
 0.0.0.0 betsson-oranje.bannerflow.com
 0.0.0.0 betsson-starcasino.bannerflow.com
 0.0.0.0 betsson-triobet.bannerflow.com
@@ -11785,6 +11801,7 @@
 0.0.0.0 bitenoble-voice.demo.apester.com
 0.0.0.0 bitest.dataxu.com
 0.0.0.0 bitkub-exchange-giveaway.000webhostapp.com
+0.0.0.0 bitoner.mediamath.com
 0.0.0.0 bitrix.adx1.com
 0.0.0.0 bitterstrawberry.com
 0.0.0.0 bittrex.gr.com
@@ -12074,6 +12091,7 @@
 0.0.0.0 brainignition.clickfunnels.com
 0.0.0.0 brainly-tagan.adlightning.com
 0.0.0.0 brainobrain.leadpages.co
+0.0.0.0 brainviz.mediamath.com
 0.0.0.0 branching.connatix.com
 0.0.0.0 brand.adform.com
 0.0.0.0 brandcdn.exacttarget.com
@@ -12235,6 +12253,7 @@
 0.0.0.0 bukalapak-sin.gravityrd-services.com
 0.0.0.0 bulkapi.bluekai.com
 0.0.0.0 bulkapi.phx.bluekai.com
+0.0.0.0 bulkmanager.mediamath.com
 0.0.0.0 bulk-services.acxiom.com
 0.0.0.0 bullseye.clickfunnels.com
 0.0.0.0 bumlam.com
@@ -12288,6 +12307,7 @@
 0.0.0.0 bx24.adx1.com
 0.0.0.0 bxcogl.edvfwlacluo.com
 0.0.0.0 byc.syndication.kbb.com
+0.0.0.0 byoa.mediamath.com
 0.0.0.0 bypass-adn.ad-stir.com
 0.0.0.0 bypass.ad-stir.com
 0.0.0.0 bypass-bid.ad-stir.com
@@ -12486,8 +12506,8 @@
 0.0.0.0 cachecache.commander1.com
 0.0.0.0 cache.celtra.com
 0.0.0.0 cache.dtmpub.com
-0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 cachessl.celtra.com
+0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 cache-test.addthis.com
 0.0.0.0 cache-uat.addthis.com
 0.0.0.0 caching.adrd.co
@@ -12744,6 +12764,7 @@
 0.0.0.0 catalog.cdn.adx1.com
 0.0.0.0 catalog.hb.adx1.com
 0.0.0.0 catalog.kumma-hb.hb.adx1.com
+0.0.0.0 catalog.mediamath.com
 0.0.0.0 catalogo.intelsad.com
 0.0.0.0 catalogozohar.clickfunnels.com
 0.0.0.0 catalog.pop-under.xml.adx1.com
@@ -12777,6 +12798,7 @@
 0.0.0.0 cbd6pouw.emltrk.com
 0.0.0.0 cbd.fingereach.com
 0.0.0.0 c.bea4.cnn.com
+0.0.0.0 cbe.mediamath.com
 0.0.0.0 c.betrad.com
 0.0.0.0 cbg.163.com
 0.0.0.0 cbh.adsame.com
@@ -12853,6 +12875,7 @@
 0.0.0.0 cddn.adx1.com
 0.0.0.0 cddtest.saas.appdynamics.com
 0.0.0.0 c.deployads.com
+0.0.0.0 cdg-integration-x1.mediamath.com
 0.0.0.0 cdg-v4.pops.fastly-insights.com
 0.0.0.0 cdhmanager-prod.bronto.com
 0.0.0.0 cdi.infusionsoft.com
@@ -12965,8 +12988,8 @@
 0.0.0.0 cdn.adx1.adx1.com
 0.0.0.0 cdn.adx1.c.adx1.com
 0.0.0.0 cdn.adx1.ccdn.adx1.com
-0.0.0.0 cdn.adx1.cdn.adx1.com
 0.0.0.0 cdn.adx1cdn.adx1.com
+0.0.0.0 cdn.adx1.cdn.adx1.com
 0.0.0.0 cdn.adx1.cn.adx1.com
 0.0.0.0 cdn.adx1.co.adx1.com
 0.0.0.0 cdn.adx1.cocdn.adx1.com
@@ -13050,8 +13073,8 @@
 0.0.0.0 cdn.caprofitx.com
 0.0.0.0 cdn-cbc-v3.conductrics.com
 0.0.0.0 cdn-cd.justpremium.com
-0.0.0.0 cdncdn.adx1.com
 0.0.0.0 cdn.cdn.adx1.com
+0.0.0.0 cdncdn.adx1.com
 0.0.0.0 cdn.celtra.com
 0.0.0.0 cdn.cf.dynamicyield.com
 0.0.0.0 cdn-cf.justpremium.com
@@ -13172,8 +13195,8 @@
 0.0.0.0 cdn.mobile.abtasty.com
 0.0.0.0 cdnmv.bidvertiser.com
 0.0.0.0 cdnn.ad-stir.com
-0.0.0.0 cdnn.adx1.com
 0.0.0.0 cdn.n.adx1.com
+0.0.0.0 cdnn.adx1.com
 0.0.0.0 cdn.native.ai
 0.0.0.0 cdnn.atlassbx.com
 0.0.0.0 cdn.n.dynstc.com
@@ -13663,6 +13686,10 @@
 0.0.0.0 cipreporting.loggly.com
 0.0.0.0 ciq.dmpxs.com
 0.0.0.0 ciram.iad-03.braze.com
+0.0.0.0 circleci.dev.mediamath.com
+0.0.0.0 circleci.mediamath.com
+0.0.0.0 circleciprod.mediamath.com
+0.0.0.0 circlecitest.mediamath.com
 0.0.0.0 circlemedia.getambassador.com
 0.0.0.0 circleofdocs.leadpages.co
 0.0.0.0 circuit.advertserve.com
@@ -14065,6 +14092,7 @@
 0.0.0.0 cms.kwanzoo.com
 0.0.0.0 cms.lfstmedia.com
 0.0.0.0 cms.lisnr.com
+0.0.0.0 cms.mediaiqdigital.com
 0.0.0.0 cms-xch.33across.com
 0.0.0.0 cms-xch-chicago.33across.com
 0.0.0.0 cm-us-east-1.crashlytics.com
@@ -14197,8 +14225,8 @@
 0.0.0.0 collector.meta.lightstep.com
 0.0.0.0 collector-meta.lightstep.com
 0.0.0.0 collector.prod.expedia.com
-0.0.0.0 collector.staging.lightstep.com
 0.0.0.0 collector-staging.lightstep.com
+0.0.0.0 collector.staging.lightstep.com
 0.0.0.0 collegeave.getambassador.com
 0.0.0.0 collegeprowler.adblade.com
 0.0.0.0 collettevacations.saas.appdynamics.com
@@ -14364,6 +14392,7 @@
 0.0.0.0 consoliads.com
 0.0.0.0 constructionleadingedge.clickfunnels.com
 0.0.0.0 consul.g.bouncex.com
+0.0.0.0 consul.mediamath.com
 0.0.0.0 consultant4hire.clickfunnels.com
 0.0.0.0 consultant.adx1.com
 0.0.0.0 consulting.mywebsite.com.askronwilliams.leadpages.co
@@ -15445,6 +15474,7 @@
 0.0.0.0 cslogger.aaxads.com
 0.0.0.0 cs.marinsm.com
 0.0.0.0 csm.csa.comscore.com
+0.0.0.0 cs.mediamath.com
 0.0.0.0 cs-middleware.fyber.com
 0.0.0.0 cs.nie.163.com
 0.0.0.0 csorca.csa.comscore.com
@@ -15463,8 +15493,8 @@
 0.0.0.0 css.appcues.com
 0.0.0.0 css.dc-storm.com
 0.0.0.0 cstag.admanmedia.com
-0.0.0.0 c-sta.haloapps.com
 0.0.0.0 c.sta.haloapps.com
+0.0.0.0 c-sta.haloapps.com
 0.0.0.0 cstat.apple.com
 0.0.0.0 cst.dnset.com
 0.0.0.0 cstecnologia.leadpages.co
@@ -16081,6 +16111,7 @@
 0.0.0.0 data-stewardship-staging.liveramp.com
 0.0.0.0 data-stg.groupm.com
 0.0.0.0 datastream.intentiq.com
+0.0.0.0 datasvc.mediamath.com
 0.0.0.0 dataswitch-ads-75496044.us-east-1.elb.amazonaws.com
 0.0.0.0 data-test2.bluekai.com
 0.0.0.0 data-test.bluekai.com
@@ -16150,6 +16181,7 @@
 0.0.0.0 dbidatatech.com
 0.0.0.0 db-ip.com
 0.0.0.0 d.bizible.com
+0.0.0.0 dbm.mediaiqdigital.com
 0.0.0.0 dbmvideos.com
 0.0.0.0 db.neo4jdb.innovation.abtasty.com
 0.0.0.0 dbpal.appsflyer.com
@@ -16220,6 +16252,7 @@
 0.0.0.0 dcoffer.adbiq.com
 0.0.0.0 dco.igaworks.com
 0.0.0.0 dco.logbor.com
+0.0.0.0 dco.mediaiqdigital.com
 0.0.0.0 d.company-target.com
 0.0.0.0 dco-msg.mathtag.com
 0.0.0.0 dco-pix.mathtag.com
@@ -16488,6 +16521,7 @@
 0.0.0.0 dev2.amplitude.com
 0.0.0.0 dev2-api-eu-west.adlithium.com
 0.0.0.0 dev2-api-us-east.adlithium.com
+0.0.0.0 dev2.datasvc.mediamath.com
 0.0.0.0 dev2.flurry.com
 0.0.0.0 dev2-front-eu-west.adlithium.com
 0.0.0.0 dev2-front-us-east.adlithium.com
@@ -16537,6 +16571,7 @@
 0.0.0.0 dev.bizum-groupm.facebook-ads.adtz.com
 0.0.0.0 dev.blismedia.com
 0.0.0.0 dev.blog.ensighten.com
+0.0.0.0 devblog.mediamath.com
 0.0.0.0 dev.bombora.com
 0.0.0.0 dev-booking.macromill.com
 0.0.0.0 dev.brightedge.com
@@ -16559,6 +16594,7 @@
 0.0.0.0 dev.chevrolet-mexico.facebook-ads.adtz.com
 0.0.0.0 dev.chevroletmundial-mexico.facebook-ads.adtz.com
 0.0.0.0 dev.clickconvertsell.com
+0.0.0.0 dev.co.mediamath.com
 0.0.0.0 dev.context.bestbuy.com
 0.0.0.0 dev-convenkun.macromill.com
 0.0.0.0 dev-corporate-website.datadome.co
@@ -16568,6 +16604,7 @@
 0.0.0.0 dev-customer-api.datadome.co
 0.0.0.0 dev-cx.foresee.com
 0.0.0.0 dev-data.dianomi.com
+0.0.0.0 dev.datasvc.mediamath.com
 0.0.0.0 dev-db-eu-west.adlithium.com
 0.0.0.0 dev-db-us-east.adlithium.com
 0.0.0.0 dev-db-us-east-ro.adlithium.com
@@ -16668,8 +16705,8 @@
 0.0.0.0 dev-mg.groovinads.com
 0.0.0.0 dev-millreach.macromill.com
 0.0.0.0 dev-mobile-sdks.forter.com
-0.0.0.0 dev.monitor.macromill.com
 0.0.0.0 dev-monitor.macromill.com
+0.0.0.0 dev.monitor.macromill.com
 0.0.0.0 dev-mpm.madvertise.com
 0.0.0.0 dev.my.getadmiral.com
 0.0.0.0 dev.nestlevivaki.facebook-ads.adtz.com
@@ -16733,8 +16770,8 @@
 0.0.0.0 dev.wink-consultora-vodafone.facebook-ads.adtz.com
 0.0.0.0 dev.wink-lidl.facebook-ads.adtz.com
 0.0.0.0 dev-www.bizible.com
-0.0.0.0 dev.www.macromill.com
 0.0.0.0 dev-www.macromill.com
+0.0.0.0 dev.www.macromill.com
 0.0.0.0 dev-www.marketo.com
 0.0.0.0 dev-x.flurry.com
 0.0.0.0 dev.zenith.facebook-ads.adtz.com
@@ -16747,6 +16784,7 @@
 0.0.0.0 dex.k8s-test.fiksu.com
 0.0.0.0 dex-kube.lifestreet.com
 0.0.0.0 dex.lifestreet.com
+0.0.0.0 dex.test.co.mediamath.com
 0.0.0.0 dex-test-login.lifestreet.com
 0.0.0.0 dexypsupport.ipromote.com
 0.0.0.0 df101.mta.exacttarget.com
@@ -17305,8 +17343,8 @@
 0.0.0.0 dpierce-hallahan.clickfunnels.com
 0.0.0.0 dp-sync.dotomi.com
 0.0.0.0 dpwreset.acxiom.com
-0.0.0.0 d.px.airpr.com
 0.0.0.0 dpx.airpr.com
+0.0.0.0 d.px.airpr.com
 0.0.0.0 dq286.infusionsoft.com
 0.0.0.0 dq.alcmpn.com
 0.0.0.0 dq-big.adapf.com
@@ -17881,6 +17919,7 @@
 0.0.0.0 eefformadores.clickfunnels.com
 0.0.0.0 ee.info.lgsmartad.com
 0.0.0.0 eekix97r.emltrk.com
+0.0.0.0 ee.mediahead.com
 0.0.0.0 eeo0cfs3.emltrk.com
 0.0.0.0 ee.ranking.gemius.com
 0.0.0.0 eerie-surveillance.000webhostapp.com
@@ -18087,6 +18126,7 @@
 0.0.0.0 emea.exactag.com
 0.0.0.0 emea-primary.groupm.com
 0.0.0.0 emea-v3.tracking.justpremium.com
+0.0.0.0 e.mediamath.com
 0.0.0.0 emeijboom.clickfunnels.com
 0.0.0.0 emenabrandsummit.exponential.com
 0.0.0.0 emerson.ecorebates.com
@@ -18215,6 +18255,7 @@
 0.0.0.0 entercom.deliveryengine.adswizz.com
 0.0.0.0 enternow.clickfunnels.com
 0.0.0.0 enterprise.bannersnack.com
+0.0.0.0 enterprise-build.mediaiqdigital.com
 0.0.0.0 enterprise.channeladvisor.com
 0.0.0.0 enterprise.coremetrics.com
 0.0.0.0 enterprisedb.lookbookhq.com
@@ -18552,6 +18593,7 @@
 0.0.0.0 event-management.leanplum.com
 0.0.0.0 event-management-shadow.leanplum.com
 0.0.0.0 event-management.staging.leanplum.com
+0.0.0.0 event.mediamath.com
 0.0.0.0 event-midasbuy-free-uc6.dnset.com
 0.0.0.0 event-midasbuy-free-uc.dnset.com
 0.0.0.0 eventositc.000webhostapp.com
@@ -18601,6 +18643,7 @@
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.marketo.com
+0.0.0.0 events.mediamath.com
 0.0.0.0 events.smedia.ca
 0.0.0.0 events.staging.bounceexchange.com
 0.0.0.0 events.stg.apester.com
@@ -18639,6 +18682,9 @@
 0.0.0.0 ewido-security-suite.apponic.com
 0.0.0.0 ewimy7u4.emltrk.com
 0.0.0.0 ewmg.clickfunnels.com
+0.0.0.0 ewr-cs-n4.mediamath.com
+0.0.0.0 ewr-honeybadger-n1.mediamath.com
+0.0.0.0 ewr-integration-x1.mediamath.com
 0.0.0.0 ewrprod-rtbwin.applovin.com
 0.0.0.0 ewr-rtbprod.applovin.com
 0.0.0.0 ewrstage-rtb.applovin.com
@@ -18856,8 +18902,8 @@
 0.0.0.0 famquist.dnset.com
 0.0.0.0 fanbread.com
 0.0.0.0 fancast.cdn.auditude.com
-0.0.0.0 fancymedia.cm.admaster.com.cn
 0.0.0.0 fancymedia-cm.admaster.com.cn
+0.0.0.0 fancymedia.cm.admaster.com.cn
 0.0.0.0 fanfactornl.leadpages.co
 0.0.0.0 fangpuddle-fly.demo.apester.com
 0.0.0.0 fankui.163.com
@@ -18893,6 +18939,7 @@
 0.0.0.0 faui.listrakbi.com
 0.0.0.0 faulty-maneuvers.000webhostapp.com
 0.0.0.0 faunus.go2affise.com
+0.0.0.0 fav.mediamath.com
 0.0.0.0 faw.forter.com
 0.0.0.0 fb687.infusionsoft.com
 0.0.0.0 fb-acct-market-item1029839302.000webhostapp.com
@@ -19143,6 +19190,7 @@
 0.0.0.0 fl.adrd.co
 0.0.0.0 flags.apester.com
 0.0.0.0 flagship.innovation.abtasty.com
+0.0.0.0 flame.mediahead.com
 0.0.0.0 flamenipper.33across.com
 0.0.0.0 flapbook.feathr.co
 0.0.0.0 flappy-paul.juicemobile.com
@@ -19181,6 +19229,7 @@
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fluencythroughstories.leadpages.co
 0.0.0.0 fluentbit.staging-1.staging.leanplum.com
+0.0.0.0 fluid.mediahead.com
 0.0.0.0 flurry.com
 0.0.0.0 flurry-east-bidder.manage.com
 0.0.0.0 flux.effiliation.com
@@ -19238,11 +19287,13 @@
 0.0.0.0 foo-test.joystickinteractive.com
 0.0.0.0 footprintdns.com
 0.0.0.0 forbes.aaxads.com
+0.0.0.0 forecaster.mediamath.com
 0.0.0.0 foreman.amobee.com
 0.0.0.0 foreman.bnmla.com
 0.0.0.0 foresee.btttag.com
 0.0.0.0 foresee.com
 0.0.0.0 foreseeresults.com
+0.0.0.0 forex.campaigns.mediamath.com
 0.0.0.0 forex.gr.com
 0.0.0.0 forextradersdaily.clickfunnels.com
 0.0.0.0 forfileshareongdrive.000webhostapp.com
@@ -19473,8 +19524,8 @@
 0.0.0.0 fra198.ib.adnxs.com
 0.0.0.0 fra199.ib.adnxs.com
 0.0.0.0 fra19.ib.adnxs.com
-0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 fra1.ib.adnxs.com
+0.0.0.0 fra1-ib.adnxs.com
 0.0.0.0 fra1.ipromote.com
 0.0.0.0 fra1-mobile.adnxs.com
 0.0.0.0 fra200.ib.adnxs.com
@@ -19951,6 +20002,7 @@
 0.0.0.0 fromnothing.fingereach.com
 0.0.0.0 fromparistoparos.gr.com
 0.0.0.0 fromthedaisies.leadpages.co
+0.0.0.0 frontdesk.mediaiqdigital.com
 0.0.0.0 frontend1.innovid.com
 0.0.0.0 frontend5.innovid.com
 0.0.0.0 frontend6.innovid.com
@@ -20033,8 +20085,8 @@
 0.0.0.0 fullspectrumproductivity.leadpages.co
 0.0.0.0 fullstory.com
 0.0.0.0 fullyraw.clickfunnels.com
-0.0.0.0 fun-adx.admaster.com.cn
 0.0.0.0 fun.adx.admaster.com.cn
+0.0.0.0 fun-adx.admaster.com.cn
 0.0.0.0 fun.cm.admaster.com.cn
 0.0.0.0 functionalconcepts.clickfunnels.com
 0.0.0.0 functionalcrown.com
@@ -20616,8 +20668,8 @@
 0.0.0.0 globalsmt.advertserve.com
 0.0.0.0 globaltalent.clickfunnels.com
 0.0.0.0 global-v2.clearbit.com
-0.0.0.0 globeprod.amobee.com
 0.0.0.0 globe-prod.amobee.com
+0.0.0.0 globeprod.amobee.com
 0.0.0.0 globidinc.infusionsoft.com
 0.0.0.0 globlb.com
 0.0.0.0 globo.cdn.auditude.com
@@ -20635,6 +20687,7 @@
 0.0.0.0 glp8.indexexchange.com
 0.0.0.0 glpi.datadome.co
 0.0.0.0 glqmk.adsbtrack.com
+0.0.0.0 gls.aws.mediamath.com
 0.0.0.0 glscrip.getambassador.com
 0.0.0.0 gluedc.com
 0.0.0.0 glumov.gamail.com
@@ -21188,6 +21241,7 @@
 0.0.0.0 hashcalc.apponic.com
 0.0.0.0 hasoffers.disqus.com
 0.0.0.0 hassaleh.iad-03.braze.com
+0.0.0.0 hastebin.mediamath.com
 0.0.0.0 hasztbln.emltrk.com
 0.0.0.0 h.atdmt.com
 0.0.0.0 hattiesburgamerican.localiq.com
@@ -21644,8 +21698,8 @@
 0.0.0.0 htcdn.adx1.com
 0.0.0.0 htdn.adx1.com
 0.0.0.0 ht.indexww.com
-0.0.0.0 ht-lb.casalemedia.com
 0.0.0.0 htlb.casalemedia.com
+0.0.0.0 ht-lb.casalemedia.com
 0.0.0.0 htlbid.com
 0.0.0.0 ht-lb-sec.casalemedia.com
 0.0.0.0 htmedia.clickfunnels.com
@@ -22665,8 +22719,8 @@
 0.0.0.0 innocraft.com
 0.0.0.0 innovatemontana.leadpages.co
 0.0.0.0 innovation.50million.club
-0.0.0.0 innovativeadserver.com
 0.0.0.0 innovative.adserver.com
+0.0.0.0 innovativeadserver.com
 0.0.0.0 innovativemetrics.com
 0.0.0.0 innovative.saas.appdynamics.com
 0.0.0.0 innovid.com
@@ -23201,6 +23255,8 @@
 0.0.0.0 jared10652z.btttag.com
 0.0.0.0 jared-don.com
 0.0.0.0 jaredpetegile.clickfunnels.com
+0.0.0.0 jarvis.mediaiqdigital.com
+0.0.0.0 jarvis-preprod.mediaiqdigital.com
 0.0.0.0 jasonh.clickfunnels.com
 0.0.0.0 jasonlinett.leadpages.co
 0.0.0.0 jasonsafford.clickfunnels.com
@@ -24002,6 +24058,7 @@
 0.0.0.0 kubecost.k8s.test-001.d-usw-2.braze.com
 0.0.0.0 kubecost.k8s.test-002.d-usw-2.braze.com
 0.0.0.0 kubecost.k8s.test-003.d-aze-us.braze.com
+0.0.0.0 kube-dr.mediaiqdigital.com
 0.0.0.0 kuehne-fabi.clickfunnels.com
 0.0.0.0 kumma-hb.hb.adx1.com
 0.0.0.0 kundli-for-windows.apponic.com
@@ -24646,21 +24703,21 @@
 0.0.0.0 load77.exelator.com
 0.0.0.0 loada.exelator.com
 0.0.0.0 load.amexp.exelator.com
-0.0.0.0 load.ams1.exelator.com
 0.0.0.0 load-ams1.exelator.com
+0.0.0.0 load.ams1.exelator.com
 0.0.0.0 loadan.exelator.com
 0.0.0.0 load.apse2.exelator.com
-0.0.0.0 load-dfw2.exelator.com
 0.0.0.0 load.dfw2.exelator.com
+0.0.0.0 load-dfw2.exelator.com
 0.0.0.0 loader.vertica.evidon.com
 0.0.0.0 loadeu.exelator.com
-0.0.0.0 load-ewr1.exelator.com
 0.0.0.0 load.ewr1.exelator.com
+0.0.0.0 load-ewr1.exelator.com
 0.0.0.0 load.exelator.com
-0.0.0.0 load.fra2.exelator.com
 0.0.0.0 load-fra2.exelator.com
-0.0.0.0 load-hkg2.exelator.com
+0.0.0.0 load.fra2.exelator.com
 0.0.0.0 load.hkg2.exelator.com
+0.0.0.0 load-hkg2.exelator.com
 0.0.0.0 loadm.exelator.com
 0.0.0.0 load.njexp.exelator.com
 0.0.0.0 load-nrt1.exelator.com
@@ -25556,6 +25613,8 @@
 0.0.0.0 marvel-cdn.bc0a.com
 0.0.0.0 marvel-dev1.bc0a.com
 0.0.0.0 marvel-images.brightedge.com
+0.0.0.0 marvell-prod.campaigns.mediamath.com
+0.0.0.0 marvell-qa.campaigns.mediamath.com
 0.0.0.0 marvel-processor.bc0a.com
 0.0.0.0 marvel-test1.bc0a.com
 0.0.0.0 marvel-test2.bc0a.com
@@ -25844,14 +25903,17 @@
 0.0.0.0 mediaforge.com
 0.0.0.0 media.getsitecontrol.com
 0.0.0.0 media.github.exacttarget.com
+0.0.0.0 mediahead.com
 0.0.0.0 mediahost.dnset.com
 0.0.0.0 media.innity.com
 0.0.0.0 media.ipromote.com
+0.0.0.0 mediaiqdigital.com
 0.0.0.0 mediakds.rtb.adx1.com
 0.0.0.0 media-lab.ai
 0.0.0.0 media.lga.contextweb.com
 0.0.0.0 media.linksynergy.com
 0.0.0.0 media.lisnr.com
+0.0.0.0 mediamath.com
 0.0.0.0 mediamavericks.leadpages.co
 0.0.0.0 mediamond.ad.dotandad.com
 0.0.0.0 mediamond.js.ad.dotandad.com
@@ -26270,6 +26332,7 @@
 0.0.0.0 ml-p.alcmpn.com
 0.0.0.0 mm412.infusionsoft.com
 0.0.0.0 mma.admaster.com.cn
+0.0.0.0 mma.co.mediamath.com
 0.0.0.0 mmadmin.adara.com
 0.0.0.0 mmadmin-qa.adara.com
 0.0.0.0 mmag.kargo.com
@@ -27356,6 +27419,10 @@
 0.0.0.0 nel-cae.fastly-insights.com
 0.0.0.0 nel.fastly-insights.com
 0.0.0.0 nemesis.admarvel.com
+0.0.0.0 nemo-app-production.campaigns.mediamath.com
+0.0.0.0 nemo-app-qa.campaigns.mediamath.com
+0.0.0.0 nemo-serializer-production.campaigns.mediamath.com
+0.0.0.0 nemo-serializer-qa.campaigns.mediamath.com
 0.0.0.0 neo4j.dev.dig.cbsi.com
 0.0.0.0 neo.amobee.com
 0.0.0.0 neo-career.adapf.com
@@ -27460,8 +27527,8 @@
 0.0.0.0 newsmaxmedia-mkt-prod1-t.campaign.adobe.com
 0.0.0.0 newsmaxmedia-mkt-stage1.campaign.adobe.com
 0.0.0.0 new.social.conviva.com
-0.0.0.0 newspress.localiq.com
 0.0.0.0 news-press.localiq.com
+0.0.0.0 newspress.localiq.com
 0.0.0.0 newsquest.localiq.com
 0.0.0.0 new_tmp.ads.justpremium.com
 0.0.0.0 newyork.localiq.com
@@ -28192,9 +28259,9 @@
 0.0.0.0 nyl.acxiom.com
 0.0.0.0 nym1.adnxs.com
 0.0.0.0 nym1.b.adnxs.com
-0.0.0.0 nym1-ib.adnxs.com
-0.0.0.0 nym1--ib.adnxs.com
 0.0.0.0 nym1.ib.adnxs.com
+0.0.0.0 nym1--ib.adnxs.com
+0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 nym1-mobile.adnxs.com
 0.0.0.0 nym1.mobile.adnxs.com
 0.0.0.0 nym2.adnxs.com
@@ -28562,9 +28629,11 @@
 0.0.0.0 old.advidi.com
 0.0.0.0 old.adx1.com
 0.0.0.0 old.dynamicyield.com
+0.0.0.0 old.mediaiqdigital.com
 0.0.0.0 oldsupport.kissmetrics.com
 0.0.0.0 oldtimeradio.7p.com
 0.0.0.0 oldui.adswizz.com
+0.0.0.0 old-wiki.mediaiqdigital.com
 0.0.0.0 o.leadbolt.com
 0.0.0.0 oleg.adx1.com
 0.0.0.0 olgap1311.clickfunnels.com
@@ -28657,8 +28726,8 @@
 0.0.0.0 o-o---preferred---sn-5uaeznek---v23---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uaeznek---v24---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uaeznek---v8---cache.c.googlesyndication.com
-0.0.0.0 o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
 0.0.0.0 o-o.preferred.sn-5uu-vgqe.v18.cache.c.googlesyndication.com
+0.0.0.0 o-o---preferred---sn-5uu-vgqe---v18---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uu-vgqe---v9---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-5uu-vgql---v21---cache.c.googlesyndication.com
 0.0.0.0 o-o---preferred---sn-o097zne7---v10---cache.c.googlesyndication.com
@@ -29782,8 +29851,8 @@
 0.0.0.0 pb.ladsp.com
 0.0.0.0 pbl.adverline.com
 0.0.0.0 pb.marketedge.acxiom.com
-0.0.0.0 pbmx.7p.com
 0.0.0.0 pbm-x.7p.com
+0.0.0.0 pbmx.7p.com
 0.0.0.0 pbn.advertserve.com
 0.0.0.0 pbr3-wn2.brightedge.com
 0.0.0.0 p.brealtime.com
@@ -30125,6 +30194,7 @@
 0.0.0.0 pixel.leadnationmedia.com
 0.0.0.0 pixel.logrocket.com
 0.0.0.0 pixel.mathtag.com
+0.0.0.0 pixel.mediaiqdigital.com
 0.0.0.0 pixel---nj-ads.lfstmedia.com
 0.0.0.0 pixel-nl--de-ads.lfstmedia.com
 0.0.0.0 pixel-origin.mathtag.com
@@ -30524,6 +30594,7 @@
 0.0.0.0 pranatur.clickfunnels.com
 0.0.0.0 prapi.beeketing.com
 0.0.0.0 pratiquerlameditation.leadpages.co
+0.0.0.0 prd.co.mediamath.com
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 pre3.ads.justpremium.com
 0.0.0.0 pre.ads.justpremium.com
@@ -30712,6 +30783,7 @@
 0.0.0.0 prod-cdn.chicoryapp.com
 0.0.0.0 prod-chat.api.chatid.com
 0.0.0.0 prod-customfeeds.flashtalking.com
+0.0.0.0 prod.datasvc.mediamath.com
 0.0.0.0 prod-do-dns-lb.airfind.com
 0.0.0.0 prod-dub-beacon-1484770602.eu-west-1.elb.amazonaws.com
 0.0.0.0 prod-east-stats-tap-alb-627711272.us-east-1.elb.amazonaws.com
@@ -30773,8 +30845,8 @@
 0.0.0.0 productivity.alertmanager.staging-1.staging.leanplum.com
 0.0.0.0 productivitygame.leadpages.co
 0.0.0.0 productivity.grafana.staging-1.staging.leanplum.com
-0.0.0.0 productivity.locust-2.staging-1.staging.leanplum.com
 0.0.0.0 productivity.locust2.staging-1.staging.leanplum.com
+0.0.0.0 productivity.locust-2.staging-1.staging.leanplum.com
 0.0.0.0 productivity.locust.staging-1.staging.leanplum.com
 0.0.0.0 productivity.prometheus.prod-1.prod.leanplum.com
 0.0.0.0 productivity.prometheus.staging-1.staging.leanplum.com
@@ -31393,6 +31465,7 @@
 0.0.0.0 qa-craft.advertising.com
 0.0.0.0 qa.curalate.com
 0.0.0.0 qa-cvr.ad-brix.com
+0.0.0.0 qa.datasvc.mediamath.com
 0.0.0.0 qa-dc.arrivalist.com
 0.0.0.0 q.addthis.com
 0.0.0.0 qa.developer.163.com
@@ -34141,8 +34214,8 @@
 0.0.0.0 sin1.ib.adnxs.com
 0.0.0.0 sin1.ipromote.com
 0.0.0.0 sin-1mobile.adnxs.com
-0.0.0.0 sin1-mobile.adnxs.com
 0.0.0.0 sin1.mobile.adnxs.com
+0.0.0.0 sin1-mobile.adnxs.com
 0.0.0.0 sin2.ipromote.com
 0.0.0.0 sin3-ib.adnxs.com
 0.0.0.0 sin3-ib.sin1.geoadnxs.com
@@ -35320,6 +35393,7 @@
 0.0.0.0 staging-tlx.3lift.com
 0.0.0.0 staging-tracker.fyber.com
 0.0.0.0 staging-tracking-bo.beeketing.com
+0.0.0.0 staging-trac.mediaiqdigital.com
 0.0.0.0 staging-uk.indexexchange.com
 0.0.0.0 staging.us-east-1.blue.kops.kargo.com
 0.0.0.0 staging.us-east-1.kops.kargo.com
@@ -35415,8 +35489,8 @@
 0.0.0.0 static.allinviews.com
 0.0.0.0 static.amobee.com
 0.0.0.0 static.amplitude.com
-0.0.0.0 static.analytics.adkernel.com
 0.0.0.0 static-analytics.adkernel.com
+0.0.0.0 static.analytics.adkernel.com
 0.0.0.0 static.apester.com
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 static-aws.adtelligent.com
@@ -35431,8 +35505,8 @@
 0.0.0.0 static.buysellads.com
 0.0.0.0 staticc.adacado.com
 0.0.0.0 static.cbsileads.com
-0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static.cdn.adblade.com
+0.0.0.0 static-cdn.adblade.com
 0.0.0.0 static-cdn.adtelligent.com
 0.0.0.0 static-cdn.cmptch.com
 0.0.0.0 static.cdn.engagefront.com
@@ -35980,8 +36054,8 @@
 0.0.0.0 s-v6exp1-ds.metric.gstatic.com
 0.0.0.0 s-v6exp1-v4.metric.gstatic.com
 0.0.0.0 sv.admailtiser.com
-0.0.0.0 svc-analytics.adkernel.com
 0.0.0.0 svc.analytics.adkernel.com
+0.0.0.0 svc-analytics.adkernel.com
 0.0.0.0 svc.kargo.com
 0.0.0.0 svenskaspel-mkt-stage1.campaign.adobe.com
 0.0.0.0 sverifyserv-amazon.dnset.com
@@ -36014,6 +36088,8 @@
 0.0.0.0 swipefilepodcast.drift.com
 0.0.0.0 swipestox.loggly.com
 0.0.0.0 swisherjewel-edge.demo.apester.com
+0.0.0.0 swisscom-tt-int.mediahead.com
+0.0.0.0 swisscom-tt-prod.mediahead.com
 0.0.0.0 swissquote.commander1.com
 0.0.0.0 switch.adserver.com
 0.0.0.0 switch.atdmt.com
@@ -36060,8 +36136,8 @@
 0.0.0.0 sync.colossusssp.com
 0.0.0.0 sync.commander1.com
 0.0.0.0 sync.doubleverify.com
-0.0.0.0 sync-east.intentiq.com
 0.0.0.0 synceast.intentiq.com
+0.0.0.0 sync-east.intentiq.com
 0.0.0.0 sync.graph.bluecava.com
 0.0.0.0 sync.graph.fake.bluecava.com
 0.0.0.0 sync.graph.gcloud.bluecava.com
@@ -36221,6 +36297,7 @@
 0.0.0.0 tableau.groupm.com
 0.0.0.0 tableau.heathrow.eu.acxiom.com
 0.0.0.0 tableau.marketo.com
+0.0.0.0 tableau.mediaiqdigital.com
 0.0.0.0 tableau-test.fyber.com
 0.0.0.0 tabletalk.chicoryapp.com
 0.0.0.0 tablets.gr.com
@@ -36625,6 +36702,7 @@
 0.0.0.0 test.chatid.com
 0.0.0.0 test.clevergirlscollective.com
 0.0.0.0 test-cloudflare.criteo.com
+0.0.0.0 test.co.mediamath.com
 0.0.0.0 test.coremetrics.com
 0.0.0.0 test-coverage.staging.leanplum.com
 0.0.0.0 test.criteo.com
@@ -37069,6 +37147,7 @@
 0.0.0.0 toolsa.hitbox.com
 0.0.0.0 tools.clickcease.com
 0.0.0.0 tools.clickfunnels.com
+0.0.0.0 tools.co.mediamath.com
 0.0.0.0 tools.contextweb.com
 0.0.0.0 tools.datadome.co
 0.0.0.0 tools.dynamicyield.com
@@ -37487,6 +37566,7 @@
 0.0.0.0 track.traffic.club
 0.0.0.0 track-us.admaxim.com
 0.0.0.0 track.xadchina.cn
+0.0.0.0 trac.mediaiqdigital.com
 0.0.0.0 trade.acuityplatform.com
 0.0.0.0 tradearabia2.advertserve.com
 0.0.0.0 tradearabia.advertserve.com
@@ -37555,8 +37635,8 @@
 0.0.0.0 trc.kissmetrics.com
 0.0.0.0 tr.connatix.com
 0.0.0.0 tr.contextweb.com
-0.0.0.0 trd-dsp.ad-brix.com
 0.0.0.0 trd.dsp.ad-brix.com
+0.0.0.0 trd-dsp.ad-brix.com
 0.0.0.0 trd-trk.ad-brix.com
 0.0.0.0 tre-3-3.bannerflow.com
 0.0.0.0 treadingmyownpath.leadpages.co
@@ -37695,6 +37775,7 @@
 0.0.0.0 tt.mapsscout.com
 0.0.0.0 tt.mapstrek.com
 0.0.0.0 tt.mapsvoyage.com
+0.0.0.0 tt.mediahead.com
 0.0.0.0 ttoryburchwwwtoryburch2813t.btttag.com
 0.0.0.0 ttrack.acxiom.com
 0.0.0.0 ttt001.blog.163.com
@@ -38034,6 +38115,7 @@
 0.0.0.0 u.mdotlabs.com
 0.0.0.0 um.eqads.com
 0.0.0.0 um.ladsp.com
+0.0.0.0 um.mediahead.com
 0.0.0.0 umprod.amobee.com
 0.0.0.0 ums.acuityplatform.com
 0.0.0.0 ums.adtechus.com
@@ -38241,6 +38323,7 @@
 0.0.0.0 us-cicd.am-dev.identity.api.liveramp.com
 0.0.0.0 us-cicd.am-staging.identity.api.liveramp.com
 0.0.0.0 us.connextra.com
+0.0.0.0 us-content.mediaforge.com
 0.0.0.0 us.creativecdn.com
 0.0.0.0 uscweb02.boostadvtrack.com
 0.0.0.0 usd.jared-don.com
@@ -38485,6 +38568,7 @@
 0.0.0.0 uu.dev.webapp.163.com
 0.0.0.0 uuid28941104771274557111.adnxs.com
 0.0.0.0 uuid2.adnxs.com
+0.0.0.0 uu.mediahead.com
 0.0.0.0 uusee.adsame.com
 0.0.0.0 uv747.infusionsoft.com
 0.0.0.0 uw155-35f4e9.lpp.infusionsoft.com
@@ -38837,8 +38921,8 @@
 0.0.0.0 vexchangeadmdev.adx1.com
 0.0.0.0 vfdemed.amobee.com
 0.0.0.0 vfdeprod.amobee.com
-0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfesprod.amobee.com
+0.0.0.0 vfes-prod.amobee.com
 0.0.0.0 vfes-te.amobee.com
 0.0.0.0 vff3669.d41.co
 0.0.0.0 vff6132.d41.co
@@ -39187,8 +39271,8 @@
 0.0.0.0 vrl-iad1.conviva.com
 0.0.0.0 vrnqe47c.emltrk.com
 0.0.0.0 vr-p.alcmpn.com
-0.0.0.0 vrtb.admedia.com
 0.0.0.0 v.rtb.admedia.com
+0.0.0.0 vrtb.admedia.com
 0.0.0.0 vrtb.infolinks.com
 0.0.0.0 vrtcal-tagan.adlightning.com
 0.0.0.0 vrtest.valo.ai
@@ -39490,8 +39574,8 @@
 0.0.0.0 web-ads.adsorb.com
 0.0.0.0 web.adx1.com
 0.0.0.0 web-analystics.engagio.com
-0.0.0.0 webanalytics.engagio.com
 0.0.0.0 web-analytics.engagio.com
+0.0.0.0 webanalytics.engagio.com
 0.0.0.0 webanalytics.localytics.com
 0.0.0.0 webapi.channeladvisor.com
 0.0.0.0 webapi.game.163.com
@@ -39621,8 +39705,8 @@
 0.0.0.0 webservice.s91.exacttarget.com
 0.0.0.0 webservice-sha2.boa.exacttarget.com
 0.0.0.0 webservice.ta.exacttarget.com
-0.0.0.0 webservice-test.exacttarget.com
 0.0.0.0 webservice.test.exacttarget.com
+0.0.0.0 webservice-test.exacttarget.com
 0.0.0.0 webshotcdn.dynamicyield.com
 0.0.0.0 webshotcdn-eu.dynamicyield.com
 0.0.0.0 webshot.dynamicyield.com
@@ -40748,8 +40832,8 @@
 0.0.0.0 www.decision.api.canarybay.innovation.abtasty.com
 0.0.0.0 www.decision.api.preprod.canarybay.innovation.abtasty.com
 0.0.0.0 www.decision.canarybay.innovation.abtasty.com
-0.0.0.0 www.decision.doccanarybay.innovation.abtasty.com
 0.0.0.0 www.decision.doc.canarybay.innovation.abtasty.com
+0.0.0.0 www.decision.doccanarybay.innovation.abtasty.com
 0.0.0.0 www.decision.doc.flagship.innovation.abtasty.com
 0.0.0.0 www.decision.docs.canarybay.innovation.abtasty.com
 0.0.0.0 www.decisions.doc.canarybay.innovation.abtasty.com
@@ -40773,8 +40857,8 @@
 0.0.0.0 www.dev.data.adtz.com
 0.0.0.0 www.develop.adx1.com
 0.0.0.0 www.development.adx1.com
-0.0.0.0 www-devex.adblade.com
 0.0.0.0 www.devex.adblade.com
+0.0.0.0 www-devex.adblade.com
 0.0.0.0 www.dev.forter.com
 0.0.0.0 www.dev.getadmiral.com
 0.0.0.0 www.dev.gohenry.pinterest.adtz.com
@@ -41378,6 +41462,9 @@
 0.0.0.0 www.me.ads.justpremium.com
 0.0.0.0 www.measuread.com
 0.0.0.0 www.media6degrees.com
+0.0.0.0 www.mediaforge.com
+0.0.0.0 www.mediahead.com
+0.0.0.0 www.mediaiqdigital.com
 0.0.0.0 www.mediaitalia.facebook-ads.adtz.com
 0.0.0.0 www.media-lab.ai
 0.0.0.0 www.mediamarkt.facebook-ads.adtz.com
@@ -41602,8 +41689,8 @@
 0.0.0.0 www.seductionbykamal.leadpages.co
 0.0.0.0 www.seemakb.leadpages.co
 0.0.0.0 www.sele.co
-0.0.0.0 www.self-booking.ligatus.com
 0.0.0.0 www.selfbooking.ligatus.com
+0.0.0.0 www.self-booking.ligatus.com
 0.0.0.0 www.selfhacked.leadpages.co
 0.0.0.0 www.senaimg.facebook-ads.adtz.com
 0.0.0.0 www.serenityart.biz
