@@ -745,6 +745,7 @@
 0.0.0.0 apps.bounceexchange.com
 0.0.0.0 appsdev.appsflyer.com
 0.0.0.0 app.silverpush.co
+0.0.0.0 app-sjo5.marketo.com
 0.0.0.0 appsponsor-bidder.manage.com
 0.0.0.0 appsponsor.web03-eu.manage.com
 0.0.0.0 appsponsor.web04-east.manage.com
@@ -880,6 +881,7 @@
 0.0.0.0 autodiscover.intelsad.com
 0.0.0.0 autodiscover.kutsatsa.com
 0.0.0.0 autodiscover.liverail.com
+0.0.0.0 autodiscover.mm.marketo.com
 0.0.0.0 autodiscover.o365.foresee.com
 0.0.0.0 _autodiscover._tcp.aggregateknowledge.com
 0.0.0.0 _autodiscover._tcp.agkn.com
@@ -923,8 +925,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b3.greatarcadehits.com
@@ -1298,6 +1300,7 @@
 0.0.0.0 cc20.adotube.com
 0.0.0.0 cc3ea6705bd5.adk2x.com
 0.0.0.0 cca.corp.com
+0.0.0.0 ccde.events.marketo.com
 0.0.0.0 cci-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 c-cn.w.inmobi.com
 0.0.0.0 cctldtest.google-analytics.com
@@ -1786,6 +1789,7 @@
 0.0.0.0 deelymedia.adk2x.com
 0.0.0.0 default.corp.com
 0.0.0.0 delightful.adlegend.com
+0.0.0.0 deliver.marketo.com
 0.0.0.0 delivery1.altitude-arena.com
 0.0.0.0 delivery6.altitude-arena.com
 0.0.0.0 delivery.analyticson.com
@@ -2055,6 +2059,7 @@
 0.0.0.0 easyleadbox.cospot.com
 0.0.0.0 eaton.links.channelintelligence.com
 0.0.0.0 eb.3lift.com
+0.0.0.0 ec2amaz-v34sjct.marketo.com
 0.0.0.0 ec.clickpoint.com
 0.0.0.0 echo1.iubenda.com
 0.0.0.0 echoserver.www.infolinks.com
@@ -2204,8 +2209,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2724,8 +2729,8 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -3314,6 +3319,8 @@
 0.0.0.0 mail.madisonlogic.com
 0.0.0.0 mail.maps-icloud.com
 0.0.0.0 mail.marketingg2.com
+0.0.0.0 mail.marketo.com
+0.0.0.0 mail.mm.marketo.com
 0.0.0.0 mail.search.advertisingbox.com
 0.0.0.0 ma.inmobi.com
 0.0.0.0 maintenance.criteo.com
@@ -3603,6 +3610,7 @@
 0.0.0.0 name3.gamezooks.com
 0.0.0.0 name4.gamezooks.com
 0.0.0.0 napalmcold.dnset.com
+0.0.0.0 na-qa.marketo.com
 0.0.0.0 narjesmedia.adk2x.com
 0.0.0.0 n.as1.dyntrk.com
 0.0.0.0 nasm-cdn.madmobile.com
@@ -5113,8 +5121,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -5942,8 +5950,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -6230,6 +6238,7 @@
 0.0.0.0 webdisk.intelsad.com
 0.0.0.0 webdisk.kutsatsa.com
 0.0.0.0 webdisk.maps-icloud.com
+0.0.0.0 webdisk.mm.marketo.com
 0.0.0.0 webhook.k8s.region-001.d-usw-2.braze.com
 0.0.0.0 web.intowow.com
 0.0.0.0 web.leanplum.com
@@ -6579,10 +6588,12 @@
 0.0.0.0 www.campaigns.curalate.com
 0.0.0.0 www.canary.opinion.inmobi.com
 0.0.0.0 www.canary.pulse.inmobi.com
+0.0.0.0 www.careerconnect.marketo.com
 0.0.0.0 www.carpet.pulse.inmobi.com
 0.0.0.0 www.cashext.com
 0.0.0.0 www.cbd.fingereach.com
 0.0.0.0 www.cbp.forter.com
+0.0.0.0 www.ccde.events.marketo.com
 0.0.0.0 www.cdn0.usw.forter.com
 0.0.0.0 www.cdn3.usw.forter.com
 0.0.0.0 www.cdn8.usw.forter.com
@@ -6715,12 +6726,14 @@
 0.0.0.0 www.dsp.ligatus.com
 0.0.0.0 www.dsp-preprod.inmobi.com
 0.0.0.0 www.dtzads.com
+0.0.0.0 www.dubvpn.marketo.com
 0.0.0.0 www.dynamic.adcrowd.com
 0.0.0.0 www.dyode.dynamicyield.com
 0.0.0.0 www.eb.3lift.com
 0.0.0.0 www.ebdr8.com
 0.0.0.0 www.ebuzzing.com
 0.0.0.0 www.ebuzzingvideo.com
+0.0.0.0 www.ec2amaz-v34sjct.marketo.com
 0.0.0.0 www.e.crashlytics.com
 0.0.0.0 www.edge.facebook-ads.adtz.com
 0.0.0.0 www.emailonlinechase.com
@@ -6736,6 +6749,7 @@
 0.0.0.0 www.events.amplitude.com
 0.0.0.0 www.events.foreseeresults.com
 0.0.0.0 www.events.innovid.com
+0.0.0.0 www.events.marketo.com
 0.0.0.0 www.evt.adrcntr.com
 0.0.0.0 www.ext.dynamicyield.com
 0.0.0.0 www.extranet.dotomi.com
@@ -6901,6 +6915,7 @@
 0.0.0.0 www.marketplace.analyticson.com
 0.0.0.0 www.match.adsby.bidtheatre.com
 0.0.0.0 www.m.audiencetag.com
+0.0.0.0 www.mavericks.marketo.com
 0.0.0.0 www.md.audience.gemius.com
 0.0.0.0 www.media10.adlegend.com
 0.0.0.0 www.media12.adlegend.com
@@ -6926,6 +6941,7 @@
 0.0.0.0 www.metrics.fidelity.com
 0.0.0.0 www.metrics.kampyle.com
 0.0.0.0 www.mldev.sigma.inmobi.com
+0.0.0.0 www.mm.marketo.com
 0.0.0.0 www.mmm.ctrix.com
 0.0.0.0 www.mmmvar.amobee.com
 0.0.0.0 www.mmo2de.amobee.com
