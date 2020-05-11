@@ -679,6 +679,7 @@
 0.0.0.0 apns.k8.region-001.p-aze-us.braze.com
 0.0.0.0 apns.k8s.region-001.s-euc-1.braze.com
 0.0.0.0 apogee.corp.com
+0.0.0.0 apollo-beta-qa.madisonlogic.com
 0.0.0.0 app3.autopilothq.com
 0.0.0.0 app.adizio.com
 0.0.0.0 app.admedo.com
@@ -889,8 +890,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b3.greatarcadehits.com
@@ -2162,8 +2163,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2675,8 +2676,8 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -3248,6 +3249,7 @@
 0.0.0.0 mail.getadmiral.com
 0.0.0.0 mail.gmial.com
 0.0.0.0 mail.kutsatsa.com
+0.0.0.0 mail.madisonlogic.com
 0.0.0.0 mail.search.advertisingbox.com
 0.0.0.0 ma.inmobi.com
 0.0.0.0 maintenance.criteo.com
@@ -3394,6 +3396,7 @@
 0.0.0.0 ml.adpxl.co
 0.0.0.0 mldev.sigma.inmobi.com
 0.0.0.0 ml.listrakbi.com
+0.0.0.0 ml-radius1.madisonlogic.com
 0.0.0.0 mm1.vip.sc1.admob.com
 0.0.0.0 mm.admob.com
 0.0.0.0 mmex.pxl.ace.advertising.com
@@ -4197,8 +4200,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -4621,6 +4624,7 @@
 0.0.0.0 rtcc.fyber.com
 0.0.0.0 rt.cquotient.com
 0.0.0.0 rtg.clickpoint.com
+0.0.0.0 rtg.madisonlogic.com
 0.0.0.0 rt.infra.apester.com
 0.0.0.0 rtl_prod-bud.gravityrd-services.com
 0.0.0.0 rtmp.lokaplatform.com
@@ -4851,8 +4855,8 @@
 0.0.0.0 sean.ittest.33across.com
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 searchcldellow.deployads.com
+0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -5013,8 +5017,8 @@
 0.0.0.0 sipexternal.foresee.com
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 siri.adwyze.com
@@ -5532,7 +5536,10 @@
 0.0.0.0 tmw.hansel.cquotient.com
 0.0.0.0 tmw.rt.cquotient.com
 0.0.0.0 token.corp.inmobi.com
+0.0.0.0 tom-admin.macromill.com
+0.0.0.0 tom-monitor.macromill.com
 0.0.0.0 tomo.qa-iad.amobee.com
+0.0.0.0 tom-www.macromill.com
 0.0.0.0 tones-deploy-fix.lisnr.com
 0.0.0.0 tones-route-53.lisnr.com
 0.0.0.0 tones-web-5965.lisnr.com
@@ -5647,8 +5654,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travel.productads.hlserve.com
+0.0.0.0 travel-productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -5782,6 +5789,7 @@
 0.0.0.0 umbraco.adform.com
 0.0.0.0 umbrella.corp.com
 0.0.0.0 umka.qa-iad.amobee.com
+0.0.0.0 um.macromill.com
 0.0.0.0 umpee.qa-iad.amobee.com
 0.0.0.0 ums.adtechjp.com
 0.0.0.0 ums-sb-ec.adtechus.com
