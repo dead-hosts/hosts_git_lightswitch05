@@ -938,8 +938,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
 0.0.0.0 b3.greatarcadehits.com
@@ -2246,8 +2246,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2779,10 +2779,10 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -3807,6 +3807,7 @@
 0.0.0.0 ns1.dg.ecom.acxiom.com
 0.0.0.0 ns1.digitmate.bid
 0.0.0.0 ns1.mediaforge.com
+0.0.0.0 ns1.mediav.com
 0.0.0.0 ns2.addthis.com
 0.0.0.0 ns2.admotion.com
 0.0.0.0 ns2.adroll.com
@@ -3817,15 +3818,18 @@
 0.0.0.0 ns2.dg.ecom.acxiom.com
 0.0.0.0 ns2.digitmate.bid
 0.0.0.0 ns2.doubleclick.com
+0.0.0.0 ns2.mediav.com
 0.0.0.0 ns3.adlegend.com
 0.0.0.0 ns3.arcadeyum.com
 0.0.0.0 ns3.corp.adconion.com
 0.0.0.0 ns3.criteo.com
 0.0.0.0 ns3.ldap.adconion.com
+0.0.0.0 ns3.mediav.com
 0.0.0.0 ns4.arcadeyum.com
 0.0.0.0 ns4.corp.adconion.com
 0.0.0.0 ns4.ldap.adconion.com
 0.0.0.0 ns4.linksynergy.com
+0.0.0.0 ns4.mediav.com
 0.0.0.0 ns5.adk2x.com
 0.0.0.0 ns5.criteo.com
 0.0.0.0 ns5.greatarcadehits.com
@@ -3836,6 +3840,7 @@
 0.0.0.0 ns7.adk2x.com
 0.0.0.0 ns7.greatarcadehits.com
 0.0.0.0 ns7.linksynergy.com
+0.0.0.0 ns7.mediav.com
 0.0.0.0 ns8.adk2x.com
 0.0.0.0 ns8.greatarcadehits.com
 0.0.0.0 ns8.linksynergy.com
@@ -4368,8 +4373,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -5040,8 +5045,8 @@
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 searcha.infra.mediamath.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search-cldellow.deployads.com
+0.0.0.0 searchcldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -5206,8 +5211,8 @@
 0.0.0.0 sipexternal.gmial.com
 0.0.0.0 sipexternal.maxpoint.com
 0.0.0.0 _sipfederationtls._tcp.admedia.com
-0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 _sipfederationtls._tcp.gmial.com
+0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
 0.0.0.0 sip.mediamind.com
@@ -5352,6 +5357,7 @@
 0.0.0.0 ssl06.haloapps.com
 0.0.0.0 ssl07.haloapps.com
 0.0.0.0 ssl.adcash.com
+0.0.0.0 ssl.mediav.com
 0.0.0.0 sslvpn.foreseeresults.com
 0.0.0.0 ssl.zhidao.163.com
 0.0.0.0 ssp.advertising.com
@@ -5860,8 +5866,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
