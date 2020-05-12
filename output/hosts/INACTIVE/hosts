@@ -872,6 +872,7 @@
 0.0.0.0 auth.iponweb.com
 0.0.0.0 auth.linksynergy.com
 0.0.0.0 auth.meeting.abtasty.com
+0.0.0.0 auth.memfault.com
 0.0.0.0 authorisation.analyticson.com
 0.0.0.0 authorization.affiliates.advidi.com
 0.0.0.0 auth.poc.exacttarget.com
@@ -2246,8 +2247,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2779,8 +2780,8 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2.vip.dfw1.inmobi.com
+0.0.0.0 ifc2-vip-dfw1.inmobi.com
 0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
@@ -2811,6 +2812,7 @@
 0.0.0.0 images-beta.convertcart.com
 0.0.0.0 images.campaigns.foresee.com
 0.0.0.0 images.marketplaceadvisor.channeladvisor.com
+0.0.0.0 images.mediavine.com
 0.0.0.0 images.s50.exacttarget.com
 0.0.0.0 i.mall.163.com
 0.0.0.0 imces.vip.lhr1.inmobi.com
@@ -2867,11 +2869,12 @@
 0.0.0.0 infra.igodigital.com
 0.0.0.0 ingest.advertising.com
 0.0.0.0 ingest.at.atwola.com
+0.0.0.0 ingress-dev.memfault.com
 0.0.0.0 ingress-test-api.newstags.stag.bounceexchange.com
 0.0.0.0 ingress-test.newstags.stag.bounceexchange.com
 0.0.0.0 iniitian.saas.appdynamics.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
 0.0.0.0 inmobi.web10-east.manage.com
@@ -4373,8 +4376,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 provider-gateway.production.browsiprod.com
+0.0.0.0 provider-gateway-production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -5045,8 +5048,8 @@
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 searcha.infra.mediamath.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 searchcldellow.deployads.com
+0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -5787,6 +5790,7 @@
 0.0.0.0 tracker.ads.engageclick.com
 0.0.0.0 tracker.bnmla.com
 0.0.0.0 tracker.dianomi.com
+0.0.0.0 tracker.meetleads.com
 0.0.0.0 track-hk.admaxim.com
 0.0.0.0 tracking-01.iad.liverail.com
 0.0.0.0 tracking-02.dal.liverail.com
@@ -6709,6 +6713,7 @@
 0.0.0.0 www.cdn.connatix.com
 0.0.0.0 www.cdn.dynamicyield.com
 0.0.0.0 www.cdn.inmobi.com
+0.0.0.0 www.cdn.merklesearch.com
 0.0.0.0 www.cdn-preview.dynamicyield.com
 0.0.0.0 www.cdns.brsrvr.com
 0.0.0.0 www.cdp-staging.dataexchange.inmobi.com
@@ -7349,6 +7354,7 @@
 0.0.0.0 www.tm.smedia.ca
 0.0.0.0 www.token.corp.inmobi.com
 0.0.0.0 www.tracker.bnmla.com
+0.0.0.0 www.tracker.meetleads.com
 0.0.0.0 www.tracking.cp.ligatus.com
 0.0.0.0 www.tracking.deadlinefunnel.com
 0.0.0.0 www.tracking.keywee.co
