@@ -2238,8 +2238,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event-backoffice.adikteev.com
+0.0.0.0 event.backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2766,10 +2766,10 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -2850,8 +2850,8 @@
 0.0.0.0 ingress-test-api.newstags.stag.bounceexchange.com
 0.0.0.0 ingress-test.newstags.stag.bounceexchange.com
 0.0.0.0 iniitian.saas.appdynamics.com
-0.0.0.0 in.jwpltx.com
 0.0.0.0 i.n.jwpltx.com
+0.0.0.0 in.jwpltx.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
 0.0.0.0 inmobi.web10-east.manage.com
@@ -5184,6 +5184,7 @@
 0.0.0.0 sipfederationtls.tcp.gmial.com
 0.0.0.0 sip.gmial.com
 0.0.0.0 sipinternal.gmial.com
+0.0.0.0 sip.mediamind.com
 0.0.0.0 siri.adwyze.com
 0.0.0.0 site.clickpoint.com
 0.0.0.0 sites.corp.ligatus.com
@@ -5833,8 +5834,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -6013,8 +6014,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -6178,6 +6179,7 @@
 0.0.0.0 vds3.fingereach.com
 0.0.0.0 vds.fingereach.com
 0.0.0.0 vegas.hlserve.com
+0.0.0.0 velocidi.mediamath.com
 0.0.0.0 vendio.corp.com
 0.0.0.0 verity-api-internal.gumgum.com
 0.0.0.0 verity-api-test.gumgum.com
@@ -6371,6 +6373,7 @@
 0.0.0.0 wifi.amobee.com
 0.0.0.0 wifiquiz.smedia.ca
 0.0.0.0 wildcard.hk.cn.criteo.com
+0.0.0.0 wildcard.mediamath.com
 0.0.0.0 wilsonsleather.sp1.convertro.com
 0.0.0.0 win.bidstalk.com
 0.0.0.0 windc01.foreseeresults.com
@@ -6598,6 +6601,7 @@
 0.0.0.0 www.a.rockabox.co
 0.0.0.0 www.assets.pcrl.co
 0.0.0.0 www.a-static.klaviyo.com
+0.0.0.0 www.attribution.mediamind.com
 0.0.0.0 www.audienceba.gemius.com
 0.0.0.0 www.audiencecz.gemius.com
 0.0.0.0 www.audienceeg.gemius.com
@@ -6732,6 +6736,7 @@
 0.0.0.0 www.crash-metrics.sdk.inmobi.com
 0.0.0.0 www.crave.dev.joystickinteractive.com
 0.0.0.0 www.crb.innovid.com
+0.0.0.0 www.creativezone.mediamind.com
 0.0.0.0 www.crmapi.idsp.inmobi.com
 0.0.0.0 www.crm-preview.dynamicyield.com
 0.0.0.0 www.crux.cloud.inmobi.com
@@ -6862,6 +6867,7 @@
 0.0.0.0 www.groproext.com
 0.0.0.0 www.grp.dynamicyield.com
 0.0.0.0 www.gs.api.igodigital.com
+0.0.0.0 www.gs.platform.mediamind.com
 0.0.0.0 www.gw.fyber.com
 0.0.0.0 www.gw-il.fyber.com
 0.0.0.0 www.gw-sf.fyber.com
@@ -6899,6 +6905,7 @@
 0.0.0.0 www.ifc-iip.w.inmobi.com
 0.0.0.0 www.igodigital.com
 0.0.0.0 www.i.jsrdn.com
+0.0.0.0 www.ilsip.mediamind.com
 0.0.0.0 www.images.awin1.com
 0.0.0.0 www.imces.inmobi.com
 0.0.0.0 www.imedia.adk2x.com
@@ -7012,6 +7019,7 @@
 0.0.0.0 www.metrics.daveandbusters.com
 0.0.0.0 www.metrics.fidelity.com
 0.0.0.0 www.metrics.kampyle.com
+0.0.0.0 www.mktg.mediamind.com
 0.0.0.0 www.mlc.maxpoint.com
 0.0.0.0 www.mldev.sigma.inmobi.com
 0.0.0.0 www.mm.marketo.com
@@ -7055,6 +7063,7 @@
 0.0.0.0 www.oppo.analytics.glance.inmobi.com
 0.0.0.0 www.opt.use.dynamicyield.com
 0.0.0.0 www-origin.appdynamics.com
+0.0.0.0 www.origin.demo.mediamind.com
 0.0.0.0 www.osxserver1.oit.lijit.com
 0.0.0.0 www.out.gmial.com
 0.0.0.0 www.owa1.amobee.com
@@ -7180,6 +7189,7 @@
 0.0.0.0 www.secure.impresionesweb.com
 0.0.0.0 www.secure.lijit.com
 0.0.0.0 www.secus.admailtiser.com
+0.0.0.0 www.selfservice.mediamind.com
 0.0.0.0 www.sentry.getadmiral.com
 0.0.0.0 www.serve.adgibbon.com
 0.0.0.0 www.server2.smedia.ca
@@ -7268,6 +7278,7 @@
 0.0.0.0 www.stg-ua.inmobi.com
 0.0.0.0 www.sting.de17aserver.com
 0.0.0.0 www.stripewh.getadmiral.com
+0.0.0.0 www.sts.mediamind.com
 0.0.0.0 www.studio.glance.inmobi.com
 0.0.0.0 www.superstudio.facebook-ads.adtz.com
 0.0.0.0 www.supply-tool.inmobi.cn
@@ -7329,6 +7340,7 @@
 0.0.0.0 www.urbn-live-stream-feeds.dynamicyield.com
 0.0.0.0 www.usermatix.corp.inmobi.com
 0.0.0.0 www.ushqlyncpool.foresee.com
+0.0.0.0 www.ussip.mediamind.com
 0.0.0.0 www.us.static.adjug.com
 0.0.0.0 www.us.view.adjug.com
 0.0.0.0 www.v1ad.adlegend.com
