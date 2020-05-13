@@ -689,6 +689,7 @@
 0.0.0.0 api.locsensads.com
 0.0.0.0 api.lootsie.com
 0.0.0.0 api.maps-icloud.com
+0.0.0.0 api-mashery.prod.millennialmedia.com
 0.0.0.0 api.mcclusterface.k8s.liveramp.com
 0.0.0.0 api.mdotlabs.com
 0.0.0.0 api.metrilo.com
@@ -698,6 +699,8 @@
 0.0.0.0 api.poc.exacttarget.com
 0.0.0.0 api.portal.staging2.inskinmedia.com
 0.0.0.0 api.prod.env.53.localytics.com
+0.0.0.0 api.prod.millennialmedia.com
+0.0.0.0 api.prod.prod.millennialmedia.com
 0.0.0.0 api.productdata.awin.com
 0.0.0.0 api.pt.163.com
 0.0.0.0 api-public-fast.addthis.com
@@ -886,6 +889,7 @@
 0.0.0.0 at-lat.listrakbi.com
 0.0.0.0 atl.corp.com
 0.0.0.0 at.lokaplatform.com
+0.0.0.0 atmedia.mindtake.com
 0.0.0.0 atom.link.apsalar.com
 0.0.0.0 atwola-sb-ec.adtechus.com
 0.0.0.0 atwola-sb-wc.adtechus.com
@@ -983,8 +987,8 @@
 0.0.0.0 azjsc.iasds01.com
 0.0.0.0 azkaban.adwyze.com
 0.0.0.0 azores.corp.com
-0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b-1473-k8s.dev-iad.amobee.com
+0.0.0.0 b1473-k8s.dev-iad.amobee.com
 0.0.0.0 b1.midasplayer.com
 0.0.0.0 b3.arcadeyum.com
 0.0.0.0 b3.crusharcade.com
@@ -1001,6 +1005,7 @@
 0.0.0.0 backoffice.liverail.com
 0.0.0.0 backoffice.millennialmedia.com
 0.0.0.0 backoffice.pe.apester.com
+0.0.0.0 backoffice.prod.millennialmedia.com
 0.0.0.0 backpack.adform.com
 0.0.0.0 backstage-client.funnelenvy.com
 0.0.0.0 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
@@ -1094,6 +1099,7 @@
 0.0.0.0 beta-lombardi.advertising.com
 0.0.0.0 beta.meeting.inlocomedia.com
 0.0.0.0 beta.reports.advertising.com
+0.0.0.0 beta.solutions.millennialmedia.com
 0.0.0.0 beta-uk.adlearnop.advertising.com
 0.0.0.0 bevo.adsnative.com
 0.0.0.0 bevo-ap-southeast-1.adsnative.com
@@ -1147,6 +1153,8 @@
 0.0.0.0 bikhir-ams.gravityrd-services.com
 0.0.0.0 bi.mediaiqdigital.com
 0.0.0.0 bi.millennialmedia.com
+0.0.0.0 bimstrw01.prod.mia.millennialmedia.com
+0.0.0.0 bimstrw02.prod.mia.millennialmedia.com
 0.0.0.0 bionet.corp.com
 0.0.0.0 bis2.allinviews.com
 0.0.0.0 bis2.installfarm.com
@@ -1730,6 +1738,7 @@
 0.0.0.0 corp.flurry.com
 0.0.0.0 corp.inmobi.com
 0.0.0.0 corp.midasplayer.com
+0.0.0.0 corp.millennialmedia.com
 0.0.0.0 corporate.marketplaceadvisor.channeladvisor.com
 0.0.0.0 corporate.wp.orbee.co
 0.0.0.0 corpvpn.coremetrics.com
@@ -1753,9 +1762,11 @@
 0.0.0.0 creative.bidstalk.com
 0.0.0.0 creativecentral.advertising.com
 0.0.0.0 creative.inskinmedia.com
+0.0.0.0 creativelibrary.millennialmedia.com
 0.0.0.0 creative.mathtag.com
 0.0.0.0 creativepreview.ui.awin.com
 0.0.0.0 creative.skyrocket.adtdp.com
+0.0.0.0 creatives.millennialmedia.com
 0.0.0.0 creatorapi.inskinmedia.com
 0.0.0.0 crm.antvoice.com
 0.0.0.0 crmapi.idsp.inmobi.com
@@ -1766,6 +1777,7 @@
 0.0.0.0 crunch-lmd.ebuzzing.com
 0.0.0.0 cs.ace.advertising.com
 0.0.0.0 cs.admotion.com
+0.0.0.0 csapproval.millennialmedia.com
 0.0.0.0 cshbdrmx.corp.com
 0.0.0.0 cs.iubenda.com
 0.0.0.0 csm.ny.us.criteo.com
@@ -1773,6 +1785,7 @@
 0.0.0.0 cspsvcsprod.csa.comscore.com
 0.0.0.0 csre.mediamath.com
 0.0.0.0 csr.freewheel.com
+0.0.0.0 cs.sandbox.millennialmedia.com
 0.0.0.0 css.vidconlab.acxiom.com
 0.0.0.0 csync.intelligence.amobee.com
 0.0.0.0 ct0-fast.addthis.com
@@ -1919,6 +1932,7 @@
 0.0.0.0 dedicated1.api.backoffice.adikteev.com
 0.0.0.0 deelymedia.adk2x.com
 0.0.0.0 default.corp.com
+0.0.0.0 de.js.millennialmedia.com
 0.0.0.0 delightful.adlegend.com
 0.0.0.0 deliver.marketo.com
 0.0.0.0 delivery1.altitude-arena.com
@@ -1933,6 +1947,7 @@
 0.0.0.0 delta.native.ai
 0.0.0.0 demandbase.demandbase.com
 0.0.0.0 demand-service.adtechus.com
+0.0.0.0 de.millennialmedia.com
 0.0.0.0 demo1.dev-iad.amobee.com
 0.0.0.0 demo1.use.dynamicyield.com
 0.0.0.0 demo2.dev-iad.amobee.com
@@ -2130,6 +2145,7 @@
 0.0.0.0 drone.convertcart.com
 0.0.0.0 d-rtb.microad-cn.com
 0.0.0.0 d-rtb.microadinc.com
+0.0.0.0 drupal.mindtake.com
 0.0.0.0 ds.bluecava.com
 0.0.0.0 ds.fuel451.com
 0.0.0.0 dsi.corp.com
@@ -2273,6 +2289,8 @@
 0.0.0.0 email.freewheel.com
 0.0.0.0 email.gmial.com
 0.0.0.0 email.liverail.com
+0.0.0.0 emailmedia.millennialmedia.com
+0.0.0.0 email.millennialmedia.com
 0.0.0.0 email.notifications.clickpoint.com
 0.0.0.0 embed.orbee.co
 0.0.0.0 emedco-cdn.madmobile.com
@@ -2380,6 +2398,7 @@
 0.0.0.0 events-go.apester.com
 0.0.0.0 events.lb.foreseeresults.com
 0.0.0.0 events.liveramp.com
+0.0.0.0 events.millennialmedia.com
 0.0.0.0 events.smrt.as
 0.0.0.0 event-viewer.bytegain.com
 0.0.0.0 everfit.corp.com
@@ -2565,6 +2584,8 @@
 0.0.0.0 freud.links.channelintelligence.com
 0.0.0.0 fr.eu.preprod.criteo.com
 0.0.0.0 fr.fr-staging.identity.api.liveramp.com
+0.0.0.0 fr.js.millennialmedia.com
+0.0.0.0 fr.millennialmedia.com
 0.0.0.0 frontbeta.localytics.com
 0.0.0.0 frontend.snackly.co
 0.0.0.0 frontprod.datadome.co
@@ -2949,6 +2970,7 @@
 0.0.0.0 i.jumptap.com
 0.0.0.0 i.jwpltx.com
 0.0.0.0 ikea-bud.gravityrd-services.com
+0.0.0.0 ike.corp.millennialmedia.com
 0.0.0.0 ikee.dev-iad.amobee.com
 0.0.0.0 ikee.qa-iad.amobee.com
 0.0.0.0 ilcvperfetto.adlegend.com
@@ -2970,6 +2992,7 @@
 0.0.0.0 images.marketplaceadvisor.channeladvisor.com
 0.0.0.0 images.mediavine.com
 0.0.0.0 images.midasplayer.com
+0.0.0.0 images.millennialmedia.com
 0.0.0.0 images.s50.exacttarget.com
 0.0.0.0 i.mall.163.com
 0.0.0.0 imces.vip.lhr1.inmobi.com
@@ -3021,6 +3044,7 @@
 0.0.0.0 info.convertro.com
 0.0.0.0 info.datadome.co
 0.0.0.0 info.inmobi.com
+0.0.0.0 info.millennialmedia.com
 0.0.0.0 infonet.corp.com
 0.0.0.0 info.ny.us.criteo.com
 0.0.0.0 infosec.corp.inmobi.com
@@ -3032,8 +3056,8 @@
 0.0.0.0 ingress-test-api.newstags.stag.bounceexchange.com
 0.0.0.0 ingress-test.newstags.stag.bounceexchange.com
 0.0.0.0 iniitian.saas.appdynamics.com
-0.0.0.0 i.n.jwpltx.com
 0.0.0.0 in.jwpltx.com
+0.0.0.0 i.n.jwpltx.com
 0.0.0.0 inmobi.web02-east.manage.com
 0.0.0.0 inmobi.web06-east.manage.com
 0.0.0.0 inmobi.web10-east.manage.com
@@ -3119,6 +3143,7 @@
 0.0.0.0 inventory.beeviewd.com
 0.0.0.0 inventorysvc.adlearnop.advertising.com
 0.0.0.0 investors.acxiom.com
+0.0.0.0 investors.millennialmedia.com
 0.0.0.0 invoice.clickpoint.com
 0.0.0.0 invshouwdc02.corp.com
 0.0.0.0 invsshawdc01.corp.com
@@ -3225,6 +3250,7 @@
 0.0.0.0 jpmdc.gaeadata.com
 0.0.0.0 jp.mediaforge.com
 0.0.0.0 jp.miaozhen.com
+0.0.0.0 jp.millennialmedia.com
 0.0.0.0 jp-pool.a.company-target.com
 0.0.0.0 jp-pool.d.company-target.com
 0.0.0.0 jp-tags-cluster.rd.linksynergy.com
@@ -3332,6 +3358,7 @@
 0.0.0.0 landingjo.bucksense.com
 0.0.0.0 landingkw.bucksense.com
 0.0.0.0 landingmy.bucksense.com
+0.0.0.0 landingpages.millennialmedia.com
 0.0.0.0 landingqa.bucksense.com
 0.0.0.0 landingsa.bucksense.com
 0.0.0.0 landrover.dc.ignitionone.com
@@ -3636,6 +3663,7 @@
 0.0.0.0 media-insights.bluekai.com
 0.0.0.0 mediamarkt.dc.ignitionone.com
 0.0.0.0 mediamarkt.t.ignitionone.com
+0.0.0.0 media.millennialmedia.com
 0.0.0.0 media.pe.apester.com
 0.0.0.0 medias.analyticson.com
 0.0.0.0 media.staging.getsentry.com
@@ -3691,6 +3719,7 @@
 0.0.0.0 mi2.midasplayer.com
 0.0.0.0 mi3.midasplayer.com
 0.0.0.0 mia.lisnr.com
+0.0.0.0 mi-beta01.prod.millennialmedia.com
 0.0.0.0 michaels.rdr.channelintelligence.com
 0.0.0.0 microsoftstore.activate.ensighten.com
 0.0.0.0 micvideal.adlegend.com
@@ -3705,6 +3734,39 @@
 0.0.0.0 mir-stage.ad-stir.com
 0.0.0.0 misc.ebuzzing.com
 0.0.0.0 mitu-tagan.adlightning.com
+0.0.0.0 mi-web10.prod.millennialmedia.com
+0.0.0.0 mi-web11.prod.millennialmedia.com
+0.0.0.0 mi-web12.prod.millennialmedia.com
+0.0.0.0 mi-web13.prod.millennialmedia.com
+0.0.0.0 mi-web14.prod.millennialmedia.com
+0.0.0.0 mi-web15.prod.millennialmedia.com
+0.0.0.0 mi-web16.prod.millennialmedia.com
+0.0.0.0 mi-web17.prod.millennialmedia.com
+0.0.0.0 mi-web18.prod.millennialmedia.com
+0.0.0.0 mi-web19.prod.millennialmedia.com
+0.0.0.0 mi-web20.prod.millennialmedia.com
+0.0.0.0 mi-web21.prod.millennialmedia.com
+0.0.0.0 mi-web22.prod.millennialmedia.com
+0.0.0.0 mi-web23.prod.millennialmedia.com
+0.0.0.0 mi-web24.prod.millennialmedia.com
+0.0.0.0 mi-web25.prod.millennialmedia.com
+0.0.0.0 mi-web26.prod.millennialmedia.com
+0.0.0.0 mi-web27.prod.millennialmedia.com
+0.0.0.0 mi-web28.prod.millennialmedia.com
+0.0.0.0 mi-web29.prod.millennialmedia.com
+0.0.0.0 mi-web30.prod.millennialmedia.com
+0.0.0.0 mi-web31.prod.millennialmedia.com
+0.0.0.0 mi-web32.prod.millennialmedia.com
+0.0.0.0 mi-web33.prod.millennialmedia.com
+0.0.0.0 mi-web35.prod.millennialmedia.com
+0.0.0.0 mi-web36.prod.millennialmedia.com
+0.0.0.0 mi-web37.prod.millennialmedia.com
+0.0.0.0 mi-web38.prod.millennialmedia.com
+0.0.0.0 mi-web39.prod.millennialmedia.com
+0.0.0.0 mi-web40.prod.millennialmedia.com
+0.0.0.0 mi-web41.prod.millennialmedia.com
+0.0.0.0 mi-web42.prod.millennialmedia.com
+0.0.0.0 mi-web43.prod.millennialmedia.com
 0.0.0.0 mixmaster.bnmla.com
 0.0.0.0 ml.adadyn.com
 0.0.0.0 ml.adpxl.co
@@ -3714,14 +3776,20 @@
 0.0.0.0 ml-radius1.madisonlogic.com
 0.0.0.0 mm1.vip.sc1.admob.com
 0.0.0.0 mm.admob.com
+0.0.0.0 mmedia-com.prod.millennialmedia.com
 0.0.0.0 m.mets.madmobile.com
 0.0.0.0 mmex.pxl.ace.advertising.com
+0.0.0.0 m.millennialmedia.com
 0.0.0.0 mmi.macromill.com
+0.0.0.0 mminvoice.millennialmedia.com
 0.0.0.0 mm-k8s.dev-iad.amobee.com
 0.0.0.0 mmo2de.amobee.com
 0.0.0.0 m.monsterhigh.staging.madmobile.com
 0.0.0.0 mmp.adtz.com
+0.0.0.0 mmstudio.millennialmedia.com
 0.0.0.0 mmv.admob.com
+0.0.0.0 mm-ws01.prod.millennialmedia.com
+0.0.0.0 mmws.millennialmedia.com
 0.0.0.0 mnx.awsmppl.com
 0.0.0.0 moat.pxl.ace.advertising.com
 0.0.0.0 moattest.contextweb.com
@@ -3871,6 +3939,7 @@
 0.0.0.0 naws.awin.com
 0.0.0.0 nazar.adsnative.com
 0.0.0.0 nc.atdmt.com
+0.0.0.0 ncp.millennialmedia.com
 0.0.0.0 nc-s.jwpltx.com
 0.0.0.0 ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
 0.0.0.0 nep1711-oauth-client.dev.advertiser-integration-tool.awin.com
@@ -4224,7 +4293,9 @@
 0.0.0.0 ox-i.advanseads.com
 0.0.0.0 ox.pxl.ace.advertising.com
 0.0.0.0 p01.eloqua.com
+0.0.0.0 p01-r10-gc2k.corp.millennialmedia.com
 0.0.0.0 p02.eloqua.com
+0.0.0.0 p02-r10-gc2k.corp.millennialmedia.com
 0.0.0.0 p03.eloqua.com
 0.0.0.0 p04.eloqua.com
 0.0.0.0 p06.eloqua.com
@@ -4351,6 +4422,7 @@
 0.0.0.0 ph.adsrvs.com
 0.0.0.0 philips.links.channelintelligence.com
 0.0.0.0 ph-mail01.channelintelligence.com
+0.0.0.0 phobos.apple.com.millennialmedia.com
 0.0.0.0 phoenix-external-traffic-tracker.metrigo.com
 0.0.0.0 photos-bazaar-use1.nexus.bazaarvoice.com
 0.0.0.0 pictela-sb-ec.adtechus.com
@@ -4364,8 +4436,8 @@
 0.0.0.0 ping-meta-origin-stg.jwpltx.com
 0.0.0.0 ping-origin-stg.jwpltx.com
 0.0.0.0 pink.k8s.test-001.d-usw-2.braze.com
-0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pinyou-cm.cn.miaozhen.com
+0.0.0.0 pinyou.cm.cn.miaozhen.com
 0.0.0.0 pixall-qa-ui.non-prod.analytics.dealer.com
 0.0.0.0 pix-beta.impdesk.com
 0.0.0.0 pix.dco.advertising.com
@@ -4544,6 +4616,7 @@
 0.0.0.0 prod.lijit.com
 0.0.0.0 prod.liverail.com
 0.0.0.0 prod.mediamath.com
+0.0.0.0 prod.millennialmedia.com
 0.0.0.0 prod.ping-origin-prd.jwpltx.com
 0.0.0.0 prod-public.cbe.mediamath.com
 0.0.0.0 prod.snackly.co
@@ -4577,8 +4650,8 @@
 0.0.0.0 protobb.crsspxl.com
 0.0.0.0 protobird2.crsspxl.com
 0.0.0.0 providecommerce.sp1.convertro.com
-0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 provider-gateway-production.browsiprod.com
+0.0.0.0 provider-gateway.production.browsiprod.com
 0.0.0.0 proximiter-stg.joystickinteractive.com
 0.0.0.0 proximiter-temp.joystickinteractive.com
 0.0.0.0 proximiter-tmp.joystickinteractive.com
@@ -4937,6 +5010,7 @@
 0.0.0.0 repository.liveramp.com
 0.0.0.0 republicanpeoplemeet.adlegend.com
 0.0.0.0 res2.scsstatic.ch
+0.0.0.0 resetpassword.millennialmedia.com
 0.0.0.0 resource.inmobi.com
 0.0.0.0 resources.brightfunnel.com
 0.0.0.0 resources.fiksu.com
@@ -5248,6 +5322,7 @@
 0.0.0.0 sdk.iplookup.bluecava.com
 0.0.0.0 sdk.lookup.bluecava.com
 0.0.0.0 sdk.match.bluecava.com
+0.0.0.0 sdk.millennialmedia.com
 0.0.0.0 sdkm.inmobi.cn
 0.0.0.0 sdkm.w.ams1.appgw.inmobi.com
 0.0.0.0 sdk.platform.bluecava.com
@@ -5502,6 +5577,7 @@
 0.0.0.0 softsurroundings.dc.ignitionone.com
 0.0.0.0 solanki.gmial.com
 0.0.0.0 solavei.3cinteractive.com
+0.0.0.0 solutions.millennialmedia.com
 0.0.0.0 solv4.citacx.acxiom.com
 0.0.0.0 soma.adlegend.com
 0.0.0.0 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
@@ -6101,8 +6177,8 @@
 0.0.0.0 travelads.hlserve.com
 0.0.0.0 travelapis.hlserve.com
 0.0.0.0 travelhook.hlserve.com
-0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travel-productads.hlserve.com
+0.0.0.0 travel.productads.hlserve.com
 0.0.0.0 travelup.dc.ignitionone.com
 0.0.0.0 travelup.t.ignitionone.com
 0.0.0.0 tr.bnmla.com
@@ -6289,8 +6365,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -6494,6 +6570,7 @@
 0.0.0.0 video.mgid.com
 0.0.0.0 video.uk.advertising.com
 0.0.0.0 vid.locsensads.com
+0.0.0.0 vidyo.millennialmedia.com
 0.0.0.0 vietnamworks-sin.gravityrd-services.com
 0.0.0.0 view.comms.doubleclick.com
 0.0.0.0 view.skyrocket.adtdp.com

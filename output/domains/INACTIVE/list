@@ -689,6 +689,7 @@ api-latest.lightstep.com
 api.locsensads.com
 api.lootsie.com
 api.maps-icloud.com
+api-mashery.prod.millennialmedia.com
 api.mcclusterface.k8s.liveramp.com
 api.mdotlabs.com
 api.metrilo.com
@@ -698,6 +699,8 @@ api.nonewlines.env.sandbox53.localytics.com
 api.poc.exacttarget.com
 api.portal.staging2.inskinmedia.com
 api.prod.env.53.localytics.com
+api.prod.millennialmedia.com
+api.prod.prod.millennialmedia.com
 api.productdata.awin.com
 api.pt.163.com
 api-public-fast.addthis.com
@@ -886,6 +889,7 @@ atlassian.fyber.com
 at-lat.listrakbi.com
 atl.corp.com
 at.lokaplatform.com
+atmedia.mindtake.com
 atom.link.apsalar.com
 atwola-sb-ec.adtechus.com
 atwola-sb-wc.adtechus.com
@@ -1001,6 +1005,7 @@ backend.adsquare.com
 backoffice.liverail.com
 backoffice.millennialmedia.com
 backoffice.pe.apester.com
+backoffice.prod.millennialmedia.com
 backpack.adform.com
 backstage-client.funnelenvy.com
 baconredirects-elb-eyweax7fhr0v-300945382.us-east-1.elb.amazonaws.com
@@ -1094,6 +1099,7 @@ beta-jp.adlearnop.advertising.com
 beta-lombardi.advertising.com
 beta.meeting.inlocomedia.com
 beta.reports.advertising.com
+beta.solutions.millennialmedia.com
 beta-uk.adlearnop.advertising.com
 bevo.adsnative.com
 bevo-ap-southeast-1.adsnative.com
@@ -1147,6 +1153,8 @@ bi.installfarm.com
 bikhir-ams.gravityrd-services.com
 bi.mediaiqdigital.com
 bi.millennialmedia.com
+bimstrw01.prod.mia.millennialmedia.com
+bimstrw02.prod.mia.millennialmedia.com
 bionet.corp.com
 bis2.allinviews.com
 bis2.installfarm.com
@@ -1730,6 +1738,7 @@ corp.er.extremereach.com
 corp.flurry.com
 corp.inmobi.com
 corp.midasplayer.com
+corp.millennialmedia.com
 corporate.marketplaceadvisor.channeladvisor.com
 corporate.wp.orbee.co
 corpvpn.coremetrics.com
@@ -1753,9 +1762,11 @@ creativeassets.highcdn.brainient.com
 creative.bidstalk.com
 creativecentral.advertising.com
 creative.inskinmedia.com
+creativelibrary.millennialmedia.com
 creative.mathtag.com
 creativepreview.ui.awin.com
 creative.skyrocket.adtdp.com
+creatives.millennialmedia.com
 creatorapi.inskinmedia.com
 crm.antvoice.com
 crmapi.idsp.inmobi.com
@@ -1766,6 +1777,7 @@ crunch-lmd2.ebuzzing.com
 crunch-lmd.ebuzzing.com
 cs.ace.advertising.com
 cs.admotion.com
+csapproval.millennialmedia.com
 cshbdrmx.corp.com
 cs.iubenda.com
 csm.ny.us.criteo.com
@@ -1773,6 +1785,7 @@ csm.sv.us.criteo.com
 cspsvcsprod.csa.comscore.com
 csre.mediamath.com
 csr.freewheel.com
+cs.sandbox.millennialmedia.com
 css.vidconlab.acxiom.com
 csync.intelligence.amobee.com
 ct0-fast.addthis.com
@@ -1919,6 +1932,7 @@ dec-rm-04.wdc.bluekai.com
 dedicated1.api.backoffice.adikteev.com
 deelymedia.adk2x.com
 default.corp.com
+de.js.millennialmedia.com
 delightful.adlegend.com
 deliver.marketo.com
 delivery1.altitude-arena.com
@@ -1933,6 +1947,7 @@ delta.links.channelintelligence.com
 delta.native.ai
 demandbase.demandbase.com
 demand-service.adtechus.com
+de.millennialmedia.com
 demo1.dev-iad.amobee.com
 demo1.use.dynamicyield.com
 demo2.dev-iad.amobee.com
@@ -2130,6 +2145,7 @@ dretarget.eyereturn.com
 drone.convertcart.com
 d-rtb.microad-cn.com
 d-rtb.microadinc.com
+drupal.mindtake.com
 ds.bluecava.com
 ds.fuel451.com
 dsi.corp.com
@@ -2273,6 +2289,8 @@ emailer2.joystickinteractive.com
 email.freewheel.com
 email.gmial.com
 email.liverail.com
+emailmedia.millennialmedia.com
+email.millennialmedia.com
 email.notifications.clickpoint.com
 embed.orbee.co
 emedco-cdn.madmobile.com
@@ -2380,6 +2398,7 @@ events.exacttarget.com
 events-go.apester.com
 events.lb.foreseeresults.com
 events.liveramp.com
+events.millennialmedia.com
 events.smrt.as
 event-viewer.bytegain.com
 everfit.corp.com
@@ -2565,6 +2584,8 @@ fr.eu.criteo.com
 freud.links.channelintelligence.com
 fr.eu.preprod.criteo.com
 fr.fr-staging.identity.api.liveramp.com
+fr.js.millennialmedia.com
+fr.millennialmedia.com
 frontbeta.localytics.com
 frontend.snackly.co
 frontprod.datadome.co
@@ -2935,10 +2956,10 @@ idsync.districtm.ca
 idtest.acxiom.com
 ie.corp.com
 i.essads.com
-ifc2-vip-dfw1.inmobi.com
 ifc2.vip.dfw1.inmobi.com
-ifc2.vip.hkg1.inmobi.com
+ifc2-vip-dfw1.inmobi.com
 ifc2-vip-hkg1.inmobi.com
+ifc2.vip.hkg1.inmobi.com
 ifc2-vip-lhr1.inmobi.com
 ifc2-vip-uh1.inmobi.com
 ifc3.inmobi.com
@@ -2949,6 +2970,7 @@ ihg.activate.ensighten.com
 i.jumptap.com
 i.jwpltx.com
 ikea-bud.gravityrd-services.com
+ike.corp.millennialmedia.com
 ikee.dev-iad.amobee.com
 ikee.qa-iad.amobee.com
 ilcvperfetto.adlegend.com
@@ -2970,6 +2992,7 @@ imageserverqa.midasplayer.com
 images.marketplaceadvisor.channeladvisor.com
 images.mediavine.com
 images.midasplayer.com
+images.millennialmedia.com
 images.s50.exacttarget.com
 i.mall.163.com
 imces.vip.lhr1.inmobi.com
@@ -3021,6 +3044,7 @@ info.brightfunnel.com
 info.convertro.com
 info.datadome.co
 info.inmobi.com
+info.millennialmedia.com
 infonet.corp.com
 info.ny.us.criteo.com
 infosec.corp.inmobi.com
@@ -3032,8 +3056,8 @@ ingress-dev.memfault.com
 ingress-test-api.newstags.stag.bounceexchange.com
 ingress-test.newstags.stag.bounceexchange.com
 iniitian.saas.appdynamics.com
-in.jwpltx.com
 i.n.jwpltx.com
+in.jwpltx.com
 inmobi.web02-east.manage.com
 inmobi.web06-east.manage.com
 inmobi.web10-east.manage.com
@@ -3119,6 +3143,7 @@ invalance.t.ignitionone.com
 inventory.beeviewd.com
 inventorysvc.adlearnop.advertising.com
 investors.acxiom.com
+investors.millennialmedia.com
 invoice.clickpoint.com
 invshouwdc02.corp.com
 invsshawdc01.corp.com
@@ -3225,6 +3250,7 @@ jpeoplemeet.adlegend.com
 jpmdc.gaeadata.com
 jp.mediaforge.com
 jp.miaozhen.com
+jp.millennialmedia.com
 jp-pool.a.company-target.com
 jp-pool.d.company-target.com
 jp-tags-cluster.rd.linksynergy.com
@@ -3332,6 +3358,7 @@ landingiq.bucksense.com
 landingjo.bucksense.com
 landingkw.bucksense.com
 landingmy.bucksense.com
+landingpages.millennialmedia.com
 landingqa.bucksense.com
 landingsa.bucksense.com
 landrover.dc.ignitionone.com
@@ -3636,6 +3663,7 @@ media.imgsniper.com
 media-insights.bluekai.com
 mediamarkt.dc.ignitionone.com
 mediamarkt.t.ignitionone.com
+media.millennialmedia.com
 media.pe.apester.com
 medias.analyticson.com
 media.staging.getsentry.com
@@ -3691,6 +3719,7 @@ mi1.midasplayer.com
 mi2.midasplayer.com
 mi3.midasplayer.com
 mia.lisnr.com
+mi-beta01.prod.millennialmedia.com
 michaels.rdr.channelintelligence.com
 microsoftstore.activate.ensighten.com
 micvideal.adlegend.com
@@ -3705,6 +3734,39 @@ minisite.fortvision.com
 mir-stage.ad-stir.com
 misc.ebuzzing.com
 mitu-tagan.adlightning.com
+mi-web10.prod.millennialmedia.com
+mi-web11.prod.millennialmedia.com
+mi-web12.prod.millennialmedia.com
+mi-web13.prod.millennialmedia.com
+mi-web14.prod.millennialmedia.com
+mi-web15.prod.millennialmedia.com
+mi-web16.prod.millennialmedia.com
+mi-web17.prod.millennialmedia.com
+mi-web18.prod.millennialmedia.com
+mi-web19.prod.millennialmedia.com
+mi-web20.prod.millennialmedia.com
+mi-web21.prod.millennialmedia.com
+mi-web22.prod.millennialmedia.com
+mi-web23.prod.millennialmedia.com
+mi-web24.prod.millennialmedia.com
+mi-web25.prod.millennialmedia.com
+mi-web26.prod.millennialmedia.com
+mi-web27.prod.millennialmedia.com
+mi-web28.prod.millennialmedia.com
+mi-web29.prod.millennialmedia.com
+mi-web30.prod.millennialmedia.com
+mi-web31.prod.millennialmedia.com
+mi-web32.prod.millennialmedia.com
+mi-web33.prod.millennialmedia.com
+mi-web35.prod.millennialmedia.com
+mi-web36.prod.millennialmedia.com
+mi-web37.prod.millennialmedia.com
+mi-web38.prod.millennialmedia.com
+mi-web39.prod.millennialmedia.com
+mi-web40.prod.millennialmedia.com
+mi-web41.prod.millennialmedia.com
+mi-web42.prod.millennialmedia.com
+mi-web43.prod.millennialmedia.com
 mixmaster.bnmla.com
 ml.adadyn.com
 ml.adpxl.co
@@ -3714,14 +3776,20 @@ ml.listrakbi.com
 ml-radius1.madisonlogic.com
 mm1.vip.sc1.admob.com
 mm.admob.com
+mmedia-com.prod.millennialmedia.com
 m.mets.madmobile.com
 mmex.pxl.ace.advertising.com
+m.millennialmedia.com
 mmi.macromill.com
+mminvoice.millennialmedia.com
 mm-k8s.dev-iad.amobee.com
 mmo2de.amobee.com
 m.monsterhigh.staging.madmobile.com
 mmp.adtz.com
+mmstudio.millennialmedia.com
 mmv.admob.com
+mm-ws01.prod.millennialmedia.com
+mmws.millennialmedia.com
 mnx.awsmppl.com
 moat.pxl.ace.advertising.com
 moattest.contextweb.com
@@ -3871,6 +3939,7 @@ nav.t.ignitionone.com
 naws.awin.com
 nazar.adsnative.com
 nc.atdmt.com
+ncp.millennialmedia.com
 nc-s.jwpltx.com
 ndn-lb-analytics-125540806.us-east-1.elb.amazonaws.com
 nep1711-oauth-client.dev.advertiser-integration-tool.awin.com
@@ -4224,7 +4293,9 @@ ox-d.mediaforge.com
 ox-i.advanseads.com
 ox.pxl.ace.advertising.com
 p01.eloqua.com
+p01-r10-gc2k.corp.millennialmedia.com
 p02.eloqua.com
+p02-r10-gc2k.corp.millennialmedia.com
 p03.eloqua.com
 p04.eloqua.com
 p06.eloqua.com
@@ -4351,6 +4422,7 @@ ph.adnxtr.com
 ph.adsrvs.com
 philips.links.channelintelligence.com
 ph-mail01.channelintelligence.com
+phobos.apple.com.millennialmedia.com
 phoenix-external-traffic-tracker.metrigo.com
 photos-bazaar-use1.nexus.bazaarvoice.com
 pictela-sb-ec.adtechus.com
@@ -4364,8 +4436,8 @@ ping-external-origin-stg.jwpltx.com
 ping-meta-origin-stg.jwpltx.com
 ping-origin-stg.jwpltx.com
 pink.k8s.test-001.d-usw-2.braze.com
-pinyou.cm.cn.miaozhen.com
 pinyou-cm.cn.miaozhen.com
+pinyou.cm.cn.miaozhen.com
 pixall-qa-ui.non-prod.analytics.dealer.com
 pix-beta.impdesk.com
 pix.dco.advertising.com
@@ -4544,6 +4616,7 @@ prod-k8s.prod-dub.atv.amobee.com
 prod.lijit.com
 prod.liverail.com
 prod.mediamath.com
+prod.millennialmedia.com
 prod.ping-origin-prd.jwpltx.com
 prod-public.cbe.mediamath.com
 prod.snackly.co
@@ -4577,8 +4650,8 @@ prospect-cm.dsp.linksynergy.com
 protobb.crsspxl.com
 protobird2.crsspxl.com
 providecommerce.sp1.convertro.com
-provider-gateway.production.browsiprod.com
 provider-gateway-production.browsiprod.com
+provider-gateway.production.browsiprod.com
 proximiter-stg.joystickinteractive.com
 proximiter-temp.joystickinteractive.com
 proximiter-tmp.joystickinteractive.com
@@ -4937,6 +5010,7 @@ reports.sem.advertising.com
 repository.liveramp.com
 republicanpeoplemeet.adlegend.com
 res2.scsstatic.ch
+resetpassword.millennialmedia.com
 resource.inmobi.com
 resources.brightfunnel.com
 resources.fiksu.com
@@ -5248,6 +5322,7 @@ sdk.heyzap.com
 sdk.iplookup.bluecava.com
 sdk.lookup.bluecava.com
 sdk.match.bluecava.com
+sdk.millennialmedia.com
 sdkm.inmobi.cn
 sdkm.w.ams1.appgw.inmobi.com
 sdk.platform.bluecava.com
@@ -5260,8 +5335,8 @@ sean.ittest.33across.com
 search.advertisingbox.com
 searcha.infra.mediamath.com
 search.at.atwola.com
-search-cldellow.deployads.com
 searchcldellow.deployads.com
+search-cldellow.deployads.com
 search.deployads.com
 search.igodigital.com
 searsoutlet.rdr.channelintelligence.com
@@ -5435,8 +5510,8 @@ sipexternal.foresee.com
 sipexternal.gmial.com
 sipexternal.maxpoint.com
 _sipfederationtls._tcp.admedia.com
-_sipfederationtls._tcp.gmial.com
 sipfederationtls.tcp.gmial.com
+_sipfederationtls._tcp.gmial.com
 sip.gmial.com
 sipinternal.gmial.com
 sip.mediamind.com
@@ -5502,6 +5577,7 @@ softevocative.adk2x.com
 softsurroundings.dc.ignitionone.com
 solanki.gmial.com
 solavei.3cinteractive.com
+solutions.millennialmedia.com
 solv4.citacx.acxiom.com
 soma.adlegend.com
 somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com
@@ -6494,6 +6570,7 @@ video.inmobi.com
 video.mgid.com
 video.uk.advertising.com
 vid.locsensads.com
+vidyo.millennialmedia.com
 vietnamworks-sin.gravityrd-services.com
 view.comms.doubleclick.com
 view.skyrocket.adtdp.com
