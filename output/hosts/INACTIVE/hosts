@@ -2392,8 +2392,8 @@
 0.0.0.0 eu-west-3.gamma.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 eu-west-3.prod.analytics.console.aws.a2z.com
 0.0.0.0 event.adserver.adikteev.com
-0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.backoffice.adikteev.com
+0.0.0.0 event-backoffice.adikteev.com
 0.0.0.0 event.bidstalk.com
 0.0.0.0 event.cmp.advertising.com
 0.0.0.0 event-dev.api.driftt.com
@@ -2965,10 +2965,10 @@
 0.0.0.0 idtest.acxiom.com
 0.0.0.0 ie.corp.com
 0.0.0.0 i.essads.com
-0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2-vip-dfw1.inmobi.com
-0.0.0.0 ifc2-vip-hkg1.inmobi.com
+0.0.0.0 ifc2.vip.dfw1.inmobi.com
 0.0.0.0 ifc2.vip.hkg1.inmobi.com
+0.0.0.0 ifc2-vip-hkg1.inmobi.com
 0.0.0.0 ifc2-vip-lhr1.inmobi.com
 0.0.0.0 ifc2-vip-uh1.inmobi.com
 0.0.0.0 ifc3.inmobi.com
@@ -2984,6 +2984,7 @@
 0.0.0.0 ikee.qa-iad.amobee.com
 0.0.0.0 ilcvperfetto.adlegend.com
 0.0.0.0 illimity.logrocket.com
+0.0.0.0 im1.mkto-sj070017.com
 0.0.0.0 ima.corp.com
 0.0.0.0 im.adtechus.com
 0.0.0.0 image.admedo.com
@@ -3006,7 +3007,9 @@
 0.0.0.0 i.mall.163.com
 0.0.0.0 imces.vip.lhr1.inmobi.com
 0.0.0.0 img-1.3lift.com
+0.0.0.0 img1.mkto-sj070017.com
 0.0.0.0 img-2.3lift.com
+0.0.0.0 img2.mkto-b0065.com
 0.0.0.0 img-3.3lift.com
 0.0.0.0 img-4.3lift.com
 0.0.0.0 img-5.3lift.com
@@ -3025,6 +3028,7 @@
 0.0.0.0 img.imgsniper.com
 0.0.0.0 img.mediaplex.com
 0.0.0.0 img.microad-cn.com
+0.0.0.0 img.mkto-b0065.com
 0.0.0.0 img-origin.adtechus.com
 0.0.0.0 img-origin-us-east-1.prod.adtechus.com
 0.0.0.0 img-origin-us-west-1.prod.adtechus.com
@@ -3599,6 +3603,7 @@
 0.0.0.0 ma.inmobi.com
 0.0.0.0 maintenance.criteo.com
 0.0.0.0 maintenance.flurry.com
+0.0.0.0 maker.mkto-b0065.com
 0.0.0.0 mambay.dev-iad.amobee.com
 0.0.0.0 mamonde.links.channelintelligence.com
 0.0.0.0 manage-api.s50.exacttarget.com
@@ -3678,6 +3683,7 @@
 0.0.0.0 mediamarkt.dc.ignitionone.com
 0.0.0.0 mediamarkt.t.ignitionone.com
 0.0.0.0 media.millennialmedia.com
+0.0.0.0 media.mkto-b0065.com
 0.0.0.0 media.pe.apester.com
 0.0.0.0 medias.analyticson.com
 0.0.0.0 media.staging.getsentry.com
@@ -3783,6 +3789,13 @@
 0.0.0.0 mi-web42.prod.millennialmedia.com
 0.0.0.0 mi-web43.prod.millennialmedia.com
 0.0.0.0 mixmaster.bnmla.com
+0.0.0.0 mkto-ab040164.com
+0.0.0.0 mkto-b0065.com
+0.0.0.0 mkto-f0054.com
+0.0.0.0 mkto-q0059.com
+0.0.0.0 mkto-q0111.com
+0.0.0.0 mkto-sj070017.com
+0.0.0.0 mkto-sj090022.com
 0.0.0.0 ml.adadyn.com
 0.0.0.0 ml.adpxl.co
 0.0.0.0 mlc.maxpoint.com
@@ -3998,6 +4011,7 @@
 0.0.0.0 newsletters.clickz.com
 0.0.0.0 newsmax.bevo.adsnative.com
 0.0.0.0 newsmax.cdn.adsnative.com
+0.0.0.0 news.mkto-b0065.com
 0.0.0.0 news.tagtoo.co
 0.0.0.0 newstest.audiens.com
 0.0.0.0 newsupport.dynamicyield.com
@@ -4401,6 +4415,7 @@
 0.0.0.0 pbbl.agkn.com
 0.0.0.0 pbhrmc-hma.corp.com
 0.0.0.0 pbs.deployads.com
+0.0.0.0 pc1.mkto-b0065.com
 0.0.0.0 pcca1.manifest.auditude.com
 0.0.0.0 pcca2.manifest.auditude.com
 0.0.0.0 pcca3.manifest.auditude.com
@@ -5352,8 +5367,8 @@
 0.0.0.0 search.advertisingbox.com
 0.0.0.0 searcha.infra.mediamath.com
 0.0.0.0 search.at.atwola.com
-0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 searchcldellow.deployads.com
+0.0.0.0 search-cldellow.deployads.com
 0.0.0.0 search.deployads.com
 0.0.0.0 search.igodigital.com
 0.0.0.0 searsoutlet.rdr.channelintelligence.com
@@ -6383,8 +6398,8 @@
 0.0.0.0 us-east-1-production-web-tc.lift.acquia.com
 0.0.0.0 us-east-1-production-web-tw.lift.acquia.com
 0.0.0.0 us-east-1.qa.internal.curalate.com
-0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1-test.analytics.console.aws.a2z.com
+0.0.0.0 us-east-1.test.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.routing.panorama.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.test.rp.analytics.console.aws.a2z.com
 0.0.0.0 us-east-1.tr.blismedia.com
@@ -6578,7 +6593,10 @@
 0.0.0.0 vid.applvn.com
 0.0.0.0 vid.atdmt.com
 0.0.0.0 video.adconion.com
+0.0.0.0 videoad.mixpo.com
 0.0.0.0 video.adpredictive.com
+0.0.0.0 videoad-social.mixpo.com
+0.0.0.0 videoad-swf.mixpo.com
 0.0.0.0 video.aniview.com
 0.0.0.0 video-aws-staging.fyber.com
 0.0.0.0 video.bidsimulator.com
@@ -6857,6 +6875,7 @@
 0.0.0.0 ww.beeftransmission.com
 0.0.0.0 ww.gmial.com
 0.0.0.0 www142.flashtalking.com
+0.0.0.0 www1.mkto-f0054.com
 0.0.0.0 www2.bidtheatre.com
 0.0.0.0 www2.clickz.com
 0.0.0.0 www.2fspeednetwork14.adk2x.com
@@ -7417,6 +7436,8 @@
 0.0.0.0 www.metrics.kampyle.com
 0.0.0.0 www.mf-strategies.com
 0.0.0.0 www.mktg.mediamind.com
+0.0.0.0 www.mkto-abm0208.com
+0.0.0.0 www.mkto-sj090022.com
 0.0.0.0 www.mlc.maxpoint.com
 0.0.0.0 www.mldev.sigma.inmobi.com
 0.0.0.0 www.mm.marketo.com
